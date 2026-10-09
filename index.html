@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radar Político · Pernambuco</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;600;700&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --fundo: #0d1117;
+      --card: #161b22;
+      --borda: #30363d;
+      --texto: #f0f6fc;
+      --subtexto: #8b949e;
+      --destaque: #f83d03;
+      --azul: #024796;
+      --pico: #e3b341;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: var(--fundo);
+      color: var(--texto);
+      font-family: 'Instrument Sans', sans-serif;
+      padding: 24px 16px;
+    }
+    .container {
+      max-width: 1080px;
+      margin: 0 auto;
+      display: grid;
+      gap: 28px;
+    }
+    header {
+      border-bottom: 1px solid var(--borda);
+      padding-bottom: 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 26px;
+      color: var(--texto);
+      letter-spacing: -0.02em;
+    }
+    .hora-atualizacao {
+      font-size: 13px;
+      color: var(--subtexto);
+    }
+    section h2 {
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--subtexto);
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    section h2::before {
+      content: "";
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--destaque);
+    }
+    .grid-picos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 14px;
+    }
+    .card-pico {
+      background: var(--card);
+      border: 1px solid var(--borda);
+      border-left: 4px solid var(--pico);
+      border-radius: 8px;
+      padding: 16px;
+      display: grid;
+      gap: 8px;
+    }
+    .pico-cabecalho {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .pico-termo {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--texto);
+    }
+    .pico-badge {
+      background: rgba(227, 179, 65, 0.15);
+      color: var(--pico);
+      font-size: 12px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 999px;
+    }
+    .pico-gatilho a {
+      font-size: 13px;
+      color: var(--subtexto);
+      text-decoration: none;
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .pico-gatilho a:hover {
+      color: var(--texto);
+      text-decoration: underline;
+    }
+    .nuvem {
+      background: var(--card);
+      border: 1px solid var(--borda);
+      border-radius: 12px;
+      padding: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 16px;
+      align-items: center;
+      justify-content: center;
+    }
+    .nuvem span {
+      font-weight: 600;
+      line-height: 1.1;
+      cursor: default;
+      transition: color 0.15s;
+    }
+    .nuvem span:hover {
+      color: var(--destaque) !important;
+    }
+    .vazio {
+      color: var(--subtexto);
+      font-size: 14px;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div>
+        <h1>Radar Político · Pernambuco</h1>
+        <p class="hora-atualizacao" id="status">Buscando atualizações...</p>
+      </div>
+    </header>
+
+    <section>
+      <h2>Picos de atenção (Últimas 3 horas)</h2>
+      <div class="grid-picos" id="picos-container">
+        <p class="vazio">Nenhum pico detectado acima da média nas últimas 3 horas.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Temas em pauta nas últimas 24 horas</h2>
+      <div class="nuvem" id="nuvem-container">
+        <p class="vazio">Carregando termos...</p>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    async function carregarPainel() {
+      try {
+        const res = await fetch('dados/painel_pe.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error('Falha ao baixar dados');
+        const dados = await res.json();
+
+        const dataAtualizacao = new Date(dados.atualizado_em);
+        document.getElementById('status').textContent = 
+          `Última varredura: ${dataAtualizacao.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })} · ${dados.total_noticias_analisadas} itens processados`;
+
+        const picosEl = document.getElementById('picos-container');
+        if (dados.picos && dados.picos.length > 0) {
+          picosEl.innerHTML = dados.picos.map(p => `
+            <article class="card-pico">
+              <div class="pico-cabecalho">
+                <span class="pico-termo">${p.termo}</span>
+                <span class="pico-badge">▲ ${p.razao_aumento}x</span>
+              </div>
+              ${p.gatilho ? `
+                <div class="pico-gatilho">
+                  <a href="${p.gatilho.url}" target="_blank" rel="noopener">
+                    ${p.gatilho.fonte}:${p.gatilho.titulo} ↗
+                  </a>
+                </div>
+              ` : ''}
+            </article>
+          `).join('');
+        } else {
+          picosEl.innerHTML = '<p class="vazio">Nenhum pico detectado acima da média nas últimas 3 horas.</p>';
+        }
+
+        const nuvemEl = document.getElementById('nuvem-container');
+        if (dados.nuvem_palavras && dados.nuvem_palavras.length > 0) {
+          nuvemEl.innerHTML = dados.nuvem_palavras.map(item => {
+            const tamanho = 13 + (item.peso_relativo / 100) * 22;
+            const opacidade = 0.45 + (item.peso_relativo / 100) * 0.55;
+            return `<span style="font-size: ${tamanho.toFixed(1)}px; opacity: ${opacidade}; color: var(--texto);" title="${item.fatia_pct}% do debate (${item.fontes_distintas} fontes)">${item.termo}</span>`;
+          }).join('');
+        } else {
+          nuvemEl.innerHTML = '<p class="vazio">Nenhum dado consolidado para a nuvem.</p>';
+        }
+
+      } catch (err) {
+        document.getElementById('status').textContent = 'Erro ao carregar dados do painel.';
+      }
+    }
+
+    carregarPainel();
+    setInterval(carregarPainel, 5 * 60 * 1000);
+  </script>
+</body>
+</html>

@@ -1,0 +1,758 @@
+{
+  "atualizado_em": "2026-10-09T10:31:09Z",
+  "total_noticias_analisadas": 214,
+  "nuvem_palavras": [
+    {
+      "termo": "Lula",
+      "chave": "lula",
+      "peso_relativo": 100.0,
+      "fatia_pct": 8.55,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Raquel",
+      "chave": "raquel",
+      "peso_relativo": 95.2,
+      "fatia_pct": 8.14,
+      "fontes_distintas": 23
+    },
+    {
+      "termo": "Lyra",
+      "chave": "lyra",
+      "peso_relativo": 81.6,
+      "fatia_pct": 6.98,
+      "fontes_distintas": 20
+    },
+    {
+      "termo": "Raquel Lyra",
+      "chave": "raquel lyra",
+      "peso_relativo": 81.6,
+      "fatia_pct": 6.98,
+      "fontes_distintas": 20
+    },
+    {
+      "termo": "Flávio",
+      "chave": "flavio",
+      "peso_relativo": 61.2,
+      "fatia_pct": 5.23,
+      "fontes_distintas": 16
+    },
+    {
+      "termo": "Rossi",
+      "chave": "rossi",
+      "peso_relativo": 53.7,
+      "fatia_pct": 4.59,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "João",
+      "chave": "joao",
+      "peso_relativo": 51.0,
+      "fatia_pct": 4.36,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Campos",
+      "chave": "campos",
+      "peso_relativo": 51.0,
+      "fatia_pct": 4.36,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "João Campos",
+      "chave": "joao campos",
+      "peso_relativo": 51.0,
+      "fatia_pct": 4.36,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Flamengo",
+      "chave": "flamengo",
+      "peso_relativo": 48.3,
+      "fatia_pct": 4.13,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Elisa",
+      "chave": "elisa",
+      "peso_relativo": 47.6,
+      "fatia_pct": 4.07,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ana Elisa",
+      "chave": "ana elisa",
+      "peso_relativo": 47.6,
+      "fatia_pct": 4.07,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Eliminação",
+      "chave": "eliminacao",
+      "peso_relativo": 42.2,
+      "fatia_pct": 3.6,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "AFazenda",
+      "chave": "afazenda",
+      "peso_relativo": 42.2,
+      "fatia_pct": 3.6,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Eliminação AFazenda",
+      "chave": "eliminacao afazenda",
+      "peso_relativo": 42.2,
+      "fatia_pct": 3.6,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Daronco",
+      "chave": "daronco",
+      "peso_relativo": 40.1,
+      "fatia_pct": 3.43,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "UFPE",
+      "chave": "ufpe",
+      "peso_relativo": 39.5,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Instituto",
+      "chave": "instituto",
+      "peso_relativo": 38.1,
+      "fatia_pct": 3.26,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Instituto Lula",
+      "chave": "instituto lula",
+      "peso_relativo": 38.1,
+      "fatia_pct": 3.26,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FECHE",
+      "chave": "feche",
+      "peso_relativo": 36.7,
+      "fatia_pct": 3.14,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "IGREJA",
+      "chave": "igreja",
+      "peso_relativo": 36.7,
+      "fatia_pct": 3.14,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "LULA NÃO FECHE",
+      "chave": "lula nao feche",
+      "peso_relativo": 36.7,
+      "fatia_pct": 3.14,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FECHE MINHA IGREJA",
+      "chave": "feche minha igreja",
+      "peso_relativo": 36.7,
+      "fatia_pct": 3.14,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lyanco",
+      "chave": "lyanco",
+      "peso_relativo": 36.1,
+      "fatia_pct": 3.08,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "turno",
+      "chave": "turno",
+      "peso_relativo": 34.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Neymar",
+      "chave": "neymar",
+      "peso_relativo": 33.3,
+      "fatia_pct": 2.85,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "campanha",
+      "chave": "campanha",
+      "peso_relativo": 30.6,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Bolsonaro",
+      "chave": "bolsonaro",
+      "peso_relativo": 27.2,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "chave": "flavio bolsonaro",
+      "peso_relativo": 27.2,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "eleição",
+      "chave": "eleicao",
+      "peso_relativo": 27.2,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "governadores",
+      "chave": "governadores",
+      "peso_relativo": 23.8,
+      "fatia_pct": 2.03,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "segundo",
+      "chave": "segundo",
+      "peso_relativo": 20.4,
+      "fatia_pct": 1.74,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "segundo turno",
+      "chave": "segundo turno",
+      "peso_relativo": 20.4,
+      "fatia_pct": 1.74,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "cita",
+      "chave": "cita",
+      "peso_relativo": 20.4,
+      "fatia_pct": 1.74,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "cita Raquel",
+      "chave": "cita raquel",
+      "peso_relativo": 20.4,
+      "fatia_pct": 1.74,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Araújo",
+      "chave": "araujo",
+      "peso_relativo": 20.4,
+      "fatia_pct": 1.74,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "ESCALA",
+      "chave": "escala",
+      "peso_relativo": 19.7,
+      "fatia_pct": 1.69,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "apoio",
+      "chave": "apoio",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Câmara",
+      "chave": "camara",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "incêndio",
+      "chave": "incendio",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "cita Raquel Lyra",
+      "chave": "cita raquel lyra",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "2026",
+      "chave": "2026",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Marqueteiro",
+      "chave": "marqueteiro",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "campanha de Lula",
+      "chave": "campanha de lula",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Luiz",
+      "chave": "luiz",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Luiz Araújo",
+      "chave": "luiz araujo",
+      "peso_relativo": 17.0,
+      "fatia_pct": 1.45,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Peru",
+      "chave": "peru",
+      "peso_relativo": 14.3,
+      "fatia_pct": 1.22,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "votação",
+      "chave": "votacao",
+      "peso_relativo": 13.6,
+      "fatia_pct": 1.16,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "acena",
+      "chave": "acena",
+      "peso_relativo": 13.6,
+      "fatia_pct": 1.16,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "neutralidade",
+      "chave": "neutralidade",
+      "peso_relativo": 13.6,
+      "fatia_pct": 1.16,
+      "fontes_distintas": 4
+    }
+  ],
+  "picos": [
+    {
+      "termo": "Mendonça",
+      "chave": "mendonca",
+      "razao_aumento": 19.1,
+      "fatia_pct": 11.11,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog Edmar Lyra",
+        "hora": "2026-10-08T13:35:40Z",
+        "titulo": "Mendonça coordenará campanha de Flávio Bolsonaro em Pernambuco no segundo turno",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVYxTnZxTHcyRDhxNXJJWEY4djV1M0hpZElTOXQzNHBnRkRxbHJZWk5UeUc1OTFpb25iazV6UlVNWjJ3QlFUT3o5aDdYUF9UZFpqMXVxdGxWQmsxVXJ3RGRNTWZidzhmTUhIN3QwZDZzYUFQZkJ2WExwek5ZNW4zVUxFbmY0dkxLRHYySkRZVmRTMXY1VUhjQ2pxZTVoUUxTOUJDZzRZcEUzdw?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        2.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "campanha de Flávio",
+      "chave": "campanha de flavio",
+      "razao_aumento": 19.1,
+      "fatia_pct": 11.11,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog Edmar Lyra",
+        "hora": "2026-10-08T13:35:40Z",
+        "titulo": "Mendonça coordenará campanha de Flávio Bolsonaro em Pernambuco no segundo turno",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVYxTnZxTHcyRDhxNXJJWEY4djV1M0hpZElTOXQzNHBnRkRxbHJZWk5UeUc1OTFpb25iazV6UlVNWjJ3QlFUT3o5aDdYUF9UZFpqMXVxdGxWQmsxVXJ3RGRNTWZidzhmTUhIN3QwZDZzYUFQZkJ2WExwek5ZNW4zVUxFbmY0dkxLRHYySkRZVmRTMXY1VUhjQ2pxZTVoUUxTOUJDZzRZcEUzdw?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        2.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "defesa",
+      "chave": "defesa",
+      "razao_aumento": 18.1,
+      "fatia_pct": 10.53,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog Edmar Lyra",
+        "hora": "2026-10-08T19:11:39Z",
+        "titulo": "Waldemar Oliveira é reeleito e mantém viva trajetória de 14 mandatos da família em defesa do povo pernambucano",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3cycmVpWUhWUHIzMDBfWjQtU1BMTjhycTlBQnBmby02c3IxR1B3Y3JEOTR2NHQtaGUwa0t4a2xfSEhHaE9zUlo4aEdrWW9BelU0YlhvTmoybjEwM2J6YmpldExNbXZEbTdsZDdwMWttQ3A5NTVkTzltcW9WdVVNVDlscUpHd1B5TmNtS2NneDdIbEhjbGlaaGNzTkxld0cxcnphYWZELVZKSFAxb1M2OFV1d050Tlp0ODk4OF8xaEEwRlpScjl4R05iN25veGRzUVJv?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "encontro",
+      "chave": "encontro",
+      "razao_aumento": 18.1,
+      "fatia_pct": 10.53,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog Edmar Lyra",
+        "hora": "2026-10-08T17:14:08Z",
+        "titulo": "Gilson Machado e Gilson Filho participam de encontro nacional do Podemos em Brasília e reforçam articulação por Flávio Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0RpV3BjU3NERTNSeXhuQWNsU2hPd3J4RWZWc0JXY3hoczdDSDlQbVVvYlg0SWI3aHRvUWoyUjBQMXJBRlBtV2t2SXFqMFI1SWUyX0hveEFVTlg3aWUwT3Y5U3ZSYnF4XzNuTVF2VU1ISmw5OXB5LVZIaC1hYklwWE9kYmF3b1VNbXVNRllVZ3ZiZGIyTzF5eDMyVE14cU9YN2dlM3ZjSGRNMjR0ZEdtWkY0Q2dKLUUxRkxvYVJhTjB6c0F0VE14S3M5REVQNTRYd3FDLTZfeldxOXhxZlZEVnFyQVlxOFpsTlNJ?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1.0,
+        1.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "campanha de Lula",
+      "chave": "campanha de lula",
+      "razao_aumento": 15.0,
+      "fatia_pct": 21.74,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Metrópoles",
+        "hora": "2026-10-08T15:00:00Z",
+        "titulo": "Marqueteiro de João Campos vai colaborar com campanha de Lula",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc25Fc3RqR2ROM3RzSW1YZ0JPS1FFajU3R25Ob1dCOFl4OHZXcW1PNGlFRDRjYktpQUZYVmRPUEdsZ2tWTDh2YWJCRW1SckFJd1Rzc2Zmc2J2d3c4UFVfcG83MlYxampxcVZrVkgtTS01T0IzNTZHckJwS1JmRzZIREl2NWU1cnJhODRYdERRYzc1QWZmMDNkWHp3WVBSbjhaQXVzWEZfRnhrQlNobHNrLU1R?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        0,
+        0,
+        5.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "Lula no segundo",
+      "chave": "lula no segundo",
+      "razao_aumento": 15.0,
+      "fatia_pct": 17.39,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Vero Notícias",
+        "hora": "2026-10-08T15:20:00Z",
+        "titulo": "Equipe de João Campos reforçará campanha de Lula no segundo turno",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWFvR3hHY3ozM3NZc0hmcmVWdVRfWXJNYTJMc254MHBKY2IwS0VQbnoxTWdBM0RPd0ZsdWlybzRwZ2MyMWFNbTZUbE5YVUtfNm1abFVhZnpBVV9nQVo3cXBkb25YLUk0b0c5VVJjY2E0R2dXUE9YcU4wMElmN3YwSlRVdUw4UWg0WDhPTDdhY2JNaWJyT1d5dFdQalA0b0VpZ2c?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        0,
+        0,
+        4.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "Flávio cita",
+      "chave": "flavio cita",
+      "razao_aumento": 15.0,
+      "fatia_pct": 13.04,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Estadão",
+        "hora": "2026-10-08T15:19:47Z",
+        "titulo": "Flávio cita Raquel Lyra e diz que ajudará governadores de qualquer ‘coloração partidária’",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlpKSnRnc2Z2Mzg5Y2I0T1BLSlBfSnhVVVptU0tSQk5odWkyOVVjRDJXYTM3OUpFUFZ3TlpuclFrSVdDTU1NZGNsb3ZRLV80TzhTS1ZzelRycnFKWDF3a0Y5ZktfeG9oTHNEQ0FGd21xYy04WFNIZVdGbWpXaVVBVFBvaVFqVmQwN3FvbHV4UktSQzlWS3NUV2xzUlNxYXJYa3NnaHJ1amRlcFlBb0lIeHVMM2FiLUhuUHUwc3lMMFlPX0VKSDh2a2hLTFJwR0tYbV8wbHJmUVM?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        0,
+        0,
+        2.0,
+        1.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "Flávio cita Raquel",
+      "chave": "flavio cita raquel",
+      "razao_aumento": 15.0,
+      "fatia_pct": 13.04,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Estadão",
+        "hora": "2026-10-08T15:19:47Z",
+        "titulo": "Flávio cita Raquel Lyra e diz que ajudará governadores de qualquer ‘coloração partidária’",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlpKSnRnc2Z2Mzg5Y2I0T1BLSlBfSnhVVVptU0tSQk5odWkyOVVjRDJXYTM3OUpFUFZ3TlpuclFrSVdDTU1NZGNsb3ZRLV80TzhTS1ZzelRycnFKWDF3a0Y5ZktfeG9oTHNEQ0FGd21xYy04WFNIZVdGbWpXaVVBVFBvaVFqVmQwN3FvbHV4UktSQzlWS3NUV2xzUlNxYXJYa3NnaHJ1amRlcFlBb0lIeHVMM2FiLUhuUHUwc3lMMFlPX0VKSDh2a2hLTFJwR0tYbV8wbHJmUVM?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        0,
+        0,
+        2.0,
+        1.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "coloração",
+      "chave": "coloracao",
+      "razao_aumento": 15.0,
+      "fatia_pct": 13.04,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Estadão",
+        "hora": "2026-10-08T15:19:47Z",
+        "titulo": "Flávio cita Raquel Lyra e diz que ajudará governadores de qualquer ‘coloração partidária’",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlpKSnRnc2Z2Mzg5Y2I0T1BLSlBfSnhVVVptU0tSQk5odWkyOVVjRDJXYTM3OUpFUFZ3TlpuclFrSVdDTU1NZGNsb3ZRLV80TzhTS1ZzelRycnFKWDF3a0Y5ZktfeG9oTHNEQ0FGd21xYy04WFNIZVdGbWpXaVVBVFBvaVFqVmQwN3FvbHV4UktSQzlWS3NUV2xzUlNxYXJYa3NnaHJ1amRlcFlBb0lIeHVMM2FiLUhuUHUwc3lMMFlPX0VKSDh2a2hLTFJwR0tYbV8wbHJmUVM?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        0,
+        0,
+        2.0,
+        1.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "termo": "partidária",
+      "chave": "partidaria",
+      "razao_aumento": 15.0,
+      "fatia_pct": 13.04,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Estadão",
+        "hora": "2026-10-08T15:19:47Z",
+        "titulo": "Flávio cita Raquel Lyra e diz que ajudará governadores de qualquer ‘coloração partidária’",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlpKSnRnc2Z2Mzg5Y2I0T1BLSlBfSnhVVVptU0tSQk5odWkyOVVjRDJXYTM3OUpFUFZ3TlpuclFrSVdDTU1NZGNsb3ZRLV80TzhTS1ZzelRycnFKWDF3a0Y5ZktfeG9oTHNEQ0FGd21xYy04WFNIZVdGbWpXaVVBVFBvaVFqVmQwN3FvbHV4UktSQzlWS3NUV2xzUlNxYXJYa3NnaHJ1amRlcFlBb0lIeHVMM2FiLUhuUHUwc3lMMFlPX0VKSDh2a2hLTFJwR0tYbV8wbHJmUVM?oc=5",
+        "peso": 1.0
+      },
+      "serie_24h": [
+        0,
+        0,
+        0,
+        0,
+        2.0,
+        1.0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
