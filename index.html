@@ -346,8 +346,8 @@
             const size = 15 + (n.peso_relativo / 100) * 20;
             const op = 0.65 + (n.peso_relativo / 100) * 0.35;
             
-            // Link direto para o Google Trends oficial filtrado no estado de Pernambuco (geo=BR-PE)
-            const linkTrends = `https://trends.google.com/trends/explore?geo=BR-PE&q=${encodeURIComponent(n.termo)}`;
+            // Abre direto as últimas 4 horas em Pernambuco no Google Trends
+            const linkTrends = `https://trends.google.com/trends/explore?date=now%204-H&geo=BR-PE&q=${encodeURIComponent(n.termo)}`;
             
             return `
               <a class="termo-tag" href="${linkTrends}" target="_blank" rel="noopener" style="font-size: ${size.toFixed(1)}px; opacity: ${op}; color: var(--texto);" title="Ver tendências de busca em Pernambuco no Google Trends">
