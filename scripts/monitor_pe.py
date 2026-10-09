@@ -36,6 +36,9 @@ esse essa este esta isto aquilo aqui ali lá agora hoje ontem amanhã quando ond
 ele ela eles elas seu sua seus suas meu minha nós voce você vocês vc até após entre depois antes tudo
 todo toda todos todas também só ainda bem vez vezes fala falou diz disse dizer vamos faz fez ano anos
 dia dias hora horas poder deve quer ver veja olha assim então aí né tá pois sob contra desde durante
+aponta aponta-se pode podem podia poderá acesso acessos registra registrou registram nova novo novos novas
+segundo contra durante sobre aponta realiza realizou anuncia anunciou mantém manteve mantiveram
+participa participou encontro defende defendeu maioria minoria parte partes grande grandes
 """.split())
 
 COMUM_IMPRENSA = set("""
