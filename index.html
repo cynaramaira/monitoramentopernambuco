@@ -339,16 +339,18 @@
           `).join('');
         }
 
-        // 4. Nuvem Clicável
+        // 4. Nuvem Clicável direcionando para o Google Trends em Pernambuco
         const nEl = document.getElementById('nuvem-container');
         if (d.nuvem && d.nuvem.length > 0) {
           nEl.innerHTML = d.nuvem.map(n => {
             const size = 15 + (n.peso_relativo / 100) * 20;
             const op = 0.65 + (n.peso_relativo / 100) * 0.35;
-            // Gera busca contextualizada no Google Notícias com foco em Pernambuco
-            const linkBusca = `https://news.google.com/search?q=${encodeURIComponent('"' + n.termo + '" Pernambuco')}&hl=pt-BR&gl=BR&ceid=BR:pt-419`;
+            
+            // Link direto para o Google Trends oficial filtrado no estado de Pernambuco (geo=BR-PE)
+            const linkTrends = `https://trends.google.com/trends/explore?geo=BR-PE&q=${encodeURIComponent(n.termo)}`;
+            
             return `
-              <a class="termo-tag" href="${linkBusca}" target="_blank" rel="noopener" style="font-size: ${size.toFixed(1)}px; opacity: ${op}; color: var(--texto);" title="${n.fatia_pct}% do debate (${n.fontes_distintas} fontes) · Clique para pesquisar notícias">
+              <a class="termo-tag" href="${linkTrends}" target="_blank" rel="noopener" style="font-size: ${size.toFixed(1)}px; opacity: ${op}; color: var(--texto);" title="Ver tendências de busca em Pernambuco no Google Trends">
                 ${n.termo}
               </a>
             `;

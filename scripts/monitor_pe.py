@@ -62,6 +62,14 @@ def limpa_texto(texto):
     t = re.sub(r"#(\w+)", lambda m: " " + re.sub(r"(?<=[a-zà-ÿ])(?=[A-ZÀ-Þ])", " ", m.group(1)) + " ", t)
     return t
 
+# Lista de verbos e palavras estruturais de manchetes que nunca devem virar termo de pico
+VERBOS_MANCHETE = set("""
+pode podem podia podera poderiam aponta apontam apontou acesso acessos registra registrou registram
+mobilizam mobiliza mobilizou anuncia anunciou anunciam afirma afirmou diz disse disseram veja confira
+entenda saiba faz fez fara tiveram teve tem segue seguiu mostra mostrou mantem manteve volta voltou
+assume assumiu busca buscam alcanca alcancou supera superou lidera liderou deixa deixou vota votam
+""".split())
+
 def extrair_ngramas(texto):
     out = {}
     trechos = re.split(r"[.!?;:|\n\"“”()\[\]…,–—]+|\s-\s", limpa_texto(texto))
@@ -71,15 +79,30 @@ def extrair_ngramas(texto):
         for n in (1, 2, 3):
             for i in range(len(norm) - n + 1):
                 ks = norm[i:i + n]
+                
+                # Bloqueia se começa ou termina com stopword
                 if ks[0] in PARE or ks[-1] in PARE:
                     continue
                 if all(k in PARE or k in COMUM_IMPRENSA for k in ks):
                     continue
                 if any(k.isdigit() and len(k) != 4 for k in ks):
                     continue
-                if n == 1 and (ks[0] in COMUM_IMPRENSA or len(ks[0]) < 4):
-                    if ks[0] not in ("alepe", "stf", "tce", "cpi", "tse"):
+                
+                # Regra anti-verbos e palavras vagas
+                if any(k in VERBOS_MANCHETE for k in ks):
+                    continue
+
+                # Se for palavra única (n=1), só aceita se for nome próprio/sigla (primeira letra maiúscula)
+                # ou siglas institucionais reconhecidas
+                if n == 1:
+                    palavra_original = orig[i]
+                    if ks[0] in COMUM_IMPRENSA or len(ks[0]) < 4:
+                        if ks[0] not in ("alepe", "stf", "tce", "cpi", "tse", "ufpe", "tjpe", "oab", "pt", "psb", "pl"):
+                            continue
+                    # Descarta palavras minúsculas soltas para não pegar verbos ou substantivos comuns
+                    if not palavra_original[0].isupper() and ks[0] not in ("alepe", "stf", "tce", "cpi", "tse", "ufpe", "tjpe"):
                         continue
+
                 chave = " ".join(ks)
                 if not IGNORAR_RUIDO.search(chave):
                     out.setdefault(chave, " ".join(orig[i:i + n]))
