@@ -6,17 +6,18 @@
   <title>Radar Político · Pernambuco</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;600;700&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;600;700&family=Space+Grotesk:wght@700;800&family=Geist+Mono:wght@600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --fundo: #0d1117;
-      --card: #161b22;
+      --fundo: #090c10;
+      --card: #151b23;
       --borda: #30363d;
       --texto: #f0f6fc;
       --subtexto: #8b949e;
-      --destaque: #f83d03;
-      --azul: #024796;
-      --pico: #e3b341;
+      --alerta: #f85149;
+      --verde: #2ea043;
+      --amarelo: #e3b341;
+      --azul: #2f81f7;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -25,15 +26,15 @@
       font-family: 'Instrument Sans', sans-serif;
       padding: 24px 16px;
     }
-    .container {
-      max-width: 1080px;
+    .wrap {
+      max-width: 1200px;
       margin: 0 auto;
       display: grid;
-      gap: 28px;
+      gap: 24px;
     }
     header {
       border-bottom: 1px solid var(--borda);
-      padding-bottom: 16px;
+      padding-bottom: 14px;
       display: flex;
       justify-content: space-between;
       align-items: baseline;
@@ -43,84 +44,124 @@
     h1 {
       font-family: 'Space Grotesk', sans-serif;
       font-size: 26px;
-      color: var(--texto);
       letter-spacing: -0.02em;
     }
     .hora-atualizacao {
       font-size: 13px;
       color: var(--subtexto);
+      font-family: 'Geist Mono', monospace;
     }
-    section h2 {
-      font-size: 14px;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: var(--subtexto);
-      margin-bottom: 14px;
+    .bloco-h {
       display: flex;
       align-items: center;
       gap: 8px;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--subtexto);
+      margin-bottom: 12px;
     }
-    section h2::before {
+    .bloco-h::before {
       content: "";
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      background: var(--destaque);
+      background: var(--azul);
     }
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+      gap: 16px;
+    }
+
+    /* Cards e Listas */
+    .painel {
+      background: var(--card);
+      border: 1px solid var(--borda);
+      border-radius: 12px;
+      padding: 16px;
+    }
+    .lista-x {
+      display: grid;
+      gap: 6px;
+    }
+    .item-x {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 6px 10px;
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      text-decoration: none;
+      color: inherit;
+    }
+    .item-x:hover {
+      background: rgba(255, 255, 255, 0.05);
+      border-color: var(--borda);
+    }
+    .item-x .termo {
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .item-x .termo small {
+      color: var(--subtexto);
+      margin-right: 6px;
+      font-family: 'Geist Mono', monospace;
+    }
+    .badge {
+      font-family: 'Geist Mono', monospace;
+      font-size: 11px;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    .badge.sobe { background: rgba(46, 160, 67, 0.2); color: var(--verde); }
+    .badge.cai { background: rgba(248, 81, 73, 0.2); color: var(--alerta); }
+    .badge.novo { background: rgba(227, 179, 65, 0.2); color: var(--amarelo); }
+    .badge.igual { background: rgba(139, 148, 158, 0.2); color: var(--subtexto); }
+
+    /* Picos */
     .grid-picos {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 14px;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 12px;
     }
     .card-pico {
       background: var(--card);
       border: 1px solid var(--borda);
-      border-left: 4px solid var(--pico);
+      border-left: 4px solid var(--amarelo);
       border-radius: 8px;
-      padding: 16px;
+      padding: 12px 14px;
       display: grid;
-      gap: 8px;
+      gap: 6px;
     }
-    .pico-cabecalho {
+    .card-pico .top {
       display: flex;
       justify-content: space-between;
       align-items: center;
     }
-    .pico-termo {
-      font-size: 18px;
-      font-weight: 700;
-      color: var(--texto);
-    }
-    .pico-badge {
-      background: rgba(227, 179, 65, 0.15);
-      color: var(--pico);
+    .card-pico b { font-size: 16px; }
+    .card-pico a {
       font-size: 12px;
-      font-weight: 700;
-      padding: 3px 8px;
-      border-radius: 999px;
-    }
-    .pico-gatilho a {
-      font-size: 13px;
       color: var(--subtexto);
       text-decoration: none;
-      line-height: 1.4;
+      line-height: 1.3;
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
-    .pico-gatilho a:hover {
-      color: var(--texto);
-      text-decoration: underline;
-    }
+    .card-pico a:hover { color: var(--texto); text-decoration: underline; }
+
+    /* Nuvem */
     .nuvem {
       background: var(--card);
       border: 1px solid var(--borda);
       border-radius: 12px;
-      padding: 24px;
+      padding: 20px;
       display: flex;
       flex-wrap: wrap;
-      gap: 12px 16px;
+      gap: 10px 14px;
       align-items: center;
       justify-content: center;
     }
@@ -128,39 +169,55 @@
       font-weight: 600;
       line-height: 1.1;
       cursor: default;
-      transition: color 0.15s;
     }
-    .nuvem span:hover {
-      color: var(--destaque) !important;
-    }
-    .vazio {
-      color: var(--subtexto);
-      font-size: 14px;
-      font-style: italic;
-    }
+    .nuvem span:hover { color: var(--azul) !important; }
+    .vazio { color: var(--subtexto); font-size: 13px; font-style: italic; }
   </style>
 </head>
 <body>
 
-  <div class="container">
+  <div class="wrap">
     <header>
       <div>
         <h1>Radar Político · Pernambuco</h1>
-        <p class="hora-atualizacao" id="status">Buscando atualizações...</p>
+        <p class="hora-atualizacao" id="status">Varrendo fontes...</p>
       </div>
     </header>
 
+    <!-- Linha 1: X (Recife) e Google Trends lado a lado -->
+    <div class="grid-2">
+      <section>
+        <div class="bloco-h">Tendências do X (Recife agora)</div>
+        <div class="painel">
+          <div class="lista-x" id="x-container">
+            <p class="vazio">Carregando X...</p>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="bloco-h">Em alta no Google (Buscas em PE / Política)</div>
+        <div class="painel">
+          <div class="lista-x" id="google-container">
+            <p class="vazio">Buscando pautas no Google Trends...</p>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Linha 2: Picos de última hora -->
     <section>
-      <h2>Picos de atenção (Últimas 3 horas)</h2>
+      <div class="bloco-h">Picos de atenção (Disparadas repentinas nas últimas 3h)</div>
       <div class="grid-picos" id="picos-container">
-        <p class="vazio">Nenhum pico detectado acima da média nas últimas 3 horas.</p>
+        <p class="vazio">Nenhum pico registrado no momento.</p>
       </div>
     </section>
 
+    <!-- Linha 3: Nuvem de Termos Dominantes -->
     <section>
-      <h2>Temas em pauta nas últimas 24 horas</h2>
+      <div class="bloco-h">Termos e figuras mais citados (Últimas 24h)</div>
       <div class="nuvem" id="nuvem-container">
-        <p class="vazio">Carregando termos...</p>
+        <p class="vazio">Processando vocabulário...</p>
       </div>
     </section>
   </div>
@@ -169,47 +226,69 @@
     async function carregarPainel() {
       try {
         const res = await fetch('dados/painel_pe.json', { cache: 'no-store' });
-        if (!res.ok) throw new Error('Falha ao baixar dados');
-        const dados = await res.json();
+        if (!res.ok) throw new Error();
+        const d = await res.json();
 
-        const dataAtualizacao = new Date(dados.atualizado_em);
+        const dt = new Date(d.atualizado_em);
         document.getElementById('status').textContent = 
-          `Última varredura: ${dataAtualizacao.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })} · ${dados.total_noticias_analisadas} itens processados`;
+          `Última varredura: ${dt.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })} · ${d.total_analisado} dados cruzados`;
 
-        const picosEl = document.getElementById('picos-container');
-        if (dados.picos && dados.picos.length > 0) {
-          picosEl.innerHTML = dados.picos.map(p => `
+        // 1. X Recife
+        const xEl = document.getElementById('x-container');
+        if (d.x_recife && d.x_recife.length > 0) {
+          xEl.innerHTML = d.x_recife.slice(0, 15).map(i => `
+            <a class="item-x" href="${i.url}" target="_blank" rel="noopener">
+              <span class="termo"><small>${i.posicao}º</small>${i.termo}</span>
+              <span class="badge ${i.direcao}">${i.variacao}</span>
+            </a>
+          `).join('');
+        } else {
+          xEl.innerHTML = '<p class="vazio">Sem dados do X Recife no momento.</p>';
+        }
+
+        // 2. Google Trends
+        const gEl = document.getElementById('google-container');
+        if (d.google_trends && d.google_trends.length > 0) {
+          gEl.innerHTML = d.google_trends.map(g => `
+            <a class="item-x" href="${g.url}" target="_blank" rel="noopener">
+              <span class="termo">${g.termo} ${g.manchete ? `<small style="display:block;color:var(--subtexto)">${g.manchete}</small>` : ''}</span>
+              <span class="badge novo">${g.volume}</span>
+            </a>
+          `).join('');
+        } else {
+          gEl.innerHTML = '<p class="vazio">Nenhuma busca anômala sobre PE no Google neste instante.</p>';
+        }
+
+        // 3. Picos
+        const pEl = document.getElementById('picos-container');
+        if (d.picos && d.picos.length > 0) {
+          pEl.innerHTML = d.picos.map(p => `
             <article class="card-pico">
-              <div class="pico-cabecalho">
-                <span class="pico-termo">${p.termo}</span>
-                <span class="pico-badge">▲ ${p.razao_aumento}x</span>
+              <div class="top">
+                <b>${p.termo}</b>
+                <span class="badge novo">▲ ${p.razao_aumento}x</span>
               </div>
-              ${p.gatilho ? `
-                <div class="pico-gatilho">
-                  <a href="${p.gatilho.url}" target="_blank" rel="noopener">
-                    ${p.gatilho.fonte}:${p.gatilho.titulo} ↗
-                  </a>
-                </div>
-              ` : ''}
+              ${p.gatilho ? `<a href="${p.gatilho.url}" target="_blank" rel="noopener">${p.gatilho.fonte}:${p.gatilho.titulo} ↗</a>` : ''}
             </article>
           `).join('');
         } else {
-          picosEl.innerHTML = '<p class="vazio">Nenhum pico detectado acima da média nas últimas 3 horas.</p>';
+          pEl.innerHTML = '<p class="vazio">Sem picos anômalos nas últimas 3 horas.</p>';
         }
 
-        const nuvemEl = document.getElementById('nuvem-container');
-        if (dados.nuvem_palavras && dados.nuvem_palavras.length > 0) {
-          nuvemEl.innerHTML = dados.nuvem_palavras.map(item => {
-            const tamanho = 13 + (item.peso_relativo / 100) * 22;
-            const opacidade = 0.45 + (item.peso_relativo / 100) * 0.55;
-            return `<span style="font-size: ${tamanho.toFixed(1)}px; opacity: ${opacidade}; color: var(--texto);" title="${item.fatia_pct}% do debate (${item.fontes_distintas} fontes)">${item.termo}</span>`;
+        // 4. Nuvem
+        const nEl = document.getElementById('nuvem-container');
+        if (d.nuvem && d.nuvem.length > 0) {
+          nEl.innerHTML = d.nuvem.map(n => {
+            const font = 13 + (n.peso_relativo / 100) * 22;
+            const op = 0.45 + (n.peso_relativo / 100) * 0.55;
+            return `<span style="font-size: ${font.toFixed(1)}px; opacity: ${op}; color: var(--texto);" title="${n.fatia_pct}% (${n.fontes_distintas} fontes)">${n.termo}</span>`;
           }).join('');
         } else {
-          nuvemEl.innerHTML = '<p class="vazio">Nenhum dado consolidado para a nuvem.</p>';
+          nEl.innerHTML = '<p class="vazio">Sem dados consolidados.</p>';
         }
 
-      } catch (err) {
-        document.getElementById('status').textContent = 'Erro ao carregar dados do painel.';
+      } catch (e) {
+        document.getElementById('status').textContent = 'Erro ao carregar os dados mais recentes.';
       }
     }
 
