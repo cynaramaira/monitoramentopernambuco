@@ -1,758 +1,610 @@
 {
-  "atualizado_em": "2026-10-09T10:37:34Z",
-  "total_noticias_analisadas": 215,
-  "nuvem_palavras": [
-    {
-      "termo": "Lula",
-      "chave": "lula",
-      "peso_relativo": 100.0,
-      "fatia_pct": 8.52,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Raquel",
-      "chave": "raquel",
-      "peso_relativo": 95.2,
-      "fatia_pct": 8.12,
-      "fontes_distintas": 22
-    },
-    {
-      "termo": "Lyra",
-      "chave": "lyra",
-      "peso_relativo": 78.2,
-      "fatia_pct": 6.67,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Raquel Lyra",
-      "chave": "raquel lyra",
-      "peso_relativo": 78.2,
-      "fatia_pct": 6.67,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Flávio",
-      "chave": "flavio",
-      "peso_relativo": 57.8,
-      "fatia_pct": 4.93,
-      "fontes_distintas": 15
-    },
+  "atualizado_em": "2026-10-09T10:56:12Z",
+  "total_analisado": 133,
+  "x_recife": [
     {
       "termo": "Rossi",
-      "chave": "rossi",
-      "peso_relativo": 53.7,
-      "fatia_pct": 4.58,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "João",
-      "chave": "joao",
-      "peso_relativo": 51.0,
-      "fatia_pct": 4.35,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Campos",
-      "chave": "campos",
-      "peso_relativo": 51.0,
-      "fatia_pct": 4.35,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "João Campos",
-      "chave": "joao campos",
-      "peso_relativo": 51.0,
-      "fatia_pct": 4.35,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Flamengo",
-      "chave": "flamengo",
-      "peso_relativo": 48.3,
-      "fatia_pct": 4.12,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Elisa",
-      "chave": "elisa",
-      "peso_relativo": 47.6,
-      "fatia_pct": 4.06,
-      "fontes_distintas": 1
+      "posicao": 1,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Rossi",
+      "ruido": false
     },
     {
       "termo": "Ana Elisa",
-      "chave": "ana elisa",
-      "peso_relativo": 47.6,
-      "fatia_pct": 4.06,
-      "fontes_distintas": 1
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Ana%20Elisa",
+      "ruido": false
     },
     {
-      "termo": "Eliminação",
-      "chave": "eliminacao",
-      "peso_relativo": 42.2,
-      "fatia_pct": 3.59,
-      "fontes_distintas": 1
+      "termo": "Flamengo",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Flamengo",
+      "ruido": true
     },
     {
-      "termo": "AFazenda",
-      "chave": "afazenda",
-      "peso_relativo": 42.2,
-      "fatia_pct": 3.59,
-      "fontes_distintas": 1
+      "termo": "#EleNão",
+      "posicao": 4,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23EleN%C3%A3o",
+      "ruido": false
     },
     {
-      "termo": "Eliminação AFazenda",
-      "chave": "eliminacao afazenda",
-      "peso_relativo": 42.2,
-      "fatia_pct": 3.59,
-      "fontes_distintas": 1
+      "termo": "LULA NÃO FECHE MINHA IGREJA",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=LULA%20N%C3%83O%20FECHE%20MINHA%20IGREJA",
+      "ruido": false
     },
     {
       "termo": "Daronco",
-      "chave": "daronco",
-      "peso_relativo": 40.1,
-      "fatia_pct": 3.42,
-      "fontes_distintas": 1
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Daronco",
+      "ruido": true
+    },
+    {
+      "termo": "Vorcaro",
+      "posicao": 7,
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Vorcaro",
+      "ruido": false
     },
     {
       "termo": "UFPE",
-      "chave": "ufpe",
-      "peso_relativo": 39.5,
-      "fatia_pct": 3.36,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Instituto",
-      "chave": "instituto",
-      "peso_relativo": 38.1,
-      "fatia_pct": 3.25,
-      "fontes_distintas": 1
+      "posicao": 8,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=UFPE",
+      "ruido": false
     },
     {
       "termo": "Instituto Lula",
-      "chave": "instituto lula",
-      "peso_relativo": 38.1,
-      "fatia_pct": 3.25,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FECHE",
-      "chave": "feche",
-      "peso_relativo": 36.7,
-      "fatia_pct": 3.13,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "IGREJA",
-      "chave": "igreja",
-      "peso_relativo": 36.7,
-      "fatia_pct": 3.13,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "LULA NÃO FECHE",
-      "chave": "lula nao feche",
-      "peso_relativo": 36.7,
-      "fatia_pct": 3.13,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FECHE MINHA IGREJA",
-      "chave": "feche minha igreja",
-      "peso_relativo": 36.7,
-      "fatia_pct": 3.13,
-      "fontes_distintas": 1
+      "posicao": 9,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Instituto%20Lula",
+      "ruido": false
     },
     {
       "termo": "Lyanco",
-      "chave": "lyanco",
-      "peso_relativo": 36.1,
-      "fatia_pct": 3.07,
-      "fontes_distintas": 1
+      "posicao": 10,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Lyanco",
+      "ruido": false
     },
     {
-      "termo": "turno",
-      "chave": "turno",
-      "peso_relativo": 34.0,
-      "fatia_pct": 2.9,
-      "fontes_distintas": 9
+      "termo": "#EliminaçãoAFazenda",
+      "posicao": 11,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
+      "ruido": false
     },
     {
       "termo": "Neymar",
-      "chave": "neymar",
-      "peso_relativo": 33.3,
-      "fatia_pct": 2.84,
-      "fontes_distintas": 1
+      "posicao": 12,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Neymar",
+      "ruido": true
     },
     {
-      "termo": "campanha",
-      "chave": "campanha",
-      "peso_relativo": 30.6,
-      "fatia_pct": 2.61,
-      "fontes_distintas": 9
+      "termo": "FIM DA ESCALA 6X1",
+      "posicao": 13,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=FIM%20DA%20ESCALA%206X1",
+      "ruido": false
     },
     {
-      "termo": "eleição",
-      "chave": "eleicao",
-      "peso_relativo": 27.2,
-      "fatia_pct": 2.32,
-      "fontes_distintas": 6
+      "termo": "carlinhos maia",
+      "posicao": 14,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=carlinhos%20maia",
+      "ruido": false
     },
     {
-      "termo": "Bolsonaro",
-      "chave": "bolsonaro",
-      "peso_relativo": 23.8,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 6
+      "termo": "DANILO",
+      "posicao": 15,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=DANILO",
+      "ruido": false
     },
     {
-      "termo": "Flávio Bolsonaro",
-      "chave": "flavio bolsonaro",
-      "peso_relativo": 23.8,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 6
+      "termo": "namjoon",
+      "posicao": 16,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=namjoon",
+      "ruido": false
     },
     {
-      "termo": "segundo",
-      "chave": "segundo",
-      "peso_relativo": 20.4,
-      "fatia_pct": 1.74,
-      "fontes_distintas": 5
+      "termo": "Dia 25",
+      "posicao": 17,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Dia%2025",
+      "ruido": false
     },
     {
-      "termo": "segundo turno",
-      "chave": "segundo turno",
-      "peso_relativo": 20.4,
-      "fatia_pct": 1.74,
-      "fontes_distintas": 5
+      "termo": "Lolla",
+      "posicao": 18,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Lolla",
+      "ruido": false
     },
     {
-      "termo": "cita",
-      "chave": "cita",
-      "peso_relativo": 20.4,
-      "fatia_pct": 1.74,
-      "fontes_distintas": 6
+      "termo": "Carrie",
+      "posicao": 19,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Carrie",
+      "ruido": false
     },
     {
-      "termo": "governadores",
-      "chave": "governadores",
-      "peso_relativo": 20.4,
-      "fatia_pct": 1.74,
-      "fontes_distintas": 6
+      "termo": "suho",
+      "posicao": 20,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=suho",
+      "ruido": false
+    }
+  ],
+  "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Ministério Publico de Pernambuco: Pernambuco registra votação sem grandes incidentes neste domingo (4)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDVYbkRYa1M4VlJPczhZWmdOTXRUZWVleWVwWjRIcnVydUFLX2J4OGdUTW5xMFFObVV3d3NEWks1eC15d1p3MUR3MnVPelFNekpPVDFuUUlsZ2FoTXJTb28xNVdDaDgyb2NpbHR4WWlvb0oyY0RkZ0ZhNUZtSDRvc3hQSVBHcTlqQWk2X3N0bmQ0UEtibkMyZUhCdw?oc=5"
     },
     {
-      "termo": "cita Raquel",
-      "chave": "cita raquel",
-      "peso_relativo": 20.4,
-      "fatia_pct": 1.74,
-      "fontes_distintas": 6
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Incêndio destrói 20 anos de pesquisas científicas na Universidade Federal de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUmFITzFROXROZVo5QVp4TnZBYkQtMDFvM2k0bVRPVXNFX1NRVW43Qll6SEVXQmZMNllfS09yOWNWRkdsSWxxd1E4NkFMS2ZXNGlUQk9nX3VLREMwbkJfWWxUNVZSTWY4OS1rUlJFNlNadWxHOU1XZWx0QlFyTjVDWE1HRkY0bnZiUm9UcEI2c1V3X0UwSVc1Q29QV3h6MEU1RnpUZy1WWjUzbVE2bGtYcWRQUUItbkxvVG9zNVEwM1hZRDJxZ1Q1YWNDY1V1eENURVVxbW9tZzJLN0I5OTdCbWFBSdIB8gFBVV95cUxQbFFUSGdpNURYQ2tyV2JnUVNKMzM4RUlpS1BFY3prUk9KaFp6QjV0b3U4TDZjMHVYcFpkS0lDMU9HTnlzbXBXR3lMN0Z0MzhUUFE4RThZc1FzbUM0WkFvc3paTXJqQ3R2NE80ejBVcTh5VDhFVFM1S1dmMmFZQ25TaW1ieGo5RWIzU1gyUXFfUDQwTnQwZXVvNlF0OHI1Q1JtMFVVRHVid1NlbmlrbHlTVHpWeTg0REJPM014dlViM0ZKWVV6NjVXeWtNb1ljTXpLWjJ3R0t6OGhsQUMxRFQ4Qm5tSERGcktueDRYdktLZzBYQQ?oc=5"
     },
     {
-      "termo": "Araújo",
-      "chave": "araujo",
-      "peso_relativo": 20.4,
-      "fatia_pct": 1.74,
-      "fontes_distintas": 2
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Folha de S.Paulo: O incêndio em prédio da UFPE foi criminoso? Entenda o que se sabe",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZzBVaDk2ZVN6TFNWYzNLOGx6NE9wSUd6OVFseHRIZ2IxcVFPWEFEV1JLUTRxWV9GaEt2VVduSVR0TWFUNGk3TS1OcVFTSUQ1NFRYeG5BM3p0dzltRnFESks1c3pRY3RtWkNuOG0xZVhEMFY0cU90cmQ4aVF3eVNuc3FiU2tKc0s5VVg3TU96NzJEMURBYkRXVjFlejh2V1N1THF5QVQ0STczWFZPZkp3VjhKcDFwTzc5U0E?oc=5"
     },
     {
-      "termo": "ESCALA",
-      "chave": "escala",
-      "peso_relativo": 19.7,
-      "fatia_pct": 1.68,
-      "fontes_distintas": 3
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "CNN Brasil: Previsão do tempo: semana em Recife é marcada por chuvas fracas",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1RxZUpENDBPNHBsQjhPUkJtNDVmbUFoRlVudzAyT19kZHRQakZCMTY5QXlrV2FYT2pscFBjdXNsbXhvYmNQb2xsbkRkZU4tT01WZ3lxODdkWGhtSDN1dmxfY1VxaW80NGJYM3JaXzFROGpaRmJ2OHUxOUJOWUNVQWNsSWFIQnc2UkVST1dLLUU4VjlKZ3g5QmE3eWVjbnFJRC1VNEppWXFyXzJvUU9lUGxQcw?oc=5"
     },
     {
-      "termo": "apoio",
-      "chave": "apoio",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 5
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Shows de Marcelo D2, Leonardo e Bruno e Marrone, comédia de Tom Cavalcante, ART.PE e mais: veja agenda cultural",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVEFwbDZXS2FaWUE1ZndZeDJnR0FLSHZwbGZ5REJsR1ozOUlIMk9haXVIWUVHejl6N3F2RTlmNGlULTNiQThtOF8yNF9ubE0wSTFrMGplcmtpYVRhaWxDN2pqOWw4NGFzS0ljV3YydlAzb3NyS1o0T1p4VmdQNkdMZnc0djE0Yk1tOFNmelVSaGp2NjgxX0dHYU8xWHp2TU5Fel9MZTB3UnZBU0tjZGdVZXBhVFZ5bkMwQWVuV2huTXQwZHZfTW04eUVSOGY0ejc2YjVpWXJfVk54NW9uSFowV3Vfbm5DeE4yQ3hQYV9JZTdxMVotWHZqNkt5LXBOd2x4RWljM2RnQW9GNnJnc3UwWEpsaGZRSVHSAaYCQVVfeXFMUHQ1RDZFaDhtUzlWUklfT0FoYllvMG5vbzU3Y1RHM1hXTUo0WkRSSGQyT3N3LWUxZFlQMUNJUHVTMjU5emN4VExTMFpXOXNTLXBUckFEZUNfdVRSekwyQ3ZEQmRNTW14cS13NGd2cHdPV3FIQ3V3NGRvQkVKTWpWS3EtdVZqbXBTV1BXVmtzYmtPSHhJejJDdlFINkRlYWU0X194UXAzX21JZFpsTDZNMmlsRGhlcG9QSVNVbUg2UGgwbTdKR1U1Ym5SSXZwenFfNlllQ2Z6S1VkeDExZ1h3Vlo0TlRGeVBpVDhETHRQUS1rc2xGUUpsTDBvUWRveEcyNXZHekNBSTVZLXVNSVp2eDZIbkk1Mk1RYmVMTGJUSDBzTy1Ca0Vn?oc=5"
     },
     {
-      "termo": "Câmara",
-      "chave": "camara",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 5
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Bebê com insuficiência respiratória é transportado de helicóptero de Garanhuns ao Recife",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR1VZVzdwd2JTeDhYNDdDZ0dNa2Z2aW5GVzQwV2QyNjZpdjJLdlp2cW8xNFhURG9BSEZaLXNSTnBmeGhxTzRKejZpWXhlUHhsT0VFaUkyQ0RIbTJnM1pOWm1lWUIwQkdXQ2RNcGNlU05GdEk2d25jamh3UlJXUW9FbFJzb0drenRLS0s0N2huTjYtM0NGYkh1a0VMV05VZ3JRS2lvNXAyNloyTk5Cb0h1ZUhXazl1S3R4LWt3OS1abjlyTzBBVUFUY0lNTjZqZnFES2RSdHB5VmNoUEZNUjg2Y0xUVlRBakN3U2pLR1ZaSmFQdw?oc=5"
     },
     {
-      "termo": "incêndio",
-      "chave": "incendio",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 4
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Movimento Econômico: Grande Recife Consórcio de Transporte formaliza aquisição de 100 ônibus elétricos",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUdFcUJ1Smx3WVJCVGpodnZkSGVXelZ1QzhFcGpoUDBvaGtBNko2RzdKdDBVLWU1bFp5dnJmLUpZcDA2d0Ewam5tS0hzZk1OWVZBalNCcGNDRW0xWDJxcThWU1FIcExhalFTUlpWSTNnRlQ5R3dMQTJuZ29ZSzJENFgteVJVRXRqQWQwM0RkSDRYX0l5R3FXVjl0MV9PbTlMUTd0M0dYTkRXaDB0aWtNZkJkNlhmZlUtZnNjV0k1WGxIcGtncHVlemJvbU12ZHhRQ20wNGc5Tm5KY1RreFc3MQ?oc=5"
     },
     {
-      "termo": "cita Raquel Lyra",
-      "chave": "cita raquel lyra",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 5
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Porto do Recife aponta avanços na expansão sustentável e planejada da infraestrutura portuária",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3UzVTNKVE1rSS1MWDhnQ0pFWXZsNXl6Qi1YNldZOUVwenNOb3BlYnNkdTJxbHpYelN4cFdMWU8tTzVqZU5Udk42ZXFQaDUzc3BNV25OOVVVQ1FSVUY3UXhMbzlfSVNSSGJDdzFHMjZ3UWZBTG41QlhJQUxiLWo4VEVZSWxVSE11ZFJKU2FyLTA3aHVUeDFHc0hKUlhqR1RUMlZpUTh1Vno5SURuOFl2YnRJbmFUMjTSAbcBQVVfeXFMUEd1M1UzSlRNa0ktTFg4Z0NKRVl2bDV5ekItWDZXWTlFcHpzTm9wZWJzZHUycWx6WHpTeHBXTFlPLU81amVOVHZONmVxUGg1M3NwTVduTjlVVUNRUlVGN1F4TG85X0lTUkhiQ3cxRzI2d1FmQUxuNUJYSUFMYi1qOFRFWUlsVUhNdWRSSlNhci0wN2h1VHgxR3NISlJYakdUVDJWaVE4dVZ6OUlEbjhZdmJ0SW5hVDI0?oc=5"
     },
     {
-      "termo": "2026",
-      "chave": "2026",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 5
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Terra: Pernambuco: Dom Paulo Jackson celebra missa de reinauguração da Capela São Benedito, em Jardim Monte Verde",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQbmFUaUdmVGZPYUtfZDlHbkMzb1ptdVdJRllqaldhSnl5SVdlSXhZSXhldlhBUEhwYmZleGc0cUZWdFVIR180WExvVVVObThKaFhYeEhTYWhKSGJXZ18tLS1NNGpUXzdwTFRKVWlzM2tjSkkzaWtSazFlM0lieUVTaHltcWkyQUlRTFlRVy0xOGRVQXJzMm5TRXlRU1F1MUo1cXNjSnFwdTZWbk1SX29iV2RNMmQ0UkFBNFlTUlpDY2ZzU1Y2ZTlOWW5QcjdVdUZ3NUpxTWRmQlpoZkpJd3pLem9QRWh1eDBLejhpMXQxelN0LW8tbWl5YkZPU2RFTFV0LUM0T0tXUlJYbnRVRWZPdTQyS0tFNU9u?oc=5"
     },
     {
-      "termo": "Marqueteiro",
-      "chave": "marqueteiro",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 5
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog Edmar Lyra: Alepe registra em 2026 a maior taxa de reeleição dos últimos 28 anos",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1pKX3g1TkFhN25WVnpVOUNWVmFCMzN3YjUxZVktS2ZQa3g1V0dzQmNhU0lycGFoXzRjdFc5MkdMdXotU0tsLVk4ODBfM3lIYXdQNUhjQnB0aVp4WDcyZTVyT3liLUV1NjlYSTRmZmgtVjVpdzlKZmRlSGJXNlNZQnRYZW45YnVHZkszb0pmanl3T0o0UlJkQTZQZw?oc=5"
     },
     {
-      "termo": "campanha de Lula",
-      "chave": "campanha de lula",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 5
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Caça Rato, Ni do Badoque, Já Morreu, Galo Cego: veja famosos e nomes inusitados que disputaram eleições em PE",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbjAxdGt2bE5IR1VFMTF6TjJwaGRYRUtwWHdPS293LWlocl9MRjY3MW5LRnd0LU1ZOEg5SlhhTWQzc3l6ODU4bWZNSWtuWWNITHgzNVdaWm9MYmNCY2pSM190d3ZNdFVIUHZNY3ZmVm5QSXNsUnJRR2RRTDV6dzA0MWg0NHc5X1BFdFdYM3k3RUR4QzQxV0NlZk5lODJOSzcwNGlwa29sN3hSZUFDaThHQXpMUFZiOXJnOThNQ1lzVXRNWVg4YmU0NnFPU1R2Y2I2R250bUhwdGJtaHBUczRtQkdUcTI4bGdkbUliV1ZUdVR5NW9NN1RsNFRsLTJIaHFGSU1jbDUybWVQNm_SAZoCQVVfeXFMUGpVQThQRDZuV1BRQ1UzNXBqZzUwQXAtOUw0b1JWM0xZbEIzT1h1NUtNd0Vsc2xrRVJpYUlNVDlpUm9KQ052Vkl6N2M2WTdXMXh1c2dPOEFjRFVRRlhETlE0V3VKTXZ4aXZISG54YXRFWnF1bTl4LW96VDRtSzlwVGM3U0xjN1BVTzlDMjRPZjBsSzR4LUR5a0hqR2JUV25MZ29JTGs3T0p6bUtsdXY4V05DRFVFSW9tVXZacTQ2VFFQbGJKU2RVWUhrVFR1SjlGM212WnlrUFVMdlVzcXU0ei00X1p5QTllRWMtTXBXZlpMOEhodE5ISjdsaTJVMTRIVEdsdFVONjBkWjJadWh3ekc2UEVlSmF4d0N3?oc=5"
     },
     {
-      "termo": "Luiz",
-      "chave": "luiz",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Luiz Araújo",
-      "chave": "luiz araujo",
-      "peso_relativo": 17.0,
-      "fatia_pct": 1.45,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Peru",
-      "chave": "peru",
-      "peso_relativo": 14.3,
-      "fatia_pct": 1.22,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "nova",
-      "chave": "nova",
-      "peso_relativo": 13.6,
-      "fatia_pct": 1.16,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "neutralidade",
-      "chave": "neutralidade",
-      "peso_relativo": 13.6,
-      "fatia_pct": 1.16,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Nordeste",
-      "chave": "nordeste",
-      "peso_relativo": 13.6,
-      "fatia_pct": 1.16,
-      "fontes_distintas": 4
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Blog Edmar Lyra: Belo Jardim conquista 1º lugar em Pernambuco no Ranking CLP de acesso a serviços de telecomunicações",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLUY4OFNtSVRsU3ZkdERZeEZSXzlKVDBSTU1mS2pXbUIyUVI4QVpoLXNzVXhrdTNNV0NjODdhUUNPenhtcVFrOF9tMFVkczBWYlhNaHZwMnJsM1p5RkRRZV9lZnUwVVVwQkFOT2x1SzMwVWdySFR5T1NOS2dTbzVSZDBwVHB4djJ3Yjh6YVdUSXd5aFFUVm8tSDgzRlpzN3JkOUJKOEZla1dvZi01VW03SnZQZ1U3a1JCTWw1MmtvLVFJeEpibFE?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "espera",
-      "chave": "espera",
-      "razao_aumento": 50.0,
-      "fatia_pct": 10.0,
+      "termo": "Brasil",
+      "razao_aumento": 21.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-10-08T17:04:23Z",
-        "titulo": "PT vê apoio de Raquel Lyra como \"natural\" e ainda espera gestos",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdGg4Q091eC1ZeEJHNXY4cV9ZZWl2Q0ItSVlDQUNRMlowSVdZNFl0dGZkelRtNlEwVWMtZFdiUGE3bmJGajJIT2FxbWZrQmNKSTItdXpxUGlrWlRQNUlGZktqd3BtcnNxdjFwQ0RhV0lzVjlCc2k4QVhCY2tqcEhoalBPR2d6SFlIRHhnUFBsbjM3ay01OU9WQUZZQk9LMTJSbTRBOS16ZGxQTWVEeTkyNW52bkE4ZHZtTUE?oc=5",
+        "fonte": "JOTA Jornalismo",
+        "hora": "2026-10-08T18:40:03Z",
+        "titulo": "Investigado por diversos crimes, Flávio Bolsonaro leva Brasil ao precipício autocrático",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMjR2MHdQVktRYVRVMkVfRzVKWFBoUUFPTlVKaXV2TUhRX1BFTDFjeW9RWUxza1lpMDFTVzJoQmpSdHFmN04zUnZhcFpoQ0xhZGVZeU15cmg0bmZNcTRDTW5YZDRHdzZfX05wY1dEMGJuclF1aHEwOXdmdzduaThHWndaRjh5TVpLV3FPMEFLWXpvRmJhNWpRcHI4VVRfU3ZtNFFNZUV1ajdIb1ZWaUZ4UDJva09ISWFMaThnS2UtcHM0ZVBIMlJEOUVFcDJ4dzh5OFFJYk4ybVh5VGpkWGswX2Q2MGFhRHl4bF9R?oc=5",
         "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      }
     },
     {
-      "termo": "defesa",
-      "chave": "defesa",
-      "razao_aumento": 19.1,
-      "fatia_pct": 11.11,
+      "termo": "pode",
+      "razao_aumento": 21.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Nexo Jornal",
+        "hora": "2026-10-09T01:21:05Z",
+        "titulo": "O clima de ‘já ganhou’ pode se voltar contra Flávio Bolsonaro?",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmVONkxabWx0cHIwOVUxU2swVmkwQmp6R2tYOWNyaV9lN3FYTXg4d1BIMDlMXzZwajZwTGVUamhfbV90Y2xFS2NWb0pma1NQOEtrOVFac2F1Zlh0b2JTemNhR3dUQ0tLamdkZEFlem92NUVQSUxNUzRXWmdoY3loakE1UnMwWHlwRlFydXUta0ZPaFFZSUI2RDZQMF9sbmNWbmI1ajBxMGltU3RNYmlicw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "acesso",
+      "razao_aumento": 17.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-08T19:11:39Z",
-        "titulo": "Waldemar Oliveira é reeleito e mantém viva trajetória de 14 mandatos da família em defesa do povo pernambucano",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3cycmVpWUhWUHIzMDBfWjQtU1BMTjhycTlBQnBmby02c3IxR1B3Y3JEOTR2NHQtaGUwa0t4a2xfSEhHaE9zUlo4aEdrWW9BelU0YlhvTmoybjEwM2J6YmpldExNbXZEbTdsZDdwMWttQ3A5NTVkTzltcW9WdVVNVDlscUpHd1B5TmNtS2NneDdIbEhjbGlaaGNzTkxld0cxcnphYWZELVZKSFAxb1M2OFV1d050Tlp0ODk4OF8xaEEwRlpScjl4R05iN25veGRzUVJv?oc=5",
+        "hora": "2026-10-08T23:45:10Z",
+        "titulo": "Belo Jardim conquista 1º lugar em Pernambuco no Ranking CLP de acesso a serviços de telecomunicações",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLUY4OFNtSVRsU3ZkdERZeEZSXzlKVDBSTU1mS2pXbUIyUVI4QVpoLXNzVXhrdTNNV0NjODdhUUNPenhtcVFrOF9tMFVkczBWYlhNaHZwMnJsM1p5RkRRZV9lZnUwVVVwQkFOT2x1SzMwVWdySFR5T1NOS2dTbzVSZDBwVHB4djJ3Yjh6YVdUSXd5aFFUVm8tSDgzRlpzN3JkOUJKOEZla1dvZi01VW03SnZQZ1U3a1JCTWw1MmtvLVFJeEpibFE?oc=5",
         "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      }
     },
     {
-      "termo": "Mendonça",
-      "chave": "mendonca",
-      "razao_aumento": 19.1,
-      "fatia_pct": 11.11,
+      "termo": "aponta",
+      "razao_aumento": 15.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-08T13:35:40Z",
-        "titulo": "Mendonça coordenará campanha de Flávio Bolsonaro em Pernambuco no segundo turno",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVYxTnZxTHcyRDhxNXJJWEY4djV1M0hpZElTOXQzNHBnRkRxbHJZWk5UeUc1OTFpb25iazV6UlVNWjJ3QlFUT3o5aDdYUF9UZFpqMXVxdGxWQmsxVXJ3RGRNTWZidzhmTUhIN3QwZDZzYUFQZkJ2WExwek5ZNW4zVUxFbmY0dkxLRHYySkRZVmRTMXY1VUhjQ2pxZTVoUUxTOUJDZzRZcEUzdw?oc=5",
+        "fonte": "Brasil de Fato",
+        "hora": "2026-10-08T22:24:00Z",
+        "titulo": "Exclusivo: mapeamento aponta 1.592 cidades com maior chance de virar voto pró-Lula",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGtfV1JocTl4VmtpZEd0ZFctSU1CamRLV1ZHTnlLYVlOUExqZi1ibm9RNlVwR3ZlZW9SeFIxWG8tMHc5c0YtMlRRNGpCOXNfTFotQmM4c2Q3RHVmWHlVMktPQ2c0UGFJWkR1SXNjREN5MEJaeVNZMkNuZ1JWUGZ0QjJ6dUpYM3N4aHBRaEVja0JwTEFXanBMZFp0TWpWMVd0VDAzWlpVMlZCT2xRMmNrMGlIUWlvY3NxWjlYRWY1cS0zdw?oc=5",
         "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        2.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      }
     },
     {
-      "termo": "campanha de Flávio",
-      "chave": "campanha de flavio",
-      "razao_aumento": 19.1,
-      "fatia_pct": 11.11,
+      "termo": "Atlas",
+      "razao_aumento": 14.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-08T13:35:40Z",
-        "titulo": "Mendonça coordenará campanha de Flávio Bolsonaro em Pernambuco no segundo turno",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVYxTnZxTHcyRDhxNXJJWEY4djV1M0hpZElTOXQzNHBnRkRxbHJZWk5UeUc1OTFpb25iazV6UlVNWjJ3QlFUT3o5aDdYUF9UZFpqMXVxdGxWQmsxVXJ3RGRNTWZidzhmTUhIN3QwZDZzYUFQZkJ2WExwek5ZNW4zVUxFbmY0dkxLRHYySkRZVmRTMXY1VUhjQ2pxZTVoUUxTOUJDZzRZcEUzdw?oc=5",
+        "fonte": "UOL Notícias",
+        "hora": "2026-10-09T10:30:00Z",
+        "titulo": "Atlas/Bloomberg: Flávio tem 52,8%, e Lula 47,2% em votos válidos",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHFXeFVFOVA2MG1aNnY1cEdzd3ljMXM0WGdzYnFhUjJwXzMwZGpUUmhlNUUxaW1XQlVXMWljZ1dLY3ZEc1RTWWx3M2M0ekhYLTdZQjBUejRlYnlvUzlncGU0SXdURTRqU3ozUEV4MUpLYmdpWXo5Wkx0ZmxIbk5kSXZrTFlNRjZRSDlzWHRYT2pGajAzWENlUG13?oc=5",
         "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        2.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      }
     },
     {
-      "termo": "mantém",
-      "chave": "mantem",
-      "razao_aumento": 19.1,
-      "fatia_pct": 11.11,
+      "termo": "Bloomberg",
+      "razao_aumento": 14.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-08T19:11:39Z",
-        "titulo": "Waldemar Oliveira é reeleito e mantém viva trajetória de 14 mandatos da família em defesa do povo pernambucano",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3cycmVpWUhWUHIzMDBfWjQtU1BMTjhycTlBQnBmby02c3IxR1B3Y3JEOTR2NHQtaGUwa0t4a2xfSEhHaE9zUlo4aEdrWW9BelU0YlhvTmoybjEwM2J6YmpldExNbXZEbTdsZDdwMWttQ3A5NTVkTzltcW9WdVVNVDlscUpHd1B5TmNtS2NneDdIbEhjbGlaaGNzTkxld0cxcnphYWZELVZKSFAxb1M2OFV1d050Tlp0ODk4OF8xaEEwRlpScjl4R05iN25veGRzUVJv?oc=5",
+        "fonte": "UOL Notícias",
+        "hora": "2026-10-09T10:30:00Z",
+        "titulo": "Atlas/Bloomberg: Flávio tem 52,8%, e Lula 47,2% em votos válidos",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHFXeFVFOVA2MG1aNnY1cEdzd3ljMXM0WGdzYnFhUjJwXzMwZGpUUmhlNUUxaW1XQlVXMWljZ1dLY3ZEc1RTWWx3M2M0ekhYLTdZQjBUejRlYnlvUzlncGU0SXdURTRqU3ozUEV4MUpLYmdpWXo5Wkx0ZmxIbk5kSXZrTFlNRjZRSDlzWHRYT2pGajAzWENlUG13?oc=5",
         "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1.0,
-        0,
-        1.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      }
     },
     {
-      "termo": "composição",
-      "chave": "composicao",
-      "razao_aumento": 19.1,
-      "fatia_pct": 11.11,
+      "termo": "Bolsonaro no segundo",
+      "razao_aumento": 13.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "portalsilvalima.com.br",
-        "hora": "2026-10-08T19:48:12Z",
-        "titulo": "Eleições de 2026 definem nova composição da Alepe com 32 reeleitos e 17 novatos",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXpaQnMtTFZobkdGUmJubnBrM1pTenpEQ19nenFBeWUzU2psMkd4NGYyeV9ocFRNcHRMMzdzejdfNGRtYWFNLUkyVHRvbmRXM1N5WVpIb3lIeE5yQXptcVJkR19TcVowNkFSRGRhTzlxUnJRWG9hMmtmaExJT0FVSjBQWGx5MVdsTnZKenZ2a1hCVmFaa3ZLZXpzYlV3Ni1SX3lEN3UwRGlBY2lLVE9ScQ?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-08T21:41:22Z",
+        "titulo": "Augusto Cury declara apoio a Flávio Bolsonaro no segundo turno",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXVFa2d4OWtkSkcxZC1zekwybU5pT3h2X1lGRF8yVG0zeTh4VzU4aWtWSDNxckpwc0pCNzc5d2xsWUtKQ19VUFRpbmVwUm1sVmNRNDEwS2cxTC12aHRqSHdvdzl0RlBPYnJpbTdPdXZiYTdBZzJNV2I5VlVBdUlSRHduV1E4N0o2dnhqYV9hT05BNEowOE9wQUdLQnlvUU5zLVNqNG9lUHk1NnNZdHQ5OWhpRUJrYmxUZ2lKMmhlWGlVOFpEbVVIQjRMWdIB2gFBVV95cUxOcjhudEJZZkNtS2NJbUtFWC0xTHlUanluMFZyZksyeXpPbTFDUTBwX1RmVl91eWREUUNCTUVSbmdmR2ZsRGYya2VZRThGdFlqTTczQy04aHVQQ0Q4N3FhQ01yT3E5YjFJREFZZmNJbkc3RGxucFhmQmJNbTU5eDQ5TWFEd0xQMkhydmN3OFJaenp6a3dxUGFMeV9nc1dqR3djRm5OZDE1THladFFGU21ValhDTjNmWU0ycmt5UDNtWWhIUHZwVWZ3NUlqTDdBRjNVeDR6Z1JFWFoxQQ?oc=5",
         "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1.0,
-        0,
-        1.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      }
     },
     {
-      "termo": "nova",
-      "chave": "nova",
-      "razao_aumento": 17.2,
-      "fatia_pct": 15.0,
+      "termo": "mobilizam",
+      "razao_aumento": 13.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "LeiaJá",
-        "hora": "2026-10-08T12:31:00Z",
-        "titulo": "Deputados com trajetória em Brasília ficam fora da nova bancada de Pernambuco",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTNscWdtRHRORUdwZS1tRDQ2aXlZcU52UjFCdEdHTlJIZDh5UUVIdG5WZWI2NHRLeGhBeVpyaUZqa1o2VmthbVBkWTZJcDBrVUhWOU9TbHZoYXdaaHl1TGhneWIyU3Z1UVFRZWJXMldTNlplUndsM2NHc09pNHd2UmdZcDdiY3NNN2F1ck50QVlxWkxzYS10TDRwc240Zlc1QlFnR3Y4clE0YzY0U1kxWEx4N19NX0dzamFXbXZ3?oc=5",
+        "fonte": "Brasil de Fato",
+        "hora": "2026-10-08T21:20:00Z",
+        "titulo": "Se Flávio Bolsonaro for eleito, estudantes avaliam que educação e universidades correm perigo e se mobilizam",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckliOHBNWXFaSFR2ay1xUmxCVEw0NXFvT1ZZT0dMMVpzMWR5TXdIN0loYzhqLWR2MTFaNm5mMVo2NXlCRXpuSFBCa3QxSUduV3M2dGZWUVExcFptbXhKSHpHUnJSRXRuS3ZHMmxQYTRqOWUxSUloa2JQTDlqOHNNTmxzc2hLb09ZX3ltNmZ4MVhScjh2SmlvcDR0OFJ5dERUX1JHcXBhTXhFRV84emFoY19Dck1kSWQ1V1FMR2Q3TnpjeEQxZ3JFQTg1cmVKdWlsakFjS0EyazRNc1ZpeVhYWE54NVJVZw?oc=5",
         "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        1.0,
-        0,
-        0,
-        0,
-        0,
-        2.0,
-        0,
-        1.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      }
+    }
+  ],
+  "nuvem": [
+    {
+      "termo": "Flávio",
+      "peso_relativo": 100.0,
+      "fatia_pct": 27.04,
+      "fontes_distintas": 27
     },
     {
-      "termo": "encontro",
-      "chave": "encontro",
-      "razao_aumento": 17.2,
-      "fatia_pct": 10.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-08T17:14:08Z",
-        "titulo": "Gilson Machado e Gilson Filho participam de encontro nacional do Podemos em Brasília e reforçam articulação por Flávio Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0RpV3BjU3NERTNSeXhuQWNsU2hPd3J4RWZWc0JXY3hoczdDSDlQbVVvYlg0SWI3aHRvUWoyUjBQMXJBRlBtV2t2SXFqMFI1SWUyX0hveEFVTlg3aWUwT3Y5U3ZSYnF4XzNuTVF2VU1ISmw5OXB5LVZIaC1hYklwWE9kYmF3b1VNbXVNRllVZ3ZiZGIyTzF5eDMyVE14cU9YN2dlM3ZjSGRNMjR0ZEdtWkY0Q2dKLUUxRkxvYVJhTjB6c0F0VE14S3M5REVQNTRYd3FDLTZfeldxOXhxZlZEVnFyQVlxOFpsTlNJ?oc=5",
-        "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1.0,
-        1.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      "termo": "Lula",
+      "peso_relativo": 92.9,
+      "fatia_pct": 25.12,
+      "fontes_distintas": 22
+    },
+    {
+      "termo": "Bolsonaro",
+      "peso_relativo": 71.1,
+      "fatia_pct": 19.23,
+      "fontes_distintas": 22
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 64.4,
+      "fatia_pct": 17.43,
+      "fontes_distintas": 20
+    },
+    {
+      "termo": "Raquel",
+      "peso_relativo": 53.3,
+      "fatia_pct": 14.42,
+      "fontes_distintas": 20
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 48.9,
+      "fatia_pct": 13.22,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 48.9,
+      "fatia_pct": 13.22,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "turno",
+      "peso_relativo": 40.0,
+      "fatia_pct": 10.82,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 31.1,
+      "fatia_pct": 8.41,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "Campos",
+      "peso_relativo": 31.1,
+      "fatia_pct": 8.41,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "João Campos",
+      "peso_relativo": 31.1,
+      "fatia_pct": 8.41,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "segundo",
+      "peso_relativo": 26.7,
+      "fatia_pct": 7.21,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "segundo turno",
+      "peso_relativo": 26.7,
+      "fatia_pct": 7.21,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "apoio",
+      "peso_relativo": 24.4,
+      "fatia_pct": 6.61,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "campanha",
+      "peso_relativo": 20.0,
+      "fatia_pct": 5.41,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Datafolha",
+      "peso_relativo": 17.8,
+      "fatia_pct": 4.81,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "UFPE",
+      "peso_relativo": 17.6,
+      "fatia_pct": 4.75,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "cita",
+      "peso_relativo": 15.6,
+      "fatia_pct": 4.21,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "governadores",
+      "peso_relativo": 15.6,
+      "fatia_pct": 4.21,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "cita Raquel",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.61,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Cury",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.61,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Rossi",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.61,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Elisa",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.43,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ana Elisa",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.43,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "cita Raquel Lyra",
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "2026",
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 5
     },
     {
       "termo": "campanha de Lula",
-      "chave": "campanha de lula",
-      "razao_aumento": 15.0,
-      "fatia_pct": 21.74,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Metrópoles",
-        "hora": "2026-10-08T15:00:00Z",
-        "titulo": "Marqueteiro de João Campos vai colaborar com campanha de Lula",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc25Fc3RqR2ROM3RzSW1YZ0JPS1FFajU3R25Ob1dCOFl4OHZXcW1PNGlFRDRjYktpQUZYVmRPUEdsZ2tWTDh2YWJCRW1SckFJd1Rzc2Zmc2J2d3c4UFVfcG83MlYxampxcVZrVkgtTS01T0IzNTZHckJwS1JmRzZIREl2NWU1cnJhODRYdERRYzc1QWZmMDNkWHp3WVBSbjhaQXVzWEZfRnhrQlNobHNrLU1R?oc=5",
-        "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        0,
-        0,
-        5.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 5
     },
     {
       "termo": "Lula no segundo",
-      "chave": "lula no segundo",
-      "razao_aumento": 15.0,
-      "fatia_pct": 17.39,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Vero Notícias",
-        "hora": "2026-10-08T15:20:00Z",
-        "titulo": "Equipe de João Campos reforçará campanha de Lula no segundo turno",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWFvR3hHY3ozM3NZc0hmcmVWdVRfWXJNYTJMc254MHBKY2IwS0VQbnoxTWdBM0RPd0ZsdWlybzRwZ2MyMWFNbTZUbE5YVUtfNm1abFVhZnpBVV9nQVo3cXBkb25YLUk0b0c5VVJjY2E0R2dXUE9YcU4wMElmN3YwSlRVdUw4UWg0WDhPTDdhY2JNaWJyT1d5dFdQalA0b0VpZ2c?oc=5",
-        "peso": 1.0
-      },
-      "serie_24h": [
-        0,
-        0,
-        0,
-        0,
-        4.0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "pesquisa",
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "apoio a Flávio",
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "FECHE",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.88,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "IGREJA",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.88,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "LULA NÃO FECHE",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.88,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FECHE MINHA IGREJA",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.88,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "escala",
+      "peso_relativo": 9.8,
+      "fatia_pct": 2.64,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Vorcaro",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.52,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "registra",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "eleitos",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Marqueteiro",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "propostas",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "incêndio",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Augusto",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Augusto Cury",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Crianças",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Alepe",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.4,
+      "fontes_distintas": 4
     }
   ]
 }
