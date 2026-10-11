@@ -1,350 +1,634 @@
 {
-  "atualizado_em": "2026-10-10T22:29:24Z",
-  "total_analisado": 19,
+  "atualizado_em": "2026-10-11T01:14:46Z",
+  "total_analisado": 112,
   "x_recife": [
     {
-      "termo": "CENSURA NÃO",
+      "termo": "Cristian",
       "posicao": 1,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Cristian",
+      "ruido": false
+    },
+    {
+      "termo": "#EXERCITODOLULACONTRACENSURA",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23EXERCITODOLULACONTRACENSURA",
+      "ruido": false
+    },
+    {
+      "termo": "Remo",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Remo",
+      "ruido": false
+    },
+    {
+      "termo": "#MITB",
+      "posicao": 4,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23MITB",
+      "ruido": false
+    },
+    {
+      "termo": "Calleri",
+      "posicao": 5,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=CENSURA%20N%C3%83O",
+      "url": "https://x.com/search?q=Calleri",
       "ruido": false
     },
     {
       "termo": "NÃO MEXA NOS NOSSOS DIREITOS",
-      "posicao": 2,
-      "variacao": "+1",
-      "direcao": "sobe",
+      "posicao": 6,
+      "variacao": "-2",
+      "direcao": "cai",
       "url": "https://x.com/search?q=N%C3%83O%20MEXA%20NOS%20NOSSOS%20DIREITOS",
       "ruido": false
     },
     {
-      "termo": "#EXERCITODOLULAEMCAMPO",
-      "posicao": 3,
-      "variacao": "-1",
+      "termo": "NÃO VÃO NOS CALAR",
+      "posicao": 7,
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=N%C3%83O%20V%C3%83O%20NOS%20CALAR",
+      "ruido": false
+    },
+    {
+      "termo": "Kishimoto",
+      "posicao": 8,
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Kishimoto",
+      "ruido": false
+    },
+    {
+      "termo": "Brusque",
+      "posicao": 9,
+      "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23EXERCITODOLULAEMCAMPO",
+      "url": "https://x.com/search?q=Brusque",
+      "ruido": false
+    },
+    {
+      "termo": "Boruto",
+      "posicao": 10,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Boruto",
+      "ruido": false
+    },
+    {
+      "termo": "ZAYN MALIK",
+      "posicao": 11,
+      "variacao": "+16",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=ZAYN%20MALIK",
+      "ruido": false
+    },
+    {
+      "termo": "Spinelli",
+      "posicao": 12,
+      "variacao": "-5",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Spinelli",
+      "ruido": false
+    },
+    {
+      "termo": "Naruto",
+      "posicao": 13,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Naruto",
+      "ruido": false
+    },
+    {
+      "termo": "Nuno",
+      "posicao": 14,
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Nuno",
+      "ruido": false
+    },
+    {
+      "termo": "David",
+      "posicao": 15,
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=David",
+      "ruido": false
+    },
+    {
+      "termo": "Pedro Emanuel",
+      "posicao": 16,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Pedro%20Emanuel",
+      "ruido": false
+    },
+    {
+      "termo": "giana",
+      "posicao": 17,
+      "variacao": "-7",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=giana",
+      "ruido": false
+    },
+    {
+      "termo": "Piton",
+      "posicao": 18,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Piton",
       "ruido": false
     },
     {
       "termo": "Vini",
-      "posicao": 4,
-      "variacao": "-3",
+      "posicao": 19,
+      "variacao": "-2",
       "direcao": "cai",
       "url": "https://x.com/search?q=Vini",
       "ruido": false
     },
     {
-      "termo": "Real Madrid",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Real%20Madrid",
-      "ruido": false
-    },
-    {
-      "termo": "Brusque",
-      "posicao": 6,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Brusque",
-      "ruido": false
-    },
-    {
-      "termo": "#MrFanboyEP7",
-      "posicao": 7,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23MrFanboyEP7",
-      "ruido": false
-    },
-    {
-      "termo": "Diomande",
-      "posicao": 8,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Diomande",
-      "ruido": false
-    },
-    {
-      "termo": "Angelina",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Angelina",
-      "ruido": false
-    },
-    {
-      "termo": "Mourinho",
-      "posicao": 10,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Mourinho",
-      "ruido": false
-    },
-    {
-      "termo": "Maracanã",
-      "posicao": 11,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Maracan%C3%A3",
-      "ruido": false
-    },
-    {
-      "termo": "Paysandu",
-      "posicao": 12,
-      "variacao": "+20",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Paysandu",
-      "ruido": false
-    },
-    {
-      "termo": "Piton",
-      "posicao": 13,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Piton",
-      "ruido": false
-    },
-    {
-      "termo": "Amin",
-      "posicao": 14,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Amin",
-      "ruido": false
-    },
-    {
-      "termo": "Isma",
-      "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Isma",
-      "ruido": false
-    },
-    {
-      "termo": "MR FANBOY CHAPTER 7",
-      "posicao": 16,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=MR%20FANBOY%20CHAPTER%207",
-      "ruido": false
-    },
-    {
-      "termo": "Vasco da Gama SAF",
-      "posicao": 17,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Vasco%20da%20Gama%20SAF",
-      "ruido": true
-    },
-    {
-      "termo": "Villarreal",
-      "posicao": 18,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Villarreal",
-      "ruido": false
-    },
-    {
-      "termo": "CBLOL",
-      "posicao": 19,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=CBLOL",
-      "ruido": false
-    },
-    {
-      "termo": "Naruto",
+      "termo": "#VoleiNoSportv",
       "posicao": 20,
-      "variacao": "+6",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Naruto",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23VoleiNoSportv",
       "ruido": false
     }
   ],
-  "google_trends": [],
-  "picos": [],
+  "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "CBN Recife: Os limites do apadrinhamento de Lula em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMlJyM2FHZFRIRnNuNU9lNTdpV1U4MF9URV9uUDREY3VLZms4R1Zlb0phcU9ZOFoyVVZIelM0RkhGa2tUU2hWSHRYTGxqcHo2RElMQWdoVDItbk5xbXlMYlk0UHVwbWNIRi1xbG50ZkdHWkZWeDV5MnB3dTRMT1B0dlJoNlc4MzBzTUpmNXFJazNXN2w1eEh6Q1RKQzk0NHZ0RFBxMzNB?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Ricardo Antunes: Clientes do Shopping Recife são surpreendidos com queda de energia repetina neste sábado (10)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdXh5S1hXdS1EY0R3RWx6SEZIdG5xN0ROcHhIeHhHMmFKbURZb1AxWmltWWdteGYtUDBMV0xWTnBfd2gxVjdJNndVRjJoN2ZKUi14c2kxT1U0SzYwT1p2ZmQyTmczbEJwOXNGZzlLUEtkOWpLOU9SeHJ5RWloTWlTc0FKXzJYalVIUXNtNzZpTXNVVHJqcTl1R0t0T0FoWjNBNU82dmlfZ19ESllCMHU0aUl2OHlxS0JfTzU0?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "RioMar Recife: BTS na Mimos Korea: veja itens disponíveis",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjhfNUM2QlNoN0pxZFI2RUlXLWh5ZDc0Z0d6RXF5cFN6eGhzVklDX1JTdGd2UEd1am9xV3dGdHpYdGFoN0tfMkpJQ3V0eURkYXpjUDZpNjEzQkVRVHdBeW1ESEUtdGVhSHRROTBhXzNhc2VFeUU3aUlib2FRRWVWcnNiNDVvQQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Brasil de Fato: Recife recebe ato pela eleição do presidente Lula neste domingo (11), no Parque 13 de Maio",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDFHb2FrNjZzUUF5NWYwVEJFNGZaQ3BRQzYwQmxublNuSFpXUm90clYwNEo1eTF1Snh2MXRMLXoyLXB2TExBTzZ5OFpqR3p1NElpT0ZibHI5bGlwbTBXTGVKTkF2TWltQ2VfSGxDOC1zM3dMb3kwd1ZNVGRZSzE4aU9XVDVpRW1BX3pTeloyMXJyYnNPWGpSZWhDM29QYndsYVJRZm96cTBQZVJWMURTMnlNc3JTUVJGVFhzRV9Mc1B1VktzR3dLLVYzSQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Acidente entre carro e VLT deixa motorista morto e mulher ferida em passagem clandestina no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEZUY3ZuQVhQaXJXZDRYOGwyQzRZT19WTkR1VVkyaXdrb1BudzdvRWpNMVZ4WkZlcFlwMjNFYjctcXNXYUpvMVR4TjZTTXRiZkVoNlh0ZWRIb0lOWlU4TW0wX3kybDFsTnRaeUlTSWJ3YktUYnZHR1V3NVZqSXdJeTZXdkhoRURRZ0dqdGZMSmxXX1Z6TnE1dXJNMldYRnoxQnfSAbABQVVfeXFMTTdyMEtabGt0WlBhOFlNQXpYRldBQVJmMmRfa3RjeVdQVmxuSFVFeXJtYlNwVmE4SXg0RFZSZHFFWllLR2g4SG16X29pZWpubGxKbnhCcFhIenBDNVJreEY0ZUdmR2E0YUlZZDJrdzloeGdxa1ZBY1lWRzA0b2hwZnFYWnRfQVBQWWNTQk1ORlo0R3lVdjNDR2FoYmFFQlF2WHRkZ2JlSFNGYkd5aWZhWDU?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Morre motorista de carro que colidiu com trem do Metrô do Recife em Jaboatão",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRV9FYkVTek5CWFVLRWN1T0JZNlJqWk9kNDlrdkVXS0Z6d0E1U1hYV0dhN0c1c0JaYnlDSnBCR1BpRloxZ1N4MWNnV1dvMUdmZHVBVW0wVXJWajJyVURPa0J1QW04YmNqRWJTc0x2Wm1rSVA3MTlDSjZuWGpkZ3ZMTzZ3WlBCSjRXQkxSd3hNeXIteTA2UlFkRExCNmFvSnB6M21Sa0dpaVU4VEF5UHh6adIBtAFBVV95cUxONmZ3S1JEVEtuTzlKeGRlODl0UXNXR3RvbGdSR2V0ODJKUUtzYzZvOW9mdk9MendySmhkOXozTlZzTi1sN0V3STlXSnVuM0ZONTZiTGluTkNaSXVwdjZtc2xMa1VSYmtaYW9IQWhTd1RGY3g1NWI0T3oyNGo0WjdkTGhUTW05US1tekNpZmQ5LTcxZ0p5QXhKSFZTNEZIOW1oN1FuZHBTcmFBTkRMbDRoNkh3NWc?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "JC: Antes do jogo na Arena de Pernambuco, Seleção Brasileira Feminina vence Argentina no Beira-Rio",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQlNYQWUyYWpabmxyWEVKQWoxcko5Mm9qTEJIOWMtOGE0dzdIRDFHUlNlRC1yUzJ3akxEd0tELTg4RzJ6cWcyMVV3MUtMbGR5NU5zdE5tTnZKdE96aUVva0dtTjZWNHRQNk9yZmkwWjV0QkhiNEZ3VW4xVTE5dXFkQnROTnlyblZLVFRHX3RRcXV2b1B5RllYWDNaa2FER1FzdVFmMDFIaTEtRjFEQnFydGg4dlEzeGZaUW9KNnRuejVQTU9qcUo1U3dpZUVkQ3BXTlpmZFpjTjV0YVhiVkxPbVEtc0wwQ3JqOFp3RW9PZkpXcEcybU15Wi1tbWtQODBOdEx6UWhR?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Incêndio atinge doceria em Piedade, no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkJ4OFdqSEh3MmFTbW5NN3J4VDVoekstaURSNEdqWDVZREt0cE5KYnVjVUV3Sk1kaWxzODhwMFU3NUpKNjVHMXdoLWV0UkpsXzlNTmo5RmMwbEY3SnBoRkw0aTlpdFlCbmU1WDN6OWhESEhLN2hyMXp4Nlh0eUNGZTEyTlgtSDRwN3NMWVp3OUEtTGVEMHFTRGtDc1dqODFUR2NxeGZXY2xGM0hWcGowZFR6WmtRX0tCLU5MTmNFRkdwLVZIUGc?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "A Nova Democracia: ‘Seis tiros em um pai de família com os meninos dentro de casa’: moradores protestam após PM matar trabalhador em Recife",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEt2MjU3SGhRX3hELU1ZVG4wblQ4bmNyQWI4WjI0c3Z2UUNDSzN3OHJLZEpiRElEcDBiWG9lckJYT1BYVlc4WVZfbDhsVUlTTWxMbHV1bEtFVzM3R2dtZFd5cTl0X0Ezd0o3T3pvcDlucGNTQ0Y0V0gtajBTN2ZuOW41bURKVnFwbkdEaGs2Q2FucS1ZT1lOaEtmVQ?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Tribuna Online: VLT atinge carro e deixa feridos em Jaboatão dos Guararapes",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmxUWkZkYnpWd1RWNXhuSUs2Rndnc181SEM5SE10eDV1TktaVDRyZVM2Sm9JM1BUc3VsS2ZESTJFaC1JdFRxVU9OMjFCbUYwakpIMV9HNS1QTzVoX29jc21MVThpclZ5QS13elJFb3dnODRmVFlBZzZfNVU3VTZzdGFHTFJRNW0zYnZzN3lpcW5zUUtTMmpTN01DWHBNQ2tKNnIyVkRvUlhIakNLdTBGcGhrbUN3Q24wV2hCU9IBvAFBVV95cUxNdmxUWkZkYnpWd1RWNXhuSUs2Rndnc181SEM5SE10eDV1TktaVDRyZVM2Sm9JM1BUc3VsS2ZESTJFaC1JdFRxVU9OMjFCbUYwakpIMV9HNS1QTzVoX29jc21MVThpclZ5QS13elJFb3dnODRmVFlBZzZfNVU3VTZzdGFHTFJRNW0zYnZzN3lpcW5zUUtTMmpTN01DWHBNQ2tKNnIyVkRvUlhIakNLdTBGcGhrbUN3Q24wV2hCUw?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Nill Junior: Diogo Moraes e Aderaldo Pinto podem assumir mandato na Alepe em 2027",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnJyeTVaNDFOeGwxQ2k5bnFFQlNDMjNGZl9aakE0UEdVNnZZTTZQclkxREM1WkhlYkNmU3ZjNVppOHFKek5sOExrZmpPeWlDd3pTQlA2QkNPd1JtU0tKV05ucm9iNVFqeFo3OVl2N2pPTzJyYldVX0dkb1NFUTE4SzQ5NlZBOEdweWNhVkgxWWdZcmFHUXNRQjBDYw?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "PE Notícias: Bancada feminina da Alepe cresce 33%, mas fica abaixo do recorde histórico",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzBnMWh0X2VwWlNHcTdLS3RKRWN2eld0V2Jjc0I0SG5Ed3hNWC1xN2pocnBobjRTZHRCTUpGODFMYTNENEdreDdVN0pyZHlQclJSWUROZ1AwNlpXODctcDFkTzlCLWhiaUNRdE1UVnpDaHpyUnFNd3dHeVQ0UmhrN0V1QnBWS0VsakVkazdiU3JONmxYU3ZGcWt0SEs0a0JWemkzcEFLRQ?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Carlos Britto: Mais de 60% dos deputados retorna à Alepe pós-Eleições 2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN25WVTVVOXNDNzRyWGppdmp6SndPS3NrVWVQNGVUajM4S1ViWXdDTUFTdjYzQ01rb1dGN2FTclJWc1FlbEw3U1lieVJ1RGVDRXlFb1JacWVLWTBNaUdRaFlvWW90V3lqVmZHdC1VLUl0RzNIb0s3NnlCbVRqd0NINnFoWENlM1AwS3gxaU9TSHRQQQ?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Magno: Fundação Altino Ventura celebra 40 anos de história em solenidade na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYV9HeVdGbHB3aTlXQ01EZ3VRc20tWjhwZE8wcVowQlRYV1N0MzFIMF9uMlV0Vm1xc1otRm5nS2hfSnZqeEMxX19MSVN1VWFFS0RQa0RYMnB4T2UtdUdWVDBMdkliSHZQUWZLTjN0STduZTJQLUp4ZWtZc0dWZTJ4WXJELVBCdmhhM05qX0hwMHphNTZxSVhxS2hmUnc5dDV3QlN2ZA?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Monitoramento captura primeiro tubarão de espécie associada a ataques no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOUU5OXNfMVo5TVI4cEduRGR1Vl80UkF5RTdJcTM3RDIzUmVxM01wQ09zSi11MmlvWVlkelNoWjBzX3ZIZml4b05BT1NncWxMN2NYUjVfM3VxNGZzakRYdlkzMzFDT2d3aHYwSWR1UDVybWl4VmZwNElESWxxc3p5WFNBVHh4X0VEYUpyUDJLTlpUTlUyVHJqWl9ZazZrQzFHZVVxNWx3eG9FM1ZEdEFLdzZZMVhIYzBXUzVTd28zWE9IVlF0RU1jRDZ3V195UUJzdXpHUEpaWDNsLW5pTERlM1lnNmNQV2hhVGlvcVV1aw?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Taís Paranhos: Governo de Pernambuco amplia programa de transporte acessível e reforça inclusão de pessoas com deficiência",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRXJJUWNYRGJMUk9rM0dkNi0yMW81SThtR2JJc005d0RFY3NhVnBBUnQ4blhwQW4xTHJHbGpsOV9DZEVJUmpvQmZwXy00ZW1CMFgwZnJDdnNnaXBmRGxKSk1FbFA2aVNuTXVnbGVjYnN3eWprRXItWkE2TnllMUpLSjZrclZvWnZMOWc?oc=5"
+    }
+  ],
+  "picos": [
+    {
+      "termo": "Meta",
+      "razao_aumento": 113.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-10T16:10:19Z",
+        "titulo": "Campanha de Lula acusa Meta de tentar interferir nas eleições e diz que acionará TSE e ANPD",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbGdrM3A5OTVTdDRCYThwRC02dFRDRHRFZVJDTkVJMUd5czV3Wm5vMnNlVGFhdWRYQ2g1ek1LNkJKdWdGeDFOeVdUX0VSU3JoY0JjS0lzdXBqOXJJZFhHUi1NdURpOGFQZG5ZaWNGOTlyUUUyYkNBTnpIS09Fa1I1NkJsLS1tbzI4Q3pYNGlPdTlmX3huQzl3c0Q1NV9hWXJvYU8zRU0wWVN1OV9oemRnblpSSUJvSkJfY1Vhc1FlU1l5Y3psanljME5OQ1Vrd3QxaUt5MkphbzZwRjRVV25GOGtJczVwOHgtX0VFQ3lobWRpZ9IBgAJBVV95cUxPZXZ0LTM4UmVKdEVCWWZUYndVbVI5R1lZWFBQNG84Wmt0Y0RYRXhrS3hBbVhSWkZJSzVwM0JGTnpoNTJyX3BnRjRVWEZRSy1XRmNFVS1CMjEzY295eklNTVBhNTNmTXhOMXNpQ05pMjB6c0VDSEMyeWVFOTVScFJKbE5lVHZsNjJURmhYT2hmUFFZVC1Rc2lrTlEyLWdEUjAyVnpFaHlvSTZ5Wm1sY3FkNnBlTVZZMDgzRWFPdjBTeHlLR25qTzBzLXFRT1NyUGtlX1RBa2RLdzFjRTVQLTh5OVREeDJwdXc5SWZUeVM2Nl9wNHhOZktLT0E5bGdzRjFH?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Ratinho",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Poder360",
+        "hora": "2026-10-10T21:58:18Z",
+        "titulo": "Flávio Bolsonaro acerta apoio de Ratinho Jr à sua candidatura",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDVsWUVJeUVvTERNbVprbjlrR3hTV2V4dE1WQWhIcFlLa1N1TmhaQVFIbS1MaXgyODBlcHhJbWpyaV9jNldqV21fVWN0U3U4R3NwRzBiQWFoZlVuTnFXdHJVaWFQc2NtckpRbG5wU083cUlHZ2VJX19VZ3pRb3pjNzhDQnRNVzgySUFvcEJhSG5jOHRneW9MRW9NQmlEOF9mdzMtSkl6WmZ5T0gyeE9R?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Raquel e João",
+      "razao_aumento": 90.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Jornal Ação Popular",
+        "hora": "2026-10-10T12:19:07Z",
+        "titulo": "Apostas entre simpatizantes de Raquel e João valeram até carro de mais de R$ 300 mil",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTi05ZlNRSFNEWHNLOFdGNXFJWG1FSEI2dWc2VTVYV3FaNFJqMFNiNGdPcndDWmtqRF96ZmJDX0I1ZkZjRDFISlI4LUp4TFhodWdJN2s4R096QmJfcUtxNFhiN1hGSTVhTTMzbjFnRDdrQ25tdUxRZEZsMllaV3hlOUsyWmdlQmdka3RIZ0hnSVVRMGJBV2phSklQM1BQcUkzTWZSa3F1WGh5bFRGNEY4aER6SktMUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "faixa presidencial",
+      "razao_aumento": 88.2,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-10-10T14:58:44Z",
+        "titulo": "Já projetando dia de posse, Flávio promete entregar 'Brasil nas mãos de Deus' e Jair Bolsonaro colocando faixa presidencial",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOWVEzM0x0enpLSThiaThkVElXVldLRmlhZmhpdjJHeWpnOE5BVmMyc0tNYzA4aU56b2FWLWtzZ1QtRjdTdXVLdmFVcFViTzJ5bndZR0JHemFSVko1ZmpTX1MyV3FZd0hJSnM2eWYtOVVQX0otQ3BrbnZHQWJFRnk4SW1IWW9rLUlMb2w0eGtwLVdXRDIwT1NiZkJjUm9sZ3lwQS1xcFlKMVdlOGJPN3YwM3FHaThvVjNkcEZvWTV2dU9SOHlDZXhUa1IzUlFfLTBJZ0h6UkZpR2tHbGUtemFBUjlPazdWekpFQzdRdXI1NUJMc3VpeThQSVVBejVqZG1JczdsUW1PLWZLa0VLZjhrQlkwdzdZOXVyaWt2S2NsVkLSAa8CQVVfeXFMTjZLcmlXYm1POFctU0JCSGhCQjZ2SGhNX2dOT3ptY1FsWkZzWTlfWlAzWHFOOEEwMnBUcndmUkE5U0tRQlNkZzVpdk9KNlRGMmptTi0ydGotQlRmdU5RRzVSSndVc2NfRWpyaGpRZXh5REJfcTZjRUdDekdlTEl4OEU0eGtTb1NMU1VyR2ZHcUdObmx5ZU1jNFVLQ3ZnblFNcVM3c2V3dkVwOXpyMXQwaDlLclNvcHRsMzdudXdaa2s2UE05U3QtNkZKdlBzeDhnQS1UdjQ0aFF2elV6eHlxUTR6SGRFcEN4eEFndE9mY1J3R19TUkgxS1I5dGstWE1hVnY1dTF6Z1RLU1lFNTNqc2NrT3JqMXZ1TW5zRENEYnd6OGdLVDkzN2xJS0xod3Jv?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Ratinho Jr",
+      "razao_aumento": 75.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Poder360",
+        "hora": "2026-10-10T21:58:18Z",
+        "titulo": "Flávio Bolsonaro acerta apoio de Ratinho Jr à sua candidatura",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDVsWUVJeUVvTERNbVprbjlrR3hTV2V4dE1WQWhIcFlLa1N1TmhaQVFIbS1MaXgyODBlcHhJbWpyaV9jNldqV21fVWN0U3U4R3NwRzBiQWFoZlVuTnFXdHJVaWFQc2NtckpRbG5wU083cUlHZ2VJX19VZ3pRb3pjNzhDQnRNVzgySUFvcEJhSG5jOHRneW9MRW9NQmlEOF9mdzMtSkl6WmZ5T0gyeE9R?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Lula acusa",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-10T16:10:19Z",
+        "titulo": "Campanha de Lula acusa Meta de tentar interferir nas eleições e diz que acionará TSE e ANPD",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbGdrM3A5OTVTdDRCYThwRC02dFRDRHRFZVJDTkVJMUd5czV3Wm5vMnNlVGFhdWRYQ2g1ek1LNkJKdWdGeDFOeVdUX0VSU3JoY0JjS0lzdXBqOXJJZFhHUi1NdURpOGFQZG5ZaWNGOTlyUUUyYkNBTnpIS09Fa1I1NkJsLS1tbzI4Q3pYNGlPdTlmX3huQzl3c0Q1NV9hWXJvYU8zRU0wWVN1OV9oemRnblpSSUJvSkJfY1Vhc1FlU1l5Y3psanljME5OQ1Vrd3QxaUt5MkphbzZwRjRVV25GOGtJczVwOHgtX0VFQ3lobWRpZ9IBgAJBVV95cUxPZXZ0LTM4UmVKdEVCWWZUYndVbVI5R1lZWFBQNG84Wmt0Y0RYRXhrS3hBbVhSWkZJSzVwM0JGTnpoNTJyX3BnRjRVWEZRSy1XRmNFVS1CMjEzY295eklNTVBhNTNmTXhOMXNpQ05pMjB6c0VDSEMyeWVFOTVScFJKbE5lVHZsNjJURmhYT2hmUFFZVC1Rc2lrTlEyLWdEUjAyVnpFaHlvSTZ5Wm1sY3FkNnBlTVZZMDgzRWFPdjBTeHlLR25qTzBzLXFRT1NyUGtlX1RBa2RLdzFjRTVQLTh5OVREeDJwdXc5SWZUeVM2Nl9wNHhOZktLT0E5bGdzRjFH?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "acusa Meta",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-10T16:10:19Z",
+        "titulo": "Campanha de Lula acusa Meta de tentar interferir nas eleições e diz que acionará TSE e ANPD",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbGdrM3A5OTVTdDRCYThwRC02dFRDRHRFZVJDTkVJMUd5czV3Wm5vMnNlVGFhdWRYQ2g1ek1LNkJKdWdGeDFOeVdUX0VSU3JoY0JjS0lzdXBqOXJJZFhHUi1NdURpOGFQZG5ZaWNGOTlyUUUyYkNBTnpIS09Fa1I1NkJsLS1tbzI4Q3pYNGlPdTlmX3huQzl3c0Q1NV9hWXJvYU8zRU0wWVN1OV9oemRnblpSSUJvSkJfY1Vhc1FlU1l5Y3psanljME5OQ1Vrd3QxaUt5MkphbzZwRjRVV25GOGtJczVwOHgtX0VFQ3lobWRpZ9IBgAJBVV95cUxPZXZ0LTM4UmVKdEVCWWZUYndVbVI5R1lZWFBQNG84Wmt0Y0RYRXhrS3hBbVhSWkZJSzVwM0JGTnpoNTJyX3BnRjRVWEZRSy1XRmNFVS1CMjEzY295eklNTVBhNTNmTXhOMXNpQ05pMjB6c0VDSEMyeWVFOTVScFJKbE5lVHZsNjJURmhYT2hmUFFZVC1Rc2lrTlEyLWdEUjAyVnpFaHlvSTZ5Wm1sY3FkNnBlTVZZMDgzRWFPdjBTeHlLR25qTzBzLXFRT1NyUGtlX1RBa2RLdzFjRTVQLTh5OVREeDJwdXc5SWZUeVM2Nl9wNHhOZktLT0E5bGdzRjFH?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Lula acusa Meta",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-10T16:10:19Z",
+        "titulo": "Campanha de Lula acusa Meta de tentar interferir nas eleições e diz que acionará TSE e ANPD",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbGdrM3A5OTVTdDRCYThwRC02dFRDRHRFZVJDTkVJMUd5czV3Wm5vMnNlVGFhdWRYQ2g1ek1LNkJKdWdGeDFOeVdUX0VSU3JoY0JjS0lzdXBqOXJJZFhHUi1NdURpOGFQZG5ZaWNGOTlyUUUyYkNBTnpIS09Fa1I1NkJsLS1tbzI4Q3pYNGlPdTlmX3huQzl3c0Q1NV9hWXJvYU8zRU0wWVN1OV9oemRnblpSSUJvSkJfY1Vhc1FlU1l5Y3psanljME5OQ1Vrd3QxaUt5MkphbzZwRjRVV25GOGtJczVwOHgtX0VFQ3lobWRpZ9IBgAJBVV95cUxPZXZ0LTM4UmVKdEVCWWZUYndVbVI5R1lZWFBQNG84Wmt0Y0RYRXhrS3hBbVhSWkZJSzVwM0JGTnpoNTJyX3BnRjRVWEZRSy1XRmNFVS1CMjEzY295eklNTVBhNTNmTXhOMXNpQ05pMjB6c0VDSEMyeWVFOTVScFJKbE5lVHZsNjJURmhYT2hmUFFZVC1Rc2lrTlEyLWdEUjAyVnpFaHlvSTZ5Wm1sY3FkNnBlTVZZMDgzRWFPdjBTeHlLR25qTzBzLXFRT1NyUGtlX1RBa2RLdzFjRTVQLTh5OVREeDJwdXc5SWZUeVM2Nl9wNHhOZktLT0E5bGdzRjFH?oc=5",
+        "peso": 1.0
+      }
+    }
+  ],
   "nuvem": [
     {
-      "termo": "CENSURA",
+      "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 9.71,
+      "fatia_pct": 24.84,
+      "fontes_distintas": 21
+    },
+    {
+      "termo": "Bolsonaro",
+      "peso_relativo": 84.2,
+      "fatia_pct": 20.92,
+      "fontes_distintas": 21
+    },
+    {
+      "termo": "Lula",
+      "peso_relativo": 78.9,
+      "fatia_pct": 19.61,
+      "fontes_distintas": 20
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 60.5,
+      "fatia_pct": 15.03,
+      "fontes_distintas": 17
+    },
+    {
+      "termo": "Raquel",
+      "peso_relativo": 42.1,
+      "fatia_pct": 10.46,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 36.8,
+      "fatia_pct": 9.15,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 36.8,
+      "fatia_pct": 9.15,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "Campanha de Lula",
+      "peso_relativo": 21.1,
+      "fatia_pct": 5.23,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "TSE",
+      "peso_relativo": 21.1,
+      "fatia_pct": 5.23,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Meta",
+      "peso_relativo": 21.1,
+      "fatia_pct": 5.23,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Jair",
+      "peso_relativo": 15.8,
+      "fatia_pct": 3.92,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Jair Bolsonaro",
+      "peso_relativo": 15.8,
+      "fatia_pct": 3.92,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "faixa presidencial",
+      "peso_relativo": 15.8,
+      "fatia_pct": 3.92,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Cristian",
+      "peso_relativo": 15.8,
+      "fatia_pct": 3.92,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "EXERCITODOLULACONTRACENSURA",
+      "peso_relativo": 15.0,
+      "fatia_pct": 3.73,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Remo",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.53,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "MITB",
+      "peso_relativo": 13.4,
+      "fatia_pct": 3.33,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Campanha",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.27,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Calleri",
+      "peso_relativo": 12.6,
+      "fatia_pct": 3.14,
       "fontes_distintas": 1
     },
     {
       "termo": "MEXA",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.22,
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.94,
       "fontes_distintas": 1
     },
     {
       "termo": "NOSSOS",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.22,
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.94,
       "fontes_distintas": 1
     },
     {
       "termo": "DIREITOS",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.22,
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.94,
       "fontes_distintas": 1
     },
     {
       "termo": "NOSSOS DIREITOS",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.22,
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.94,
       "fontes_distintas": 1
     },
     {
       "termo": "MEXA NOS NOSSOS",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.22,
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.94,
       "fontes_distintas": 1
     },
     {
-      "termo": "EXERCITODOLULAEMCAMPO",
-      "peso_relativo": 90.0,
-      "fatia_pct": 8.74,
+      "termo": "CALAR",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.75,
       "fontes_distintas": 1
     },
     {
-      "termo": "Vini",
-      "peso_relativo": 85.0,
-      "fatia_pct": 8.25,
+      "termo": "VÃO NOS CALAR",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.75,
       "fontes_distintas": 1
     },
     {
-      "termo": "Real",
-      "peso_relativo": 80.0,
-      "fatia_pct": 7.77,
-      "fontes_distintas": 1
+      "termo": "Eleições",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.61,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Madrid",
-      "peso_relativo": 80.0,
-      "fatia_pct": 7.77,
-      "fontes_distintas": 1
+      "termo": "Eleições 2026",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.61,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Real Madrid",
-      "peso_relativo": 80.0,
-      "fatia_pct": 7.77,
+      "termo": "João",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.61,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.61,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Ratinho",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.61,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Alepe",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.61,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Kishimoto",
+      "peso_relativo": 10.3,
+      "fatia_pct": 2.55,
       "fontes_distintas": 1
     },
     {
       "termo": "Brusque",
-      "peso_relativo": 75.0,
-      "fatia_pct": 7.28,
+      "peso_relativo": 9.5,
+      "fatia_pct": 2.35,
       "fontes_distintas": 1
     },
     {
-      "termo": "Fanboy",
-      "peso_relativo": 70.0,
-      "fatia_pct": 6.8,
+      "termo": "Boruto",
+      "peso_relativo": 8.7,
+      "fatia_pct": 2.16,
       "fontes_distintas": 1
     },
     {
-      "termo": "Mr Fanboy",
-      "peso_relativo": 70.0,
-      "fatia_pct": 6.8,
-      "fontes_distintas": 1
+      "termo": "Janones",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Fanboy EP7",
-      "peso_relativo": 70.0,
-      "fatia_pct": 6.8,
-      "fontes_distintas": 1
+      "termo": "Nordeste",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Mr Fanboy EP7",
-      "peso_relativo": 70.0,
-      "fatia_pct": 6.8,
-      "fontes_distintas": 1
+      "termo": "Lula e Flávio",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Diomande",
-      "peso_relativo": 65.0,
-      "fatia_pct": 6.31,
-      "fontes_distintas": 1
+      "termo": "Lula acusa",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Angelina",
-      "peso_relativo": 60.0,
-      "fatia_pct": 5.83,
-      "fontes_distintas": 1
+      "termo": "acusa Meta",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Mourinho",
-      "peso_relativo": 55.0,
-      "fatia_pct": 5.34,
-      "fontes_distintas": 1
+      "termo": "Lula acusa Meta",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Maracanã",
-      "peso_relativo": 50.0,
-      "fatia_pct": 4.85,
-      "fontes_distintas": 1
+      "termo": "interferir nas eleições",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Paysandu",
-      "peso_relativo": 45.0,
-      "fatia_pct": 4.37,
-      "fontes_distintas": 1
+      "termo": "Deus",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Piton",
-      "peso_relativo": 40.0,
-      "fatia_pct": 3.88,
-      "fontes_distintas": 1
+      "termo": "Bolsonaro colocará",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Amin",
-      "peso_relativo": 35.0,
-      "fatia_pct": 3.4,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Isma",
-      "peso_relativo": 30.0,
-      "fatia_pct": 2.91,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "CHAPTER",
-      "peso_relativo": 25.0,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FANBOY CHAPTER",
-      "peso_relativo": 25.0,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MR FANBOY CHAPTER",
-      "peso_relativo": 25.0,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Villarreal",
-      "peso_relativo": 15.0,
-      "fatia_pct": 1.46,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "CBLOL",
-      "peso_relativo": 10.0,
-      "fatia_pct": 0.97,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Naruto",
-      "peso_relativo": 5.0,
-      "fatia_pct": 0.49,
-      "fontes_distintas": 1
+      "termo": "presidencial nele",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 3
     }
   ]
 }
