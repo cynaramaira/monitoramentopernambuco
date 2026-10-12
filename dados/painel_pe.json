@@ -1,204 +1,252 @@
 {
-  "atualizado_em": "2026-10-12T09:45:05Z",
-  "total_analisado": 76,
+  "atualizado_em": "2026-10-12T19:47:38Z",
+  "total_analisado": 106,
   "x_recife": [
     {
-      "termo": "Recife",
+      "termo": "#LulaComAparecida",
       "posicao": 1,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Recife",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23LulaComAparecida",
       "ruido": false
     },
     {
-      "termo": "#LULANAPAULISTA",
+      "termo": "#2026MAMAVOTE",
       "posicao": 2,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LULANAPAULISTA",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%232026MAMAVOTE",
       "ruido": false
     },
     {
-      "termo": "Corinthians",
+      "termo": "Juliette",
       "posicao": 3,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Corinthians",
-      "ruido": true
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Juliette",
+      "ruido": false
     },
     {
-      "termo": "#JANONESELULACENSURADOS",
+      "termo": "Copacabana",
       "posicao": 4,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23JANONESELULACENSURADOS",
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Copacabana",
       "ruido": false
     },
     {
-      "termo": "#DIREITATERRORISTA",
+      "termo": "I VOTE",
       "posicao": 5,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23DIREITATERRORISTA",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=I%20VOTE",
       "ruido": false
     },
     {
-      "termo": "Pulgar",
+      "termo": "#ItBoyJiminDay",
       "posicao": 6,
-      "variacao": "-1",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Pulgar",
+      "url": "https://x.com/search?q=%23ItBoyJiminDay",
       "ruido": false
     },
     {
-      "termo": "Seedorf",
+      "termo": "HAPPY BIRTHDAY JIMIN",
       "posicao": 7,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Seedorf",
+      "url": "https://x.com/search?q=HAPPY%20BIRTHDAY%20JIMIN",
       "ruido": false
     },
     {
-      "termo": "Flamengo",
+      "termo": "#StrayKids",
       "posicao": 8,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Flamengo",
-      "ruido": true
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23StrayKids",
+      "ruido": false
     },
     {
-      "termo": "VOCÊ PERDE",
+      "termo": "#OctoberMagicJimin",
       "posicao": 9,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=VOC%C3%8A%20PERDE",
+      "url": "https://x.com/search?q=%23OctoberMagicJimin",
       "ruido": false
     },
     {
-      "termo": "#FandomsNoMASP",
+      "termo": "ophelia",
       "posicao": 10,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23FandomsNoMASP",
-      "ruido": false
-    },
-    {
-      "termo": "SAMUEL XAVIER",
-      "posicao": 11,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=SAMUEL%20XAVIER",
-      "ruido": false
-    },
-    {
-      "termo": "Carrascal",
-      "posicao": 12,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Carrascal",
-      "ruido": false
-    },
-    {
-      "termo": "#TSECOMPRADOPORBOLSONARO",
-      "posicao": 13,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23TSECOMPRADOPORBOLSONARO",
-      "ruido": false
-    },
-    {
-      "termo": "Nunes Marques",
-      "posicao": 14,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Nunes%20Marques",
-      "ruido": false
-    },
-    {
-      "termo": "Memphis",
-      "posicao": 15,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Memphis",
-      "ruido": false
-    },
-    {
-      "termo": "Paulinho",
-      "posicao": 16,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Paulinho",
-      "ruido": false
-    },
-    {
-      "termo": "Renato",
-      "posicao": 17,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Renato",
+      "url": "https://x.com/search?q=ophelia",
       "ruido": false
     },
     {
-      "termo": "Carrie",
-      "posicao": 18,
-      "variacao": "-2",
+      "termo": "Feliz Dia",
+      "posicao": 11,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Feliz%20Dia",
+      "ruido": false
+    },
+    {
+      "termo": "Sabotagem",
+      "posicao": 12,
+      "variacao": "+7",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Sabotagem",
+      "ruido": false
+    },
+    {
+      "termo": "Lulacabana",
+      "posicao": 13,
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Lulacabana",
+      "ruido": false
+    },
+    {
+      "termo": "Grammy",
+      "posicao": 14,
+      "variacao": "+11",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Grammy",
+      "ruido": false
+    },
+    {
+      "termo": "FELIZ ANIVERSÁRIO JIMIN",
+      "posicao": 15,
+      "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Carrie",
+      "url": "https://x.com/search?q=FELIZ%20ANIVERS%C3%81RIO%20JIMIN",
       "ruido": false
     },
     {
-      "termo": "Dia 25",
-      "posicao": 19,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Dia%2025",
-      "ruido": false
-    },
-    {
-      "termo": "não vão nos calar",
-      "posicao": 20,
+      "termo": "Arthur Cabral",
+      "posicao": 16,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=n%C3%A3o%20v%C3%A3o%20nos%20calar",
+      "url": "https://x.com/search?q=Arthur%20Cabral",
+      "ruido": false
+    },
+    {
+      "termo": "DEUS USA LULA",
+      "posicao": 17,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=DEUS%20USA%20LULA",
+      "ruido": false
+    },
+    {
+      "termo": "Huguinho",
+      "posicao": 18,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Huguinho",
+      "ruido": false
+    },
+    {
+      "termo": "SEM SOM",
+      "posicao": 19,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=SEM%20SOM",
+      "ruido": false
+    },
+    {
+      "termo": "Padroeira",
+      "posicao": 20,
+      "variacao": "-7",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Padroeira",
       "ruido": false
     }
   ],
   "google_trends": [
     {
-      "termo": "Recife",
+      "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Ato em apoio a Lula reúne milhares de pessoas no Recife",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hdG5LdTd6VHROVTA4NThOWjczMGlGQ0JCQm5kck85NHFUVFRKU2tWUGhiM0NhNGFwTE5MVDZfMjA3d1JQNjNpTTZVWVVoTVE3T05OREQ2Q3p2REhoY0lNc1l3eHNqU2U1SUlr0gFvQVVfeXFMUFpWb0p3dW5VXy1PbW1QX0ZxbzNtXzR6a0xHaWM3cTVRNjAtM3paR3BseDVLUWxYVlhtellLMTVTdjYydFJ1RF82YkZVcVNTYzVfSG1qNXNzMDBYamxxSndNZGRveDJfc0JXUks4TFFJ?oc=5"
+      "manchete": "CBF: Arena Pernambuco recebe segundo amistoso entre Brasil e Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObzBsdG5faG5WdTlxT1dRakdpSkVTeWNXRy12ZnJpMmxXNmh4dVBVbTB6RXIzd3F3Ty0wcFNoZGJORVhySkNKS2ZhUmZBWVExeks4MUNGR1RxVjRZUVM0MmlJeFNuaU9Zel9NXzdKcWJiLWxZNl9nVjlhX0hCdzlXUncyR3RjaDlxSzF4aV9qQk1zZ0RuSEVCdmdGMDZyVXR5SFBsMlpkNEQxWkdYaGZRVFdXdUxpOXliOWhPbkZjRmVtYXkyVkhWWHpSVkoxZk1VeGszLUlJbnRFWVAxclE?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Estadão: Morre Jomard Muniz de Britto, cineasta e precursor do tropicalismo em Pernambuco, aos 89 anos",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaXZ2MnJraER4aW1iTmF4UUh3S3dxbWRjQVlwUVdrdFhySWxfNW1oaXdmTTJEaV84YlJxaVF4b0QxeXI0blRTOGswTkZabEVvS2swOHhOZlN1QTRvNXRfNEphblEtZnpRSDFpVElRMFp3aVZtV0hjMmhLN0thX1Z1MERGQnNKNThwUlpOclVyOXdKUDY5c0oyRE1BaVc2N1N5bXZibDlueUlWOW1qci1oNVFKMWdfZElOcmluT0dfWnR0Q1FZa2E0YXNZYU5BVDZUNk1Ud25LONIB3AFBVV95cUxNVTNVbGVGT2lCRTYzbjEzcHE2X056b2xwYjVpc2piVzRDbzJreVhIUTZuak1jNURhR2VYcWlINVctMnpKQ3dlcktJWU1XVmpTZXJFamRkMGhJa3FHWU5HbnVjdWY2YjlVMXN3NlFraEY5Mmo0NEJfOFk4bFNROGFEVkhnc256REM4RFFJanl2czJkM2JEQWhKc3RBMGd6blBPcVN6R21ENzJ1eGtmRGJhVHFwUC1pNlphbVdEX0phWmFuTmFEYUdqUUhPdlBSa2N4UXlEWlpxLXl2NlVz?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Doriel Barros lança carona solidária em Pernambuco para diminuir abstenções no segundo turno",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOd3QxWkphWGloUFM1ODhpYUZsTVFRcms1OEtBQk1mWFpwVl9xdEZlM3c5Nld1WkNKekttbDlHOTN6ZkVCUk9wZHRtRzAyeVQ3QURCZGM0X09kLXVWWE03eW1Db2ZNU3JacjN3aU9qcVR0cjA0c3ZFTUFPcHNPY3PSAYMBQVVfeXFMT0tQNmtNTTBZUnRpel9fd01GT2dlSmdBdDg4NDkyVUNOOFZFWXBPV21qbFRadmpkWFdqb3JYekJ3OHZ2a2kyVDBBekpOYU5xS3djcktXVFRKQURmXzN5c1V3VlZLYU5tMVNHZ2c4cndZa1lSZWhCVS1MdGZGWVo2djZBbTA?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Acidente entre duas motos deixa pessoa morta e outra ferida na PE-22, no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFRGUlA1Q0NNWW5kMGV5N1QzMlVhWmhDekFSZkZPMVBYNTVFcjBHYVlWVGJCQlVlSXhyVm1DV1ZsTVo0Ukp4RzNlX01Yc0J2OHprbHg5dUk4ejJSajFXQWlTRlA2aW05WFdXYnB6WXQyMENfTTdGWnlqY0M4NDhHTVdJSU55WnRkc200cmNUVzNmX3NVdVlUd1pB0gGoAUFVX3lxTE5SQWxCQ3BKVUJ2SzRVZUJrVUgwWU9ZSG1mTTFBdTdUS2lHb3FiWWdoOVlwcWdveHc0em84NFJBLUN3cHp5V1ZPTi1NNms4TE9yTEhiNlkxcTBKWmR5NEoyMmdsU1hFZ2xydjBLLWlXdERqMFUxN2pUdlF6QlFqeGhpT3hTdUY2WWQtTmtoV3lMMXVpUl9uZWFkb3lkMkw3NFcweE1FVkVCVw?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Jamildo: Pernambuco lança estudo para avaliar capacidade digital e atração de empresas de data centers no estado",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFVzTFJ0ZVFyeUxfVjZMV3FUUi1DV2otZXdCUEZHQlVTYk1fbmtjckxPOURyQ0xWM2tYZm9tUXotY0FtSllRT3Awd09mQmFSbFAxbkh2amhLZG5QUkUtTC1zaHc3SllEZ1FmVzFEUVliUjFOaXEyQnhxdldkUGxpY3pGQ2tod0tJTndWMFhQV1ZDalNWZ3EzTDVMd2djUm82bXFzeUpSNV9KZ0hOdHdlWFc0VnA5b3h2T2RIemhnYkNTWHVidHExakQ0V09fWURsWTVHalMtb3jSAdgBQVVfeXFMTVBVc0xSdGVRcnlMX1Y2TFdxVFItQ1dqLWV3QlBGR0JVU2JNX25rY3JMTzlEckNMVjNrWGZvbVF6LWNBbUpZUU9wMHdPZkJhUmxQMW5IdmpoS2RuUFJFLUwtc2h3N0pZRGdRZlcxRFFZYlIxTmlxMkJ4cXZXZFBsaWN6RkNraHdLSU53VjBYUFdWQ2pTVmdxM0w1THdnY1JvNm1xc3lKUjVfSmdITnR3ZVhXNFZwOW94dk9kSHpoZ2JDU1h1YnRxMWpENFdPX1lEbFk1R2pTLW94?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha de S.Paulo: Em Recife, comunidade atingida por chuvas de 2022 cria plano de prevenção a desastres climáticos",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQjM3WVloeDRrUmJDbEh6OUdaa3kyTi1SNUdvOVFKbGtVZVFLSGt3YzA4bXhDVVV5OFMyYWl2RV9Gc3NsUmFDWjMtQndxXzN1dmtqM2xtdXd3QWhNYnppMTNYMjBMNFA1MUptc0padWpqUnh0Qlk0cnpxQThBcG1EQTJ4OHd5SVlrRVNWVjcwU2ZGUjlBZUVKNUZTV2tndGlhWVNXZ0xvOU8xQ0I2QVIwT2lWY25xbDJ4MGFDUXVqRi00eURaN1d2ZkRibHE0Slc3ejNscHVUTGhMOEkwaGgwejhvMA?oc=5"
+      "manchete": "Agência Brasil: Após cortes, seleção feminina chega a Recife para encarar Argentina",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1dUZXFIQUJUa0hVWld1ZVRvcnNjbkpELXZuTkpfTXVPZVplQzREOXcyekZ4X3NJcGZyVzZscnNibWFwVE5SRURVSThPQTdRTmlyZjZfajFRT2FTdzFuVmRTTi1Gc2lyejFmTXpBSUNOQllvS1Rsd3R1ZFVKTkR6STF3ekx2OHpHeFFQRGdKWThmMzl6eVdsajFvNG0yZS1nNHAxRUdRNzk3Rl9HMy1VUmJPdmRYdmZ4ZDBEUGtBcw?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdXpwU0g5TjVic1lXQ2NEX0lpQndzTFFKSXBENk8zZWlPVVRfTUlLd2NfZFRkbG9ab29TRjZQcnhFMDd3anJSM1J1akhpaVJ4TzNORFZKNDFYQlJPQ3U5VGVrdjF0enF3S0t6VGZ4SDdIYW5XbndPQURvek1sUTYtdER5YjlhX3pqRjN5dTJUcVVSS0xDSVNWSkdHX1ZBU1lMZkMtZlZQQXZ4TndfWWZDd1JPZkZhb211X2d5cFROY0Q1UTdHdmFzZWxfZHNCbDBaZmlGQXdmcUF2b2RuZkk4bUlxUmtGc1JtRlI1YlAtVkJ4a0NsT2g4UkV4QmhHMDBnMlh0ZlZTdm_SAZcCQVVfeXFMUGVUcTdfaThFMDBJb0lwUUNCS1o0ZERaRDNSVXVOMnV3Q0tDd0lWRk1FWmxZX3NFT1hZQ1hLMjZ5QUJRRnlyY2Zmc3RMakQtazJTVjA2QWdnZHVxYmV0QmNNMEZtNXZSMTdudmM2QzdSWEdaaVhFUjNmdXdTYk00V0dfejl5T3JrQ3FhTVZSOTJZQmJmek9IZFdQS3h1d0RaQVZaU2JmMHpLRDR3UHlUeFU5d3F6RXhSZWpyN0g0MFhvSFJ0bWJvYzRHTXRsWThSVHdjbm9adldYX2M5TDVnenJ2Y3ROdTdlVlNHTHRWMTI1WC1lOXNmVHpVOHdFNFctaU8wbnBjaGNpbTlvbDdlblRMQ2F1T3BJ?oc=5"
+      "manchete": "G1: PF prende passageira com quase 34 quilos de 'supermaconha' em malas no Aeroporto do Recife; VÍDEO",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM3MwZnBWeUdPVDhOeWtQRVZfUXU2MGtmcnNlbmhZdm5WZlZMM2FXR2pvZWh6cThBbXU0QU1NdTlpMlV0R0o3cE4tR1hjUnJjOEJ3U0xEdnltOFVIUEV4YUxWbWhMek1OdTROWXRRMFZTcHIxU2l3NngyNW44MzVoc1pPTEJRRUh1YkdRS0VXQWZyTEVHekN1QTlKdGJKeTAzS2RtNXNkWFAwTmhvYlp4MEdkbVp6aWE1ams5UmsxSDhPNklZRlJJMU85Q0ItMVRFUHRvQ3AtNWZFZ19DS0ZxUktWcTYwZ1NkWmNTOTdPZUlxMDTSAYICQVVfeXFMTkd0aHBTY05ESFpicXZ5OE1zdklCRTZXSTNGb1dSTTM4NE82T1pQUFd6bGthSjFKbFhuMUcteFN5eDZTeGI4OU1wSGFZcW5MMGVZbjJIMno0U3c5QmwxMHBKY0hqVTRIRUlrdHhvWFlaMFBQemI4Y0ppUnBtMjJ1MWRZdlJLTldVaWk0ZzA3NFRENHRJTXgzLTNmNXVRS1hobS1ZU3ZTclV2blFNczUtYmUxbUxyQzR2eDhCUkFCY0l4ei1yZExDTTBkQW5FeEpNR2JmOURabklkWUlRLVhFaXpQQ29rLWtmRkVkTUlUWDFKYW9VLVhMSWRkS0hNUmZrTzFn?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "RioMar Recife: É Hoje! Circo da Trup em celebração ao Dia das Crianças",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmpKYVNiVFBwNzUwYmVTZl9fLVl4M3pLcnlYai0zeHVHODVzRlZndkVSZnQ1XzFaZmNVNWg4a21SRWQ2MG9uNmxmRDk5TlNRX3h6QXBoeUV2bDJ1UklwVWhZX2lYcXZZLW1vTEJRR1lRRDRfano0dVotS3l4bGVfZzRYX25vV1UzMF9UWktYQnh1VzktWWFXaVVWWm4?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Jamildo: Ato a favor de Lula reúne multidão no Centro do Recife em mesma data de evento na Paulista",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2J6UEtGMGhBa195NXBCb2tPcW1sY0NPR0JiYVZzcXUzOGI3dDZLMVB0UlNKZ3RHTm9zQUYzUjEzTlBmVy1ES3h0cmRjZVh4TmhCbjB1elp5aC1qR1RHaGJscWM2UEY2MDl1RzZzYjhpc0dTdEl5S2NGNWJqZzRjWU15VC0xRjNlSjVQNlVMcXBTRFBhRldBcUZPbVl3WnpkelJLM0VxX0dkS2l5OVJ4TV94SF9jOWlWWEc0OU5jSHBmUdIBxwFBVV95cUxPbjdwOHN2S3kyZGtUeUJqRUJIenpTZGhnanhNODludUFNMVQ3OGtxS0RRbFZZNWJyUFBwSmk3RDJWbTB1cGd0MWt4T3d5WWxoT2lab3A2ekxUY2loUXpFS05MQV9MN1JpQjNtNGlHenl0djBIcE5DdDgxRmJkNGdVdmxydmU0MFNqV3RBcER5SFpCTkp0YllEZjZpNjJrX0lNVlBIblZHcDRRWnRDOXBsdTlfbUEtemswcEF5eU5GU3J1VG4xOWdr?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "CBF: Seleção Feminina desembarca em Recife para segundo amistoso com a Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRlNmakRmQnhXVWhiS01qWnk2dTNhNVVseWlxNm5YS21FaFlZY1F5c2R2TmpZNUNwV2JPQUZNVkd1NW40T0czaWRaSWpPYjBFMXI0cmloanZGZWladEgxNGhPYTZJMG9Fa2Y5cldzSUlsdTNidzIwOTRfWVZHTEgtenJteUNvZjBnNElQZWhBUVJ5MVpmem1LdmZST3BDdmJmdDlKMUFFRV9fOEhrb1hBYy1sOXFfT21yU29hS2JVeDIxQ19nWWtPUDlrQUdJRm5uS3MxOUF6OWVzZ3lZcE9hMHNZbDhtT0l2dm1j?oc=5"
+      "manchete": "Folha PE: Monitoramento captura primeiro tubarão de espécie associada a incidentes com banhistas na RMR",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnlhMXhkdVQxYVQtbVFOa1JFbWpHeFJtSnV5Q0F1VmtUcC1lM18wNmxTUjNCTFRJV3N1TVBfdGNka1hZMExTZUdEeHh6XzNTNk90ZVJIOE9ETXM2VEdVd0EwT1c0MEdIVmFKMTdnZ0d1OXZOQk51eWV5RmYyYU1Db1ZyckNYQUZockM2cUR6Szg2RXQ0RVY3eGc3aGt6ZVQ1QXdtNGlqNi12cXEw0gGsAUFVX3lxTE5WeWExeGR1VDFhVC1tUU5rUkVtakd4Um1KdXlDQXVWa1RwLWUzXzA2bFNSM0JMVElXc3VNUF90Y2RrWFkwTFNlR0R4eHpfM1M2T3RlUkg4T0RNczZUR1V3QTBPVzQwR0hWYUoxN2dnR3U5dk5CTnV5ZXlGZjJhTUNvVnJyQ1hBRmhyQzZxRHpLODZFdDRFVjd4Zzdoa3plVDVBd200aWo2LXZxcTA?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: 12 de outubro de 2026",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsd3ZQTTRUczJJNXl6Z2dueGJkWk1pM21iMVNkSmJwMDRfR1hGMzVSS3JrOERnYVRkS3RZYV94Y1hOMDFOY2tjR1A4MXp5QlU?oc=5"
+      "manchete": "Blog do Mário Flávio: Quatro adversários lideraram desgaste de João Campos na Região Metropolitana do Recife",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONE5RVWVPS3lIYmFMZ3NSdHJJVkhOOS1KQnN1YjJuS09xNWkwZ0VkUGxmX1YyOFB1b1Q0STFvQWtHQlQzVGVZN0NHRVBDWmF2VFExZFNFeFBWYWxFX0UzRDJIcjZnVk1iWWhWTzBLYUZMZkU4UE0wY3dBWnZieTZGT2Yzd0Z0bGVVdnVsTkVCZW1aQTl0ZXRwZUZHazAyMndhNVktaV9LNWZCU0JBT0lLYllSRGplVDhrOFlxTg?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Francês News: Tubarão-tigre é capturado e monitorado no litoral do Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUhIc0JmVzJjUVhZSTFjU2xOXzdvYU9nRGhzRXJRcTFXT2FGb25nRDNtRWltUGxuVEJOVXRyZlJMVHF2Y2RNOVpZZzMteE5UdFE2cGRtaExYbHdJT25NVTUwaEtJWXVIbDVfaUhENG9QUlBtenNlcFBpZnFsb1V5VXpwR0xqb0FlMmtDeGdzY3FMRXg5MjNpZC1udjEzT0xLMThkZHNZeXFEMFRGdTFudGpMN0h5dw?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Pernambuco Notícias: Pernambuco registra 17 homicídios no fim de semana e chega a 2.200 assassinatos em 2026",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdZMWRtclFoSlVheHlXTzRqZ2ItMF9QdDRLNVZqV2t2Z2luMDNyWmc5RDlIMFhkbTQtdGI0eUxxWU5VZzVPcFFrcnUxX0FKeE9JZjMzVGdFSmhON1R5ZkZpNlRXWDdXbm1MSHY1ZjBmNnNnbkE4VzFneHZlME5CbUVZY0tqMmh2alFoYkVLQTJkS2Z0SW55emd3eTlMRmpvdEtZX3BLWGpKZzNoRWRkZFBrNXcwUnR5TXJodXFDQQ?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Cauê Rodrigues: Marconi Santana poderá assumir vaga na ALEPE a partir de 2027",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGlacWZVOGYxOF8zVElJSmhKUUNvQloyaS1UeG5OUWRKdWZZREpoWjk3YnVzYjE1Tnl6S2NYeXQ2MWJWbGN2RlpwQlBDeFFsZktuS0NKano0TGJpVWRNQktpWGx1WFNzSXRzZm1EbkM3OEZuV3hwTE5NeTV0eXBFYVYyMGNUU3NXemQta1dNWERWNndDU0NGdkh6R2FoQQ?oc=5"
+      "manchete": "Blog do Carlos Britto: Gabriel Menezes deve romper com seu grupo: \"Descobri que não existe Simãolândia\"",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2RWREVwNFdMeXpoTktucGd6Vno1T0dNanBWNGR3UlpGME5CUFdnUVRYMGZVUmt4MVpRLTVZUnFkR2xoZGtnLUprWkF6Sm12T0Y5THptNXkxZG9lOGh4QWN0WnhQLXhab1dZa1BuclV4SFktVVdQYmpDZnYyWmVka3o2YnRWcVpnUnBsdVZoNWJIRFNob3M2dkt0MEJuUHRLSmJHQXh4Y3I3eHc?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -209,378 +257,390 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "O POVO: Quem são os governadores eleitos em 2026 e quais Estados terão 2º turno: veja os resultados",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUG9VN1NtVnJGNlBtdzM1aDlCamFTcXB4Yk16UjliWFA2MGJKN1phbGQ3T0twLU5YQTJyLXhKa0lRaGFaWVhfYlNueGYzY0V2YlRicE5nNnVBWDdOaHg4MXo0Zlo1bjZzMW16S01saEhnNjMxWUFDMkUteHlkUlVnaDQwUlVuOHNTWWh5dC1ITTR1bUVPeHVhQWFzZi1NV1RaLVNoSU5BQTg2NmQzR3Jad1VxMDk2bGVrTHh1dE10ZUw2N0sxQV85UDdHalJBcm5NajhsUHEwc3VIaUw3Q01j?oc=5"
+      "manchete": "Paraíba Business: Por que Raquel Lyra venceu João Campos? Os três fatores que explicam a virada histórica em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLW83SkxMNFl1X21xMDJueVVhOUxTU3c1Z2VvUEZqX21KRmRoVk43Vlg5bk55SGFvQkdJakdvcW1LWnpnS09lSDhrbS1oNXRLMDlYYTZRb2UwOUxGTXNBbWY1NHFFWDZaX0dFUTZrUlAzNkpKWURTdUtfRVp5VzU0WVUydWJSOGJvZnA3T09mR042aWI4Vlo3M3RvTS1zenBTaTBZY0RZRXdZV1VfUGNoLUxtcG9ON0w2SzRkdVcwcl9hZ2hoVS0tUWtyWjM?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "TV Sim Brasil: STF suspende lei de Pernambuco que pagava férias em dinheiro",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTZnRlFlTm5hMTNVZ0duaDBPdEk0ekFHeFpvQnNNYnZrLVprOTlfcG90YUE2dmx5V055cmNsWndVRTBDYUgyRGhTVm0yVnFubWFDNzFYNnowMHZoSGZBNVJlS1VBdm13dnluWjZCdGlRbDZyY0pEZzNGdVFhLXNqLUFEbXUxM1VDRkRhelBrbzlOOHBEMkQ0Tjc1a1NONFdlWng5QWhFNnRCTVdtODBkbnJtXzZEeDBUUTd3?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Tribuna do Agreste: Projeto Raízes em Movimento leva oficinas gratuitas de Capoeira Angola e fotografia ao IFPE Olinda",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWVMSGlUZDEzUks1R3JvbkVxbEFOWVFLamZhZ05SOG5YcHZrOWRieWxfTU80TEJZeXhvUzQ3eklqcXB1SDRpTDBxdHhUZkVCOGFpWl9WX011ZF95TjZRVXE5YTdneFNHY3MzQVVTVHRJQ2hzdnZCbjU5cF93Y0Vwdk1OMUdRck5EYVFQa0MzREhfWFlUSEc4T0RVT1ZYVGcteTNacXdzNjZlRUc2Rm16MmJpeXRQaDhZdFZ0cG9TdzhyOFo1cTRjNXBmZmp5V0ZYU0tsV0lhbVp6X0ZqU0g0bWx5OVlPVXhBQ2J0MHpnZw?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Bolsonaro pede",
-      "razao_aumento": 99.3,
+      "termo": "Jomard",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-10-11T21:12:00Z",
-        "titulo": "Brasília Hoje: Flávio Bolsonaro pede que diretor-geral da PF seja investigado por suposto benefício ao PT na eleição",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanZKanVXQk9uVDNaNHJNRm0xM0trWXl0STNaci11QnBKR0ZoQURmUHl6OWxBNkxHS2hnZHVURWRiSEh3YmtJRGtsanJpT1d2THQ3SzN1bWtaS1NPVnR4d3c5eFE0RXlsaTAxSmdWOHFGUlNKYUdsZTZaaFkzWXFzQVpfdVEyR1J5d2d3bWVaUTVtb0JiTVFhSlROX2hvUW5MUkdSa0ZYSTdkZGdlOTdnaWNtelo4eC0tUmE1VnFKRTJ5MkpCUnk1dkVjbTVRYVJiYW1uQUk3a1RBdld3MUh0X2tYOHYxOGJmSEw2MS1vSzlLTGZ1QjdDUQ?oc=5",
+        "fonte": "JC",
+        "hora": "2026-10-12T12:53:00Z",
+        "titulo": "Cineasta, professor e escritor Jomard Muniz de Britto morre no Recife, aos 89 anos",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenY2UUdGSG5EenN6d2NkT1NFWk54QnRDLVBycV8wRTVFaEZNbkxZNzdJa1hoVVRSZ1BkV0NPSlpRbXZSNFZVc0d5clNmSEQ2V3Q3X2VyMk4xdE0xakJ2ZFk0Z2JSclNWSlBLbDI1UXZYQk4tNGhLUlhLY3A2di1mTVJTdzBxTFFxM0JlRnIyWFppaUF3UmVlVkRPNDFCZlVnd0JOUFdYb01iM3VBdGd5dVdPUV9TZ0pOWHJJdFlET3VHdFUy?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Flávio Bolsonaro pede",
-      "razao_aumento": 99.3,
+      "termo": "Muniz",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-10-11T21:12:00Z",
-        "titulo": "Brasília Hoje: Flávio Bolsonaro pede que diretor-geral da PF seja investigado por suposto benefício ao PT na eleição",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanZKanVXQk9uVDNaNHJNRm0xM0trWXl0STNaci11QnBKR0ZoQURmUHl6OWxBNkxHS2hnZHVURWRiSEh3YmtJRGtsanJpT1d2THQ3SzN1bWtaS1NPVnR4d3c5eFE0RXlsaTAxSmdWOHFGUlNKYUdsZTZaaFkzWXFzQVpfdVEyR1J5d2d3bWVaUTVtb0JiTVFhSlROX2hvUW5MUkdSa0ZYSTdkZGdlOTdnaWNtelo4eC0tUmE1VnFKRTJ5MkpCUnk1dkVjbTVRYVJiYW1uQUk3a1RBdld3MUh0X2tYOHYxOGJmSEw2MS1vSzlLTGZ1QjdDUQ?oc=5",
+        "fonte": "JC",
+        "hora": "2026-10-12T12:53:00Z",
+        "titulo": "Cineasta, professor e escritor Jomard Muniz de Britto morre no Recife, aos 89 anos",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenY2UUdGSG5EenN6d2NkT1NFWk54QnRDLVBycV8wRTVFaEZNbkxZNzdJa1hoVVRSZ1BkV0NPSlpRbXZSNFZVc0d5clNmSEQ2V3Q3X2VyMk4xdE0xakJ2ZFk0Z2JSclNWSlBLbDI1UXZYQk4tNGhLUlhLY3A2di1mTVJTdzBxTFFxM0JlRnIyWFppaUF3UmVlVkRPNDFCZlVnd0JOUFdYb01iM3VBdGd5dVdPUV9TZ0pOWHJJdFlET3VHdFUy?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Lula propõem",
-      "razao_aumento": 90.9,
+      "termo": "Britto",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-10-12T08:00:49Z",
-        "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
+        "fonte": "JC",
+        "hora": "2026-10-12T12:53:00Z",
+        "titulo": "Cineasta, professor e escritor Jomard Muniz de Britto morre no Recife, aos 89 anos",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenY2UUdGSG5EenN6d2NkT1NFWk54QnRDLVBycV8wRTVFaEZNbkxZNzdJa1hoVVRSZ1BkV0NPSlpRbXZSNFZVc0d5clNmSEQ2V3Q3X2VyMk4xdE0xakJ2ZFk0Z2JSclNWSlBLbDI1UXZYQk4tNGhLUlhLY3A2di1mTVJTdzBxTFFxM0JlRnIyWFppaUF3UmVlVkRPNDFCZlVnd0JOUFdYb01iM3VBdGd5dVdPUV9TZ0pOWHJJdFlET3VHdFUy?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "pede investigação",
-      "razao_aumento": 90.9,
+      "termo": "Jomard Muniz",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-10-11T21:15:08Z",
-        "titulo": "Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX2VuUVV4bnJqSXVZQWYxTHR0aTVSYWtHU3hnT09HWTRtSVpXUVJzY3ZmaEhyT25UVFowVG1DNkRabFY5Z1o1ZDB3YkVzc2otNVRVYWU5LS1uZEI5T3hCeHhaRVFCY3paZEFfR080TW52WExDaTlKRXlseXRYX0RUNEpuMzAxbEVKZk4ydVZjV0ZBWmh1dWMyYWZnbVk2cW5iSmpCa1Q4RWJaUTF2aEt2eVhvRmR4UDlKSHpJNFRic0ZRd2NYbkU4bnNOUVJhTXNHNGFsc0NwTzMyOWQ1ajhoQmhrdWFqOEJhay1nMjZFSENCU0Q2TlZ4U096VVLSAYsCQVVfeXFMUE13SnNoNXRlS05odksxcDcxa0Y1VENja0NNcmZaTFl6cXIzZ2tjOEdsYmg4MlhSTm9VMlBHbllTSGdEZHBVZ0VORlVCRFd3UnFLQ2ZHZHEzdjVkOUl4OEhKN0g1dzQtN0ZMU29YSm9vU2JiNUhjbmVSWkZ4X0cta3BKVVpjMFZHMHBDMzN0RjY0V05PN241dmRQaWtaaVEyWmIxZ0R5eXlydzZGX0tNYVp6Nk5QRGNMTXBCVjd6VldtcDVxRHM1T1pFczNUeXVRVU1DVC1kWXlrOWsyN1FSM0xtZkZBSy1IcVdlZUY1XzJOb1BUbjVoU1hpN0lMM01rY3lXNm9BYkxrY3FR?oc=5",
+        "fonte": "JC",
+        "hora": "2026-10-12T12:53:00Z",
+        "titulo": "Cineasta, professor e escritor Jomard Muniz de Britto morre no Recife, aos 89 anos",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenY2UUdGSG5EenN6d2NkT1NFWk54QnRDLVBycV8wRTVFaEZNbkxZNzdJa1hoVVRSZ1BkV0NPSlpRbXZSNFZVc0d5clNmSEQ2V3Q3X2VyMk4xdE0xakJ2ZFk0Z2JSclNWSlBLbDI1UXZYQk4tNGhLUlhLY3A2di1mTVJTdzBxTFFxM0JlRnIyWFppaUF3UmVlVkRPNDFCZlVnd0JOUFdYb01iM3VBdGd5dVdPUV9TZ0pOWHJJdFlET3VHdFUy?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Bolsonaro pede investigação",
-      "razao_aumento": 90.9,
+      "termo": "Muniz de Britto",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-10-11T21:15:08Z",
-        "titulo": "Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX2VuUVV4bnJqSXVZQWYxTHR0aTVSYWtHU3hnT09HWTRtSVpXUVJzY3ZmaEhyT25UVFowVG1DNkRabFY5Z1o1ZDB3YkVzc2otNVRVYWU5LS1uZEI5T3hCeHhaRVFCY3paZEFfR080TW52WExDaTlKRXlseXRYX0RUNEpuMzAxbEVKZk4ydVZjV0ZBWmh1dWMyYWZnbVk2cW5iSmpCa1Q4RWJaUTF2aEt2eVhvRmR4UDlKSHpJNFRic0ZRd2NYbkU4bnNOUVJhTXNHNGFsc0NwTzMyOWQ1ajhoQmhrdWFqOEJhay1nMjZFSENCU0Q2TlZ4U096VVLSAYsCQVVfeXFMUE13SnNoNXRlS05odksxcDcxa0Y1VENja0NNcmZaTFl6cXIzZ2tjOEdsYmg4MlhSTm9VMlBHbllTSGdEZHBVZ0VORlVCRFd3UnFLQ2ZHZHEzdjVkOUl4OEhKN0g1dzQtN0ZMU29YSm9vU2JiNUhjbmVSWkZ4X0cta3BKVVpjMFZHMHBDMzN0RjY0V05PN241dmRQaWtaaVEyWmIxZ0R5eXlydzZGX0tNYVp6Nk5QRGNMTXBCVjd6VldtcDVxRHM1T1pFczNUeXVRVU1DVC1kWXlrOWsyN1FSM0xtZkZBSy1IcVdlZUY1XzJOb1BUbjVoU1hpN0lMM01rY3lXNm9BYkxrY3FR?oc=5",
+        "fonte": "JC",
+        "hora": "2026-10-12T12:53:00Z",
+        "titulo": "Cineasta, professor e escritor Jomard Muniz de Britto morre no Recife, aos 89 anos",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenY2UUdGSG5EenN6d2NkT1NFWk54QnRDLVBycV8wRTVFaEZNbkxZNzdJa1hoVVRSZ1BkV0NPSlpRbXZSNFZVc0d5clNmSEQ2V3Q3X2VyMk4xdE0xakJ2ZFk0Z2JSclNWSlBLbDI1UXZYQk4tNGhLUlhLY3A2di1mTVJTdzBxTFFxM0JlRnIyWFppaUF3UmVlVkRPNDFCZlVnd0JOUFdYb01iM3VBdGd5dVdPUV9TZ0pOWHJJdFlET3VHdFUy?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Bolsonaro e Lula",
-      "razao_aumento": 82.6,
+      "termo": "Moraes autoriza",
+      "razao_aumento": 80.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-10-12T08:00:49Z",
-        "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-12T12:39:23Z",
+        "titulo": "Moraes autoriza retomada de visitas de Flávio ao ex-presidente Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTmFhNkczLXdaQU5xdHpsUGFHaG9JR2p2LWtIb05QRi01ejZZV0xmLVhGRGFQS29yRG4wVkVKaHlCMmRxd0ZpTElfUzA4aGhUaGp0Z0VMWlZoa0IzR2lMYXdSdlQ2VWJnWEVtaDNUSDBhNHhNNExCX1ltNUt2U3BXc0lzbUs0U0tsLVoxaHRCNmZ3dHVGUkw1bUxFdFpYeHRNVWZfRXRzZlhNazdSNktJaExQVzIyOGpQTXF3Y3BTQVF6aUI3QXBTYjdEREJkMGZpdk5fZlFORWV6X1JGajI40gHuAUFVX3lxTE9TZVUzOHdDc0RwVnUwb2JnY09NczNxcEhOckVKSmV6U3ljQkdFTlNaUkl2Y1BZcDg4TXM1WUtMc3ZaeS11NEdBVjIzV0NjYlhDbGNaVjNrZmRITHRYSkU3M2JDNmlRVmRGS3JGYjNyYnFUTk5QbVVMRkVDRm5pbW1IM1RWYXluS2lFajc0MXZfcE1ZY1hXS1d1ZTBRdUVLVFFTZm5oYXROaFh5cUQxRnZUZ2Y4YXg3b1YwSEpPZ0w0bHd1Uml2cWhNZzdjaU1aX0c1d2tSaTIzZFREYWsyTW1KTEk3Q1NBWGRmWE0wZ3c?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "diretor geral",
-      "razao_aumento": 66.2,
+      "termo": "Morre",
+      "razao_aumento": 80.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-10-11T19:10:09Z",
-        "titulo": "Flávio Bolsonaro apresenta pedido de investigação contra diretor-geral da PF por suposto uso eleitoral da corporação",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdEtHV3NFdGMyYW5IZVh3dVVTQnJjSzBkSHNVUWx4dE10M0pvVVI1aGUxbWxvWExWZVRLSEpRc0ZzVG5UbnN1SGRYeHB1dEtMVEFtSVRZMjNHWUpGakZ5bFBlTDlKMHBoZHVFWWRCNXo1WWJLcUdxUnJadkZDRVVMZzBuME9vRC1BbDIyaThfeExQZGNDSWoxNHU3M1JrMm9NZTVHa3pELWRVYTZ5b3M0V1JsNkdyRHduWXRweHFCbDlPTGVvb3Z6NnhOOHpVSW11OFBEM0hzd3YxNzhod0lfdUpvNVFLY3A0US1sbUxNZFcwTjRwcnYwRnlZNlVPdmEwMk5FcWh1dGl6eDNXU2U2WVUzbmF0QTN40gGnAkFVX3lxTE9kRWdRdFJLbVJlYkZYYjRsbzktamU1X2I2TVAtYW5uNE9tVVE4bTNHUWJSWlF0TTB5UWlyYl94N2RNd3FmMHRnQ21CdEpOMHNGRGtqWG1wck5WUmZrNnNVT1JwMXpmU09zWmpGNzhscGlVRHhIWHlTRURka1VhakFET1puVFFZVkc0SHhuc0Vtb0toZlIxcTQ2UWZEcHl3aTUxWjY4Ym1JUXl4QjZBU28yNnZhZlBJa0Rpb2xhZ21KZVloUTdqckhEVGQ2c3BwbDFKNUQ2Q214djNFb25VQXc0bldIbnVTbEhLbzZuYXNzeE9RSnhRN0RnejF5X3UzUkVyUHotbDFhSWtBYm56cWtWVlZkaDNNZ0hqQmZsbGJEMnRMWFltbU0?oc=5",
+        "fonte": "LeiaJá",
+        "hora": "2026-10-12T15:34:00Z",
+        "titulo": "Morre aos 89 anos o poeta, filósofo e cineasta pernambucano Jomard Muniz de Britto",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1pzWmszNjdERFFsdW11UjA1NWNtYUM5aDRlSEd5UUxFRF9MM2Y0dFp6V3lZNlZ6VTNZbWYyTUNSdmV4TDB6Tk5aMHUxZVYwNG1fQ2tka3dOemZvYXVKaFlLTnl3alFtRnFaaGZFaV9EWHFpdEF1ZE41VU5jM2o2cVpHeFlVM2FJQ3pHbEtBUldFTUtpNHRiNV9ZaUxNSFJQLVdKQy1RQ0lWdDh1VENvWjN1MExSd05yRVdqMDJlQ1hZQ010M09CNFotdw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "geral da PF",
-      "razao_aumento": 66.2,
+      "termo": "visitas de Flávio",
+      "razao_aumento": 80.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-10-11T19:10:09Z",
-        "titulo": "Flávio Bolsonaro apresenta pedido de investigação contra diretor-geral da PF por suposto uso eleitoral da corporação",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdEtHV3NFdGMyYW5IZVh3dVVTQnJjSzBkSHNVUWx4dE10M0pvVVI1aGUxbWxvWExWZVRLSEpRc0ZzVG5UbnN1SGRYeHB1dEtMVEFtSVRZMjNHWUpGakZ5bFBlTDlKMHBoZHVFWWRCNXo1WWJLcUdxUnJadkZDRVVMZzBuME9vRC1BbDIyaThfeExQZGNDSWoxNHU3M1JrMm9NZTVHa3pELWRVYTZ5b3M0V1JsNkdyRHduWXRweHFCbDlPTGVvb3Z6NnhOOHpVSW11OFBEM0hzd3YxNzhod0lfdUpvNVFLY3A0US1sbUxNZFcwTjRwcnYwRnlZNlVPdmEwMk5FcWh1dGl6eDNXU2U2WVUzbmF0QTN40gGnAkFVX3lxTE9kRWdRdFJLbVJlYkZYYjRsbzktamU1X2I2TVAtYW5uNE9tVVE4bTNHUWJSWlF0TTB5UWlyYl94N2RNd3FmMHRnQ21CdEpOMHNGRGtqWG1wck5WUmZrNnNVT1JwMXpmU09zWmpGNzhscGlVRHhIWHlTRURka1VhakFET1puVFFZVkc0SHhuc0Vtb0toZlIxcTQ2UWZEcHl3aTUxWjY4Ym1JUXl4QjZBU28yNnZhZlBJa0Rpb2xhZ21KZVloUTdqckhEVGQ2c3BwbDFKNUQ2Q214djNFb25VQXc0bldIbnVTbEhLbzZuYXNzeE9RSnhRN0RnejF5X3UzUkVyUHotbDFhSWtBYm56cWtWVlZkaDNNZ0hqQmZsbGJEMnRMWFltbU0?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-12T12:39:23Z",
+        "titulo": "Moraes autoriza retomada de visitas de Flávio ao ex-presidente Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTmFhNkczLXdaQU5xdHpsUGFHaG9JR2p2LWtIb05QRi01ejZZV0xmLVhGRGFQS29yRG4wVkVKaHlCMmRxd0ZpTElfUzA4aGhUaGp0Z0VMWlZoa0IzR2lMYXdSdlQ2VWJnWEVtaDNUSDBhNHhNNExCX1ltNUt2U3BXc0lzbUs0U0tsLVoxaHRCNmZ3dHVGUkw1bUxFdFpYeHRNVWZfRXRzZlhNazdSNktJaExQVzIyOGpQTXF3Y3BTQVF6aUI3QXBTYjdEREJkMGZpdk5fZlFORWV6X1JGajI40gHuAUFVX3lxTE9TZVUzOHdDc0RwVnUwb2JnY09NczNxcEhOckVKSmV6U3ljQkdFTlNaUkl2Y1BZcDg4TXM1WUtMc3ZaeS11NEdBVjIzV0NjYlhDbGNaVjNrZmRITHRYSkU3M2JDNmlRVmRGS3JGYjNyYnFUTk5QbVVMRkVDRm5pbW1IM1RWYXluS2lFajc0MXZfcE1ZY1hXS1d1ZTBRdUVLVFFTZm5oYXROaFh5cUQxRnZUZ2Y4YXg3b1YwSEpPZ0w0bHd1Uml2cWhNZzdjaU1aX0c1d2tSaTIzZFREYWsyTW1KTEk3Q1NBWGRmWE0wZ3c?oc=5",
         "peso": 1.0
       }
     }
   ],
   "nuvem": [
     {
-      "termo": "Flávio",
+      "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 28.65,
-      "fontes_distintas": 16
+      "fatia_pct": 22.82,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Flávio",
+      "peso_relativo": 97.1,
+      "fatia_pct": 22.15,
+      "fontes_distintas": 18
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 81.2,
-      "fatia_pct": 23.28,
-      "fontes_distintas": 15
+      "peso_relativo": 88.2,
+      "fatia_pct": 20.13,
+      "fontes_distintas": 17
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 71.9,
-      "fatia_pct": 20.59,
-      "fontes_distintas": 15
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 46.9,
-      "fatia_pct": 13.43,
-      "fontes_distintas": 14
+      "peso_relativo": 67.6,
+      "fatia_pct": 15.44,
+      "fontes_distintas": 17
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 34.4,
-      "fatia_pct": 9.85,
-      "fontes_distintas": 8
+      "peso_relativo": 38.2,
+      "fatia_pct": 8.72,
+      "fontes_distintas": 12
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 25.0,
-      "fatia_pct": 7.16,
-      "fontes_distintas": 7
+      "peso_relativo": 35.3,
+      "fatia_pct": 8.05,
+      "fontes_distintas": 11
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 25.0,
-      "fatia_pct": 7.16,
-      "fontes_distintas": 7
+      "peso_relativo": 35.3,
+      "fatia_pct": 8.05,
+      "fontes_distintas": 11
     },
     {
-      "termo": "LULANAPAULISTA",
-      "peso_relativo": 17.8,
-      "fatia_pct": 5.1,
-      "fontes_distintas": 1
+      "termo": "TSE",
+      "peso_relativo": 32.4,
+      "fatia_pct": 7.38,
+      "fontes_distintas": 6
     },
     {
-      "termo": "JANONESELULACENSURADOS",
-      "peso_relativo": 15.9,
-      "fatia_pct": 4.57,
-      "fontes_distintas": 1
+      "termo": "Aparecida",
+      "peso_relativo": 32.4,
+      "fatia_pct": 7.38,
+      "fontes_distintas": 6
     },
     {
-      "termo": "DIREITATERRORISTA",
-      "peso_relativo": 15.0,
-      "fatia_pct": 4.3,
-      "fontes_distintas": 1
+      "termo": "Moraes",
+      "peso_relativo": 29.4,
+      "fatia_pct": 6.71,
+      "fontes_distintas": 9
     },
     {
-      "termo": "Pulgar",
-      "peso_relativo": 14.1,
+      "termo": "Copacabana",
+      "peso_relativo": 23.8,
+      "fatia_pct": 5.44,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Jomard",
+      "peso_relativo": 23.5,
+      "fatia_pct": 5.37,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Muniz",
+      "peso_relativo": 23.5,
+      "fatia_pct": 5.37,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Britto",
+      "peso_relativo": 23.5,
+      "fatia_pct": 5.37,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Jomard Muniz",
+      "peso_relativo": 23.5,
+      "fatia_pct": 5.37,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Muniz de Britto",
+      "peso_relativo": 23.5,
+      "fatia_pct": 5.37,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Jair",
+      "peso_relativo": 20.6,
+      "fatia_pct": 4.7,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Jair Bolsonaro",
+      "peso_relativo": 20.6,
+      "fatia_pct": 4.7,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Lula Com Aparecida",
+      "peso_relativo": 17.6,
       "fatia_pct": 4.03,
       "fontes_distintas": 1
     },
     {
-      "termo": "Seedorf",
-      "peso_relativo": 13.1,
-      "fatia_pct": 3.76,
+      "termo": "Juliette",
+      "peso_relativo": 15.9,
+      "fatia_pct": 3.62,
       "fontes_distintas": 1
     },
     {
-      "termo": "Bolsonaro pede",
-      "peso_relativo": 12.5,
-      "fatia_pct": 3.58,
-      "fontes_distintas": 4
+      "termo": "Moraes autoriza",
+      "peso_relativo": 14.7,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 5
     },
     {
-      "termo": "Flávio Bolsonaro pede",
-      "peso_relativo": 12.5,
-      "fatia_pct": 3.58,
-      "fontes_distintas": 4
+      "termo": "Morre",
+      "peso_relativo": 14.7,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 5
     },
     {
-      "termo": "PERDE",
-      "peso_relativo": 11.2,
+      "termo": "VOTE",
+      "peso_relativo": 14.1,
       "fatia_pct": 3.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "Fandoms",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.95,
+      "termo": "I VOTE",
+      "peso_relativo": 14.1,
+      "fatia_pct": 3.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "MASP",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.95,
+      "termo": "Jimin",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.02,
       "fontes_distintas": 1
     },
     {
-      "termo": "Fandoms No MASP",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.95,
+      "termo": "It Boy",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.02,
       "fontes_distintas": 1
     },
     {
-      "termo": "diretor geral",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.69,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "geral da PF",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.69,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "diretor da PF",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.69,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "PT",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.69,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "SAMUEL",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.69,
+      "termo": "Boy Jimin",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.02,
       "fontes_distintas": 1
     },
     {
-      "termo": "XAVIER",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.69,
+      "termo": "Jimin Day",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.02,
       "fontes_distintas": 1
     },
     {
-      "termo": "SAMUEL XAVIER",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.69,
+      "termo": "It Boy Jimin",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.02,
       "fontes_distintas": 1
     },
     {
-      "termo": "Carrascal",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.42,
+      "termo": "Boy Jimin Day",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.02,
       "fontes_distintas": 1
     },
     {
-      "termo": "TSECOMPRADOPORBOLSONARO",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.15,
+      "termo": "HAPPY",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.82,
       "fontes_distintas": 1
     },
     {
-      "termo": "Nunes",
-      "peso_relativo": 6.6,
-      "fatia_pct": 1.88,
+      "termo": "BIRTHDAY",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.82,
       "fontes_distintas": 1
     },
     {
-      "termo": "Marques",
-      "peso_relativo": 6.6,
-      "fatia_pct": 1.88,
+      "termo": "HAPPY BIRTHDAY",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.82,
       "fontes_distintas": 1
     },
     {
-      "termo": "Nunes Marques",
-      "peso_relativo": 6.6,
-      "fatia_pct": 1.88,
+      "termo": "BIRTHDAY JIMIN",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.82,
       "fontes_distintas": 1
     },
     {
-      "termo": "instituições estão",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "HAPPY BIRTHDAY JIMIN",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.82,
+      "fontes_distintas": 1
     },
     {
-      "termo": "estão confusos",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "Nossa",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
-      "termo": "instituições estão confusos",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "Senhora",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Coluna",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "Nossa Senhora",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
-      "termo": "João",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "Senhora Aparecida",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Lula propõem",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "Nossa Senhora Aparecida",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Bolsonaro e Lula",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "Paulista",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
-      "termo": "suposto uso",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "Campanha de Lula",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
-      "termo": "investigação contra diretor",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "autoriza Flávio",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
-      "termo": "PF por suposto",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Defesa",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Moraes",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Bolsonaro comunica",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Defesa de Bolsonaro",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "termo": "Moraes autoriza Flávio",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     },
     {
       "termo": "visitas de Flávio",
-      "peso_relativo": 6.2,
-      "fatia_pct": 1.79,
-      "fontes_distintas": 2
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 4
     }
   ]
 }
