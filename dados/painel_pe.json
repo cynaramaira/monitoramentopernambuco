@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-11T23:09:22Z",
-  "total_analisado": 100,
+  "atualizado_em": "2026-10-12T02:24:04Z",
+  "total_analisado": 99,
   "x_recife": [
     {
-      "termo": "Claudinho",
+      "termo": "Recife",
       "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Claudinho",
-      "ruido": false
-    },
-    {
-      "termo": "Muriel",
-      "posicao": 2,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Muriel",
-      "ruido": false
-    },
-    {
-      "termo": "Paysandu",
-      "posicao": 3,
-      "variacao": "+44",
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Paysandu",
-      "ruido": false
-    },
-    {
-      "termo": "WhatsApp",
-      "posicao": 4,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=WhatsApp",
+      "url": "https://x.com/search?q=Recife",
       "ruido": false
     },
     {
       "termo": "#LULA13JÁ",
-      "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 2,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23LULA13J%C3%81",
       "ruido": false
     },
     {
       "termo": "Corinthians",
-      "posicao": 6,
-      "variacao": "-2",
-      "direcao": "cai",
+      "posicao": 3,
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Corinthians",
       "ruido": true
     },
     {
-      "termo": "#OEXERCITODOLULAVEIOPRAFICAR",
+      "termo": "ESQUERDA TERRORISTA",
+      "posicao": 4,
+      "variacao": "+10",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=ESQUERDA%20TERRORISTA",
+      "ruido": false
+    },
+    {
+      "termo": "Pulgar",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Pulgar",
+      "ruido": false
+    },
+    {
+      "termo": "Paulista",
+      "posicao": 6,
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Paulista",
+      "ruido": false
+    },
+    {
+      "termo": "Renato",
       "posicao": 7,
-      "variacao": "-4",
+      "variacao": "+10",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Renato",
+      "ruido": false
+    },
+    {
+      "termo": "Flamengo",
+      "posicao": 8,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Flamengo",
+      "ruido": true
+    },
+    {
+      "termo": "#OEXERCITODOLULAVEIOPRAFICAR",
+      "posicao": 9,
+      "variacao": "-2",
       "direcao": "cai",
       "url": "https://x.com/search?q=%23OEXERCITODOLULAVEIOPRAFICAR",
       "ruido": false
     },
     {
-      "termo": "Paulinho",
-      "posicao": 8,
+      "termo": "Samuel Xavier",
+      "posicao": 10,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Samuel%20Xavier",
+      "ruido": false
+    },
+    {
+      "termo": "#ProvaDeFogo",
+      "posicao": 11,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Paulinho",
+      "url": "https://x.com/search?q=%23ProvaDeFogo",
       "ruido": false
     },
     {
       "termo": "Carrascal",
-      "posicao": 9,
-      "variacao": "+30",
-      "direcao": "sobe",
+      "posicao": 12,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Carrascal",
       "ruido": false
     },
     {
-      "termo": "Pulgar",
-      "posicao": 10,
-      "variacao": "-5",
+      "termo": "Paulinho",
+      "posicao": 13,
+      "variacao": "-4",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Pulgar",
+      "url": "https://x.com/search?q=Paulinho",
       "ruido": false
     },
     {
-      "termo": "Gabigol",
-      "posicao": 11,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Gabigol",
+      "termo": "#Fantástico",
+      "posicao": 14,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23Fant%C3%A1stico",
       "ruido": false
     },
     {
-      "termo": "#FLAxFLU",
-      "posicao": 12,
+      "termo": "Mirassol",
+      "posicao": 15,
       "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23FLAxFLU",
+      "url": "https://x.com/search?q=Mirassol",
       "ruido": false
     },
     {
-      "termo": "Memphis",
-      "posicao": 13,
-      "variacao": "-2",
+      "termo": "Reinaldo",
+      "posicao": 16,
+      "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Memphis",
+      "url": "https://x.com/search?q=Reinaldo",
+      "ruido": false
+    },
+    {
+      "termo": "#LulaTetra20261️⃣3️⃣",
+      "posicao": 17,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23LulaTetra20261%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3",
+      "ruido": false
+    },
+    {
+      "termo": "Goiânia",
+      "posicao": 18,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Goi%C3%A2nia",
+      "ruido": false
+    },
+    {
+      "termo": "gremio",
+      "posicao": 19,
+      "variacao": "+9",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=gremio",
       "ruido": false
     },
     {
       "termo": "Giay",
-      "posicao": 14,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Giay",
-      "ruido": false
-    },
-    {
-      "termo": "Freitas",
-      "posicao": 15,
-      "variacao": "+23",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Freitas",
-      "ruido": false
-    },
-    {
-      "termo": "Paulista",
-      "posicao": 16,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Paulista",
-      "ruido": false
-    },
-    {
-      "termo": "Bidu",
-      "posicao": 17,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Bidu",
-      "ruido": false
-    },
-    {
-      "termo": "Villasanti",
-      "posicao": 18,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Villasanti",
-      "ruido": false
-    },
-    {
-      "termo": "Hugo",
-      "posicao": 19,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Hugo",
-      "ruido": false
-    },
-    {
-      "termo": "Rony",
       "posicao": 20,
-      "variacao": "-10",
+      "variacao": "-4",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Rony",
+      "url": "https://x.com/search?q=Giay",
       "ruido": false
     }
   ],
@@ -167,14 +167,14 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Estadão: Incêndio de grandes proporções atinge prédio da Universidade Federal de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTFsLWMxUUlRaFBKakRQX1otQ2NRV1FQZEJJWFZVMC1PcWhVcExBZGItcTM3bFFMVloxVVJFU25jb2VjeFpZancwNkZOcHlrZ1FGMTRCb09LcldRZDRJMkwybk05OXNDblNfNnVuZHJvaFJNVDd0eHM2bFJZQXR3V1VZTEJ1d09oZG9Rckp5Mi0wZFFuT3dibzItdmlFRTB4WUJobE9vU2tLM19xTUZOVG5zRQ?oc=5"
+      "manchete": "Folha PE: Ato em apoio a Lula reúne milhares de pessoas no Recife",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hdG5LdTd6VHROVTA4NThOWjczMGlGQ0JCQm5kck85NHFUVFRKU2tWUGhiM0NhNGFwTE5MVDZfMjA3d1JQNjNpTTZVWVVoTVE3T05OREQ2Q3p2REhoY0lNc1l3eHNqU2U1SUlr0gFvQVVfeXFMUFpWb0p3dW5VXy1PbW1QX0ZxbzNtXzR6a0xHaWM3cTVRNjAtM3paR3BseDVLUWxYVlhtellLMTVTdjYydFJ1RF82YkZVcVNTYzVfSG1qNXNzMDBYamxxSndNZGRveDJfc0JXUks4TFFJ?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Banda B: Eleições 2026: acompanhe a apuração para governador em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzZRVl9RMXhDYzNxNDNNWVMyYmdzcFdyS0dqS3dQMnNEcmxlaG1wQU1zNnNJUkxIcDByR2tvOGt2NjZkZjRyMnEwY1M3ZUJWYnc4UTUwSmtIeFVFT1c0SnVvd3JRbjU4clQ3Q1ZhcWlrcnBuVUdpVUZpbTR4WEQ4aHFVOXN0OFNjMFJidVBpamFYcExUbnNCODJnWDNNNm50LWVva18xTEJkdV9id1HSAbMBQVVfeXFMTVZVRmJFdC1fajVTcS1Ed3J0cmROQTlBZDlURU96ZUpmcmN3QW1DVFpIYlpSWVdoZ01MQWdSd1hYeDJfTVA3OUEySUtzSkZkaUV0NWVnTHVQRWoxNjVybGdQSDhMQWk3ZFY1R3dsV0poOWhaVzM1WHJWSWFLRkZ3RzN3ZEJITU5aN3FKNkl5SEZtWGFmallwYWd1Sl9aTGN4NVBUMW91MlJ4ZHp3TFgySjZJcFE?oc=5"
+      "manchete": "Estadão: Incêndio de grandes proporções atinge prédio da Universidade Federal de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTFsLWMxUUlRaFBKakRQX1otQ2NRV1FQZEJJWFZVMC1PcWhVcExBZGItcTM3bFFMVloxVVJFU25jb2VjeFpZancwNkZOcHlrZ1FGMTRCb09LcldRZDRJMkwybk05OXNDblNfNnVuZHJvaFJNVDd0eHM2bFJZQXR3V1VZTEJ1d09oZG9Rckp5Mi0wZFFuT3dibzItdmlFRTB4WUJobE9vU2tLM19xTUZOVG5zRQ?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -185,14 +185,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "BNC Amazonas: Pernambuco registra mobilização pró-Lula neste domingo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcC1sUlh3VjlJUDZfWlJBRVZ0MmlSQUg5d3EwaHdROWRCcFpjR3dXalppVEZsb2ZXWWlUVXVRMXRBUUUxS3kyZE5VZWtmS0Uydmdyei1xSTR3RW5qMDJGZ1pjRHdfQXhsdVlJem13eE1qYmNLRkFoT3oyczBIdy1MSFd0N1JYc0FROEdfZlF1MTAxQQ?oc=5"
+      "manchete": "Banda B: Eleições 2026: acompanhe a apuração para governador em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzZRVl9RMXhDYzNxNDNNWVMyYmdzcFdyS0dqS3dQMnNEcmxlaG1wQU1zNnNJUkxIcDByR2tvOGt2NjZkZjRyMnEwY1M3ZUJWYnc4UTUwSmtIeFVFT1c0SnVvd3JRbjU4clQ3Q1ZhcWlrcnBuVUdpVUZpbTR4WEQ4aHFVOXN0OFNjMFJidVBpamFYcExUbnNCODJnWDNNNm50LWVva18xTEJkdV9id1HSAbMBQVVfeXFMTVZVRmJFdC1fajVTcS1Ed3J0cmROQTlBZDlURU96ZUpmcmN3QW1DVFpIYlpSWVdoZ01MQWdSd1hYeDJfTVA3OUEySUtzSkZkaUV0NWVnTHVQRWoxNjVybGdQSDhMQWk3ZFY1R3dsV0poOWhaVzM1WHJWSWFLRkZ3RzN3ZEJITU5aN3FKNkl5SEZtWGFmallwYWd1Sl9aTGN4NVBUMW91MlJ4ZHp3TFgySjZJcFE?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Ato em apoio a Lula reúne milhares de pessoas no Recife",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hdG5LdTd6VHROVTA4NThOWjczMGlGQ0JCQm5kck85NHFUVFRKU2tWUGhiM0NhNGFwTE5MVDZfMjA3d1JQNjNpTTZVWVVoTVE3T05OREQ2Q3p2REhoY0lNc1l3eHNqU2U1SUlr0gFvQVVfeXFMUFpWb0p3dW5VXy1PbW1QX0ZxbzNtXzR6a0xHaWM3cTVRNjAtM3paR3BseDVLUWxYVlhtellLMTVTdjYydFJ1RF82YkZVcVNTYzVfSG1qNXNzMDBYamxxSndNZGRveDJfc0JXUks4TFFJ?oc=5"
+      "manchete": "BNC Amazonas: Pernambuco registra mobilização pró-Lula neste domingo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcC1sUlh3VjlJUDZfWlJBRVZ0MmlSQUg5d3EwaHdROWRCcFpjR3dXalppVEZsb2ZXWWlUVXVRMXRBUUUxS3kyZE5VZWtmS0Uydmdyei1xSTR3RW5qMDJGZ1pjRHdfQXhsdVlJem13eE1qYmNLRkFoT3oyczBIdy1MSFd0N1JYc0FROEdfZlF1MTAxQQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "CBF: Seleção Feminina desembarca em Recife para segundo amistoso com a Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRlNmakRmQnhXVWhiS01qWnk2dTNhNVVseWlxNm5YS21FaFlZY1F5c2R2TmpZNUNwV2JPQUZNVkd1NW40T0czaWRaSWpPYjBFMXI0cmloanZGZWladEgxNGhPYTZJMG9Fa2Y5cldzSUlsdTNidzIwOTRfWVZHTEgtenJteUNvZjBnNElQZWhBUVJ5MVpmem1LdmZST3BDdmJmdDlKMUFFRV9fOEhrb1hBYy1sOXFfT21yU29hS2JVeDIxQ19nWWtPUDlrQUdJRm5uS3MxOUF6OWVzZ3lZcE9hMHNZbDhtT0l2dm1j?oc=5"
     },
     {
       "termo": "Recife",
@@ -203,8 +209,8 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Recife recebe ato pela eleição do presidente Lula neste domingo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc1pybDF3UFZmZk8zX0l5aHg4VlFkZHFXY3hUYzktZlVDWjcwMEZmZUtQcDJxLW5xcWRJUmRRdzRFWEhmczlSaUZTVVpTM3dMSkxneUxNMGtHb0FoSHIzRzBiY2NpTEJwMDJzcERBZjdTMTNtNXFqOHBOVVdrRWh6cGhZM1BqQjVNZDU1dXdCTGZxR1VLb2c?oc=5"
+      "manchete": "Investidor10: FII exclusivo em Recife subiu quase 300% e gestão prevê maiores dividendos",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWY0c0M0SFJtbE1fd2RKYVJrOVl0RlhqX183WXdHVzZBVDFGWk5Ldl9sQldHZ0xOdjFyT09aTm5YTUZfRWx2RndDc2R6a1FtU09fZEtmdkJOV3pSVFNnWTNvYmdIUEtWdklnUHRmY0lqZmNsdjBfeHY4d2RVdjVRSHlXcVN5TEpVRFNtWlp0UXB5d3hyaGtuWmxFZ1RWa0Z5Y1RMZUMydkhXLXBiZVUxcVQtODQ3TDhMdUVhaDFwc9IBvwFBVV95cUxQaWY0c0M0SFJtbE1fd2RKYVJrOVl0RlhqX183WXdHVzZBVDFGWk5Ldl9sQldHZ0xOdjFyT09aTm5YTUZfRWx2RndDc2R6a1FtU09fZEtmdkJOV3pSVFNnWTNvYmdIUEtWdklnUHRmY0lqZmNsdjBfeHY4d2RVdjVRSHlXcVN5TEpVRFNtWlp0UXB5d3hyaGtuWmxFZ1RWa0Z5Y1RMZUMydkhXLXBiZVUxcVQtODQ3TDhMdUVhaDFwcw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -213,10 +219,22 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORW5ydExNODVpM2JkY25ZUnhnZVZkaG1md1NyNGZVZzI1VS1ldWpOanFFejFGU0FEelV6ZXFfMlNsdkR0MzBSOUJYT0xwMFFBalhrWUp5cVZXY052Mm5uWk5WbnhHSF8yRUNmTnNYSkVLQUVjczVNRU9BNGJZM2JUSWxTV0ZmdjlIMUJIU2tzNWg5UlFUUk1HQnpEM2ZqVWVJT2FEOFhtdTMzZUNvM013ZktTMzVkVDNDYkRJUEFlaEhISVdmNHZWdUF2VkZ3MDl1S2c?oc=5"
     },
     {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "GO In Foco: Brasil vence Argentina por 3 a 1 na estreia da Seleção Feminina no Beira-Rio",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdlpmN0l3MFZ4cEgwdWF0ekd1d0E5WFFKaG9yR054d01Cb1JGT0wzWk9KNUlWQXBaaDJOYUtWMTJucnYxM0N6bk0wdU1iYm8tRXJyQTdlZHBGWl85T2dtcEtuYUNvNEgtM1ZRV0xyTHRPS0c4cUE0cU95WEdzQjVYdU13ZGZWa29BM2tWcmp4dE5IYWdOdkNoOUloMW9RMEdpdktr?oc=5"
+    },
+    {
       "termo": "Alepe",
       "volume": "Últimas 12h",
       "manchete": "Blog do Ricardo Antunes: Serra Talhada elege três deputados estaduais. Caruaru, zero",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVotX3BUcGp1dHZYemJTUlk5UjZrRDVqTXJtQ2k1c1hVVlhlVU83d3puRHZSSUdxUl9LSi0zV1lqZ1BySDd6LWRmX1hnS01LcFVucjRlSXhzdTU5VVpqOHl2UVBydUJONFFvbkNxalVBekRxVFpuYWV1Q3N6dC1na0JIOXVVVUdGZHk5RDlB?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Cauê Rodrigues: Marconi Santana poderá assumir vaga na ALEPE a partir de 2027",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGlacWZVOGYxOF8zVElJSmhKUUNvQloyaS1UeG5OUWRKdWZZREpoWjk3YnVzYjE1Tnl6S2NYeXQ2MWJWbGN2RlpwQlBDeFFsZktuS0NKano0TGJpVWRNQktpWGx1WFNzSXRzZm1EbkM3OEZuV3hwTE5NeTV0eXBFYVYyMGNUU3NXemQta1dNWERWNndDU0NGdkh6R2FoQQ?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -227,116 +245,110 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "O POVO: Quem são os governadores eleitos em 2026 e quais Estados terão 2º turno: veja os resultados",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUG9VN1NtVnJGNlBtdzM1aDlCamFTcXB4Yk16UjliWFA2MGJKN1phbGQ3T0twLU5YQTJyLXhKa0lRaGFaWVhfYlNueGYzY0V2YlRicE5nNnVBWDdOaHg4MXo0Zlo1bjZzMW16S01saEhnNjMxWUFDMkUteHlkUlVnaDQwUlVuOHNTWWh5dC1ITTR1bUVPeHVhQWFzZi1NV1RaLVNoSU5BQTg2NmQzR3Jad1VxMDk2bGVrTHh1dE10ZUw2N0sxQV85UDdHalJBcm5NajhsUHEwc3VIaUw3Q01j?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Blog Edmar Lyra: DataTrends: Flávio Bolsonaro lidera com 53,1% dos votos válidos contra 46,9% de Lula no segundo turno",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTXRMdjhvalAzOU5fZi04WG5lcjd2cEpGeTNsZEw1WUZZa3daR2VSSWw2ZEdyOF9CdExycWV5VjVYbHc5R05CdnZkZ21USmZJM1lBeW5QaDFMZjJLUFluOXJrOTZLaHhFdjhHamFQeU5TU1haMU8yeVJuTDY5TGp3azVGX3BMb3Y5SC1ldVhjTkd5RHI1SmZnTjJhckU2MENtVzdja1lyM3BFUFgyZVBxc3pDNlFOWDBoZ3FDS09UUjM?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "cnf.net.br: Monitoramento captura primeiro tubarão-tigre após retomada das atividades no Grande Recife",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3dBcnpEZjVNekg5cUtiVVg2akloOVNhMXhMQ241UDVaNkpER1lMME9qSmoxTW1YRzlFRmFua3ZhSzk2YWxUbDJRNE5ZUV9qYURFTDVCeVEwdEhlNG9makpMQ3ZBRnVjSUp4djh4VGJaWDlRWlFCeDV6Z2hfdTdsYUtpYTh4d1c1c2VtRlA3TTN0OEhua1N3MkJlYWxHWWdrTExaRVlackxYSDFqTVJZZkt4QURIa1hqY19mcjR3?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Nill Junior: Eduardo diz que escolha de ministros de eventual governo Flávio passará por Jair Bolsonaro",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTg0UUZiaFRHS3ZNdVlrR2VJejlxVHF0NjB4MVBYNjFSQjVVZkRwXzdSbVNWaHFrTm9GUTNxYnA3Uy0wNU85OGhZUWw2WG41UDJpeENueERPOV9ZZHlKZktwT2kxSWN1aWxXa2NTdGRBSTRDS29DQmNiR09SSlk4UHk2b2tKbm9WNnc2Q1FKZzRXTE9zWHhubzc2THdBTTlwVHJQcHNCYXJBa3lWODEzeGxDVVB3b1RG?oc=5"
     }
   ],
   "picos": [
     {
+      "termo": "Bolsonaro pede",
+      "razao_aumento": 125.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-11T21:12:00Z",
+        "titulo": "Brasília Hoje: Flávio Bolsonaro pede que diretor-geral da PF seja investigado por suposto benefício ao PT na eleição",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanZKanVXQk9uVDNaNHJNRm0xM0trWXl0STNaci11QnBKR0ZoQURmUHl6OWxBNkxHS2hnZHVURWRiSEh3YmtJRGtsanJpT1d2THQ3SzN1bWtaS1NPVnR4d3c5eFE0RXlsaTAxSmdWOHFGUlNKYUdsZTZaaFkzWXFzQVpfdVEyR1J5d2d3bWVaUTVtb0JiTVFhSlROX2hvUW5MUkdSa0ZYSTdkZGdlOTdnaWNtelo4eC0tUmE1VnFKRTJ5MkpCUnk1dkVjbTVRYVJiYW1uQUk3a1RBdld3MUh0X2tYOHYxOGJmSEw2MS1vSzlLTGZ1QjdDUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Flávio Bolsonaro pede",
+      "razao_aumento": 125.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-11T21:12:00Z",
+        "titulo": "Brasília Hoje: Flávio Bolsonaro pede que diretor-geral da PF seja investigado por suposto benefício ao PT na eleição",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanZKanVXQk9uVDNaNHJNRm0xM0trWXl0STNaci11QnBKR0ZoQURmUHl6OWxBNkxHS2hnZHVURWRiSEh3YmtJRGtsanJpT1d2THQ3SzN1bWtaS1NPVnR4d3c5eFE0RXlsaTAxSmdWOHFGUlNKYUdsZTZaaFkzWXFzQVpfdVEyR1J5d2d3bWVaUTVtb0JiTVFhSlROX2hvUW5MUkdSa0ZYSTdkZGdlOTdnaWNtelo4eC0tUmE1VnFKRTJ5MkpCUnk1dkVjbTVRYVJiYW1uQUk3a1RBdld3MUh0X2tYOHYxOGJmSEw2MS1vSzlLTGZ1QjdDUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Avenida",
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Brasil de Fato",
+        "hora": "2026-10-11T19:25:00Z",
+        "titulo": "Lula reúne multidão na Avenida Paulista e convoca idosos: ‘Vote pelo filho, pelo neto, pelo bisneto e pela pátria’",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUUZqQTNXaF9zaldnZ2RCUUhPbkEzMEUxcmJwdnFpUVN1S2JMckhwWVVMb29wNE0wLTJZMEM5a0lEajJiYXJmRUlkRmVPbllzTFllc2RXVWpycnNLQlAtODZ2OEs0eUVVNDRzYnphQTktcC1VdjZKaFdxUmp6ZFN2dkVGWjBaRnNtR3hhcUhMMXB0YmpxUmkwOWUyMEJXUGFOVkNTTlBRZ3FCcW9NSm9iU2M2aU9USUxQYXMzV1pqeTByd0dTY3owX3dKUG5lQ0xSNzc3ZDFhdzdHU1VpU3FVQ0dLSXdod0Rh?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
       "termo": "derruba decisão",
-      "razao_aumento": 75.0,
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Valor Econômico",
+        "hora": "2026-10-11T19:07:56Z",
+        "titulo": "Relator no TSE derruba decisão de Nunes Marques e mantém canal de Whatsapp 'Exército do Lula' no ar",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObmNXYW5xNGVGU2ZyeEpVWEJQbzZmZmVwNjB0bVcwMGUtb096REVSSFBtZzNiZzZQMUMtelVuNXRLRzJ4MzY3Z0hyRXczUFlSdkhEdkI1a0Y5OWlmX0VrSjRCMEVtaXlnTUNRN3lSMm5jYTIwckNBZ04yMnBaQzV4QW5GbE9KaVNvSl9vS1F2RGcwZnhxTG1KVERfU1lESVN2SXd6R1ZaQVkwX3RQZlZzTmRxN0VhekJJNVRZM0RhZWR5VERZN3VfMjBlekVhLU1jOERNMEw1c0pXNVJFdllyZzFNRWpVaEVVOEI4bmVydFNESTN0a2NVVGJVTTQtd9IBjAJBVV95cUxOdU8xQ0JEQXZoeXdJWEtDa1hFS3F6V0QxVko5X24yVnp3QXFJSlExMTMzeHIzMVRuM3VwbHJfenR0aWxzc2hBaC1MWmoxb09XeXRKal9zeDJ2bmJqUE1DQmdJUkxqWWR0X0owVWtWMnl6c3kyRnlHV0JackJPb19GTkM0SENpbVpYcXBjRUExWDNEdXdlLVpEbXVYM0VKTnZXUU15QkpQek9YQkVCSHRKZVFiN0dDd2VXbUhKSEFPSkk0N3J5eXhyOEFlanZ0MmViNTJNaHBsZDlxU2xJZUtSU3AyU25DQXFBREhXSmJnQVJ3c3VpUlh5UFhhd1hYbXU0Y2I3bEJLRmdpU0U2?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "diretor geral",
+      "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "O GLOBO",
-        "hora": "2026-10-11T18:48:27Z",
-        "titulo": "Relator no TSE derruba decisão de Nunes Marques e mantém no ar canal de Whatsapp 'Exército do Lula'",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc1pCdkVBQk84andTcWVJNGJIeVRBQnl1OE5uTWxDV3laNTdjWnIzWFJHcDNmVXFQNEFwOUM4RkFPcVBCVGFtbXZKRVVJZXJ0bkxMMjJBSmZVUG92Sk4tNFVQLXhLc1hGNDFTQjF2Tk50NXhSejZBYWh1ZzZDTE1rTEREbjhtN081ZUFmdTVVTXNKYUdpMExKLUpVTkNQREZUcFA2ZThUMjhVLXRZQlRiOXp3cTFQV1RsZ2phRjhYTGQyUjhON1U5Tjhpci1wRU0tR3RSWHEtUGdyekJHZUNVQ9IB7wFBVV95cUxNdDMyLTdueE1ldS1sb3JrNWZHX1p6czJGUFpkMTRmUEVMQTJPTEZZa1k1S3cwekswWkFyaFFFWW82Wm85alpNNHpTY0RmSVkwSjd0MHJKbUQ1VGpNeHA1bU9rZ1cwLXdrb0p5MHNBaGZIaDdaUjY1R0hpRXc5WkpuQjJqckNPVUYwMkNueElla3hKMFFiS1lrcmxZMnBiRXhnVldfTjd5XzVwd2NOQ0tGUnBobjBuNmd1WWUzTlp3dHBKaGRoWlJmTTZobGwxOERVNEdLUjdiWG4xMHNKeDNicnNweENtbmp5VkREOFl5bw?oc=5",
+        "hora": "2026-10-11T19:10:09Z",
+        "titulo": "Flávio Bolsonaro apresenta pedido de investigação contra diretor-geral da PF por suposto uso eleitoral da corporação",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdEtHV3NFdGMyYW5IZVh3dVVTQnJjSzBkSHNVUWx4dE10M0pvVVI1aGUxbWxvWExWZVRLSEpRc0ZzVG5UbnN1SGRYeHB1dEtMVEFtSVRZMjNHWUpGakZ5bFBlTDlKMHBoZHVFWWRCNXo1WWJLcUdxUnJadkZDRVVMZzBuME9vRC1BbDIyaThfeExQZGNDSWoxNHU3M1JrMm9NZTVHa3pELWRVYTZ5b3M0V1JsNkdyRHduWXRweHFCbDlPTGVvb3Z6NnhOOHpVSW11OFBEM0hzd3YxNzhod0lfdUpvNVFLY3A0US1sbUxNZFcwTjRwcnYwRnlZNlVPdmEwMk5FcWh1dGl6eDNXU2U2WVUzbmF0QTN40gGnAkFVX3lxTE9kRWdRdFJLbVJlYkZYYjRsbzktamU1X2I2TVAtYW5uNE9tVVE4bTNHUWJSWlF0TTB5UWlyYl94N2RNd3FmMHRnQ21CdEpOMHNGRGtqWG1wck5WUmZrNnNVT1JwMXpmU09zWmpGNzhscGlVRHhIWHlTRURka1VhakFET1puVFFZVkc0SHhuc0Vtb0toZlIxcTQ2UWZEcHl3aTUxWjY4Ym1JUXl4QjZBU28yNnZhZlBJa0Rpb2xhZ21KZVloUTdqckhEVGQ2c3BwbDFKNUQ2Q214djNFb25VQXc0bldIbnVTbEhLbzZuYXNzeE9RSnhRN0RnejF5X3UzUkVyUHotbDFhSWtBYm56cWtWVlZkaDNNZ0hqQmZsbGJEMnRMWFltbU0?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Exército do Lula",
-      "razao_aumento": 71.8,
+      "termo": "geral da PF",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-10-11T19:10:09Z",
+        "titulo": "Flávio Bolsonaro apresenta pedido de investigação contra diretor-geral da PF por suposto uso eleitoral da corporação",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdEtHV3NFdGMyYW5IZVh3dVVTQnJjSzBkSHNVUWx4dE10M0pvVVI1aGUxbWxvWExWZVRLSEpRc0ZzVG5UbnN1SGRYeHB1dEtMVEFtSVRZMjNHWUpGakZ5bFBlTDlKMHBoZHVFWWRCNXo1WWJLcUdxUnJadkZDRVVMZzBuME9vRC1BbDIyaThfeExQZGNDSWoxNHU3M1JrMm9NZTVHa3pELWRVYTZ5b3M0V1JsNkdyRHduWXRweHFCbDlPTGVvb3Z6NnhOOHpVSW11OFBEM0hzd3YxNzhod0lfdUpvNVFLY3A0US1sbUxNZFcwTjRwcnYwRnlZNlVPdmEwMk5FcWh1dGl6eDNXU2U2WVUzbmF0QTN40gGnAkFVX3lxTE9kRWdRdFJLbVJlYkZYYjRsbzktamU1X2I2TVAtYW5uNE9tVVE4bTNHUWJSWlF0TTB5UWlyYl94N2RNd3FmMHRnQ21CdEpOMHNGRGtqWG1wck5WUmZrNnNVT1JwMXpmU09zWmpGNzhscGlVRHhIWHlTRURka1VhakFET1puVFFZVkc0SHhuc0Vtb0toZlIxcTQ2UWZEcHl3aTUxWjY4Ym1JUXl4QjZBU28yNnZhZlBJa0Rpb2xhZ21KZVloUTdqckhEVGQ2c3BwbDFKNUQ2Q214djNFb25VQXc0bldIbnVTbEhLbzZuYXNzeE9RSnhRN0RnejF5X3UzUkVyUHotbDFhSWtBYm56cWtWVlZkaDNNZ0hqQmZsbGJEMnRMWFltbU0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "diretor da PF",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "VEJA",
+        "hora": "2026-10-11T19:56:38Z",
+        "titulo": "Flávio Bolsonaro abre denúncia contra diretor da PF por divulgar investigação contra a direita sem provas",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkNwQ28wdDkyMGN3RkJkaGFxQmZVSEI3VHZheC1NdGI2OGVrMFlBcl92YmJmeW5FVll3S2ppVmNnYVc2WXhUN3VHeGhVSHhoZE1uMk1VUFR6bWVZVHlBN19abEhQUU9VWU9tTVlaTzBvTTNNbHpISnV5dERWTGJZSk1vbHBaSzlNbWY4SjloaDhQZUYweFN5Rk1mUWJheWY0VlhvbW9nZw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "pede investigação",
+      "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Valor Econômico",
-        "hora": "2026-10-11T15:31:49Z",
-        "titulo": "Nunes Marques atende pedido de Flávio Bolsonaro e suspende canal 'Exército do Lula'",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTUFQaDQzemlObi1ETDY0LVZDbUpoZHRSRHk5bmxycEt3Y1ViUmJJOFN3MGdlSVM4RFhCODcxV0pMZTJ0TmdZR2JHYXJxelJTanR4b2FudE1wdmJIa1ljUUM2NXUwaFZUX3BPMmhvV1J3ZDUycGhkazdLZGc5RnJDZUFvZ2tmZVVYbDNtR3VEOGxONjFGYm9rQlFOa1cwN2NJWWs1S29HLTlTa2dybUFXNXNJRFZaa3lZajZ6NEI5WGJ0c1ROM2xLUzhqUlVzMVRLc1BXZ3kyZHZBeV9BdFNWbWlJNGU3aTY10gH3AUFVX3lxTFBENkEwRkRDZ3BfLXNWTDFHb0hTdG1pT3NCbHNZbjBCeUJHOFZGMUpWS0R2Y3cwY0czRUlvdFo1WkhEcnJwRDBHRWIxMjgxUnJjM2k2SWNyZ2p5OTd6LVhyQVdDN0V5OVRRbHNscEx5U1hZbWNyMy1Bd0lrS0tqM1VQc2FCeEFWSG12QzdscThOd1ZKdWlRS1E0X2htRXRTYU1jcFlfWHVxWkxtRHJCMW4td2hzNGZ6bnRhXzFpS1Z6Wk9uX3BjZGt1NEsyTEczTzV4aS1GSzY4bXBmcUVKNFB4Uk1YZ0VTUFc2R01aMEpleGpGSkItV1k?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "atende Flávio",
-      "razao_aumento": 71.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Agência Brasil",
-        "hora": "2026-10-11T15:00:00Z",
-        "titulo": "Kassio atende Flávio e suspende propaganda do PT que cita caso Master",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNckw0YmdUenRYZm14UndLekdqZFpmNlE5ZTJ4MGphMHlmQUZIZlRMbHBDaDRIZ3Npbk1fYWlYdVdKcWVlVTVITGJwczd2NGRTR3gtU0tnT1hCNVhhS2h4WWlqUWVfY2tYU0owN1Q4QmZvMkhkdTZJWlFxZ29STVhQVUZsYjVuNFNyOEdzTDEyeDgtLVYtVHRQLVNuRTduQWVhV1liUnYxdnFfbVRWSjFpcjFEbVBJR3V0aDNNaWNjWmtFV21v?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Whatsapp",
-      "razao_aumento": 67.9,
-      "gatilho": {
-        "rede": "X",
-        "fonte": "Recife",
-        "hora": "2026-10-11T22:16:10Z",
-        "titulo": "WhatsApp",
-        "url": "https://x.com/search?q=WhatsApp",
-        "peso": 5.1
-      }
-    },
-    {
-      "termo": "Marques atende",
-      "razao_aumento": 64.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-10-11T15:31:49Z",
-        "titulo": "Nunes Marques atende pedido de Flávio Bolsonaro e suspende canal 'Exército do Lula'",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTUFQaDQzemlObi1ETDY0LVZDbUpoZHRSRHk5bmxycEt3Y1ViUmJJOFN3MGdlSVM4RFhCODcxV0pMZTJ0TmdZR2JHYXJxelJTanR4b2FudE1wdmJIa1ljUUM2NXUwaFZUX3BPMmhvV1J3ZDUycGhkazdLZGc5RnJDZUFvZ2tmZVVYbDNtR3VEOGxONjFGYm9rQlFOa1cwN2NJWWs1S29HLTlTa2dybUFXNXNJRFZaa3lZajZ6NEI5WGJ0c1ROM2xLUzhqUlVzMVRLc1BXZ3kyZHZBeV9BdFNWbWlJNGU3aTY10gH3AUFVX3lxTFBENkEwRkRDZ3BfLXNWTDFHb0hTdG1pT3NCbHNZbjBCeUJHOFZGMUpWS0R2Y3cwY0czRUlvdFo1WkhEcnJwRDBHRWIxMjgxUnJjM2k2SWNyZ2p5OTd6LVhyQVdDN0V5OVRRbHNscEx5U1hZbWNyMy1Bd0lrS0tqM1VQc2FCeEFWSG12QzdscThOd1ZKdWlRS1E0X2htRXRTYU1jcFlfWHVxWkxtRHJCMW4td2hzNGZ6bnRhXzFpS1Z6Wk9uX3BjZGt1NEsyTEczTzV4aS1GSzY4bXBmcUVKNFB4Uk1YZ0VTUFc2R01aMEpleGpGSkItV1k?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Nunes Marques atende",
-      "razao_aumento": 64.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-10-11T15:31:49Z",
-        "titulo": "Nunes Marques atende pedido de Flávio Bolsonaro e suspende canal 'Exército do Lula'",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTUFQaDQzemlObi1ETDY0LVZDbUpoZHRSRHk5bmxycEt3Y1ViUmJJOFN3MGdlSVM4RFhCODcxV0pMZTJ0TmdZR2JHYXJxelJTanR4b2FudE1wdmJIa1ljUUM2NXUwaFZUX3BPMmhvV1J3ZDUycGhkazdLZGc5RnJDZUFvZ2tmZVVYbDNtR3VEOGxONjFGYm9rQlFOa1cwN2NJWWs1S29HLTlTa2dybUFXNXNJRFZaa3lZajZ6NEI5WGJ0c1ROM2xLUzhqUlVzMVRLc1BXZ3kyZHZBeV9BdFNWbWlJNGU3aTY10gH3AUFVX3lxTFBENkEwRkRDZ3BfLXNWTDFHb0hTdG1pT3NCbHNZbjBCeUJHOFZGMUpWS0R2Y3cwY0czRUlvdFo1WkhEcnJwRDBHRWIxMjgxUnJjM2k2SWNyZ2p5OTd6LVhyQVdDN0V5OVRRbHNscEx5U1hZbWNyMy1Bd0lrS0tqM1VQc2FCeEFWSG12QzdscThOd1ZKdWlRS1E0X2htRXRTYU1jcFlfWHVxWkxtRHJCMW4td2hzNGZ6bnRhXzFpS1Z6Wk9uX3BjZGt1NEsyTEczTzV4aS1GSzY4bXBmcUVKNFB4Uk1YZ0VTUFc2R01aMEpleGpGSkItV1k?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Avenida Paulista",
-      "razao_aumento": 60.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-10-11T14:55:30Z",
-        "titulo": "Lula, Alckmin e aliados reúnem apoiadores em ato na avenida Paulista",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWERlcXoybHpWOGdrN2RYb2FodGstMGd0MmU3U0J1RlUtWnlINjBjRlNTMlM3MmtwbDA5Rm5QNDY4VFNwRm9Ea0d3UUJScWY1M0U4SXlSUmVQRi1GVnFfenhiVGk5T3N3VTJvaU4wUG12MEFYeTJ3MGRFdTY4TkV4b0szOGpKeXJTNXdKYlJfWTlPYzd4R0JvV2JKRWJkaVJ1U3hOaUF3dXlROFhrY2FHRNIBvwFBVV95cUxPVjNXN04zV2YzazdqZDdaU25qYzBaUEV4cUVVQ3dLeTBBN3pSNXoyNWs1ZWFldnNOQWQ3dGhXRTMwSzlWeXcwdzBVdW4xYmY2OThwcURRQ0RGaHZsbE5yNm15ZzhIV0dEdlM1NzZTcGJXZDZMS3BlREs2MlRyTGpWN1JkYjZMVkludXBqOGJZYmN3dnpNMmNhT1ZCdm15Q0o5d3JKWll5cEVZRmdBOFBreS1UNGtqZDBYNnJocjQ4VQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "São Paulo",
-      "razao_aumento": 60.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "UOL Notícias",
-        "hora": "2026-10-11T19:20:56Z",
-        "titulo": "Lula e Flávio Bolsonaro fazem campanha em São Paulo a duas semanas da eleição",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaVhWVjdySHl0MnJDRFhmQW5OZV9CREdXOG1fa1Q1bmVoTTgxOWduRDF6aE5iYWQ1d1FmTmhBU1M1T3JPRTBqc2RXS1hzY2Qxa2lKN0Vvb1Bid2k1cXpvSVFoYmFkbjlLcFdXUXd1NGg1ZzQtcjZVRUF3NUc0MjNFNlkySUNQRmdGMWhYNi1zQ1FldTdLbHBvQXJTZ3ZabFBBX1duSTM1RDFMckZ5bmRFVTV1bHlKSW1CaU1VcFlsQXgzb2JQRmJDVVVXY1NKVWxqdlBLUmFjaHR5TGF3MHc?oc=5",
+        "hora": "2026-10-11T21:15:08Z",
+        "titulo": "Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTXdKc2g1dGVLTmh2SzFwNzFrRjVUQ2NrQ01yZlpMWXpxcjNna2M4R2xiaDgyWFJOb1UyUEduWVNIZ0RkcFVnRU5GVUJEV3dScUtDZkdkcTN2NWQ5SXg4SEo3SDV3NC03RkxTb1hKb29TYmI1SGNuZVJaRnhfRy1rcEpVWmMwVkcwcEMzM3RGNjRXTk83bjV2ZFBpa1ppUTJaYjFnRHl5eXJ3NkZfS01hWno2TlBEY0xNcEJWN3pWV21wNXFEczVPWkVzM1R5dVFVTUNULWRZeWs5azI3UVIzTG1mRkFLLUhxV2VlRjVfMk5vUFRuNWhTWGk3SUwzTWtjeVc2b0FiTGtjcVHSAYsCQVVfeXFMUE13SnNoNXRlS05odksxcDcxa0Y1VENja0NNcmZaTFl6cXIzZ2tjOEdsYmg4MlhSTm9VMlBHbllTSGdEZHBVZ0VORlVCRFd3UnFLQ2ZHZHEzdjVkOUl4OEhKN0g1dzQtN0ZMU29YSm9vU2JiNUhjbmVSWkZ4X0cta3BKVVpjMFZHMHBDMzN0RjY0V05PN241dmRQaWtaaVEyWmIxZ0R5eXlydzZGX0tNYVp6Nk5QRGNMTXBCVjd6VldtcDVxRHM1T1pFczNUeXVRVU1DVC1kWXlrOWsyN1FSM0xtZkZBSy1IcVdlZUY1XzJOb1BUbjVoU1hpN0lMM01rY3lXNm9BYkxrY3FR?oc=5",
         "peso": 1.0
       }
     }
@@ -345,272 +357,272 @@
     {
       "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 25.27,
+      "fatia_pct": 27.47,
       "fontes_distintas": 16
     },
     {
       "termo": "Lula",
-      "peso_relativo": 88.6,
-      "fatia_pct": 22.38,
-      "fontes_distintas": 14
+      "peso_relativo": 87.0,
+      "fatia_pct": 23.9,
+      "fontes_distintas": 16
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 80.0,
-      "fatia_pct": 20.22,
+      "peso_relativo": 70.3,
+      "fatia_pct": 19.3,
       "fontes_distintas": 14
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 68.6,
-      "fatia_pct": 17.33,
-      "fontes_distintas": 12
-    },
-    {
-      "termo": "Raquel",
-      "peso_relativo": 28.6,
-      "fatia_pct": 7.22,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Exército",
-      "peso_relativo": 28.6,
-      "fatia_pct": 7.22,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Exército do Lula",
-      "peso_relativo": 28.6,
-      "fatia_pct": 7.22,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "TSE",
-      "peso_relativo": 28.6,
-      "fatia_pct": 7.22,
-      "fontes_distintas": 5
+      "peso_relativo": 64.9,
+      "fatia_pct": 17.82,
+      "fontes_distintas": 14
     },
     {
       "termo": "Paulista",
-      "peso_relativo": 27.1,
-      "fatia_pct": 6.86,
+      "peso_relativo": 36.5,
+      "fatia_pct": 10.02,
       "fontes_distintas": 8
     },
     {
-      "termo": "Whatsapp",
-      "peso_relativo": 23.1,
-      "fatia_pct": 5.85,
-      "fontes_distintas": 4
+      "termo": "Raquel",
+      "peso_relativo": 29.7,
+      "fatia_pct": 8.17,
+      "fontes_distintas": 9
     },
     {
-      "termo": "Nunes",
-      "peso_relativo": 20.0,
-      "fatia_pct": 5.05,
-      "fontes_distintas": 6
+      "termo": "TSE",
+      "peso_relativo": 24.3,
+      "fatia_pct": 6.68,
+      "fontes_distintas": 4
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.33,
-      "fontes_distintas": 6
+      "peso_relativo": 18.9,
+      "fatia_pct": 5.2,
+      "fontes_distintas": 7
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.33,
-      "fontes_distintas": 6
+      "peso_relativo": 18.9,
+      "fatia_pct": 5.2,
+      "fontes_distintas": 7
     },
     {
-      "termo": "Marques",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.33,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Nunes Marques",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.33,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Claudinho",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.33,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Muriel",
-      "peso_relativo": 16.3,
-      "fatia_pct": 4.12,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Paysandu",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.9,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 14.3,
-      "fatia_pct": 3.61,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 14.3,
-      "fatia_pct": 3.61,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "LULA13JÁ",
-      "peso_relativo": 13.7,
-      "fatia_pct": 3.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "OEXERCITODOLULAVEIOPRAFICAR",
-      "peso_relativo": 12.0,
-      "fatia_pct": 3.03,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Paulo",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.89,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Avenida Paulista",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.89,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "PT",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.89,
+      "termo": "Exército",
+      "peso_relativo": 16.2,
+      "fatia_pct": 4.45,
       "fontes_distintas": 3
     },
     {
-      "termo": "Bolsonaro pede",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.89,
-      "fontes_distintas": 4
+      "termo": "Exército do Lula",
+      "peso_relativo": 16.2,
+      "fatia_pct": 4.45,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Flávio Bolsonaro pede",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.89,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Paulinho",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.82,
+      "termo": "LULA13JÁ",
+      "peso_relativo": 15.4,
+      "fatia_pct": 4.23,
       "fontes_distintas": 1
     },
     {
-      "termo": "Carrascal",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.6,
+      "termo": "ESQUERDA",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.79,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "TERRORISTA",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.79,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ESQUERDA TERRORISTA",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.79,
       "fontes_distintas": 1
     },
     {
       "termo": "Pulgar",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.38,
+      "peso_relativo": 13.0,
+      "fatia_pct": 3.56,
       "fontes_distintas": 1
     },
     {
-      "termo": "eleições 2026",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
+      "termo": "Renato",
+      "peso_relativo": 11.4,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Avenida Paulista",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Bolsonaro pede",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Flávio Bolsonaro pede",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "OEXERCITODOLULAVEIOPRAFICAR",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Samuel",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.45,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Xavier",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.45,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Samuel Xavier",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.45,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Avenida",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "campanha de Lula",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Nunes",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
       "fontes_distintas": 2
     },
     {
-      "termo": "derruba decisão",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "canal Exército",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "São Paulo",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Whatsapp Exército",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Relator",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "diretor da PF",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 3
-    },
-    {
       "termo": "diretor geral",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
       "fontes_distintas": 3
     },
     {
       "termo": "geral da PF",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "diretor da PF",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "PT",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
       "fontes_distintas": 3
     },
     {
       "termo": "Vorcaro",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
       "fontes_distintas": 3
     },
     {
-      "termo": "Gabigol",
-      "peso_relativo": 8.6,
-      "fatia_pct": 2.17,
+      "termo": "Prova",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
       "fontes_distintas": 1
     },
     {
-      "termo": "FLAx",
-      "peso_relativo": 7.7,
-      "fatia_pct": 1.95,
+      "termo": "Fogo",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
       "fontes_distintas": 1
     },
     {
-      "termo": "FLAx FLU",
-      "peso_relativo": 7.7,
-      "fatia_pct": 1.95,
+      "termo": "Prova De Fogo",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.23,
       "fontes_distintas": 1
     },
     {
-      "termo": "Memphis",
-      "peso_relativo": 6.9,
-      "fatia_pct": 1.73,
+      "termo": "Carrascal",
+      "peso_relativo": 7.3,
+      "fatia_pct": 2.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "Giay",
-      "peso_relativo": 6.0,
-      "fatia_pct": 1.52,
+      "termo": "Paulinho",
+      "peso_relativo": 6.5,
+      "fatia_pct": 1.78,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "Fantástico",
+      "peso_relativo": 5.7,
+      "fatia_pct": 1.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Presidência",
+      "peso_relativo": 5.4,
+      "fatia_pct": 1.48,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Divisão",
+      "peso_relativo": 5.4,
+      "fatia_pct": 1.48,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Divisão força",
+      "peso_relativo": 5.4,
+      "fatia_pct": 1.48,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "força de Raquel",
+      "peso_relativo": 5.4,
+      "fatia_pct": 1.48,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Raquel e João",
+      "peso_relativo": 5.4,
+      "fatia_pct": 1.48,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "João a partir",
+      "peso_relativo": 5.4,
+      "fatia_pct": 1.48,
+      "fontes_distintas": 2
     }
   ]
 }
