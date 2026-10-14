@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-14T12:51:23Z",
-  "total_analisado": 144,
+  "atualizado_em": "2026-10-14T17:59:47Z",
+  "total_analisado": 146,
   "x_recife": [
     {
-      "termo": "#NinguemCalaOExercitoDoLula",
+      "termo": "#LulaPeloFimDaEscala6X1",
       "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23NinguemCalaOExercitoDoLula",
+      "variacao": "+7",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23LulaPeloFimDaEscala6X1",
       "ruido": false
     },
     {
-      "termo": "#VOLTAREMOSAINDAMAIOR",
+      "termo": "#NinguémCalaOExercitoDoLula",
       "posicao": 2,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23Ningu%C3%A9mCalaOExercitoDoLula",
+      "ruido": false
+    },
+    {
+      "termo": "FOGE NÃO LULA",
+      "posicao": 3,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23VOLTAREMOSAINDAMAIOR",
+      "url": "https://x.com/search?q=FOGE%20N%C3%83O%20LULA",
       "ruido": false
     },
     {
       "termo": "FLÁVIO INIMIGO DO TRABALHADOR",
-      "posicao": 3,
-      "variacao": "+3",
-      "direcao": "sobe",
+      "posicao": 4,
+      "variacao": "-3",
+      "direcao": "cai",
       "url": "https://x.com/search?q=FL%C3%81VIO%20INIMIGO%20DO%20TRABALHADOR",
       "ruido": false
     },
     {
-      "termo": "#LulaPeloFimDa6x1",
-      "posicao": 4,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaPeloFimDa6x1",
-      "ruido": false
-    },
-    {
-      "termo": "#LulaPeloMei",
+      "termo": "charli",
       "posicao": 5,
-      "variacao": "-1",
+      "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaPeloMei",
+      "url": "https://x.com/search?q=charli",
       "ruido": false
     },
     {
-      "termo": "#JANONESEUAUTORIZO",
+      "termo": "adela",
       "posicao": 6,
-      "variacao": "-1",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23JANONESEUAUTORIZO",
+      "url": "https://x.com/search?q=adela",
       "ruido": false
     },
     {
-      "termo": "MEIs",
+      "termo": "FLÁVIO É O CRIME",
       "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=MEIs",
+      "variacao": "+10",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=FL%C3%81VIO%20%C3%89%20O%20CRIME",
       "ruido": false
     },
     {
-      "termo": "Lucien",
+      "termo": "#LulaPeloDoFimDa6x1",
       "posicao": 8,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Lucien",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23LulaPeloDoFimDa6x1",
       "ruido": false
     },
     {
-      "termo": "Juliette",
+      "termo": "david guetta",
       "posicao": 9,
-      "variacao": "+1",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Juliette",
+      "url": "https://x.com/search?q=david%20guetta",
       "ruido": false
     },
     {
-      "termo": "Tina",
+      "termo": "Raye",
       "posicao": 10,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Tina",
-      "ruido": false
-    },
-    {
-      "termo": "I VOTE",
-      "posicao": 11,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=I%20VOTE",
-      "ruido": false
-    },
-    {
-      "termo": "ANDRES GOMEZ",
-      "posicao": 12,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=ANDRES%20GOMEZ",
-      "ruido": false
-    },
-    {
-      "termo": "Vasco da Gama",
-      "posicao": 13,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Vasco%20da%20Gama",
-      "ruido": true
-    },
-    {
-      "termo": "Elain",
-      "posicao": 14,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Elain",
-      "ruido": false
-    },
-    {
-      "termo": "Netinho",
-      "posicao": 15,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Netinho",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Raye",
       "ruido": false
     },
     {
       "termo": "Band",
-      "posicao": 16,
-      "variacao": "+3",
-      "direcao": "sobe",
+      "posicao": 11,
+      "variacao": "-2",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Band",
       "ruido": false
     },
     {
-      "termo": "Renan",
-      "posicao": 17,
-      "variacao": "+8",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Renan",
-      "ruido": false
-    },
-    {
-      "termo": "Igor",
-      "posicao": 18,
-      "variacao": "-1",
+      "termo": "#OverflowingLoveForEVAN",
+      "posicao": 12,
+      "variacao": "-5",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Igor",
+      "url": "https://x.com/search?q=%23OverflowingLoveForEVAN",
       "ruido": false
     },
     {
-      "termo": "Adson",
-      "posicao": 19,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Adson",
-      "ruido": false
-    },
-    {
-      "termo": "BASTA DA ESCALA 6X1",
-      "posicao": 20,
+      "termo": "shauna",
+      "posicao": 13,
       "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=BASTA%20DA%20ESCALA%206X1",
+      "url": "https://x.com/search?q=shauna",
+      "ruido": false
+    },
+    {
+      "termo": "#아로새겨_시작될_에반의_날",
+      "posicao": 14,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23%EC%95%84%EB%A1%9C%EC%83%88%EA%B2%A8_%EC%8B%9C%EC%9E%91%EB%90%A0_%EC%97%90%EB%B0%98%EC%9D%98_%EB%82%A0",
+      "ruido": false
+    },
+    {
+      "termo": "Slayyyter",
+      "posicao": 15,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Slayyyter",
+      "ruido": false
+    },
+    {
+      "termo": "cage the elephant",
+      "posicao": 16,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=cage%20the%20elephant",
+      "ruido": false
+    },
+    {
+      "termo": "travis scott",
+      "posicao": 17,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=travis%20scott",
+      "ruido": false
+    },
+    {
+      "termo": "Bagi",
+      "posicao": 18,
+      "variacao": "+10",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Bagi",
+      "ruido": false
+    },
+    {
+      "termo": "the killers",
+      "posicao": 19,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=the%20killers",
+      "ruido": false
+    },
+    {
+      "termo": "LOVE TO THE MOON AND KEY",
+      "posicao": 20,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=LOVE%20TO%20THE%20MOON%20AND%20KEY",
       "ruido": false
     }
   ],
@@ -167,26 +167,32 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "www.gov.br: MEC realiza aulão com estudantes da EJA em Pernambuco — Ministério da Educação",
+      "manchete": "Governo Federal: MEC realiza aulão com estudantes da EJA em Pernambuco — Ministério da Educação",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV21zQW9sazRxaTk4NzRDY3MwYlNhWGhaNHFMc2dSbkljZmhNa0M4d0RHcUJzNW00TDBuRlRsWVMxdkJRb2ZCTnlaQzgtWWFfcFlCekV4NVdhcTlmbzdKUHFxZzRoM0NvWjJCQXRrSnc3RHRRbnRyYmdxR1ZUQ3hvZGk1UUw3amZuTkVVUDk3Y2tyOHBWT1FhcGtZbF9tWFc3QW0ySmFfbGhuYTl6c2p3V1B3TQ?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Movimento Econômico: Polo de Confecções de Pernambuco monta missão comercial para Argentina e Paraguai",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWmItVmItdkFrOUJjSjU5Z2FGRDdMQ2dhTmREVmpldWxYWURlV1FPZldtVFNmUUFQcGVfUVdHTVRMbGk0ZGZ3UlZfVEdfYl9FZ3VxWlNVUnhBNFRpRjFELWtKRDVObWM1akpEZEhRQ2s2anRURk5mYUF1d1NMUi0tMzFrcDg2dkx0ZU5PaWY5SVE2WDI4RXZsMWZiVHVJWl85VXd6TEE4UC1lam1aSmdSdk1FbDlyWHVzamlFbFBuZnVsblQyaWt4OWVQS2FVNDFGLW1jNDZIZWw?oc=5"
+      "manchete": "Neoenergia: Neoenergia Pernambuco promove atendimento com inscrição na Tarifa Social no bairro de Águas Compridas em Olinda",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVlNMkMtUkQ5Z0phQVZqck84SkRiMjlyeE5DN1R4MU1PdURPM0RlS2Z6RHZrUkNSQmtTN1FiT2pIX2YtUVMwZzZESzNNbmdZejlEbS1qZ3pJTDBJWWZUajB5X25yd3E1SjAyMWVOVEdPTTl0UHJPMF9sd0laWWI1eGhWaWNlU1BuX3c1ZENXZ0FKV1p3Q1pFM3FfcFhqSUV6dTdCM3FURVg2eGVFOHhrRVVkRQ?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "ge: Brasil 2 x 2 Argentina | Amistosos da Seleção Feminina: melhores momentos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSjhEY2pjRTh0TlJodWtRSVlEOFdHZ3JUdW5CRmJhcTB1b043ZXRMV3Atc2UyMDFNX05zMWlvcXdzREh2R0ZmZkdGR1ZSWjNoelpLS3FWY2JlVHNnS19Wd2JFVWRlUE9LeGZXc0s2MzB0VkU0aTl2OXE2ZEVkT2tsS0dJVmJnS2pmRjFfZkx5aTM?oc=5"
+      "manchete": "Jamildo: Rosa Amorim, a mais votada do PT em Pernambuco, nasceu em Caruaru, reduto de Raquel Lyra, mas teve maior v...",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa19RSHh5N3ZGRURxVV9GS3JYN1NNS0JqajhHMWhjMGJzT05ELWFTVl9rS1luUzFjbGh5TTJHSWQ0N0x6MDJscXZpdGlpeWZIaTh4VkFyRmNXVUJ3QTd3YUpvM3lUUHVRb3IwYmdEODd4WTBhVC1udGhUSW5VVmhRSGRteS13QjNFUzJZZmJxUV9vZ1U0akVvMExKVDUtelF4aVNTSEJJTXh3cTM0U2pza1RBQzB2cE5mcjViUTdkREc1NWl5Ym0wMEd0anZqZVRBT2doSzlhN0lmbi1uTmtWTm5pd3JfR29fUlQzb9IB7AFBVV95cUxNa19RSHh5N3ZGRURxVV9GS3JYN1NNS0JqajhHMWhjMGJzT05ELWFTVl9rS1luUzFjbGh5TTJHSWQ0N0x6MDJscXZpdGlpeWZIaTh4VkFyRmNXVUJ3QTd3YUpvM3lUUHVRb3IwYmdEODd4WTBhVC1udGhUSW5VVmhRSGRteS13QjNFUzJZZmJxUV9vZ1U0akVvMExKVDUtelF4aVNTSEJJTXh3cTM0U2pza1RBQzB2cE5mcjViUTdkREc1NWl5Ym0wMEd0anZqZVRBT2doSzlhN0lmbi1uTmtWTm5pd3JfR29fUlQzbw?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Bahia Notícias: Com uma jogadora a mais, Brasil cede empate à Argentina em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVVRVEpqbS0zNE9tRFhLMVJONlN5Q0ppT2RPZUJiOFhzUWVHSk1Dd28wd3RVcDJxZVBqVmU1SGVyX3Jxcy00MDY2S0RwOVJVUTdKY0FubUJXMDF6OGZINUIxZV9tc1ZYbTlhTmlZeFNZemNUSzRBRk9OZDRpb1FvNTNKMndGWXpJeFhLUmhWbnlHOFVmV2YyeU5CcWdVakFuYld4TEg1aFpZWGRLTjhpN2gyRFo2WEw0OVJXTm50cGcxdw?oc=5"
+      "manchete": "O TEMPO: Raimundo Pimentel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGY5amNOMC03bnVhX19SVl9Wa1ZaWTJMMHRsZVBZN3p4ZUZFWTEtck5UV1pOa1VlZHZZWGRzSmFiOUxpMVhPRkVhMjdYRUMwRlY4aXotWnRKZ0JyQzcwdk4xZnZiNXBISkFzblNSRUlydzBmdFpNc0MtaktPbms1VnBSQ3hjMFdDNlpjSVFNd054d0dEUUJHcXRETTFGTW1wSkN0YlF3?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Acordo judicial prevê desocupação de antigo hotel em Noronha",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVdLSEpRTlpjdEtybjRHUGhacFR5ZkhzOWZiOUpwTVZtUWZVbktuV2FHcnl1UUVTNjFlcmt2aFBNb0RIYlhieXdtUVhCY09aRndadTNCa0hnaXE0dWRmNzc5Wm1HNjNuTGYwR2hZUER0cDNrRXdKZ2Zfal9ZMnhyMGkydlJIam1nbzVNdzgwNGFRZnRIOHFEM09EZkJkV2NQUlYxRkNCR3BVM3h6NF9Qem9xbzZpSDTSAcYBQVVfeXFMT09JSnJxRElBY2tGUG12eGt5VlBTUVB3R1ZTb2pDRWQySXdQT3l3NERkWVpxZFFBRVBSdjZsdjJFMUR3ZDBUYjhLTEZPNXd3QnNLNDRtWGdHVVk5bC0zeC0zSnJnOC03c0lGVWdGMDFYUE1CUHNkdUI5QnI4OVdxZ3MyMWNtMl9iOUNyY2RCY1pfdzVzTXdGdU9DWkNNbWhVSlVOMXgxT3pOOG92R0g2MVJnSHRnX2Vyck9mNzhWM0VRdlM5SkV3?oc=5"
     },
     {
       "termo": "Recife",
@@ -197,20 +203,26 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Soulier inaugura no RioMar Recife",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWF2dXl3M2phMUs4ZW44V2dkZU5OTUVLdW15aWM5Nk9QX09mUGREUGdLbVlrZmlsZ0FWLURBX2hJZUJReUxXOGdCY0NFTTNraUZLMVU0QjdUbmVTMzVGalZoWWJxR2lfTi1tRVdTT18yTVRMeTBYcnY1aVFPM3FaNQ?oc=5"
+      "manchete": "Revista Continente: Augusto Licks, dos Engenheiros do Hawaii, volta ao Recife",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQnJPV2E2Q2tCSGV0MXBWTGE4SGpnZ2w1RUhGTVBEUTdNVGdvRFUyV0NOUjZBeUhYbW1FYnpQc3dCZVg1V21RVG9selU4SjNLdGdRTUlta1p5MmNyNGZtWm1aNGlWbmxVVGdqZHR0Q2JSZTE3TDlyaVVTQlpqdEJEV0JTV2cwQ3NYcndtckw5NEtxUmtSRFgzbGpuZTEyU2FNY2NFNg?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Art.PE reúne 75 expositores em sua quinta edição no Recife",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13b19qTTdoN2VKbEc5R0tCejFvOHBvYlJvdHZSb1AzdGpJRjBpcVgxLXIyQnoyX0d2R2huWXdOVFdqY0RBNzZKWDRhNzloTWNDQ29laTJ5aGRDX1lyNzdYX3V2Z2hHS0ZmdDQtVDgxQVcwbHdRdDhxd2RsT2NnUdIBfkFVX3lxTE13b19qTTdoN2VKbEc5R0tCejFvOHBvYlJvdHZSb1AzdGpJRjBpcVgxLXIyQnoyX0d2R2huWXdOVFdqY0RBNzZKWDRhNzloTWNDQ29laTJ5aGRDX1lyNzdYX3V2Z2hHS0ZmdDQtVDgxQVcwbHdRdDhxd2RsT2NnUQ?oc=5"
+      "manchete": "Folha PE: Recife amplia recursos pedagógicos para crianças da rede municipal de ensino",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkk2ZC1PQ1BEN0o0NWlia0gta3dNNUZ1OHdVNzRIS19KRlcwX2VVeHpQb09mb2p5c01Gb3BFS0VIc0RoMmUxdW9TdDlEMXAtTjBIQnVDdjRRWWxWeUp2M04xNElGUzdYYlNtZVVUQkZkazBwVmdpSkRtQjk0UmlUb0pMNF9CazJVWXJHdlZ0VDg4RTQteEZIRWFlNTRCLXJ6bmFEVlA3SDBnSkRrcUFVNGFCUdIBtwFBVV95cUxObk5raGF4R1JrU2ZkcER6VDVfU0xJbHBjTnJzdE5PNmEtMnNTSkltd1VIMGlVbHVmOFRqWHRmVnJFeWs5VlVUMU9CV3pIYW5udXl5UUx3cFlmQ3pRaGlyNWdCYUdkSkRGQV9tQXZSczBGMmI4dXJhaE1nS0R3MDBsclFHQVNzT3lqdWd3R3FSZEowTFVWX2c2TW5uSEd6ZFhvQXFmZmNHNFc5Ul85ZDJFbDNydFVWVDg?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Melhores Destinos: Poucas datas! Voo direto e bem barato do Recife para Cabo Verde a partir de apenas R$ 2.002 ida e volta",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1pTZkZGeE1ySER1RFRhRVJnMjVUZHFVbklEZExJUDRCNXBYTHlWbXhSRVV6bV9SUHc1SFdVMFRDcjVnZjFiVGF5SmhwUm45TWg1NTdYajdzRGRNYUdoS002S1RNNEJpVlRGbWdkYWdjMW53NWNsRXVSc3VKRjlPVnBiWVl1LV9nRU5KWDB0OWVxdTVYUWc?oc=5"
+      "manchete": "FashionNetwork Brasil: Joalheria Carla Amorim inaugura loja com novo conceito arquitetônico em Recife",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2tWUW9uazFjODZmY0lpMVN2Tm0zTTd2bTR2UWtsZWtHLUdIMWtKQm1ESkdaVUVIQ3JTSFFlX3dsQ21EdkpOQjhlczJCaWw3VmZmT3RkWVo1NXo4MHp5cW80eGtZb19ub1pTMk9nU0Y1NTRJMWV5MXR0cGd0YVlEaWhyN2NEM29mbmJ0ZTBGN1ZsN1R5TnQ1ZXV5UE1ObEZQcGh3bHM3aVpKWlJESi1iMzhqeVgwcE41MFZoOWdaNHdqZ3ZX?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Jamildo: Raquel Lyra entrega primeiras obras do Estado após eleições em morro da Zona Norte do Recife",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnZTbmpwN2xfb0JtOUdiQ2hqdGxyTFJxX0hOTUItS1g3SVNpRWlqVnFwT29KMVl6Z1NRTHJDNUdKT0RrMmNqYnowQnlFNnZaRU5Za3pKb2FLNFhOSG5Ralhpd1plMW00UGwzZWJxakIyQ0ExRVBRQVlKM19qM0ZoVko3UnlPR0dJMlR6Wm45b3Y2T2NUcFNSSTBkTmJMUy01RldtclVpSkdFVlZtU3lZZnh1eWY4R3g3R1VTR3oxeHFhV1Rm0gHKAUFVX3lxTE1vb3drcGNMNlJRc05FdEtmSzJSeThMSklPUU9pTkh5emw2aFlHTGhKSm5zRVo0ZTRObVNJQ1hqam9XNGlwYXZfVFJWN2lFbmVlZ2NMUXRIR3diamd1RWljU3hiRnBrbERoM002R2hUdF83eXlGVVFYbEpKWFVFZXdpdmtsYzhQX0xBaUZPdkZlMHZ6NTZLelB5UjhLWGFweUg4eG1oMTZ5eGZQazk0Sk91SHNxYUMwQXZ3eUtzTUI3dGF2VUJIT3B1cWc?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -221,20 +233,26 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: Raquel Lyra inaugura sistema de abastecimento e beneficia 10 mil pessoas",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWJSUEFJSUtRVlFJTEtCdDEwbjBvYlI0bzMzYUUtU05jRHRJLXlfY1RfVndtVHdFOF9BOUR5Mk8zaXdhRUZVclpwODBJaEl4UVE4UndDeGJFcmluUURGbEw3dUxmLVhmNHl1T3JETjM0dGkyallHVDVwZHBycldjcFZSZzRQLTBJaHZ1SEhyamp6LUl5UTl6cTd4M25iZkVIRWQ0Wk8zb2tGVlpKNEh3?oc=5"
+      "manchete": "Nill Junior: Raquel Lyra entrega quatro poços e garante abastecimento diário de água para 10 mil pessoas no Alto José Bonifácio, na Zona Norte do Recife",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRDZGSGNrajJqMmpqZ1plLVNucjlnalloS21yZktKRGgtSFp2XzFOYlJ5aWJ3YjlVRGU1YUU0SWtLQXVlQzYwQjcxRXhydG4wWE1Pbzl3WkQ5OEVMN1ZYbzJPOGJjYVVjdkZUcE9lQ0NtT3hFMERmeVBrdEtqT2F5YldONzNfSUZjYzJnZkpRblh4azNvS19Ya0hYYmZRLW1hay15VWNSbzhZdi0xMDk4WDNtekxlZWZBSDh0Z2pzNTJoWXlXSHQ5cTlIcVdpU3FFU1JPUXF0OTY2bDVWVUllNk1ESHNsNkRMVGNSQjA2Wkdpa1puZmUtNA?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Finfa: Governadora Raquel Lyra entrega quatro poços e garante abastecimento diário de água para 10 mil pessoas no Alto José Bonifácio, na Zona Norte do Recife – Blog do Finfa – A verdade em forma de notícia",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMktGNkp2bkYxX1h5WWdrbnRXalg5b2V3OWFPeDVndDJtdUNIV3Q4VjlNck13WWVNYkkxeHc0WEoxVE9HSFhZYlRscDQ1RWhneDV3eXdLTG95VVN3QWg3MkRhMS1Qc010RjkteWJxSzJENmNXbTA1ZVBKM2lqN2NVVFl4bUpRRXlyeDc2NkpJODRvemZ0MGhWeFg3bUF6RG9NZEVEaHFFOFFNMjdZZ0w0UEduMGhzaUpyUVhDUjREenJaWTVyQ0l6UWMtTmVUUXZDcFAzMXBkZUpjVnRERmpySkRrdnY2U1d0bkFmU09FU1k2WXduSENTNUNOY1BINXhNQUkzd2VYYnl6RlpaSkxxM0xWWWd1NG13VGc?oc=5"
+      "manchete": "Folha PE: Movimento Rosa promove cuidados com a saúde da mulher no Recife; saiba mais",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkU4ZFVjYmh4RHozSG9YZU5EMWVJN3RtWHVaVkRsYjN0T1gtOUdGZTA3WFBFUHRpMTdjbXd3N3NTUlVjaDlhNUllbHVidFZoM0o0N3JTcVdXdUFqWElxd3JJZ1RiLTBDZlFCY3A0cmxaSmpjYnp2T2NyMnFNMmtsRWRpTGZmQ2ozMkplckdDLVpWYThUSFB6TFUxTzFtRTQ2Z3Q4Z3FmRlhXZlFlQ0hHQVJVSmFlaHPSAbcBQVVfeXFMTUZFOGRVY2JoeER6M0hvWGVORDFlSTd0bVh1WlZEbGIzdE9YLTlHRmUwN1hQRVB0aTE3Y213dzdzU1JVY2g5YTVJZWx1YnRWaDNKNDdyU3FXV3VBalhJcXdySWdUYi0wQ2ZRQmNwNHJsWkpqY2J6dk9jcjJxTTJrbEVkaUxmZkNqMzJKZXJHQy1aVmE4VEhQekxVMU8xbUU0Nmd0OGdxZkZYV2ZRZUNIR0FSVUphZWhz?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "CNN Brasil: Cegonha com carros da BYD tomba em Recife (PE) e causa prejuízo milionário",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVg3bTVFdmkydm82RDJZTTNBVWYxRU16eG5pMi1RTjFqd2lMLUpOV0wyQ05LdHJaLUpZVFY0SWROSzRmRjdZdXB1aTBxVWJCV1Q0VjhjZ21FN1dFZHdZNlRZZ0FzdW1mRVdLSXNMTEx2YmZFZVNUOVNscXQ5dGxHdU1Pc3FvT0Q2dzZCX2Y1WEVzUmdFeXhUU2JFZk5EZEhSbFdyTVFreWxpczQ?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "- Blog Dellas: Giro Político: PSD quer presidência da Alepe e Antonio Moraes e Joãozinho Tenório se colocam como pré-candidatos -",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkNZY3NELU9paXJ5ZWR4MmxMQ3lMLVZodmlvWVF6MExsTU9GVjFfS3ZscGVSN29Ybms2UlF3d2FrMTItSkRkRXM5R0M1TGJycnRXR0JSRFVSUkNuckRaTGVVd3Z0Y1dWTk9SdS14d2gwSmdGd3hRZmtHTVpRbmd4LXBZSXlDYmVKMW4zTnotdW1nR1ZQQmd1RFhGNk1xZmFQcEtTZXBWbjhNV0ZKRnFua0wwRkRDS1JQdEZlTHR3NGk4YU5jSDA3R1V4WEJxNm9iams0aA?oc=5"
+      "manchete": "Folha PE: Raquel diz que votações na Alepe foram pautadas no “jogo político eleitoral” e atrapalharam gestão",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ213bm85TmI3bVd0cl9LNW9fTjNWMkstSmxJTFl4ZURXUnVaR1I2OGg5Nmk3d2g1NjJWMGRrWlJ5QlRCMmwzeDhkR2h4NlFDMWNzQ2l3aHdvU1pOWUlKNzFFcFdGM3ZQazg3X3dWQWNIWXAwTkdNckxQLUtCOF9CQjM3ZEdmMFdFZXVoTUFGdjRoQnZVeVNDUk8wR19xTDFlNEVoQ2Q1cVpfemFWbEdsUFM1WUtoS0ZXNGZDaUVmSFRSRUY2Z2xKS3dMUG9IMHVyQVhBNXlvSmlVTmxabTJ4YW1YYl9uOS04?oc=5"
     },
     {
       "termo": "Alepe",
@@ -245,395 +263,395 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Alberes Xavier: Em jogo da Seleção Brasileira Feminina, governadora Raquel Lyra destaca investimentos realizados na Arena de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQXhhM1pYblJWd2FmSnJydWFsM08xbjYzQjUxRDBGTXhLY2JjVFRaVS02VVNlbDNDcmIwOEt4bjA5SlZEdWp2VjBvdm5lbzNucmh0bklFckxqb2pSTlRxUDdhSGFGcGtaWm5GVm52V2FMeUd5a0lPR0E2czBnRnVlSi1GYW9zdlhfNllEcE9iTTBQUHlkdjQyMkZaYWJmSzJYbG42dEJGY1BJVnNrSE9BNjFJZlpKUHNhWkJ2OElkRUxKQ3U2aXcyaDU1aGVxVVhWZjgwU0thSlFTaEpfdGZjSHJ6d3dNTTc3ZWRxOFZCUkZXRWlxQ0xqOQ?oc=5"
+      "manchete": "CartaCapital: Ex-colegas de Direito da UFPE apelam a Raquel Lyra por apoio a Lula no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnVrT0FpY0pYUUZHeURFeFhXeF9iMlYzaWpjbFlxa1RoaGJTZ3E1T1IxZlA2UzA1T2I1WkJyazhiLW9Md1dKWWxSTXczal82LTFSc21kcU1NZWQyODEwVWhScTFnY2pVd19mcWdBWXNlYzRPRlJMdUNiX1g2b21uOHE5YzkwVUNZYVhoYlNIMHpydW5ZMlV6TXdyLUZBb2dhQ1hoaDlKcXZDcUZpbVdpRUtUdkFwWGN1Y3c3MjZ3?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "FalaPE: Prefeito Elizinho assegura asfaltamento de ruas junto com o governo do estado em Carnaubeira da Penha",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdk5LNmpIcllLR2hwTXNMbHJ4S1RNTTM3WXBNdk9JaGpRTEx2Q01NU2tMWmp2al9jdUVEUjI2dGF0WW5zb0hnQW5FeXdnb3A4UkR2SEo4Vm44dXZld2hIQ3lySWJKRHBiaHhUcjcyc0ZPWldUeUxrWmZKdEVHeUg4R0dLYWhDaUVkY3dFR3NLbTJmeHZPdnZERExDNmFWb0VOYkZIU1ZvSDFWbkdza1ZkWnFXeVhHN1JXNHJTaWFB?oc=5"
+      "manchete": "Blog do Ricardo Antunes: Em jogo da Seleção Brasileira Feminina, governadora Raquel Lyra destaca investimentos realizados na Arena de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaTVKU2tIdHdWdmFHbWRKY19hTWkwNkZhWVRoVHRGdnFKX0VEZlVCbDVCZDlIa2VoY0wyRElBczEtaTkwckpoWDRKMzd4Z2pXbmg1VWg2bmsxWEFLdEszUkFkWWV0dVNlWGFOaFIxUlBaZmZoNVVFc05LOC1BVjVSYk1EeElsakJub3BMQW1NLWdhNjZfZFJOUTlFMmNvcEhUeEhQaEFFS2tocTI5ODNpOFA3MUFUdFB3cjhtMTZ4amNJeUJJel96di1VN180VEFHcFhvOENoRG5KRlNmdXBv?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog de Assis Ramalho: Governo de Pernambuco leva programa de castração de cães e gatos nos municípios do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGhwODJZWGFlU2t2VzhoOWthSnJRQWJVMEI4LW40NGJhRV9OSS1ldGh5QnBORXBfWTlYSDF1VHJYRVFzdklGcHZUaVRNLU9BUlp3ZmlQZlI0X2Y1NkplVlBRSXhuWkpyUlY4eml4b1V3T0tSSjVMcVlPUWd2R2FPLUJoVDV2R1A5MXlJ?oc=5"
+      "manchete": "TV Guararapes: Governo lança edital para Carnaval e São João de 2027",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmR1RjJteVZnZE00ejdwelFKNFVFWVJCemw1ODdIZmtTR0E1aGltQUpkd3JGUnFVSVc2V01YeU9FRkFmcXRBaHRBNmhxelRqanhPV3BJNGlMQWIzVkJkRVVkWERpZ3hHLUpSQkE1Ni1Bc3o1SGVZeUhDZHpNNzVLUm1KZmZaNm5wN1pTdEVmSzdCb01wdDNBMmh3OEI1a0lCOWRRUzZVVnJyaTdnT2c?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Mário Flávio: Arena de Pernambuco recebe R$ 58,7 milhões em melhorias para a Copa do Mundo Feminina de 2027",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFiWUFxMXc0N3hmdHR0ZU9Xd2lLMGwtdFdEQ0k4Z1JLU2lGWl9DWThqQnlmQUZUam12TWsyNEJMdG85UFBYTWVxcC1aTmhObm44OGdCaC1tLUNKYnE2Um16VmpKTS1QS0dzd0VEaENQZHlRcTQzUnVwamluQzdkLXZLQ0dKQ3BaNjJqOTNKYno0MVZvZVA5OUU5UEpnRzQxSndqU29rYTh0UGthZWlKWU1JZy1NNEllbTc1TlV3aUp0anM?oc=5"
+      "manchete": "Cadaminuto: Wadson Regis e Alex Gama levam Barragens Já ao Governo de Pernambuco e articulam união dos dois estados para conter enchentes e garantir segurança hídrica",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNY1Bsa0VHU3FrUDdNbGRzUnZ2bS1VMVY5YU1UMlZ6Z1haZ0tOZF84Sk95TUdzd181UVo2LWJuNHd2dGtNQkZuRWt2MEpJaUJaOTV4ZUVVZFRZM2hPOU9vcGdsVnA0cDRYLXlBeW5HREZ4VHh6SHJvVWtzN3h2N3lGbUxOWVczVmROLTJGa0l4eVE2RmVUSHQ3UXI0cHlhN21ETE51MjIyUkZUbE1qNk9rcWdiaDNjNzBidDY0aXNlaWNuZkxDS1F0aUlyR2xxalpYakNpT0pCM09aLVlVWHNnUXJUZTh3V1ZreDZMMGdpdUxTUy12SUNVRHRTWjEtb2FVRy12VHliZlhJdC00VGZ1YjhhX3ZEMTRmc3UzVjluOTZDX0tfQlV1c3R5TQ?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "TSE determina",
-      "razao_aumento": 93.8,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Tribunal Superior Eleitoral",
-        "hora": "2026-10-14T00:30:00Z",
-        "titulo": "TSE determina reexibição de propaganda eleitoral do candidato Flávio Bolsonaro (PL)",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQTRfbDBnVlFRNDc0ZlNVSjh6QjQ1S0VPNkdDRkN0VXJHX2FiRU1rSmluZXhhc3FrbGhlVTBCVjR0SUVxT0RHM1JuMW1oeU9hWXQ3WlN2bnk1SGpCejdjN1pzZFBCazdZZzBmaWhnblJMRENyQzJzbUFmVkJSLXhjcXdlMEtxaVg4VmVmaHl1T0RHQ2ZKSTRKZzhyR0Roel9iQ2p6U0ttTFJJMDB1dDVFMWtSZUE5Nng3SXBubXpOUk05WV9Sd3BGcFhZYTQyb0M3SXNJRw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Coluna da quarta",
-      "razao_aumento": 76.9,
+      "termo": "Arraes",
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Blog Cenário",
-        "hora": "2026-10-14T03:00:00Z",
-        "titulo": "Coluna da quarta: Raquel mantém ritmo acelerado no pós-eleição",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDR1VnV0Umpwc3Njak9PZXBoZ2pTOFlCbG9uejBGcjNaZ2JUR0ZLRURaRHczWHNRS3duaHVGOWlrOU16TGt4NDU4cVdiQ3A5ZmllQVdod3VtaHAzR0dQZlRSd05udXF2aFY1bGl3QmtuY1BHMVJEVmxwblk4bVpLU1pCSUYxSzFLSGRnMzdHY3V6TUxfeTZ4TXUxdDVuUzBmLTY3a3Z3?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "quarta feira",
-      "razao_aumento": 76.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Jornal do Comércio",
-        "hora": "2026-10-14T01:36:11Z",
-        "titulo": "Flávio Bolsonaro fará campanha em Porto Alegre e Região Metropolitana nesta quarta-feira",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMExyc1Q2c3pOb1MwWXF3Rm1TVk9peXphdnlaZWlmMlJSLWd6ZFV1UVpnNk9PaEZMNUpVdjc4cUlablNwT1BCYVdGOHlER1hqQnFuR3VSRXJ1YUdFcUVQN0pvMEp4NmdQbl9INXphYWg5QnNyVFkyTjBJVEtPUGJOMHcyV2szZThHbk82cGNxUzY0VXVzb3BxY0FQWXVKTVFRUDJwUHRnRWNsYlh3Wl9fbE9YT0JDQ1EtMEltZ0J3MUNHZy11S0w5cGl2YlVEbWJwY3BqemJHLVdfbV9Qc2FsZ3UwYjg3Y1pXNVE?oc=5",
+        "hora": "2026-10-13T20:45:00Z",
+        "titulo": "Maria Arraes destaca atuação na Câmara Federal e prioridades para a Alepe",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMktEcnEyNUd6MlltRDdfeGdsV0ZzMUV2UEVna0dxcTg3NVlMejBoaGxZTFByMU9Qb083OWNhSHdMa3VocXp5ZzlkNmFON0dDWXRiT295UFBNeVRuZHFsRjJSNi1rUEs0TE52c0gybTBUMmNRdWVmX0YyclZrdm0wemNOT3ZqcEpEVDhseVVuTnFDbWZacXhsblB6MnNFdGFnWVFkT1FjdVZjNlloMGxpMg?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Feminina",
-      "razao_aumento": 71.4,
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Diario de Pernambuco",
-        "hora": "2026-10-14T01:54:51Z",
-        "titulo": "Raquel Lyra promete \"grande operação logística\" para receber Copa do Mundo Feminina em 2027",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaDJTY19scW5oNU83cTBmWE1mZDUzOHROeGc1UU16emlKdDZ3cXFDeUdURFpkUGI4T1AyT3dSRmo5aGloQ1NsZ0xsVkM1ZW15cHlNMGd1STJIcFo2NG1LRXdHcnVMRDEtYkFTZnFBazQ5aEwweUx0d2hKXzFQYkZ3MWlvd3I1Q2hUTWZlVXF1SjU4dzloN0k1cmxlRXphalNVeHdYR29zczUwRkZRYmdNY09nWUxRUWRfSkh1Z0hzdmJveWl4TnhEeFZrMjQxRVUwMmRnLXAzOElwQTh5QjA3ZVBaSFE0RE9GZ2xER2lkUzN5bElf?oc=5",
+        "fonte": "Blog do Mário Flávio",
+        "hora": "2026-10-14T09:31:47Z",
+        "titulo": "Arena de Pernambuco recebe R$ 58,7 milhões em melhorias para a Copa do Mundo Feminina de 2027",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFiWUFxMXc0N3hmdHR0ZU9Xd2lLMGwtdFdEQ0k4Z1JLU2lGWl9DWThqQnlmQUZUam12TWsyNEJMdG85UFBYTWVxcC1aTmhObm44OGdCaC1tLUNKYnE2Um16VmpKTS1QS0dzd0VEaENQZHlRcTQzUnVwamluQzdkLXZLQ0dKQ3BaNjJqOTNKYno0MVZvZVA5OUU5UEpnRzQxSndqU29rYTh0UGthZWlKWU1JZy1NNEllbTc1TlV3aUp0anM?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Arena de Pernambuco",
-      "razao_aumento": 71.4,
+      "termo": "reunião da campanha",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-10-13T23:40:00Z",
-        "titulo": "Raquel Lyra detalha investimentos no metrô do Recife, na Arena de Pernambuco e em abastecimento de água",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVhtZmp3ZTNXeC1JNDRTaGU3ZmRnZXdSN3oxRkZYZWhHcXZfTktBdlNGaVdmRXpTV205VlpBRVJZNmlrZ2lwclYtaklSQ2JVcnNHTEF0MjVIelVNUFZhUXRBbDNVXzhyamRHREhQTDJ3QU9TdHhidmo3bnZiakN4MnA2emQ1NlZYdDd5V3l4cEV0OFhSdU4zdk5UdkVVZXlQc0d6WEF6ZnVzTkNyX24zbmVaNE5kd3Rub05tb2dvVG96RDdfSVJrdkQ0NVk2cF9KRHBXVk0zaG9MVjdfQ1FnUTBFOA?oc=5",
+        "fonte": "Blog do Magno",
+        "hora": "2026-10-14T01:34:36Z",
+        "titulo": "João Campos participa de reunião da campanha Lula-Alckmin em Brasília",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemNPbXdJV1VUeGIxbWlaX2NWeWR5MU5QMEVZSHlOMDdDWENXaGNwak9hdGlsbG85UWh0OFVPaUpibG45RktaOElyb3l2SWIyS2lDa3czeU0tUS1fbi1NU3RWTENxS1JPbHRaWDNOVDl0MWI1OWJhbWJDTTNhNk5zaDFJeXludTVXUWV1UjFtaUZrazhJdFpQT1ViZFhkUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "reúne lideranças",
-      "razao_aumento": 70.9,
+      "termo": "Copa",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-13T14:41:34Z",
-        "titulo": "Mendonça Filho reúne lideranças da direita de Pernambuco para alinhar campanha de Flávio Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGFUREJpZG9JbE5XalplYmNHamJ2VG5pc0dhbVRmdy1ONVFfWlNmVHRIUWdjam85V3BkMWpGY2ZFZFQ5YzBfWV9Xc0QxMkdHNGNOZzRHRWNoQ1pBZXNaS0JGYVNfM1RFeGNFbEw4SHRyZVc0WUJXbDVURkI2QWRuSDJ6RTJncVFXcmFwb0RaeGVNdlVyTFRmMkxBY0hXWTN0WHFyc2NoazNmM21LVUt2TGdjSUVLb25fTnU4QTU1eGlsWms?oc=5",
+        "fonte": "Blog do Mário Flávio",
+        "hora": "2026-10-14T09:31:47Z",
+        "titulo": "Arena de Pernambuco recebe R$ 58,7 milhões em melhorias para a Copa do Mundo Feminina de 2027",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFiWUFxMXc0N3hmdHR0ZU9Xd2lLMGwtdFdEQ0k4Z1JLU2lGWl9DWThqQnlmQUZUam12TWsyNEJMdG85UFBYTWVxcC1aTmhObm44OGdCaC1tLUNKYnE2Um16VmpKTS1QS0dzd0VEaENQZHlRcTQzUnVwamluQzdkLXZLQ0dKQ3BaNjJqOTNKYno0MVZvZVA5OUU5UEpnRzQxSndqU29rYTh0UGthZWlKWU1JZy1NNEllbTc1TlV3aUp0anM?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "confirma presença",
-      "razao_aumento": 62.5,
+      "termo": "Mundo",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-10-13T21:39:33Z",
-        "titulo": "Flávio diz que não irá a debate da Band; Lula confirma presença",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0lmcXNYRzg4OS1peEFhUHRKZFZNVTdrSmxNVmptR2JPV3pBOEMwZS1EZk5rdDlCLWtRUERCck1RSHVoOTlzck1KbEY5RzJqdnR2eHd2Mmx5ckoyd25JOVVBWkhzbF96MTVBc200azNxaHhXdkNleFVqZ0xKclo5b3o0dDFsQ3h0dUdiTC1kRzJYSDU1R1Jkel90d1J5VXY4WEZGemhuMHczYXNwcmlMZS1PVFJGQkU0QWozd29DUnBEeWx0aG9uZHFqcktSdEIzWEhFOVBxZnpKOEFLNHNz0gHuAUFVX3lxTE1uaV80bWQzVHRfWUNiU2NYcjdvV25uOU5zTWFnamE1NE4tdVc3VU44T3RKRGJZYktoWnYySk1mWm5xTmhmZmhNWFJOZzlqbnotTU55eVBJS3BlUW1RVzlHWk1iRE9NUjdGQzFLNXdfNXNHQklxSDFzSkdYRTFhTlduaEdGVGt6Sk9RNm5vV2tKV0xGVWE5QjhNbUdpYm9pSHZhWUloN0RpY3VreXNUX3VTcWdHa1U2Z0lGWmJaSUg1TGVCN1dOdHVqSGRxWUk0aUhMTEFtQkotNWozRkVOb0VhVDY5U2Q5S2RTVVNTZnc?oc=5",
+        "fonte": "Blog do Mário Flávio",
+        "hora": "2026-10-14T09:31:47Z",
+        "titulo": "Arena de Pernambuco recebe R$ 58,7 milhões em melhorias para a Copa do Mundo Feminina de 2027",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFiWUFxMXc0N3hmdHR0ZU9Xd2lLMGwtdFdEQ0k4Z1JLU2lGWl9DWThqQnlmQUZUam12TWsyNEJMdG85UFBYTWVxcC1aTmhObm44OGdCaC1tLUNKYnE2Um16VmpKTS1QS0dzd0VEaENQZHlRcTQzUnVwamluQzdkLXZLQ0dKQ3BaNjJqOTNKYno0MVZvZVA5OUU5UEpnRzQxSndqU29rYTh0UGthZWlKWU1JZy1NNEllbTc1TlV3aUp0anM?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "crime organizado",
-      "razao_aumento": 62.5,
+      "termo": "Mundo Feminina",
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Mário Flávio",
+        "hora": "2026-10-14T09:31:47Z",
+        "titulo": "Arena de Pernambuco recebe R$ 58,7 milhões em melhorias para a Copa do Mundo Feminina de 2027",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFiWUFxMXc0N3hmdHR0ZU9Xd2lLMGwtdFdEQ0k4Z1JLU2lGWl9DWThqQnlmQUZUam12TWsyNEJMdG85UFBYTWVxcC1aTmhObm44OGdCaC1tLUNKYnE2Um16VmpKTS1QS0dzd0VEaENQZHlRcTQzUnVwamluQzdkLXZLQ0dKQ3BaNjJqOTNKYno0MVZvZVA5OUU5UEpnRzQxSndqU29rYTh0UGthZWlKWU1JZy1NNEllbTc1TlV3aUp0anM?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Copa do Mundo",
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Mário Flávio",
+        "hora": "2026-10-14T09:31:47Z",
+        "titulo": "Arena de Pernambuco recebe R$ 58,7 milhões em melhorias para a Copa do Mundo Feminina de 2027",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFiWUFxMXc0N3hmdHR0ZU9Xd2lLMGwtdFdEQ0k4Z1JLU2lGWl9DWThqQnlmQUZUam12TWsyNEJMdG85UFBYTWVxcC1aTmhObm44OGdCaC1tLUNKYnE2Um16VmpKTS1QS0dzd0VEaENQZHlRcTQzUnVwamluQzdkLXZLQ0dKQ3BaNjJqOTNKYno0MVZvZVA5OUU5UEpnRzQxSndqU29rYTh0UGthZWlKWU1JZy1NNEllbTc1TlV3aUp0anM?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "após Lula",
+      "razao_aumento": 60.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
-        "hora": "2026-10-14T00:40:36Z",
-        "titulo": "TSE derruba propagandas que associam Lula e Flávio Bolsonaro ao crime organizado de forma genérica e fixa limites",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYk5Mem9XYkc2eWVZSFZoLVNvUEoyMnRxX1BhY3l2TVpWWktwWEItZWZ3MHgzYmlhMFQyMURCd3RXZDhwVXhzeW1JaXFWbHVrRVBhZTVFZVk0SHRtaEhGbE51dUh1OXUzRV8zZzMzWE1fbmxQRXlITnVYamJCdnZ0WGZ2eUZGa3ZNcHlzNXpoLUV3dmhJRV9QeVpfOEZhRDdLYzhya3E4cHVjYXVVY0NRTGVfQmR3XzRSSVkzR0psYmtXeGlpWllwSGNZU3RGbEVMTWs4UWR3aVlhcUdXWFZMWTdqSzI5Ql96Vm9JdWx2THEtOUpncWhaTlA0ZnRaRm8ybXFlX0kyOEh5UnJqRHNj0gGeAkFVX3lxTFA4ejBHS3A1RThpcDBYLVFnUGc2X3JXWUt4RUxSZjh6bUR4eFhWcTc3Q3IwSTFGajlKX2drUkRxOFJHQmdNN1djeUNBS1F5Uk1kSnUxajl5NklXWEFfYmVVRjhSWFZRRUpUZFU1LWFjdG1qOW01SzJkaHRtbDNneTBkdnFzRGRaajMzN3RfUUd5ZEp1aURqOTA4VHhnRktfaEsxQS1wbDY1dDFhVVhzbGUwdGxzVDlEU1FoV2NMVzJZODJDQUZYXzZiVmszMU1NS01DbG1SeXpDNFQ2WmIwbk5nYVlQd1FfQVpleVp3WFJsZDVlTnB2dWFPaEdobmt3Mm9lbWEta1MybExqZHlqbUtlTTdMczZKMmM4c0ZwU2c?oc=5",
+        "hora": "2026-10-14T12:06:23Z",
+        "titulo": "Flávio Bolsonaro recua e diz que irá ao debate no domingo após Lula confirmar presença",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTTZBcG1LSkNVUG9HOWdjNTJ4QTRyYXhwNUxfYzJwR0VCLUp3Z1dqVWVwdkNiTDhfMUZ2MC1EdENncHhaWUltb0k4dVlLN0toak5ERDJmZngwZU1BWGtGMERnZmhUUElkeUhXdzBYTkRVQ0xrUk9GdUtCU01FNU5TejhuVHU3Q1hydThIYXdaMlNRelAwVW8zcFZEdHc2MDN0RkhzRVp4TEV3N2R3cFhYM2ktZFNRTFhjUEtRNGdZNUhSSldvR19oaE5nSjJjR2diRmkyOFBWX09fODhlazIzd1lyb1ZUVnFxMXNZQkszV2owLWZBWVpRZTk5TWpOd9IBjAJBVV95cUxNWEd3dU9MZXVWWkFXTHpYaUc1YUlIWXhoVmFVYWZlTjVYV3R0SC1PZmlTUDRQZ3JmeWtlUGZDTTNCVFR2Ni1XU0JiZTRPeWdpWUR0LTJZNEQwXzJ0ZkdkN0xLQjhXWUxmUDh2S3h6MFl5TDRHSHRNZ0p2SFZKTmpSdml4bmdMRkV4ZWJfbFRTT0FtZVNOcXdJVF9nYUh3TUVZM25vOEJOcWV0eUNIYUVEa21JSFB6YmQ1VWFJdVZjcE5idVh2ZURPdlhON3hDR0YxZWJGQ0J0T2lEVDc3eXQyQUZKcW9xZ3l6NFJLQUQxTlF5RGROYVRaZVBQZG9weURDaGR5VDB5OFZqc3lv?oc=5",
         "peso": 1.0
       }
     }
   ],
   "nuvem": [
     {
-      "termo": "Flávio",
+      "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 23.92,
-      "fontes_distintas": 22
+      "fatia_pct": 24.87,
+      "fontes_distintas": 29
     },
     {
-      "termo": "Lula",
-      "peso_relativo": 94.6,
-      "fatia_pct": 22.63,
-      "fontes_distintas": 25
+      "termo": "Flávio",
+      "peso_relativo": 74.7,
+      "fatia_pct": 18.57,
+      "fontes_distintas": 19
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 69.8,
-      "fatia_pct": 16.7,
-      "fontes_distintas": 21
+      "peso_relativo": 53.2,
+      "fatia_pct": 13.23,
+      "fontes_distintas": 17
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 65.3,
-      "fatia_pct": 15.62,
-      "fontes_distintas": 17
+      "peso_relativo": 53.2,
+      "fatia_pct": 13.23,
+      "fontes_distintas": 16
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 63.1,
-      "fatia_pct": 15.09,
-      "fontes_distintas": 17
+      "peso_relativo": 51.1,
+      "fatia_pct": 12.7,
+      "fontes_distintas": 15
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 60.8,
-      "fatia_pct": 14.55,
-      "fontes_distintas": 19
+      "peso_relativo": 44.7,
+      "fatia_pct": 11.11,
+      "fontes_distintas": 16
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 60.8,
-      "fatia_pct": 14.55,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Alepe",
-      "peso_relativo": 31.5,
-      "fatia_pct": 7.54,
-      "fontes_distintas": 11
+      "peso_relativo": 44.7,
+      "fatia_pct": 11.11,
+      "fontes_distintas": 16
     },
     {
       "termo": "João",
-      "peso_relativo": 24.8,
-      "fatia_pct": 5.93,
-      "fontes_distintas": 10
+      "peso_relativo": 25.5,
+      "fatia_pct": 6.35,
+      "fontes_distintas": 12
     },
     {
-      "termo": "Band",
-      "peso_relativo": 23.6,
-      "fatia_pct": 5.66,
-      "fontes_distintas": 8
+      "termo": "Alepe",
+      "peso_relativo": 21.3,
+      "fatia_pct": 5.29,
+      "fontes_distintas": 9
     },
     {
       "termo": "Campos",
-      "peso_relativo": 22.5,
-      "fatia_pct": 5.39,
+      "peso_relativo": 21.3,
+      "fatia_pct": 5.29,
       "fontes_distintas": 10
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 22.5,
-      "fatia_pct": 5.39,
+      "peso_relativo": 21.3,
+      "fatia_pct": 5.29,
       "fontes_distintas": 10
     },
     {
+      "termo": "Band",
+      "peso_relativo": 21.3,
+      "fatia_pct": 5.29,
+      "fontes_distintas": 7
+    },
+    {
       "termo": "campanha de Lula",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 6
+      "peso_relativo": 17.0,
+      "fatia_pct": 4.23,
+      "fontes_distintas": 8
     },
     {
-      "termo": "debate da Band",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Ninguem",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Cala",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "OExercito",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Ninguem Cala",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Cala OExercito",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Ninguem Cala OExercito",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "OExercito Do Lula",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "VOLTAREMOSAINDAMAIOR",
+      "termo": "Meta",
       "peso_relativo": 12.8,
-      "fatia_pct": 3.07,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "INIMIGO",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.91,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "TRABALHADOR",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.91,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FLÁVIO INIMIGO",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.91,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "INIMIGO DO TRABALHADOR",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.91,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MEIs",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.8,
-      "fontes_distintas": 2
+      "fatia_pct": 3.17,
+      "fontes_distintas": 5
     },
     {
       "termo": "Pelo",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.75,
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.17,
       "fontes_distintas": 1
     },
     {
-      "termo": "Da6x1",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.75,
+      "termo": "Escala6X1",
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.17,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula Pelo",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.75,
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.17,
       "fontes_distintas": 1
     },
     {
       "termo": "Pelo Fim",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Fim Da6x1",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.75,
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.17,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula Pelo Fim",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.75,
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.17,
       "fontes_distintas": 1
     },
     {
-      "termo": "Pelo Fim Da6x1",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.75,
+      "termo": "Fim Da Escala6X1",
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.17,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "Ninguém",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Cala",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "OExercito",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ninguém Cala",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Cala OExercito",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ninguém Cala OExercito",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "OExercito Do Lula",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FOGE",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FOGE NÃO LULA",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "INIMIGO",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "TRABALHADOR",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FLÁVIO INIMIGO",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "INIMIGO DO TRABALHADOR",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Norte",
+      "peso_relativo": 10.6,
+      "fatia_pct": 2.65,
+      "fontes_distintas": 5
     },
     {
       "termo": "Arena",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.69,
+      "peso_relativo": 10.6,
+      "fatia_pct": 2.65,
       "fontes_distintas": 5
     },
     {
-      "termo": "governadora Raquel",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.69,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "governadora Raquel Lyra",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.69,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "nesta quarta",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.69,
+      "termo": "Lula e Flávio",
+      "peso_relativo": 10.6,
+      "fatia_pct": 2.65,
       "fontes_distintas": 4
     },
     {
-      "termo": "TSE",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.69,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Pelo Mei",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.59,
+      "termo": "CRIME",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "Lula Pelo Mei",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 1
+      "termo": "Zona",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.12,
+      "fontes_distintas": 4
     },
     {
-      "termo": "JANONESEUAUTORIZO",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.42,
-      "fontes_distintas": 1
+      "termo": "Lyra entrega",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.12,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "após eleições",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.12,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Zona Norte",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.12,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Raquel Lyra entrega",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.12,
+      "fontes_distintas": 4
     },
     {
       "termo": "Feminina",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.16,
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.12,
       "fontes_distintas": 4
     },
     {
-      "termo": "Arena de Pernambuco",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.16,
+      "termo": "IA da Meta",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.12,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Creches",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.12,
       "fontes_distintas": 4
     }
   ]
