@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-15T14:24:52Z",
-  "total_analisado": 140,
+  "atualizado_em": "2026-10-15T18:39:26Z",
+  "total_analisado": 131,
   "x_recife": [
     {
-      "termo": "#esquerdasegueesquerda",
+      "termo": "#OChicoteMudouDeMao",
       "posicao": 1,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23OChicoteMudouDeMao",
+      "ruido": false
+    },
+    {
+      "termo": "#esquerdasegueesquerda",
+      "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=%23esquerdasegueesquerda",
       "ruido": false
     },
     {
-      "termo": "Márcio Canella",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=M%C3%A1rcio%20Canella",
+      "termo": "Metrópoles",
+      "posicao": 3,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Metr%C3%B3poles",
+      "ruido": false
+    },
+    {
+      "termo": "Luciano Huck",
+      "posicao": 4,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Luciano%20Huck",
+      "ruido": false
+    },
+    {
+      "termo": "Grupo Globo",
+      "posicao": 5,
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Grupo%20Globo",
       "ruido": false
     },
     {
       "termo": "Professores",
-      "posicao": 3,
+      "posicao": 6,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=Professores",
       "ruido": false
     },
     {
+      "termo": "Márcio Canella",
+      "posicao": 7,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=M%C3%A1rcio%20Canella",
+      "ruido": false
+    },
+    {
+      "termo": "#SpecialNewsEver",
+      "posicao": 8,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23SpecialNewsEver",
+      "ruido": false
+    },
+    {
       "termo": "#TORDO13",
-      "posicao": 4,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 9,
+      "variacao": "-4",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23TORDO13",
       "ruido": false
     },
     {
-      "termo": "Palver",
-      "posicao": 5,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Palver",
-      "ruido": false
-    },
-    {
-      "termo": "#OEXÉRCITODOLULAVOLTOU",
-      "posicao": 6,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23OEX%C3%89RCITODOLULAVOLTOU",
-      "ruido": false
-    },
-    {
-      "termo": "Feliz Dia",
-      "posicao": 7,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Feliz%20Dia",
-      "ruido": false
-    },
-    {
-      "termo": "Nightwish",
-      "posicao": 8,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Nightwish",
-      "ruido": false
-    },
-    {
-      "termo": "Belford Roxo",
-      "posicao": 9,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Belford%20Roxo",
-      "ruido": false
-    },
-    {
-      "termo": "GTA 6",
-      "posicao": 10,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=GTA%206",
-      "ruido": false
-    },
-    {
       "termo": "Haas",
-      "posicao": 11,
-      "variacao": "+3",
-      "direcao": "sobe",
+      "posicao": 10,
+      "variacao": "-6",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Haas",
       "ruido": false
     },
     {
-      "termo": "#TheBridalWord",
-      "posicao": 12,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23TheBridalWord",
+      "termo": "Frederic Kachar",
+      "posicao": 11,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Frederic%20Kachar",
       "ruido": false
     },
     {
-      "termo": "#MoonshadowSeriesAfterParty",
+      "termo": "Daniela Lima",
+      "posicao": 12,
+      "variacao": "+15",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Daniela%20Lima",
+      "ruido": false
+    },
+    {
+      "termo": "Rafael Câmara",
       "posicao": 13,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=%23MoonshadowSeriesAfterParty",
+      "url": "https://x.com/search?q=Rafael%20C%C3%A2mara",
       "ruido": false
     },
     {
-      "termo": "TO THE MOONKEY AFTER PARTY",
+      "termo": "#FoolInLoveEP3",
       "posicao": 14,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=TO%20THE%20MOONKEY%20AFTER%20PARTY",
+      "url": "https://x.com/search?q=%23FoolInLoveEP3",
       "ruido": false
     },
     {
-      "termo": "Operação Unha e Carne",
+      "termo": "LULA NA GLOBO",
       "posicao": 15,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Opera%C3%A7%C3%A3o%20Unha%20e%20Carne",
-      "ruido": false
-    },
-    {
-      "termo": "Estadão",
-      "posicao": 16,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Estad%C3%A3o",
-      "ruido": false
-    },
-    {
-      "termo": "ESCALA",
-      "posicao": 17,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=ESCALA",
-      "ruido": false
-    },
-    {
-      "termo": "EMPATIA",
-      "posicao": 18,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=EMPATIA",
-      "ruido": false
-    },
-    {
-      "termo": "Marcus Amim",
-      "posicao": 19,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Marcus%20Amim",
-      "ruido": false
-    },
-    {
-      "termo": "Polícia Civil",
-      "posicao": 20,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Pol%C3%ADcia%20Civil",
+      "url": "https://x.com/search?q=LULA%20NA%20GLOBO",
+      "ruido": false
+    },
+    {
+      "termo": "GTA 6",
+      "posicao": 16,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=GTA%206",
+      "ruido": false
+    },
+    {
+      "termo": "CEO da Globo",
+      "posicao": 17,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=CEO%20da%20Globo",
+      "ruido": false
+    },
+    {
+      "termo": "Fórmula 1",
+      "posicao": 18,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=F%C3%B3rmula%201",
+      "ruido": false
+    },
+    {
+      "termo": "Mídia Impressa e Rádio",
+      "posicao": 19,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=M%C3%ADdia%20Impressa%20e%20R%C3%A1dio",
+      "ruido": false
+    },
+    {
+      "termo": "Helen",
+      "posicao": 20,
+      "variacao": "-5",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Helen",
       "ruido": false
     }
   ],
@@ -167,20 +167,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "JC: Professores questionam atraso do BDE 2026 e cobram valorização profissional do Governo de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdExpVkQ4TFRUTnpDb2FGN3phYVlvY2xvTUQ4U2otLUdZLWQ4NVR2bG1mOTlrOVY2c2M4MVNiVkVOTklOT2lFS3kwM0dxS1AtWVNGRDhlQUhtWlBSYmFTbFFnWlh3T0ZpbFNxdl9yb2dFM3J6aEFTLXA1TjB4dGcwbDZwd3dfNVdjZU50Y2drUmR4d0h1R19JSGt1WU56VERhVXh0UHlIQm1GTVdQWThOdzFGTlhzR0ExbEpfeTZsRmhGWEpiMjVLeGlxOTVWbWJDRmZPOTF6OUNlMm5fY2o1ZFVFOEpfbzJvREc2TXJYU1lISlkx?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Operação em quatro estados mira quadrilha investigada por fraude e sonegação fiscal de mais de R$ 117 milhões",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV1ZtUjZZRW5CUGxsN2NTU0w2TkFpTlB4TjZvU3l3Y3ZsUGc4cnRMTHlkaHFVMldkdEVxQW5hVEFLMFAtaU8tYUZiMTJLQmc2OTE4eHNBTnh4T1dNd2lMN0hCY2VyUHh2M2RPRU1nUnpmbEhEdENodWFJVjdYdnBJejk1RlJrQXoxYzFrMFZ2V3BJRC1jRlVsdmlIcnVGUl9ESmc4R0dCNTdXUHdyMVVWTXNZR0JjaEVKX1VoQkV1VWdVWDE1WE01RE1CVFRoVV9jcXlqQzFkdVR3YWV5MEpvd1cxbzVrcXRSZE5VRlVudDhLT2E0cEtCek80TlTSAYsCQVVfeXFMTV9zMlVkNE1FU0N2UmNHd1dRSnVSTU9WaUpmN1UzX0hvRjZCU3RWNS1ZZ0dwZVpjVTVxMFZ0T1lKRmN6eXRfa01YMlJPZUl1Z2p3YjlOZXN6MXljbnVXLTFMck1zVUhCMHFKWTMtLTZidXpRVXZ0c0NqX1dxSjhTcktONUtGZkpKekhhTDBXYWJ1ODRZdHpYYmw0dWJQUU1yX3pKbHl1TVJVdVJ0WktSMGdKRTVJT29NUGRWanpPdEJudTdOMmxnV3pSOGxzUTk4enpUeUZyck1Od1VldVRBbkt4ZHZueHE4ZlBIaHJteW1MaG0wQTdZTXJRc0tDOFVGTWNDWFEwc1BHWHpr?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Folha PE: Pernambuco transfere ponto facultativo do Dia do Servidor Público Estadual para 30 de outubro",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmxtUkpUMkp6SUJZblNBekpoTFZmTUh1REF3NzdwSnRpTFBEeGdyRjRoVjR0ZmFmQV9VN2FwUHc5dEJtZHVIQm8tdHhfVXliU1ItUWdWWllxaUlEcjBIajlRSzlrNl9ubDlvU21HWkkzMUM4ZVJzRy1INDNnT1RrQm9xdGdLNU9GOXdWV25xWEhTV3dhdUlXM1IxUHRnNzd6Q2VScXZSV1ZQX2tvS0HSAbIBQVVfeXFMTktGcjlEUGVVclVNWnBnaHV1dUVaazI3cktfanpGa2NYU0Z4Z1dmVDNXWU5sc0oxR1VWUFlDRDlHdEJJdnJKbFJISDJRazEyTllXT21WSk9mdjlHVVp6WjZDVGhSM1VJZEpPRVRQSTRndGlmTHQ4ZHlONHQtLV9uU2wwOW1OeVd6Tl9Eb1o5OEtuaF8wYnR1Mkw0Y2p2ZktHNkoxa2V6NGpDZmZsSkNiZ3k5QQ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Fim da escala 6x1: saiba como votaram senadores de Pernambuco nos dois turnos",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZG5qTExBS1I0aUZxTUZ2X1VuVU8zNHprQXB3V2dleEtNNm11QXM2SFVlem9IbDI1RW9CemNfTG1uMEwwbzZ5SnlQVzRUWXEzazh5MXlKMTRIM1FPSTBSWWNESGltU1g4WEw3b2pUck5TUmQ5VmFIczNWZE83RExDdXQ5QlkwdFIyOVJ0U1Bwb3QtbU5IMndCXzN1eFI5NFVwR0lDX2M1am9QbDhKVXg2Q2gxYW1kRFB3Nlk1UWhIWEVkb1hhY01rVXR3QjROdE1GRFHSAeABQVVfeXFMTkpWWW1sMFZBbzZES0tYX05tZDlvWGNEc2NzeDRVNDBia2hYMzY3US1KOGU4c3c3aTRZS05CZDlZdkNXZFRNYkt4WkFTZkp0dE02enhSLWNBeHR0U3o5Q3hSSkxHa2xBNHJ2SllLMFRNS2l5UDdSaEg4WFB2dmhwdXRCaWtCMkpnbkdwajhNSXJqSS16TkU1UHVabl9BQ2tscTlPV3FCTi1WMGZWd3FGVTM0cVYxVG9TTlM2TnpwZzZpWVlHSFE5U1dtOHRIYWI3ZE93MlNRVG5RN2JKNmdMeS0?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Agência Sebrae de Notícias: Pernambuco tem segunda maior concentração de GovTechs do Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmNuTGllMjZFUWlLYjNicnQ5aHBjeXVKWXNTSWM4SWdSSHV2ZHN1NXlZakZwZWJrWlM0NHZaeHB6RlpwbE1kbTJMeEliV3Y0SjZUYnVDMlJjOVRNSTJYRExmQkdzRFNELXlYNlhUajA5NVE4NDFzZnQzc1JrXzlMc1BpbGhGTUphXzB4cGhkcFhHSDl3cGhmMW55Mk9Ja0ZsY25RZGRCQTBDZ1RnZWVwUVM3aWJ6V3lZMEE?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -191,50 +191,74 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "CBN Caruaru: Pernambuco abre inscrições para eleição do Conselho Estadual LGBTQIAPN+",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTk5TbkpzSExsNUdlaWF4MEVTWFMwQzJPazVqdnd1VVJIUGRsdk9ibnhfS2FJUmlpM21RWlpZNTNRd2lUTUZoZzJLOTg3Z2NacFRNSzNlSzZkTFFfTVdSVUNsenRteFZSczNNT0EwZmt1N3ktU1BmZXg1aUx2eW02RTNRRHRJUzdEV3VZX05xdDVzSFg1RHR3VGFGRklTaTZaUDFUZkpjUjY?oc=5"
+      "manchete": "Agência Sebrae de Notícias: Pernambuco tem segunda maior concentração de GovTechs do Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmNuTGllMjZFUWlLYjNicnQ5aHBjeXVKWXNTSWM4SWdSSHV2ZHN1NXlZakZwZWJrWlM0NHZaeHB6RlpwbE1kbTJMeEliV3Y0SjZUYnVDMlJjOVRNSTJYRExmQkdzRFNELXlYNlhUajA5NVE4NDFzZnQzc1JrXzlMc1BpbGhGTUphXzB4cGhkcFhHSDl3cGhmMW55Mk9Ja0ZsY25RZGRCQTBDZ1RnZWVwUVM3aWJ6V3lZMEE?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Pesquisadora Maria Paula Maciel investiga Carnaval do Recife e Olinda em dissertação premiada",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWElDLXZuUUNVVl9LVkhWTkV4cndWREl0SDlreGNBZ1NuaEg0R3pFR2FNZElSQldFNFZRS095TnVYdURlODhxZkUyZ3VFbGFYOVM2OUd4MTFrbXZETkZkN1I1NDNGRHdSR000SW53aGVTYnVfNmItMFhpTDZQMVlVdldvTE1JcVZOYTM3Q2xPckltNkhWYzd4c2FhSFBJVTA0V2thd1ZNYzFyU2U2a0Yw0gGvAUFVX3lxTE1YSUMtdm5RQ1VWX0tWSFZORXhyd1ZESXRIOWt4Y0FnU25oSDRHekVHYU1kSVJCV0U0VlFLT3lOdVh1RGU4OHFmRTJndUVsYVg5UzY5R3gxMWttdkRORmQ3UjU0M0ZEd1JHTTRJbndoZVNidV82Yi0wWGlMNlAxWVV2V29MTUlxVk5hMzdDbE9ySW02SFZjN3hzYWFIUElVMDRXa2F3Vk1jMXJTZTZrRjA?oc=5"
+      "manchete": "IFPE: Comunidade acadêmica do IFPE Recife participou da 2ª Semana do Cuidado e Bem-Estar",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXJ0Vk9Ubm5pMEpBT2FoLVRqdTZoNktMWVdCZ0lCMllNRDRmaHF6aGpTM3lQREpXcUZWQ2dpU2FkSzN1X1IxRm1XanByUHgwdHNRUVlUcUNlN2pfdGNSeTJwdU5lVzFlaHBuX0NKN0xxVXg3VzRzOG9tU2x3d0lBU2tNYzBUUE9Bd2gwTGVPRU5ZWElOVmJnV1JJeTN1c0JLSWVrV244UzZjZWJaYWRhQ0g5TnVSel9fNGVZV2xKLUV4S1VJ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Jogos Vorazes: Amanhecer Na Colheita",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wWnZKLVE2Y1F5RDBDUEFSM3V1UW96NXYxS0p5cUI0OHEtSHVaUXF1QTBnN05DYVljUUlBSW9ZSXRlOFJ5Nk1zc05qOGktbDducUZ3clFtZUVvazUwVFF2RkxnLURZREN4TDlKMjgtT0Z5clJMb2NrNFpB?oc=5"
+      "manchete": "JC: Líder do PCC é preso em prédio de luxo no Recife; delegada também foi presa em operação",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1AzLVFfSHlDNnhYMHZrNWMxaGt1N1hlc3otLUJ4OWFJcDlNVE5tZnpUalJKZmxJN2NFSVVqSEdCeXNnb29Pa0lmdUxUYXViTk1FNmk3NVg3eW5sekVqNnMtbXcxeGFmNVZHbjRwSU5lUm5xeDl3aFVVTl9aNk8xS2JQdFRId05hN2pMTjJkMkIzWTVfNEc1SEVLem9NR19keXVlbUNRRml2LUs2UW9iSDd0ZTRTdk1CZXlBV29mcm9hRDVIcVdFbHVpVXpFMVR0VFcxeUlVNEFFUQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "TNH1: Veículo roubado em Recife é recuperado durante abordagem na Pitanguinha",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEo4S3hIN0FSV1llSnIwcDVUTThjOXZjOExyZkVDMWJhaFNySXo5T1prRU5DMVhReU5RTDFZRXRicjNuSHFDdmlhZko0dVNjQ0FQSzFIRHNKd1RXYnNqczVldnVvZW52OEFGbVROcE1ITklnS2FkZi11UkNoNXJkbFMtYWdROTNXNkltN2R1TzIzczROWjFZZ0VmWERnV1pfUFpuaU10Ukk3aEZ60gGnAUFVX3lxTE01dW50Q2RjTUtFRURIVFpEc3VFMGNkWWlqZzRuVDZzSlFqNTNEdGNRam41eFBsV0tEd3MwRGJ6M1RVSnFIVUhBUmNzd3IxcGJXZ05vN1VlTndMT2xCSVFNQ3J2NHZESXRoRkhUa0VQTWtuZ2tneTdNUGoyX1plVm9hUUZXMGpRN042R3FrSkJ5bUEycW1ab1Z3cVBsS3hTNjVnR1o2VGd3?oc=5"
+      "manchete": "CBN Recife: Recife lança observatório para monitorar políticas públicas voltadas a crianças e adolescentes",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQl9zQ2dmcHFjdnJkLTZidWNsbHA1U3M0UnRQR2NKcDZNWlNYUzZZeGJYOXA1SmhBb3VSZzlCYnBJTmtzNmZQenIwVUJFMi03U1ZGVkNGYmQxeWRwM0JVOUhDN0h2Q29lVU9WWHR6MEFKbUJSR0NGNkwwcC1OSmxYVUMtbWxmZmZMc1E0eGlMTlJwaFpRNllEV0d4YmtyVWRKMjk0REhJZWZwNWM5dXBXOVdwd1BWblZyTXpadlNVMEV0aHZtRnQ1UkdDUHM?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcWpieURSMV9PNkh0Rm5KTTRGSkVCemxJSmxWNGtxbHdVYWZwUWdKdUpxc2xGTDlLT2tJRDdRWklZT2x3M2NqQkgtNTcwZXJPYmlRVklsUFMydDN0RDMxb2ZmQ2hUVzZHc09ONHVIZUNHOEFDOEJ5R1VvWU1ybUx2d2RSLWdYV0dVV3dfS1FUWTBZSWpFTWgwa3VXQi1XWUJHc2wxbjF5aEdiUVE4TXVzNXVfUzJGTHNXN3FVZV9uUXVHMHB5bWQwVmxkQ1I3eHNmdkJYX3F2UlpzTTZRUWZkTzBjVjZHTWN2MFVtOHRBSk9sY05NMkt4UEx1V2VHTWpVNWZJWENHam9RRDJKcGJycFZPSG1VZzRtWG5HblpvWEw1Nl9VUkJj0gG2AkFVX3lxTE1MVDBTdmxzRWJaV0Q2NVd6RU9wNWRjTTRFb0ltdU1YS2JCS2F3MGYxV0RQMXFyQTF3M20wTmNIVDhnNThqZ21hTTJ0cDIxVUpfM0h0MU5Pd2ZyakNTYnYtak1YcnJKWlV6X2I1WjF6dnp3NHdFNmp3TUVjcWdHOU1Ma3pzWWF3SFp4b3EzZEpNcVJ5WUxUNDg3SzVHSWpVeVc2SmRORUlqTlJGdEJHRElLOU4wSlVlVWt0NGtud2xUa3RCRVJKWmtvRGpXblctTDJKUUJUSTh5dGZyNUtEVEktTG1vTTJoMXpwQlp0Z3RGaFhDNU5SbWswTzVuWFJBNEh3dy1ydVd1T3c5bFc2WGdxdV9panVtRm03dmZVT251VzVDLXdKVkU1d3E0U2ZYMk1IRlk1aEE?oc=5"
+      "manchete": "G1: Delegada do Pará é presa suspeita de passar informações ao PCC, em operação realizada em três estados",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNExHaWdXWVR1R18yWTZtNm1Ta3Jvb0pzMjNSU1NwUmVoVEJDc2d2X2Q3Y01mN3M3M3VDa2hvb2YwZU1TU1Qza2dZWERna0F0amx5TnhWamJ6YWoyOFdjVkJNYkdVMktWaVhYb2I0ZWN3Q25wOGxtdm5HdVVVdjRuc2NCUFbSAZMBQVVfeXFMUHNiNmpXTVN0bWt0TnBkTHZoMHBfNFNrcEQ3ZTlPOTNwQWpJb0ZLdHdIb2RGVC05UU1PSUJzcGZUaEdWQmtxZm9QWmVwMmx1Y3NMeXlfalNnZ2Z1Z2dSeGxMSmdzZEU0Qm0yTUhJeVRwOVpma1ZjUFd5ZXdHYTRPUWFpYnZ0TWRGdkNQbHBXYUJMaExF?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Suspeitos de fraude e sonegação fiscal no ramo de bebidas alvos de operação; prejuízo é de R$ 117 mi",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTdLT0g3UkNnUHRKMmxqQ3FTUXVoaHVqY3NhYlpESzJtaGYtZzF1aTlKeUkxRzN0NldydVNaR0tLZzl1dWFhX3lZUVlYLWlOY0I5ODR2dlprMEhzR2o2LTQzaHgtbDRZeURzMzN3MGhNVE1XUlpiMDNaUVdWYVNIRi1LMVNsVDBGbTJLTFBLVjh6VXRzZDB5Rjc5UVFJSWNCQjVPYmx6aEJRQjNOVlpJdEtTTdIBswFBVV95cUxNZTdLT0g3UkNnUHRKMmxqQ3FTUXVoaHVqY3NhYlpESzJtaGYtZzF1aTlKeUkxRzN0NldydVNaR0tLZzl1dWFhX3lZUVlYLWlOY0I5ODR2dlprMEhzR2o2LTQzaHgtbDRZeURzMzN3MGhNVE1XUlpiMDNaUVdWYVNIRi1LMVNsVDBGbTJLTFBLVjh6VXRzZDB5Rjc5UVFJSWNCQjVPYmx6aEJRQjNOVlpJdEtTTQ?oc=5"
+      "manchete": "Folha PE: Sítio Histórico: Igreja do Carmo recebe concerto de música clássica neste sábado (17)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEpxbG4wM1kxcDZrUDRkcW54Q3l2cmJNMGFYY29QWVJxd1dDcHhPZTRVSFJHdFVUS0d0bnMyZnpCQl9hbGJ4bFNFc2FGT2FTSWxjVFIxX0x4VTR6YnFoN0NKU3BVek1tNHV6T3ktLVAteG5zWkRzX1Jwajl0cFdrR1d4Yk9GYzlBZVMzcTN0NUVMU0hUWlZiLVR6VnJHdDZLX1pTN0lETmRpM0tFS09qZnZZUdIBswFBVV95cUxNVEpxbG4wM1kxcDZrUDRkcW54Q3l2cmJNMGFYY29QWVJxd1dDcHhPZTRVSFJHdFVUS0d0bnMyZnpCQl9hbGJ4bFNFc2FGT2FTSWxjVFIxX0x4VTR6YnFoN0NKU3BVek1tNHV6T3ktLVAteG5zWkRzX1Jwajl0cFdrR1d4Yk9GYzlBZVMzcTN0NUVMU0hUWlZiLVR6VnJHdDZLX1pTN0lETmRpM0tFS09qZnZZUQ?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Rádio Itatiaia: Delegada do Pará é presa suspeita de repassar informações sigilosas ao PCC",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQkRTUVkyLXlWd1BNbklWXzFHb1BsbVQzMUI4S0UwbXFrcUIxUzlSaUJJV214RWJxT2psWW0zMUo2bjVrblFqTE9Ba29jN2JyNjNCdlpReHVXakxvTFJjR3Back1FTWoyV1ltbkxYVWFpYTJDejNWZkpxMW91RHh3NVpHMjlnUjRHRVVSQVJXMml2YTZxLTBIODlmMVRpSGhFY2hkZ2JiS3lfcGxJV20ySEVqM2Rhbzg4bWY0?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Pernambuco terá uma quinta-feira (15) com sol em todo território",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVEh3VXpUYmtGQTdsR2xhR3puUDNBYlZGRWpSaFp6RnRrZkV5SG9QZGowQWMyaHRJTzNVNmFvTVdydExzRE82bm5GTU8za29aN1hBa1dqNTYzVXZYY2FfU2M3bW1SY0JTY0ZmcjlCUnhJZjlaTGJ5VzZCYU5GRTN4OF9wdFBGZTVhMUtHZ2o0OWNFNkMwZXdNcWtBdHRvMklqT1k1aHBvWUlmbWpGVW56WU5tanNGMmZ2UFZTanJtOU9PeXExX1A3Sm1lcjJiWTQ1U1FxYQ?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Seresta North Way encerra programação neste fim de semana em Paulista",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY05rb2tmemdvX19mR25maFZId1VyMkZpdUxkUkJ1MGpwNU52THFXRGVPZzVDZFRQbzhPOEtjOUxtLWt1RG5vWWR1WWdIM3VRNS1VMTlDXzdNTVZhcW5qWEZxTTlBTm1iZDVRSVF2ZndmZDl0VE5yNW5oNGN2aTNFckUtTnNOdVhXbDE1T19OTXhkVWEtUm41Slh5blYybnhiVzlGU21fUmxGVndWVG1jSkpnSzc4TlnSAbcBQVVfeXFMUGNOa29rZnpnb19fZkduZmhWSHdVcjJGaXVMZFJCdTBqcDVOdkxxV0RlT2c1Q2RUUG84TzhLYzlMbS1rdURub1lkdVlnSDN1UTUtVTE5Q183TU1WYXFualhGcU05QU5tYmQ1UUlRdmZ3ZmQ5dFROcjVuaDRjdmkzRXJFLU5zTnVYV2wxNU9fTk14ZFVhLVJuNUpYeW5WMm54Ylc5RlNtX1JsRlZ3VlRtY0pKZ0s3OE5Z?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Coluna desta quinta-feira",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4dEozdmx6OURIQ3BiMExnSzBPcVRDbUx3aTRxQUNXQV9kM18tT0lFZ2lmdWhCUU5DNkt3LXhFWS03dl80TjUteXM3YmFjWndNT0pQOWtweF8wMUxxUG0tQ21mOHkyakk?oc=5"
+      "manchete": "Blog do Alberes Xavier: Bruno Marques chega à Alepe com 67.376 votos e expectativa de renovação política em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2g4N1BiS0ZXbkpLMUI1R2g2Rk9ST0NYbW5iUnpVMGdNV0N3OUlCU19FWUFXM0tmR0E2T3BjSFhFWTZDODU4bWFkN296Ui0yVUxkTlN5S2VNUGRscHF0UlNLV1BfOERvQVAzbjN0Nnk0Sm1mNHppbXJseC1rMzdWVzNsMHBxTW1HWklpM3M4TTVxRTBQNFVlcHhUMTJleUZNTFZ0SlR0ckVvQnp0TE9xZ1htbWpsZGFBbTNJYmJBcENJQTAtWTcwbVcxS3RJZ0NUSkgwY0kyQQ?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "TV Guararapes: Fundação Altino Ventura celebra 40 anos em solenidade na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQi1adU1rblpvNzl3T2VrcFkxWW11bTA5dUdVeDdzTHQycmlkZk51NER6Q2VSVmxpb2Z5a1l2bXluZTBqVWw1ZDNocXlTN2txWDRNRU52cHNNaUpyNVFocFhoZll1VkQybVJZY1FTTVV3OEhlWlhqdThqOVBEWnZ3MGFoREJKczc4dkhEdlFVNm1PSmUyMnpocTdSM051Sl91TXVZUWVKM0J2THg3bmhmNG1Pck9TM3puMUFmemtR?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: Governo de Pernambuco transfere ponto facultativo do Dia do Servidor Público",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEtXX1lhdVEtMWFOc284SGdOamxmVkhNVXhHU2VGWnFsSDNLd1MxYllKZ2wxWnZpNmxMX29WN2tWbVUzdlRJakNxQWpqMDljUjlTdVpsdlNwOFpnRzRPeEMxUlV5QnhuUmYwcF95WXhSRkxkWEYxZDRyQmtiTUIyTWprSXRTVzFheWtKZ2kxLUtVcy1FaXF2c2ZSQ3BDUnBnM0hUb0tTNW1IQ1JNNVRwX3JUWjA?oc=5"
+      "manchete": "Diario de Pernambuco: Após eleições, quatro secretários retornam ao governo de Raquel Lyra",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakJjRmFhTUhyVF90d01CZ0IxZ3U2MnpGMjNHZy1ubHZUd1hRa0trMUtETzNtcTVzUDMtdGdsQl8zQU5GQjl3R1EwWmJHbnBfUTB6cjM2T29uQlU1LTUzXzZPMFdLMkpoRkx6ck5JTUJxN1Atc2tMeDk0eFozUFhiS0pRdnRGVmQ5RHNiZTctWE9MT01fc0tmM1JGTHlFcUNNR2JzanJ5VFlLUWRfU1ZFRFh5VkVuUnRsOXVORHJHVjdFUURLZ2thQzdiRkdSZDh0Qmc?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -253,102 +277,96 @@
       "volume": "Últimas 12h",
       "manchete": "cidade997.com.br: Raquel Lyra reconduz quatro secretários ao governo de Pernambuco",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMHFsREQ0bjUxRjZsaUF3a0R2TEw1Z05wNHZhNVl4Um4xWHV6UnMyUVFUeTFoSzVzbTQ5ZDNBRk5fbHhta3hHTlduM19JQkZuOHgtUEVfY2pIYkJJRXBpcDVrcjF1WmJlaXBLR0QtUVhqS0pVWmVFQVd3N1hINUM0YmlBeDRLbkpRUU1DbHJsQW9YRU1Q?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Marcio Didier: Governo de Pernambuco transfere ponto facultativo do Dia do Servidor para 30 de outubro",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mRnQ5SmpfM0Y5VVZuSWVtSFZ2UjVMcEZfeWh6N25nTGlrYkpMQ2JOenp3M05lX0xOZXJKbnkzNXpsQmdnNXY0dzRuX3hXOFhLYjFlSnozMGxaYkRWV1NxZ3VNeGZGSVNfRFVzdTVFZmhwTVJ3ek1acnJGUQ?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "estudo estratégico",
+      "termo": "nesta sexta",
       "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-14T19:24:35Z",
-        "titulo": "Secti lança estudo estratégico para fomento de infraestrutura digital em Pernambuco",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWdiSEMwM01DOEN2OXBmVDJZWHY1Q0ZtaDlaZEd4SDNUMUwwYTBhWkZwZEpES0d2cFVTQlIzRXBSXzB1QlRIMHp0RUFNMzZDSEdvemRHSGl3T1VGQ2J1U2x4Z1JPQ1d1RGFGTjJjeUpxZ3ZjZDJiV21YX3E0UnZpc0dJRnNqMlpnSjFvemRXNU1HTU1DMW0tU2pYUFBTMVhkZzFORWhqU2d6a1BtbF90RV9KaHYxZGvSAbcBQVVfeXFMTmVnYkhDMDNNQzhDdjlwZlQyWVh2NUNGbWg5WmRHeEgzVDFMMGEwYVpGcGRKREtHdnBVU0JSM0VwUl8wdUJUSDB6dEVBTTM2Q0hHb3pkR0hpd09VRkNidVNseGdST0NXdURhRk4yY3lKcWd2Y2QyYldtWF9xNFJ2aXNHSUZzajJaZ0oxb3pkVzVNR01NQzFtLVNqWFBQUzFYZGcxTkVoalNnemtQbWxfdEVfSmh2MWRr?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "lança estudo estratégico",
-      "razao_aumento": 76.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-14T19:24:35Z",
-        "titulo": "Secti lança estudo estratégico para fomento de infraestrutura digital em Pernambuco",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWdiSEMwM01DOEN2OXBmVDJZWHY1Q0ZtaDlaZEd4SDNUMUwwYTBhWkZwZEpES0d2cFVTQlIzRXBSXzB1QlRIMHp0RUFNMzZDSEdvemRHSGl3T1VGQ2J1U2x4Z1JPQ1d1RGFGTjJjeUpxZ3ZjZDJiV21YX3E0UnZpc0dJRnNqMlpnSjFvemRXNU1HTU1DMW0tU2pYUFBTMVhkZzFORWhqU2d6a1BtbF90RV9KaHYxZGvSAbcBQVVfeXFMTmVnYkhDMDNNQzhDdjlwZlQyWVh2NUNGbWg5WmRHeEgzVDFMMGEwYVpGcGRKREtHdnBVU0JSM0VwUl8wdUJUSDB6dEVBTTM2Q0hHb3pkR0hpd09VRkNidVNseGdST0NXdURhRk4yY3lKcWd2Y2QyYldtWF9xNFJ2aXNHSUZzajJaZ0oxb3pkVzVNR01NQzFtLVNqWFBQUzFYZGcxTkVoalNnemtQbWxfdEVfSmh2MWRr?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "digital do estado",
-      "razao_aumento": 71.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Info Newss",
-        "hora": "2026-10-14T18:24:30Z",
-        "titulo": "Governo de Pernambuco lança estudo sobre infraestrutura digital do Estado",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWVaVmwxVFBfeGhjLThpTTZDdDZZOXdCdUxsa2NMTDhsZ01feUdfaHVISkN0NzM5ejI0OTI2M1hkSXZaN3BsdkJCdl9NSUZDRFBMSnJVc1pBVUNrcGJJTFJlN0cwUTQ1THhUcmsyU2ZrTUFOS2NDQ2JqN01jZzA0Z1JhN0poZlZSR05CdzZOZG15WHpEWG9mNXRMS3o?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Fátima",
-      "razao_aumento": 69.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-14T17:44:27Z",
-        "titulo": "Dia de Nossa Senhora de Fátima passa a integrar calendário religioso do Recife",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3dkdW1aQk1mcWNLYzZOdk91TFZ5ZmlNaG1LclR6TFp2UHl0aU45NUJGZDZ3M0h2WG5CTWN0d0xvNFpoMFBwWmU5NXBYb3l4ZlgySDFIdndZSFN0T3Q5aWRyaGFUR25ET0pYZnc1UGxWYWlmNmNTalFuOTQ2blgwSzdEdWE3X2FRNV9QSlMtOFk3ZlJVWWpRRk01N0RtcUFxVWZjeENCOHVkWU1TZDV4NGZ2MjAzZ9IBtgFBVV95cUxNT3dkdW1aQk1mcWNLYzZOdk91TFZ5ZmlNaG1LclR6TFp2UHl0aU45NUJGZDZ3M0h2WG5CTWN0d0xvNFpoMFBwWmU5NXBYb3l4ZlgySDFIdndZSFN0T3Q5aWRyaGFUR25ET0pYZnc1UGxWYWlmNmNTalFuOTQ2blgwSzdEdWE3X2FRNV9QSlMtOFk3ZlJVWWpRRk01N0RtcUFxVWZjeENCOHVkWU1TZDV4NGZ2MjAzZw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Senhora de Fátima",
-      "razao_aumento": 69.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-14T17:44:27Z",
-        "titulo": "Dia de Nossa Senhora de Fátima passa a integrar calendário religioso do Recife",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3dkdW1aQk1mcWNLYzZOdk91TFZ5ZmlNaG1LclR6TFp2UHl0aU45NUJGZDZ3M0h2WG5CTWN0d0xvNFpoMFBwWmU5NXBYb3l4ZlgySDFIdndZSFN0T3Q5aWRyaGFUR25ET0pYZnc1UGxWYWlmNmNTalFuOTQ2blgwSzdEdWE3X2FRNV9QSlMtOFk3ZlJVWWpRRk01N0RtcUFxVWZjeENCOHVkWU1TZDV4NGZ2MjAzZ9IBtgFBVV95cUxNT3dkdW1aQk1mcWNLYzZOdk91TFZ5ZmlNaG1LclR6TFp2UHl0aU45NUJGZDZ3M0h2WG5CTWN0d0xvNFpoMFBwWmU5NXBYb3l4ZlgySDFIdndZSFN0T3Q5aWRyaGFUR25ET0pYZnc1UGxWYWlmNmNTalFuOTQ2blgwSzdEdWE3X2FRNV9QSlMtOFk3ZlJVWWpRRk01N0RtcUFxVWZjeENCOHVkWU1TZDV4NGZ2MjAzZw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Recife abre",
-      "razao_aumento": 66.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "LeiaJá",
-        "hora": "2026-10-14T16:48:00Z",
-        "titulo": "Prefeitura do Recife abre curso gratuito em captação digital para organizações sociais",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRlJxMHh6dEhvWVNtZ1lSYXpRWm1OZW5jeTA1RENJaW9NNl9ZeEx4Z1RPRDRqOEk1TXdrczEtNHZJZExtei05UFEzMHdBbzNaLUl0QjJ4UXVqLW5xdXV2eDZoXzdrUndLM2U1T0RVZERjeUVTZ2UtV0Z1LXl2ZVRGNEdmdWVRMENFc3JYZ0l1TzJTRElVY0xnREIyQ1loMDN5Smw1R2pQMl8wSXFlVVRiWkdLMHpIRFNtc1lqOGRWbDYycEsxNDVFb2pSVQ?oc=5",
+        "fonte": "Jamildo",
+        "hora": "2026-10-15T10:49:00Z",
+        "titulo": "Professores de Pernambuco terão ponto facultativo nesta sexta (16) e servidores no dia 30 de outubro",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXZXN3E5bVozUVRwV3FoVmIzc1Vta0FqNHJMZDUzYlRWNFREVWxsdDgyOHhteW1GWERmY29jUWxlRUN3WFU5N2s2eXNWV0E2QUJ0R19scWw2MkVrdE56NlY0RDVYS1NzX01aalpwSDA0Ukh0UU9ubTVmV0FMTmdkTXhyZFR6cENFbkRxR3pkZkdpUGFmNmIyOU0wSGtIUHN6ZzhfV0FLQWdhWmJpRG5TajhyVlZUcF8zenJvT25ucUFEX0twNkJXRm1qSQ?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "ponto facultativo",
-      "razao_aumento": 61.0,
+      "razao_aumento": 62.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
+        "fonte": "Jamildo",
         "hora": "2026-10-15T10:49:00Z",
-        "titulo": "Pernambuco decreta ponto facultativo na rede estadual nesta sexta (16), após o Dia do Professor",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLTR1TVFjNEw3N3FBbVNKZFVwdkRZVGFUQzFKUXJ1ME5RTWJoOWg1cjNGcnd1SGJTSFpTOWpMbUxfcTA0Q1UxaUhwRUpVdnQ0NmRXaUNXZXBlWkFpWjJtOVJWcmNfRlhHREJ0S0c5RWJHVkhhckpoQm1ybkd1ODFBaUJSWUUtcGcybGJwbzhjQTlxYzdkYy1ySk5teTVIUUdreEZiXzZxdUVxMnljYkhobE5MbGvSAbgBQVVfeXFMT1ZsbGloM0Z4LXlFNkdCWk9IOHpJbUs4MzJ3S21PanBuZ3dLVkphbHZDVmpHVHEyQWx4RWhHYXJPY3YyaUhGNi1pdE9lRFVJMFIxU3BSemFZd3c2djNnNHpWcEhZRXBWWHRibnhnb05zMndhcjFTemRxLW04WnNuS1lhQ3ZYWnVqRHNxamZfYm9tandaOERDbGQ2M3V1TFFSTTVDZWJYSlduMkZ4dHlKRmxCb2FVcEI4NA?oc=5",
+        "titulo": "Professores de Pernambuco terão ponto facultativo nesta sexta (16) e servidores no dia 30 de outubro",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXZXN3E5bVozUVRwV3FoVmIzc1Vta0FqNHJMZDUzYlRWNFREVWxsdDgyOHhteW1GWERmY29jUWxlRUN3WFU5N2s2eXNWV0E2QUJ0R19scWw2MkVrdE56NlY0RDVYS1NzX01aalpwSDA0Ukh0UU9ubTVmV0FMTmdkTXhyZFR6cENFbkRxR3pkZkdpUGFmNmIyOU0wSGtIUHN6ZzhfV0FLQWdhWmJpRG5TajhyVlZUcF8zenJvT25ucUFEX0twNkJXRm1qSQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "escala 6×1",
+      "razao_aumento": 58.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog Cenário",
+        "hora": "2026-10-15T10:45:00Z",
+        "titulo": "João Campos acompanha votação e destaca apoio do PSB ao fim da escala 6×1",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkpraENtblJJd3hYeTBtS09yYkFEdDJJTU9xWXVZNm1ZU0NGOElaUF9PMjVMYXFmZ0NRQjhKRkJJYzN5Q1g3UUdCdFBYdmVsYlNTV2hmRnYxRm9GNmNmNnA4Ni1zYlYzVFc5eE85V0NiV0lSSEFOOHhVTldlWnVTRVc2d09hckcxcTNhSWNjeXNuNmtHN0UtZmwxaVBla3J2TWIxYWNmOWlkOWhRRWxxag?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Servidor",
-      "razao_aumento": 61.0,
+      "razao_aumento": 54.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha PE",
+        "hora": "2026-10-15T12:45:03Z",
+        "titulo": "Governo de Pernambuco transfere ponto facultativo do Dia do Servidor Público para 30 de outubro",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGhTckVwSC0yVjlCejZyaXlYTkN2QjVXM0xIVnpkODJRTEtjbV9DeVRPM3paUGEwUTkzMDdoVjduR09icThWWFNHZHp2OTVMdkhMQ0pzb0lKd1pSMnJrV1I2LWEyZ3RPTmRWR2tLOVpULTVZZmM4OVNBampWMWtmTHNfclU4aEVTaUM2dlNtNGNDVTY5ZmY5T3lyX3lnaFh2c0tSeHhuc3NmY2lER2pKTTdpczZxUdIBtgFBVV95cUxPTGhTckVwSC0yVjlCejZyaXlYTkN2QjVXM0xIVnpkODJRTEtjbV9DeVRPM3paUGEwUTkzMDdoVjduR09icThWWFNHZHp2OTVMdkhMQ0pzb0lKd1pSMnJrV1I2LWEyZ3RPTmRWR2tLOVpULTVZZmM4OVNBampWMWtmTHNfclU4aEVTaUM2dlNtNGNDVTY5ZmY5T3lyX3lnaFh2c0tSeHhuc3NmY2lER2pKTTdpczZxUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "aprovação do fim",
+      "razao_aumento": 45.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Nill Junior",
+        "hora": "2026-10-15T11:07:15Z",
+        "titulo": "Raquel Lyra comemora aprovação do fim da escala 6×1 e chama medida de “passo importante”",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNG9DUTlXMHBJLWNSa0ttcTRLWEhReUl5N1lKM01wTDgxdUUtRmNlYUVxRTdXOXkxYV9DdHhtSHBKOW9jdTlmcDVZVDRzQWZmcUJ4bEp2TktWQk9wS3dXdUtlbTZNb1FZUl9Mb2dBb1NtYk5jR29RbWRLa1VHUmdkX2d4eDJQdmE4cDVCSDVsbkpEa3BDM19lM29RazcyWG9WYXo4MFVMck9kWkFLbnloV010QQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Pesquisa",
+      "razao_aumento": 41.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "CartaCapital",
+        "hora": "2026-10-15T12:55:00Z",
+        "titulo": "Pesquisa Palver mostra empate técnico entre Flávio Bolsonaro e Lula",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUG1waTN0b0dLOEhuQWpJamZZaXFoTTVmQnlMV2pPaDVmNU5iVTdjRVczSDFsMlJWckFqeXFLbW1CVmhIZUgyRWFVVFA1M3EyYmhYOTlWM3R4bE9EdS1CUzR1djEyQTJHVFF6anQ3NVlocWxfS0FLblJfbDd5VFY0dTc0MFdvSUNwTjhXNUxRTE9KSHJmZFYtTlFwVnJxU0dBMG1ubHI0V1RqaS1weWc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Pernambuco transfere",
+      "razao_aumento": 40.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha PE",
+        "hora": "2026-10-15T12:45:03Z",
+        "titulo": "Governo de Pernambuco transfere ponto facultativo do Dia do Servidor Público para 30 de outubro",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGhTckVwSC0yVjlCejZyaXlYTkN2QjVXM0xIVnpkODJRTEtjbV9DeVRPM3paUGEwUTkzMDdoVjduR09icThWWFNHZHp2OTVMdkhMQ0pzb0lKd1pSMnJrV1I2LWEyZ3RPTmRWR2tLOVpULTVZZmM4OVNBampWMWtmTHNfclU4aEVTaUM2dlNtNGNDVTY5ZmY5T3lyX3lnaFh2c0tSeHhuc3NmY2lER2pKTTdpczZxUdIBtgFBVV95cUxPTGhTckVwSC0yVjlCejZyaXlYTkN2QjVXM0xIVnpkODJRTEtjbV9DeVRPM3paUGEwUTkzMDdoVjduR09icThWWFNHZHp2OTVMdkhMQ0pzb0lKd1pSMnJrV1I2LWEyZ3RPTmRWR2tLOVpULTVZZmM4OVNBampWMWtmTHNfclU4aEVTaUM2dlNtNGNDVTY5ZmY5T3lyX3lnaFh2c0tSeHhuc3NmY2lER2pKTTdpczZxUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "transfere ponto",
+      "razao_aumento": 40.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha PE",
@@ -361,274 +379,274 @@
   ],
   "nuvem": [
     {
-      "termo": "Lula",
+      "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 18.99,
+      "fatia_pct": 20.35,
+      "fontes_distintas": 17
+    },
+    {
+      "termo": "Lula",
+      "peso_relativo": 88.0,
+      "fatia_pct": 17.91,
       "fontes_distintas": 16
     },
     {
-      "termo": "Flávio",
-      "peso_relativo": 97.1,
-      "fatia_pct": 18.44,
-      "fontes_distintas": 19
-    },
-    {
       "termo": "Bolsonaro",
-      "peso_relativo": 82.4,
-      "fatia_pct": 15.64,
-      "fontes_distintas": 17
+      "peso_relativo": 82.9,
+      "fatia_pct": 16.86,
+      "fontes_distintas": 16
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 76.5,
+      "peso_relativo": 71.4,
       "fatia_pct": 14.53,
-      "fontes_distintas": 17
+      "fontes_distintas": 16
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 64.7,
-      "fatia_pct": 12.29,
+      "peso_relativo": 62.9,
+      "fatia_pct": 12.79,
       "fontes_distintas": 17
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 58.8,
-      "fatia_pct": 11.17,
+      "peso_relativo": 57.1,
+      "fatia_pct": 11.63,
       "fontes_distintas": 15
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 58.8,
-      "fatia_pct": 11.17,
+      "peso_relativo": 57.1,
+      "fatia_pct": 11.63,
       "fontes_distintas": 15
     },
     {
-      "termo": "escala 6x1",
-      "peso_relativo": 29.4,
-      "fatia_pct": 5.59,
+      "termo": "fim da escala",
+      "peso_relativo": 28.6,
+      "fatia_pct": 5.81,
       "fontes_distintas": 8
     },
     {
-      "termo": "fim da escala",
-      "peso_relativo": 29.4,
-      "fatia_pct": 5.59,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "Palver",
-      "peso_relativo": 22.9,
-      "fatia_pct": 4.36,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Márcio",
-      "peso_relativo": 22.6,
-      "fatia_pct": 4.3,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Canella",
-      "peso_relativo": 22.6,
-      "fatia_pct": 4.3,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Márcio Canella",
-      "peso_relativo": 22.6,
-      "fatia_pct": 4.3,
-      "fontes_distintas": 3
-    },
-    {
       "termo": "João",
-      "peso_relativo": 20.6,
-      "fatia_pct": 3.91,
+      "peso_relativo": 22.9,
+      "fatia_pct": 4.65,
       "fontes_distintas": 7
     },
     {
       "termo": "ponto facultativo",
+      "peso_relativo": 22.9,
+      "fatia_pct": 4.65,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Canella",
       "peso_relativo": 20.6,
-      "fatia_pct": 3.91,
-      "fontes_distintas": 6
+      "fatia_pct": 4.19,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Luciano",
+      "peso_relativo": 20.3,
+      "fatia_pct": 4.13,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "escala 6x1",
+      "peso_relativo": 20.0,
+      "fatia_pct": 4.07,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Globo",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 3
     },
     {
       "termo": "Professores",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.58,
-      "fontes_distintas": 2
+      "peso_relativo": 18.6,
+      "fatia_pct": 3.78,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Campos",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.35,
-      "fontes_distintas": 6
+      "termo": "Márcio",
+      "peso_relativo": 17.7,
+      "fatia_pct": 3.6,
+      "fontes_distintas": 3
     },
     {
-      "termo": "João Campos",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.35,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Quaest",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.35,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "TORDO13",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.85,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Senado",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 5
+      "termo": "Márcio Canella",
+      "peso_relativo": 17.7,
+      "fatia_pct": 3.6,
+      "fontes_distintas": 3
     },
     {
       "termo": "Servidor",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.79,
+      "peso_relativo": 17.1,
+      "fatia_pct": 3.49,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "OChicote",
+      "peso_relativo": 17.1,
+      "fatia_pct": 3.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mudou",
+      "peso_relativo": 17.1,
+      "fatia_pct": 3.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "OChicote Mudou",
+      "peso_relativo": 17.1,
+      "fatia_pct": 3.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mudou De Mao",
+      "peso_relativo": 17.1,
+      "fatia_pct": 3.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Metrópoles",
+      "peso_relativo": 15.4,
+      "fatia_pct": 3.14,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Huck",
+      "peso_relativo": 14.6,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Luciano Huck",
+      "peso_relativo": 14.6,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Campos",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Senado",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.91,
       "fontes_distintas": 5
     },
     {
-      "termo": "infraestrutura digital",
-      "peso_relativo": 14.7,
+      "termo": "João Campos",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Grupo",
+      "peso_relativo": 13.7,
       "fatia_pct": 2.79,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "OEXÉRCITODOLULAVOLTOU",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.51,
       "fontes_distintas": 1
     },
     {
-      "termo": "Feliz",
-      "peso_relativo": 12.4,
-      "fatia_pct": 2.35,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Campanha de Lula",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "TSE",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Creches",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Pernambuco transfere",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "transfere ponto",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Pernambuco transfere ponto",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "transfere ponto facultativo",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Nightwish",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.18,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Belford",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.01,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Roxo",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.01,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Belford Roxo",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.01,
+      "termo": "Grupo Globo",
+      "peso_relativo": 13.7,
+      "fatia_pct": 2.79,
       "fontes_distintas": 1
     },
     {
       "termo": "aprovação do fim",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.68,
-      "fontes_distintas": 3
+      "peso_relativo": 11.4,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 4
     },
     {
-      "termo": "governadora Raquel",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.68,
+      "termo": "escala 6×1",
+      "peso_relativo": 11.4,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Lula e Flávio",
+      "peso_relativo": 11.4,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Pernambuco transfere",
+      "peso_relativo": 11.4,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "transfere ponto",
+      "peso_relativo": 11.4,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Pernambuco transfere ponto",
+      "peso_relativo": 11.4,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "transfere ponto facultativo",
+      "peso_relativo": 11.4,
+      "fatia_pct": 2.33,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Special",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "News",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ever",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Special News",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "News Ever",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Special News Ever",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "TORDO13",
+      "peso_relativo": 10.3,
+      "fatia_pct": 2.09,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Câmara",
+      "peso_relativo": 9.7,
+      "fatia_pct": 1.98,
       "fontes_distintas": 2
-    },
-    {
-      "termo": "governadora Raquel Lyra",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.68,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "quatro secretários",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.68,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "após eleições",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.68,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Bolsonaro e Lula",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.68,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Bolsonaro votou",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.68,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Flávio Bolsonaro votou",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.68,
-      "fontes_distintas": 3
     }
   ]
 }
