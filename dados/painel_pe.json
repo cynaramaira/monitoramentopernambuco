@@ -1,440 +1,598 @@
 {
-  "atualizado_em": "2026-10-15T04:33:33Z",
-  "total_analisado": 19,
+  "atualizado_em": "2026-10-15T09:26:06Z",
+  "total_analisado": 154,
   "x_recife": [
     {
       "termo": "#OEXERCITODOLULAVOLTOU",
       "posicao": 1,
-      "variacao": "+4",
-      "direcao": "sobe",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23OEXERCITODOLULAVOLTOU",
       "ruido": false
     },
     {
       "termo": "#LulaPaiDoFimDa6x1",
       "posicao": 2,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23LulaPaiDoFimDa6x1",
       "ruido": false
     },
     {
       "termo": "#FLAVIOINIMIGODOTRABALHADOR",
       "posicao": 3,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23FLAVIOINIMIGODOTRABALHADOR",
       "ruido": false
     },
     {
-      "termo": "VITÓRIA DA CLASSE TRABALHADORA",
+      "termo": "ERIKA HILTON",
       "posicao": 4,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=VIT%C3%93RIA%20DA%20CLASSE%20TRABALHADORA",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=ERIKA%20HILTON",
       "ruido": false
     },
     {
-      "termo": "ERIKA HILTON",
+      "termo": "VITÓRIA DA CLASSE TRABALHADORA",
       "posicao": 5,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=ERIKA%20HILTON",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=VIT%C3%93RIA%20DA%20CLASSE%20TRABALHADORA",
       "ruido": false
     },
     {
       "termo": "Carlos Miguel",
       "posicao": 6,
-      "variacao": "-5",
-      "direcao": "cai",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Carlos%20Miguel",
       "ruido": false
     },
     {
-      "termo": "#ProvaDoFazendeiro",
+      "termo": "#GuerlainSiamParagonxYoko",
       "posicao": 7,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23ProvaDoFazendeiro",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23GuerlainSiamParagonxYoko",
       "ruido": false
     },
     {
-      "termo": "FIM DA ESCALA 6X1",
+      "termo": "YOKO GUERLAIN XMAS PARAGON",
       "posicao": 8,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=FIM%20DA%20ESCALA%206X1",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=YOKO%20GUERLAIN%20XMAS%20PARAGON",
+      "ruido": false
+    },
+    {
+      "termo": "Rick Azevedo",
+      "posicao": 9,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Rick%20Azevedo",
       "ruido": false
     },
     {
       "termo": "LULA ACABOU COM A 6X1",
-      "posicao": 9,
-      "variacao": "-1",
-      "direcao": "cai",
+      "posicao": 10,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=LULA%20ACABOU%20COM%20A%206X1",
       "ruido": false
     },
     {
+      "termo": "FIM DA ESCALA 6X1",
+      "posicao": 11,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=FIM%20DA%20ESCALA%206X1",
+      "ruido": false
+    },
+    {
       "termo": "Hulk",
-      "posicao": 10,
-      "variacao": "-3",
-      "direcao": "cai",
+      "posicao": 12,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Hulk",
       "ruido": false
     },
     {
-      "termo": "#LulaPeloFimDа6х1",
-      "posicao": 11,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaPeloFimD%D0%B06%D1%851",
-      "ruido": false
-    },
-    {
-      "termo": "Marlon Freitas",
-      "posicao": 12,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Marlon%20Freitas",
-      "ruido": false
-    },
-    {
-      "termo": "Wesley Natã",
+      "termo": "FAYEATOM PATRICK TA BEAUTY",
       "posicao": 13,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Wesley%20Nat%C3%A3",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=FAYEATOM%20PATRICK%20TA%20BEAUTY",
       "ruido": false
     },
     {
-      "termo": "VOLTAMOS AINDA MAIS FORTE",
+      "termo": "#PATRICKTAxFayeAtom",
       "posicao": 14,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=VOLTAMOS%20AINDA%20MAIS%20FORTE",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23PATRICKTAxFayeAtom",
       "ruido": false
     },
     {
       "termo": "O Palmeiras",
       "posicao": 15,
-      "variacao": "-2",
-      "direcao": "cai",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=O%20Palmeiras",
       "ruido": true
     },
     {
-      "termo": "Felipe Anderson",
+      "termo": "Wesley Natã",
       "posicao": 16,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Felipe%20Anderson",
-      "ruido": false
-    },
-    {
-      "termo": "Canobbio",
-      "posicao": 17,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Canobbio",
-      "ruido": false
-    },
-    {
-      "termo": "Hamilton Mourão",
-      "posicao": 18,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Hamilton%20Mour%C3%A3o",
+      "url": "https://x.com/search?q=Wesley%20Nat%C3%A3",
       "ruido": false
     },
     {
-      "termo": "Serna",
+      "termo": "VOLTAMOS AINDA MAIS FORTE",
+      "posicao": 17,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=VOLTAMOS%20AINDA%20MAIS%20FORTE",
+      "ruido": false
+    },
+    {
+      "termo": "MARLON FREITAS",
+      "posicao": 18,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=MARLON%20FREITAS",
+      "ruido": false
+    },
+    {
+      "termo": "Igor",
       "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Serna",
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Igor",
       "ruido": false
     },
     {
-      "termo": "Arana",
+      "termo": "felipe anderson",
       "posicao": 20,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Arana",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=felipe%20anderson",
       "ruido": false
     }
   ],
-  "google_trends": [],
-  "picos": [],
-  "nuvem": [
+  "google_trends": [
     {
-      "termo": "OEXERCITODOLULAVOLTOU",
-      "peso_relativo": 100.0,
-      "fatia_pct": 9.8,
-      "fontes_distintas": 1
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Em 4 anos, 418 pessoas foram mortas em intervenções policiais em PE, diz MP; 70% das vítimas eram pretas ou pardas",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVU1MEZoS2d4SmdjWERBM3lqREZGVXhiX21wSHB5Vlg0RjJVVVNXcmZaUGt2MDdySjdmbGt0SE8wdVktTkF2eXptazFvTVYwSURJOFNfLWVJYzZyVUxoSVdoTEh5N25yVTlfaDIzQWxUSUNTTnpxTUFPSEFBTG83UnFnU05yREJ5YlZ5NWoycnYxTS1pOXRRRzc0WnVuaTDSAa4BQVVfeXFMTVNYbDdqd1g1eHRvMWZSeFduZ1k2X2lFcEZnNUVSM25KeXE1d3paSnFYLTdaS3IwNUVDMkEyc0F4OXpsaXprZkFDUHluRVdERkVEQ2w2OVpIY3VrRFYtd0JYNUtQUHdvV2plcF9ENTBCVmo2Ny1hZzNPX3JzLWVFOWZvanlERjhmczFWN2xnVnJ1TkVCMlNMOVc1bzl0ZlROcW1wTk4tdTdfZVFZNWZn?oc=5"
     },
     {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Edenevaldo Alves: Estudo do TCE aponta que menos de 30% dos municípios de Pernambuco têm coleta e tratamento de esgoto",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHJLYVlYTkFnZWRWUFdaVGdDLTB1VFFCTlJvdTE1ODZTN3VJUTAyX292T3AtSGpqSkNYNFJvYV9Sb1UzRGttTVRWQlpTdUhtZlVPM0JwMW83YU9OY0c2LU1Ua1dTOGtUWmswVEFmSkVmV09rUXp0UDVmWUlmYXM1VEVYYjYyak9LT0pGLU95b3VUcGR6VnJWVVdhdU1pVWlNVmRqS1FEa1BpdnhRS1VjcXg2eXdBbEdvYjVyd0xNQml2SVFESjdoekFzSQ?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Alfredo Gaspar diz que Pernambuco será privilegiado em eventual governo Flávio Bolsonaro",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYVhGUkVqZUVkWUZBTUxkajVMZEk3b3ZMekdhYk1NMG5oMVpVMTBWcGR5ZnFacE1lbVIyVzl6ZmQ2Z3dxc0J0amwwSXZBODNkc0ZyUm1tZWtlemFHd3BqcGd3UjZvNGhOSm9fX0haQnR3cEpjbWFQLVlrRUcweDNQRHJnUTFVd1RmUFlubWc5YzJQVDdob09hd3QtNTE1eWdFSWQtanlxekZ6cUptQTVpcXNhSE5vczYzOUNON1l1VkJFTnFfZHNqQ2xKU2NZSElkZFg3aFc3ZVNkR01DUVE?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Brasil de Fato: Prefeitura do Recife abrirá creches no domingo de 2º turno para que mais mães possam votar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXdkRjFacnR1TERFMGc3a2pmcDZmQmdsSkNmMnQ3aG1tYlZJaXd1NVQ4VkNIdE5weG0wUFc4R0g3VDNTSlcwclV2a2dhYlp1UGQ4ZnFhY1Z1LVpWTTJpWXhIZEx4QjRTWjJkVS1kcVVJNVAzTDdlTXlHRXNVWUlhSkdFeUZQNDFxZkxNS3hPYjFkeVhtQ3N0ekhCWDZCcEZfVmVRZTNvTmVVX3F3c2J6NzBZTXJZdXh1M0t6dWZ1RVRBYjdneTFmQlJ0bVRQUQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcWpieURSMV9PNkh0Rm5KTTRGSkVCemxJSmxWNGtxbHdVYWZwUWdKdUpxc2xGTDlLT2tJRDdRWklZT2x3M2NqQkgtNTcwZXJPYmlRVklsUFMydDN0RDMxb2ZmQ2hUVzZHc09ONHVIZUNHOEFDOEJ5R1VvWU1ybUx2d2RSLWdYV0dVV3dfS1FUWTBZSWpFTWgwa3VXQi1XWUJHc2wxbjF5aEdiUVE4TXVzNXVfUzJGTHNXN3FVZV9uUXVHMHB5bWQwVmxkQ1I3eHNmdkJYX3F2UlpzTTZRUWZkTzBjVjZHTWN2MFVtOHRBSk9sY05NMkt4UEx1V2VHTWpVNWZJWENHam9RRDJKcGJycFZPSG1VZzRtWG5HblpvWEw1Nl9VUkJj0gG2AkFVX3lxTE1MVDBTdmxzRWJaV0Q2NVd6RU9wNWRjTTRFb0ltdU1YS2JCS2F3MGYxV0RQMXFyQTF3M20wTmNIVDhnNThqZ21hTTJ0cDIxVUpfM0h0MU5Pd2ZyakNTYnYtak1YcnJKWlV6X2I1WjF6dnp3NHdFNmp3TUVjcWdHOU1Ma3pzWWF3SFp4b3EzZEpNcVJ5WUxUNDg3SzVHSWpVeVc2SmRORUlqTlJGdEJHRElLOU4wSlVlVWt0NGtud2xUa3RCRVJKWmtvRGpXblctTDJKUUJUSTh5dGZyNUtEVEktTG1vTTJoMXpwQlp0Z3RGaFhDNU5SbWswTzVuWFJBNEh3dy1ydVd1T3c5bFc2WGdxdV9panVtRm03dmZVT251VzVDLXdKVkU1d3E0U2ZYMk1IRlk1aEE?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "JC: Aluguel no Recife: por bairro, preços variam até 3x mais. Veja as opções",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVzl5cGloNWg2NmdzUDFRTGdfXzRSckxnaXdKY0JUN2J1MWdZMF9EcGd6TDB3Y0RRaUp6azI4UGxxX1UtUDVzV1NKZk1oV1l5bkVvSjBMX29VVEdjUEhQLWFJbC1iS2V0SVljd0ZXUUJvLXNHSHdYci05bHE0ZEdMbFFCRy15TWhvYXVpVGIxMWxubjdTMUxDRDVadTB5ZFdTczlIZGpZenVsN2o2R0l1UjFUZmZTWkFrNWRNWGw0a0hBY1F1NWlmTmFn?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Revista Continente: Augusto Licks, dos Engenheiros do Hawaii, volta ao Recife",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQnJPV2E2Q2tCSGV0MXBWTGE4SGpnZ2w1RUhGTVBEUTdNVGdvRFUyV0NOUjZBeUhYbW1FYnpQc3dCZVg1V21RVG9selU4SjNLdGdRTUlta1p5MmNyNGZtWm1aNGlWbmxVVGdqZHR0Q2JSZTE3TDlyaVVTQlpqdEJEV0JTV2cwQ3NYcndtckw5NEtxUmtSRFgzbGpuZTEyU2FNY2NFNg?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Recife oferece capacitação gratuita em arrecadação digital para projetos sociais",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTNfZFZEaWdXa2luZFVSQU85Q0hNZWZZR2N4ektTMlJYOE0xdlg1MGoxZm5xejhKNHhiZHo5LXRaeW00dnBQbTRUS2xyWmg0ZGVVUk1UZWtxQTRHN1FCdElkVGZoU2NDaEtwaVNsMDd3MV8xbHRvTDYzLUdCcktpdERPb3FRWnlGRDZob21YN1V3MnpPTlZtTTF2MEx2NUNxUm9uZlE5dHl5LTDSAa8BQVVfeXFMTzdSMWstU2I2Mlc3RkdrUHpYSmhKZEs0SUxmZTZmeFNTeE4tY1JlQ1VPM3Nycm04YmN3c1EwSzhHbzB1aHRHc3gyZV9uckVySUdGUExjX0UzaG9PUUx1S1JZVFFkNm8zZmgzRnYzT0EycV9vaF9yNzF3S1VxV2xyOGZ0U0J2bmRKaG81eGsxVUlWRFpTdjVOSVBYbmhLTjR1WHFZcU9ueXluS0IwRHJpTQ?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog Edmar Lyra: Coluna desta quinta-feira",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4dEozdmx6OURIQ3BiMExnSzBPcVRDbUx3aTRxQUNXQV9kM18tT0lFZ2lmdWhCUU5DNkt3LXhFWS03dl80TjUteXM3YmFjWndNT0pQOWtweF8wMUxxUG0tQ21mOHkyakk?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Federação Pernambucana de Futebol: Arena de Pernambuco recebe mais de 29 mil torcedores em amistoso da Seleção Brasileira Feminina",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qTi11TGtCbXVRTTVrY3lpTktsWTY2QlBlM3J4aXJXSllsT3NxTGdhclNOLVRQVFdKaW80a01lRkRZaUhsUTNva1VqcDhXX2dSdk9jQ2EyX3ZYVjlVREUzZEg5WWc?oc=5"
+    }
+  ],
+  "picos": [
+    {
+      "termo": "Senado",
+      "razao_aumento": 64.8,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Sul 21",
+        "hora": "2026-10-14T23:08:24Z",
+        "titulo": "No dia em que Senado vota fim da escala 6X1, Flávio Bolsonaro faz ato em Porto Alegre",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUXh4VUxFVjYwWG5zWlVzNUxVaERiXzVuVlFFOEVGQjdtcGJsWEh4QmtlbHhlWUN0TFgtQ1FYdTJXMEJFazhUbGVfNm1uX0pLa1FPNVItRVRhT3Q4MFlFTEZEckJvRHdzTzNKMi00a1RoUEs5cmRHQzJvSFhBOVVQV25UNWFPVktiUXgtRDlId2FTWm1YTXVmTFMtaXd0QmJHdmJzelAzQkJKdzZEVkljMU9Gd1gyaTg3LWN3UjZMbThQNDZaNXlYdEVVZEw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "escala 6×1",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Fundação Perseu Abramo",
+        "hora": "2026-10-14T21:09:54Z",
+        "titulo": "Flávio Bolsonaro decide votar a favor do fim da Escala 6×1 e promete revisão se eleito",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnFSbkl4N2pENEZBMk1EaFZVSWhGMHlka0M2ejdpYW5mSUp5QjhPdUp5bmo3SFdDNHNFNEdCamFBUDBqTlI4TnpHTGNGNjIxajBtSXVJbTEtRUUwVHUtb0ZIdDlIeDgtVlNUaW5kLTJQcWlscEszTkNzcUVOeld5c1Jxa2FUdGdjRlkxYzdPUjRDV0prYnE5dUprTGpwUlFJcEE3YWwzcjNHMG9ZSmJHME5QZw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Bolsonaro votou",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Valor Econômico",
+        "hora": "2026-10-15T01:10:43Z",
+        "titulo": "Como Flávio Bolsonaro votou na PEC que acaba com a escala 6x1?",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2xZQ1kyTkNBSGxOU05FRmhfUnZwWUpnVDF6czlhMmJkWTQ2Sjg3eno5QzMzMUZqZmk1U0ZxYUxSVF8wNW9rQTVjNnVNSzlCNFBkMG15LW5NVXhCdWNGX1p2aExOWFZzNGJaYlRLV2lleThFTGQtV0pTT1lvT1hfQTFVUGtDY05uNzgzM2ctX2dSS0JlUkNnUUl1MGpwMXBaSmY1dkQyd01aenpyUlVXQmxHSzh2cUFpUDBJ0gHKAUFVX3lxTE15X1dtUGtheEdvcmRjVHB4bnU0c21Fa01OcEJyYVBVU2l5ZEtHTC1vdGpObnZZdEdYS2pDRmY5cXIwci12YW41bGVqUVg3bmNmSXFONHQ2SlVCWFFHaTByMDZsV045aS00ZFR5aUNST2ZpUTdpbWRvVnpXNWNEUmVjMDFjdXRZQ1BNdVp3RERnS2pVM1pfYk90S0ttUjRvNXRrNXhWUFNXYThhX3VpR0JYMGowUXp6N1h0UEQtUnN6TThrTnZBcTc1VWc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Flávio Bolsonaro votou",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Valor Econômico",
+        "hora": "2026-10-15T01:10:43Z",
+        "titulo": "Como Flávio Bolsonaro votou na PEC que acaba com a escala 6x1?",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2xZQ1kyTkNBSGxOU05FRmhfUnZwWUpnVDF6czlhMmJkWTQ2Sjg3eno5QzMzMUZqZmk1U0ZxYUxSVF8wNW9rQTVjNnVNSzlCNFBkMG15LW5NVXhCdWNGX1p2aExOWFZzNGJaYlRLV2lleThFTGQtV0pTT1lvT1hfQTFVUGtDY05uNzgzM2ctX2dSS0JlUkNnUUl1MGpwMXBaSmY1dkQyd01aenpyUlVXQmxHSzh2cUFpUDBJ0gHKAUFVX3lxTE15X1dtUGtheEdvcmRjVHB4bnU0c21Fa01OcEJyYVBVU2l5ZEtHTC1vdGpObnZZdEdYS2pDRmY5cXIwci12YW41bGVqUVg3bmNmSXFONHQ2SlVCWFFHaTByMDZsV045aS00ZFR5aUNST2ZpUTdpbWRvVnpXNWNEUmVjMDFjdXRZQ1BNdVp3RERnS2pVM1pfYk90S0ttUjRvNXRrNXhWUFNXYThhX3VpR0JYMGowUXp6N1h0UEQtUnN6TThrTnZBcTc1VWc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "distância pelo",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-15T01:08:00Z",
+        "titulo": "Flávio Bolsonaro silencia e vota a distância pelo fim da escala 6x1",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGNZMEdIdWJvbnVIeFgwSUx2aUdJcExubE1aRm9FSG9CdGRiWTcyM3dfRmJsdkUwdGI1QktFclp3VnpFak1qOS1pazZlc2dUb3hyTkJCQV9VSjR3UnVHYUc5RVZsMUhQZnJmc2RHdkZYNFlDSkhmZkQ3TmZja2UtNFJPT3BGb3BPdHRvWjFhODk3a3FCaXlZV2NSME9fX25fZ25UaGUyanpra2J6U3JtdVNBTHYxMTRyTmpn?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "distância pelo fim",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-15T01:08:00Z",
+        "titulo": "Flávio Bolsonaro silencia e vota a distância pelo fim da escala 6x1",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGNZMEdIdWJvbnVIeFgwSUx2aUdJcExubE1aRm9FSG9CdGRiWTcyM3dfRmJsdkUwdGI1QktFclp3VnpFak1qOS1pazZlc2dUb3hyTkJCQV9VSjR3UnVHYUc5RVZsMUhQZnJmc2RHdkZYNFlDSkhmZkQ3TmZja2UtNFJPT3BGb3BPdHRvWjFhODk3a3FCaXlZV2NSME9fX25fZ25UaGUyanpra2J6U3JtdVNBTHYxMTRyTmpn?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Ex vice",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-10-15T01:08:12Z",
+        "titulo": "Ex-vice de Bolsonaro, Mourão dá o único voto contra o fim da escala 6x1 no Senado",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzYwZ093cjQtQzdwd0p0enE4NG16U1BoQ2NSd2pGMklOQi1aVW9leWhUZkxsOHdaTl9oZ2NXbGR4eWNSaXRJTWZqQXJ0OUd1OVJkRzV1V2RaSDRxUmNlTXhvOXV0SXpPeXZyMUV4VTdvVWluQjA4LWxWWktpWDJHSHI1Z3UwamMtOXJiU196TXZMRTlPekx4TXFQVTQ3aHVJM0RqX2kzaDdwM3B3ZTB2YThobkVKOXo0X3FrdzhfZl9xeG5LWnFLblYwQUh2ZUowLV95cmFn0gHkAUFVX3lxTE01MjVLSUd5aXZJSFF5NEJoNUhZUnBRdFhmd0VYR1dvM0tqbTFTMlJyS2lfYnN3M1B0d2tDTUJ2X0tRQmxqR1NKcFJLZzRfVjE0QVNEdlIyVUlPemhRem51V3pzdzdMc2ZjTWE4anFxdmszVHhlUXFTZHV3SDB4Wmdod0lTVGE5OWtSMUdLdExLMHJhNE9kZmtjb2x4VC1yYjZkTWI2c2R2dE1MSEdOenplT2wtMFlUdU1CWDlraDhXcFM2dEFrX1VHQ2pORXlBTWVVaTE3MHVoSnlLdmR6STVkWW1tRg?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "vice de Bolsonaro",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-10-15T01:08:12Z",
+        "titulo": "Ex-vice de Bolsonaro, Mourão dá o único voto contra o fim da escala 6x1 no Senado",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzYwZ093cjQtQzdwd0p0enE4NG16U1BoQ2NSd2pGMklOQi1aVW9leWhUZkxsOHdaTl9oZ2NXbGR4eWNSaXRJTWZqQXJ0OUd1OVJkRzV1V2RaSDRxUmNlTXhvOXV0SXpPeXZyMUV4VTdvVWluQjA4LWxWWktpWDJHSHI1Z3UwamMtOXJiU196TXZMRTlPekx4TXFQVTQ3aHVJM0RqX2kzaDdwM3B3ZTB2YThobkVKOXo0X3FrdzhfZl9xeG5LWnFLblYwQUh2ZUowLV95cmFn0gHkAUFVX3lxTE01MjVLSUd5aXZJSFF5NEJoNUhZUnBRdFhmd0VYR1dvM0tqbTFTMlJyS2lfYnN3M1B0d2tDTUJ2X0tRQmxqR1NKcFJLZzRfVjE0QVNEdlIyVUlPemhRem51V3pzdzdMc2ZjTWE4anFxdmszVHhlUXFTZHV3SDB4Wmdod0lTVGE5OWtSMUdLdExLMHJhNE9kZmtjb2x4VC1yYjZkTWI2c2R2dE1MSEdOenplT2wtMFlUdU1CWDlraDhXcFM2dEFrX1VHQ2pORXlBTWVVaTE3MHVoSnlLdmR6STVkWW1tRg?oc=5",
+        "peso": 1.0
+      }
+    }
+  ],
+  "nuvem": [
+    {
       "termo": "Lula",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.31,
+      "peso_relativo": 100.0,
+      "fatia_pct": 22.9,
+      "fontes_distintas": 21
+    },
+    {
+      "termo": "Flávio",
+      "peso_relativo": 73.8,
+      "fatia_pct": 16.91,
+      "fontes_distintas": 16
+    },
+    {
+      "termo": "Bolsonaro",
+      "peso_relativo": 67.1,
+      "fatia_pct": 15.37,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 60.4,
+      "fatia_pct": 13.83,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Raquel",
+      "peso_relativo": 51.5,
+      "fatia_pct": 11.78,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 44.7,
+      "fatia_pct": 10.25,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 44.7,
+      "fatia_pct": 10.25,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "fim da escala",
+      "peso_relativo": 29.1,
+      "fatia_pct": 6.66,
+      "fontes_distintas": 11
+    },
+    {
+      "termo": "escala 6x1",
+      "peso_relativo": 24.6,
+      "fatia_pct": 5.64,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "campanha de Lula",
+      "peso_relativo": 22.4,
+      "fatia_pct": 5.12,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 22.4,
+      "fatia_pct": 5.12,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Quaest",
+      "peso_relativo": 22.4,
+      "fatia_pct": 5.12,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Campos",
+      "peso_relativo": 15.7,
+      "fatia_pct": 3.59,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "João Campos",
+      "peso_relativo": 15.7,
+      "fatia_pct": 3.59,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Erika",
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Hilton",
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Erika Hilton",
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "OEXERCITODOLULAVOLTOU",
+      "peso_relativo": 13.4,
+      "fatia_pct": 3.07,
       "fontes_distintas": 1
     },
     {
       "termo": "Da6x1",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.31,
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.92,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula Pai",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.31,
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.92,
       "fontes_distintas": 1
     },
     {
       "termo": "Fim Da6x1",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.31,
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.92,
       "fontes_distintas": 1
     },
     {
       "termo": "Pai Do Fim",
-      "peso_relativo": 95.0,
-      "fatia_pct": 9.31,
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.92,
       "fontes_distintas": 1
     },
     {
       "termo": "FLAVIOINIMIGODOTRABALHADOR",
-      "peso_relativo": 90.0,
-      "fatia_pct": 8.82,
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.77,
       "fontes_distintas": 1
     },
     {
+      "termo": "Alepe",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.56,
+      "fontes_distintas": 5
+    },
+    {
       "termo": "VITÓRIA",
-      "peso_relativo": 85.0,
-      "fatia_pct": 8.33,
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.46,
       "fontes_distintas": 1
     },
     {
       "termo": "CLASSE",
-      "peso_relativo": 85.0,
-      "fatia_pct": 8.33,
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.46,
       "fontes_distintas": 1
     },
     {
       "termo": "TRABALHADORA",
-      "peso_relativo": 85.0,
-      "fatia_pct": 8.33,
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.46,
       "fontes_distintas": 1
     },
     {
       "termo": "CLASSE TRABALHADORA",
-      "peso_relativo": 85.0,
-      "fatia_pct": 8.33,
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.46,
       "fontes_distintas": 1
     },
     {
       "termo": "VITÓRIA DA CLASSE",
-      "peso_relativo": 85.0,
-      "fatia_pct": 8.33,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ERIKA",
-      "peso_relativo": 80.0,
-      "fatia_pct": 7.84,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "HILTON",
-      "peso_relativo": 80.0,
-      "fatia_pct": 7.84,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ERIKA HILTON",
-      "peso_relativo": 80.0,
-      "fatia_pct": 7.84,
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.46,
       "fontes_distintas": 1
     },
     {
       "termo": "Carlos",
-      "peso_relativo": 75.0,
-      "fatia_pct": 7.35,
+      "peso_relativo": 10.1,
+      "fatia_pct": 2.31,
       "fontes_distintas": 1
     },
     {
       "termo": "Miguel",
-      "peso_relativo": 75.0,
-      "fatia_pct": 7.35,
+      "peso_relativo": 10.1,
+      "fatia_pct": 2.31,
       "fontes_distintas": 1
     },
     {
       "termo": "Carlos Miguel",
-      "peso_relativo": 75.0,
-      "fatia_pct": 7.35,
+      "peso_relativo": 10.1,
+      "fatia_pct": 2.31,
       "fontes_distintas": 1
     },
     {
-      "termo": "Prova",
-      "peso_relativo": 70.0,
-      "fatia_pct": 6.86,
+      "termo": "Guerlain",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "Fazendeiro",
-      "peso_relativo": 70.0,
-      "fatia_pct": 6.86,
+      "termo": "Siam",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "Prova Do Fazendeiro",
-      "peso_relativo": 70.0,
-      "fatia_pct": 6.86,
+      "termo": "Paragonx",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "ESCALA",
-      "peso_relativo": 65.0,
-      "fatia_pct": 6.37,
+      "termo": "Yoko",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "ESCALA 6X1",
-      "peso_relativo": 65.0,
-      "fatia_pct": 6.37,
+      "termo": "Guerlain Siam",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "FIM DA ESCALA",
-      "peso_relativo": 65.0,
-      "fatia_pct": 6.37,
+      "termo": "Siam Paragonx",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "ACABOU",
-      "peso_relativo": 60.0,
-      "fatia_pct": 5.88,
+      "termo": "Paragonx Yoko",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "LULA ACABOU",
-      "peso_relativo": 60.0,
-      "fatia_pct": 5.88,
+      "termo": "Guerlain Siam Paragonx",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "Hulk",
-      "peso_relativo": 55.0,
-      "fatia_pct": 5.39,
+      "termo": "Siam Paragonx Yoko",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "Pelo",
-      "peso_relativo": 50.0,
-      "fatia_pct": 4.9,
-      "fontes_distintas": 1
+      "termo": "Feminina",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.05,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Lula Pelo",
-      "peso_relativo": 50.0,
-      "fatia_pct": 4.9,
-      "fontes_distintas": 1
+      "termo": "pesquisa Quaest",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.05,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Pelo Fim",
-      "peso_relativo": 50.0,
-      "fatia_pct": 4.9,
-      "fontes_distintas": 1
+      "termo": "Lula e Flávio",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.05,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Fim D",
-      "peso_relativo": 50.0,
-      "fatia_pct": 4.9,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Pelo Fim",
-      "peso_relativo": 50.0,
-      "fatia_pct": 4.9,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Pelo Fim D",
-      "peso_relativo": 50.0,
-      "fatia_pct": 4.9,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Marlon",
-      "peso_relativo": 45.0,
-      "fatia_pct": 4.41,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Freitas",
-      "peso_relativo": 45.0,
-      "fatia_pct": 4.41,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Marlon Freitas",
-      "peso_relativo": 45.0,
-      "fatia_pct": 4.41,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Wesley",
-      "peso_relativo": 40.0,
-      "fatia_pct": 3.92,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Natã",
-      "peso_relativo": 40.0,
-      "fatia_pct": 3.92,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Wesley Natã",
-      "peso_relativo": 40.0,
-      "fatia_pct": 3.92,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "VOLTAMOS",
-      "peso_relativo": 35.0,
-      "fatia_pct": 3.43,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FORTE",
-      "peso_relativo": 35.0,
-      "fatia_pct": 3.43,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Felipe",
-      "peso_relativo": 25.0,
-      "fatia_pct": 2.45,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Anderson",
-      "peso_relativo": 25.0,
-      "fatia_pct": 2.45,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Felipe Anderson",
-      "peso_relativo": 25.0,
-      "fatia_pct": 2.45,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Canobbio",
-      "peso_relativo": 20.0,
-      "fatia_pct": 1.96,
-      "fontes_distintas": 1
+      "termo": "Meta",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.05,
+      "fontes_distintas": 3
     }
   ]
 }
