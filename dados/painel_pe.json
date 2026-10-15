@@ -1,664 +1,440 @@
 {
-  "atualizado_em": "2026-10-15T00:06:51Z",
-  "total_analisado": 154,
+  "atualizado_em": "2026-10-15T04:33:33Z",
+  "total_analisado": 19,
   "x_recife": [
     {
-      "termo": "#GolpeNoSenado",
+      "termo": "#OEXERCITODOLULAVOLTOU",
       "posicao": 1,
-      "variacao": "+6",
+      "variacao": "+4",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=%23GolpeNoSenado",
+      "url": "https://x.com/search?q=%23OEXERCITODOLULAVOLTOU",
       "ruido": false
     },
     {
-      "termo": "#LulaPeloFimDaEscala6x1",
+      "termo": "#LulaPaiDoFimDa6x1",
       "posicao": 2,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaPeloFimDaEscala6x1",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23LulaPaiDoFimDa6x1",
       "ruido": false
     },
     {
-      "termo": "Quaest",
+      "termo": "#FLAVIOINIMIGODOTRABALHADOR",
       "posicao": 3,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Quaest",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23FLAVIOINIMIGODOTRABALHADOR",
       "ruido": false
     },
     {
-      "termo": "FLÁVIO É SÓCIO DO VORCARO",
+      "termo": "VITÓRIA DA CLASSE TRABALHADORA",
       "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=FL%C3%81VIO%20%C3%89%20S%C3%93CIO%20DO%20VORCARO",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=VIT%C3%93RIA%20DA%20CLASSE%20TRABALHADORA",
       "ruido": false
     },
     {
-      "termo": "CAGA NÃO FLÁVIO",
+      "termo": "ERIKA HILTON",
       "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=CAGA%20N%C3%83O%20FL%C3%81VIO",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=ERIKA%20HILTON",
       "ruido": false
     },
     {
-      "termo": "Real Madrid",
+      "termo": "Carlos Miguel",
       "posicao": 6,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Real%20Madrid",
-      "ruido": false
-    },
-    {
-      "termo": "Bernard",
-      "posicao": 7,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Bernard",
-      "ruido": false
-    },
-    {
-      "termo": "Cuello",
-      "posicao": 8,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Cuello",
-      "ruido": false
-    },
-    {
-      "termo": "Endrick",
-      "posicao": 9,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Endrick",
-      "ruido": false
-    },
-    {
-      "termo": "FLÁVIO INIMIGO DO TRABALHADOR",
-      "posicao": 10,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=FL%C3%81VIO%20INIMIGO%20DO%20TRABALHADOR",
-      "ruido": false
-    },
-    {
-      "termo": "Roma",
-      "posicao": 11,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Roma",
-      "ruido": false
-    },
-    {
-      "termo": "Jorge Seif",
-      "posicao": 12,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Jorge%20Seif",
-      "ruido": false
-    },
-    {
-      "termo": "Ricardo Nunes",
-      "posicao": 13,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Ricardo%20Nunes",
-      "ruido": false
-    },
-    {
-      "termo": "#NinguémCalaOExercitoDoLula",
-      "posicao": 14,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23Ningu%C3%A9mCalaOExercitoDoLula",
-      "ruido": false
-    },
-    {
-      "termo": "Mourinho",
-      "posicao": 15,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Mourinho",
-      "ruido": false
-    },
-    {
-      "termo": "SOMOS TODOS ANA ELISA",
-      "posicao": 16,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=SOMOS%20TODOS%20ANA%20ELISA",
-      "ruido": false
-    },
-    {
-      "termo": "FOGE NÃO LULA",
-      "posicao": 17,
       "variacao": "-5",
       "direcao": "cai",
-      "url": "https://x.com/search?q=FOGE%20N%C3%83O%20LULA",
+      "url": "https://x.com/search?q=Carlos%20Miguel",
       "ruido": false
     },
     {
-      "termo": "Core",
+      "termo": "#ProvaDoFazendeiro",
+      "posicao": 7,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23ProvaDoFazendeiro",
+      "ruido": false
+    },
+    {
+      "termo": "FIM DA ESCALA 6X1",
+      "posicao": 8,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=FIM%20DA%20ESCALA%206X1",
+      "ruido": false
+    },
+    {
+      "termo": "LULA ACABOU COM A 6X1",
+      "posicao": 9,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=LULA%20ACABOU%20COM%20A%206X1",
+      "ruido": false
+    },
+    {
+      "termo": "Hulk",
+      "posicao": 10,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Hulk",
+      "ruido": false
+    },
+    {
+      "termo": "#LulaPeloFimDа6х1",
+      "posicao": 11,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23LulaPeloFimD%D0%B06%D1%851",
+      "ruido": false
+    },
+    {
+      "termo": "Marlon Freitas",
+      "posicao": 12,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Marlon%20Freitas",
+      "ruido": false
+    },
+    {
+      "termo": "Wesley Natã",
+      "posicao": 13,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Wesley%20Nat%C3%A3",
+      "ruido": false
+    },
+    {
+      "termo": "VOLTAMOS AINDA MAIS FORTE",
+      "posicao": 14,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=VOLTAMOS%20AINDA%20MAIS%20FORTE",
+      "ruido": false
+    },
+    {
+      "termo": "O Palmeiras",
+      "posicao": 15,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=O%20Palmeiras",
+      "ruido": true
+    },
+    {
+      "termo": "Felipe Anderson",
+      "posicao": 16,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Felipe%20Anderson",
+      "ruido": false
+    },
+    {
+      "termo": "Canobbio",
+      "posicao": 17,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Canobbio",
+      "ruido": false
+    },
+    {
+      "termo": "Hamilton Mourão",
       "posicao": 18,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Core",
+      "url": "https://x.com/search?q=Hamilton%20Mour%C3%A3o",
       "ruido": false
     },
     {
-      "termo": "Faz o T",
+      "termo": "Serna",
       "posicao": 19,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Faz%20o%20T",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Serna",
       "ruido": false
     },
     {
-      "termo": "Anhangabaú",
+      "termo": "Arana",
       "posicao": 20,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Anhangaba%C3%BA",
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Arana",
       "ruido": false
     }
   ],
-  "google_trends": [
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Assista ao vivo à reunião plenária desta quarta (14)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81c0k5M0twTVZzT0xaVlNPcTlLX3lnUWszdXh5c3lzOTUyYnNHdDNPTjVYa3o3cnB0eWg4T3Q4azlNQmY5WE1rSlRJOXd4YVpKdmx4UnVBUWRZMWpFbXdBT0Jn?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "ba.gov.br: Investigado por homicídios em São Gabriel e Irecê é preso em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1FTT1hUNEpRem51RndzSzZnVjZpWmdqVHZ1OHpUZTBoU2R5UHFsLV9lZ3Q3enlwUXpsOGk1MUpEVzRwZGRwQmFkcTlfeFdjbzk3OWRqY2VHemljVWNVVWc2TGVsVEFqS191bDR6bHpTWjM1Sy1hWjROR2tBRUVTVTdiXzNzNjAyc1BfNnloMXJJY1laUHl2a0xWUi1WcXZEckZ3d2hqRTlSWm9CR0pkU19XQTd2NDI0UW9B?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Alfredo Gaspar diz que Pernambuco será privilegiado em eventual governo Flávio Bolsonaro",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYVhGUkVqZUVkWUZBTUxkajVMZEk3b3ZMekdhYk1NMG5oMVpVMTBWcGR5ZnFacE1lbVIyVzl6ZmQ2Z3dxc0J0amwwSXZBODNkc0ZyUm1tZWtlemFHd3BqcGd3UjZvNGhOSm9fX0haQnR3cEpjbWFQLVlrRUcweDNQRHJnUTFVd1RmUFlubWc5YzJQVDdob09hd3QtNTE1eWdFSWQtanlxekZ6cUptQTVpcXNhSE5vczYzOUNON1l1VkJFTnFfZHNqQ2xKU2NZSElkZFg3aFc3ZVNkR01DUVE?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Intervenções policiais fizeram mais de 400 vítimas em Pernambuco desde 2022",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQclZaLWc5XzJSa0M0Y1JaNnFEV3VmeEpyWjVWTlNSSTFkVDNTRTI0b0lFQ3R0NlpZTnNVVmRlZzRsRUJnWlBocGJQd3dXekVsbE5SM2VpVmdaZlB1Z3N5aEdGUGtYN1Z2S0pOeTYzUlRPMWgyd0RSSGJoanREc1J6ZDZtbmVNQ2JNQk5xT0k5X0o2aThQdVZfNlRwNGVtSmR2WWdFSEFSeVE0U2hTbzRTcDNIZE56ek9zMkNrUndVekxwUHNmaVlSQlZZcUxha2FM0gHfAUFVX3lxTFB2WEYxS2I0Q2dobEJ0QkNLcUg2eDg3M0l6S0p0dlU1a0ZmUGNmQmtBRGVOaFNFS1ppSWdCaWNIbmYzRzVfOUtYTWpOVEtaRnNqQ2x6ejl2X1Z5Uk1iSnhyRV96T2JHZFB5UWgyU0dxR0EyZWFlM2RLS2xOMUdIWGJDazNqTVpWeUFWbVdJX0RpTmtpM1FpM043ODBmYjZlSlA2QkRnMjAzb093OUZRNVM5RnJ3MDN0ZmRqMEFxeHllQ0dCUmJIQkJYS1NiRExMVmdRRDBaTkY4b2I1OWMyaEE?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Manifestações em defesa da democracia e da campanha de Lula mobilizam cidades de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3I1X2Vxc3dUd0NLODAtWDA2aUFTOTZSTjhleGxici10MDY3bmRONDExQ3FNX0hURi14cl94ZnVLU2NtR2RKZWw5bk11Qy0yeEpBSEJ4enJ2eEROQWphX0o3VHozd3cwVFJXSDZ1MDByY05HZnVSbE1haUh5S0lqT1RkNXZhMHJxZWRCSlBKb05nc2FINk9rYmFYMWlGWkdzbHQ1Z3dlcUlESkNsNS13cDNtZG9LTlVJTXJPNE5hOFlYcXA5enZibF84Q2JDdmYw?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Prefeitura do Recife abrirá creches no domingo de 2º turno para que mais mães possam votar",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXdkRjFacnR1TERFMGc3a2pmcDZmQmdsSkNmMnQ3aG1tYlZJaXd1NVQ4VkNIdE5weG0wUFc4R0g3VDNTSlcwclV2a2dhYlp1UGQ4ZnFhY1Z1LVpWTTJpWXhIZEx4QjRTWjJkVS1kcVVJNVAzTDdlTXlHRXNVWUlhSkdFeUZQNDFxZkxNS3hPYjFkeVhtQ3N0ekhCWDZCcEZfVmVRZTNvTmVVX3F3c2J6NzBZTXJZdXh1M0t6dWZ1RVRBYjdneTFmQlJ0bVRQUQ?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Linha Sul do Metrô do Recife volta a circular após parar pela 2ª vez em três dias por falha elétrica",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRGTG1SVGYwZmJraWNHZGVQc1ZqcWdJYXNsMHdWWXpfTDhYZV9hVDVvR3JMLWtRM1daaHMwYUFrNDJyRjBGbE9XWVJTSjhQT3NlUmxhWnlId3ZleXFEWEw5cklGRlZVakNkaUVtd0EwSmJGRzZhVUJ0TTFCUDU5YlRpYjhjNlJWbWtJSUhQTVI1eGVhSjI3RldCMlZDbkdSY0VOaEZhOGFNV3REYTR4SGp6TmZzQVlvZEp1cVNDdXZPdFd2QXZzZXZtamNuMVV6Y0ZBQnZPUTPSAecBQVVfeXFMTnhoT0hrSHMyOV9KaWs1MFhCRVNDaXp1UGpjU3Rhbm10OTBXMjhEQzF3RGdUeDg3aFZkY2V4VUdVdE9RS2xLdVdEcVU2M2YtS1ZpUmZjT2xNMEtLSzRqX0xWREYxZGxlZ2Zzd0F3amxfR2Fkd2pHdUM4QVd6Z0NLMnd5UUJjYkhlSFBmejdCVHA4cFN2SERINmN3RUZZRGd2Umw4Um1GRHhmdk9PSkYzclJhMU9USmZHYU8xMlFwZXd2UW1LR1huV2lIV2FrdUFVemtJUTRoaXV6Tl93NHdjcWlibFEwVUxj?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Revista Continente: Augusto Licks, dos Engenheiros do Hawaii, volta ao Recife",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQnJPV2E2Q2tCSGV0MXBWTGE4SGpnZ2w1RUhGTVBEUTdNVGdvRFUyV0NOUjZBeUhYbW1FYnpQc3dCZVg1V21RVG9selU4SjNLdGdRTUlta1p5MmNyNGZtWm1aNGlWbmxVVGdqZHR0Q2JSZTE3TDlyaVVTQlpqdEJEV0JTV2cwQ3NYcndtckw5NEtxUmtSRFgzbGpuZTEyU2FNY2NFNg?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Recife oferece capacitação gratuita em arrecadação digital para projetos sociais",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTNfZFZEaWdXa2luZFVSQU85Q0hNZWZZR2N4ektTMlJYOE0xdlg1MGoxZm5xejhKNHhiZHo5LXRaeW00dnBQbTRUS2xyWmg0ZGVVUk1UZWtxQTRHN1FCdElkVGZoU2NDaEtwaVNsMDd3MV8xbHRvTDYzLUdCcktpdERPb3FRWnlGRDZob21YN1V3MnpPTlZtTTF2MEx2NUNxUm9uZlE5dHl5LTDSAa8BQVVfeXFMTzdSMWstU2I2Mlc3RkdrUHpYSmhKZEs0SUxmZTZmeFNTeE4tY1JlQ1VPM3Nycm04YmN3c1EwSzhHbzB1aHRHc3gyZV9uckVySUdGUExjX0UzaG9PUUx1S1JZVFFkNm8zZmgzRnYzT0EycV9vaF9yNzF3S1VxV2xyOGZ0U0J2bmRKaG81eGsxVUlWRFpTdjVOSVBYbmhLTjR1WHFZcU9ueXluS0IwRHJpTQ?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "CNN Brasil: Cegonha com carros da BYD tomba em Recife (PE) e causa prejuízo milionário",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVg3bTVFdmkydm82RDJZTTNBVWYxRU16eG5pMi1RTjFqd2lMLUpOV0wyQ05LdHJaLUpZVFY0SWROSzRmRjdZdXB1aTBxVWJCV1Q0VjhjZ21FN1dFZHdZNlRZZ0FzdW1mRVdLSXNMTEx2YmZFZVNUOVNscXQ5dGxHdU1Pc3FvT0Q2dzZCX2Y1WEVzUmdFeXhUU2JFZk5EZEhSbFdyTVFreWxpczQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Raquel Lyra fala em operação logística para conter trânsito até a Arena na Copa do Mundo 2027",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUZlZHl1RWdWMzZFYl9GcVVPLVUxeUZjZ3Nnd3BveXZlU1dMV241TWpWX3duWU5qd1RsT0VZNTRzX01LS0l5aUVaSjZhaEdMT0JrTXdTVUV1dkdabUpCOVN3ZmtLVFc2dTBYQWxQcnQ5aEZ1V3VtRDhJRlU0SG9aSXA2ZHhlSGdXcFJDb1JGREU2M01sNkxISEUxMWNKMG8zcEtXU2xPd0htMGdJNDdnQ2xn0gGyAUFVX3lxTE1lRmVkeXVFZ1YzNkViX0ZxVU8tVTF5RmNnc2d3cG95dmVTV0xXbjVNalZfd25ZTmp3VGxPRVk1NHNfTUtLSXlpRVpKNmFoR0xPQmtNd1NVRXV2R1ptSkI5U3dma0tUVzZ1MFhBbFBydDloRnVXdW1EOElGVTRIb1pJcDZkeGVIZ1dwUkNvUkZERTYzTWw2TEhIRTExY0owbzNwS1dTbE93SG0wZ0k0N2dDbGc?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Jamildo: Raquel Lyra entrega primeiras obras do Estado após eleições em morro da Zona Norte do Recife",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnZTbmpwN2xfb0JtOUdiQ2hqdGxyTFJxX0hOTUItS1g3SVNpRWlqVnFwT29KMVl6Z1NRTHJDNUdKT0RrMmNqYnowQnlFNnZaRU5Za3pKb2FLNFhOSG5Ralhpd1plMW00UGwzZWJxakIyQ0ExRVBRQVlKM19qM0ZoVko3UnlPR0dJMlR6Wm45b3Y2T2NUcFNSSTBkTmJMUy01RldtclVpSkdFVlZtU3lZZnh1eWY4R3g3R1VTR3oxeHFhV1Rm0gHKAUFVX3lxTE1vb3drcGNMNlJRc05FdEtmSzJSeThMSklPUU9pTkh5emw2aFlHTGhKSm5zRVo0ZTRObVNJQ1hqam9XNGlwYXZfVFJWN2lFbmVlZ2NMUXRIR3diamd1RWljU3hiRnBrbERoM002R2hUdF83eXlGVVFYbEpKWFVFZXdpdmtsYzhQX0xBaUZPdkZlMHZ6NTZLelB5UjhLWGFweUg4eG1oMTZ5eGZQazk0Sk91SHNxYUMwQXZ3eUtzTUI3dGF2VUJIT3B1cWc?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Nill Junior: Raquel Lyra entrega quatro poços e garante abastecimento diário de água para 10 mil pessoas no Alto José Bonifácio, na Zona Norte do Recife",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRDZGSGNrajJqMmpqZ1plLVNucjlnalloS21yZktKRGgtSFp2XzFOYlJ5aWJ3YjlVRGU1YUU0SWtLQXVlQzYwQjcxRXhydG4wWE1Pbzl3WkQ5OEVMN1ZYbzJPOGJjYVVjdkZUcE9lQ0NtT3hFMERmeVBrdEtqT2F5YldONzNfSUZjYzJnZkpRblh4azNvS19Ya0hYYmZRLW1hay15VWNSbzhZdi0xMDk4WDNtekxlZWZBSDh0Z2pzNTJoWXlXSHQ5cTlIcVdpU3FFU1JPUXF0OTY2bDVWVUllNk1ESHNsNkRMVGNSQjA2Wkdpa1puZmUtNA?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Segundo maior colégio eleitoral de PE, Jaboatão registrou maior abstenção da RMR no 1º turno",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSlRaTXZiVEI4ZGxtVk5USlptME5iWm1HLTM5OHFnWjdSWGlkbXotN2YyVVE2WVR4UUxFYUZtNTNhV18wcFNJYWRFQVZVaEVDbXBfdVNqSmt1YXk0TWFvLUV3NjhZWWQtaEZwR1E5X1BEMndSZGdaUmNrNnFuTnFQWmNMenNnRVNVY2NFN3Jzd3NCcHZtNVBFdTY4eGFNU3RSd18tQ2VZSmlHUkdERVlvNlpWcmFTYlJoMEIySEpCRmt6alF2b0FPSXJ3N2dSdTRuTFZuWU5nRlpTeHZfSkFzc3NzRFU4VGlQMUFyZ1BJaFhIczNPS2c?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Raquel diz que votações na Alepe foram pautadas no “jogo político eleitoral” e atrapalharam gestão",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ213bm85TmI3bVd0cl9LNW9fTjNWMkstSmxJTFl4ZURXUnVaR1I2OGg5Nmk3d2g1NjJWMGRrWlJ5QlRCMmwzeDhkR2h4NlFDMWNzQ2l3aHdvU1pOWUlKNzFFcFdGM3ZQazg3X3dWQWNIWXAwTkdNckxQLUtCOF9CQjM3ZEdmMFdFZXVoTUFGdjRoQnZVeVNDUk8wR19xTDFlNEVoQ2Q1cVpfemFWbEdsUFM1WUtoS0ZXNGZDaUVmSFRSRUY2Z2xKS3dMUG9IMHVyQVhBNXlvSmlVTmxabTJ4YW1YYl9uOS04?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Finfa: MINUTO COM FINFA – Aliados articulam composição da Alepe",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamhBSUFTOWNWUkNyVzNFUU5vWG5YaDUyVTZXTHJBUk5sSXhLeW96NjNrckNtMGFFUnZQaE5qZzc0akpSelRZMEhtaTM4QXpmUWVWX0t3ejhHTzhaYUU2MmJpaEtyVDl1cDgyeEJab2Y4aUp1a0lVMmkzdXhiRDlNbkdzSGZZdml5ZEFnaTlWaHN0aEZWTTc1VUJR?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Daniel Coelho e mais três secretários voltam ao governo Raquel Lyra após deixarem Executivo para as eleições",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcmZBLW9YajBMbXNILXhVeDZERUJndWNvMXZxRFZ3dVZBNXVvTGpNQjhfY0tHbEtWVFo2bkNLcGVuVnh2VnN0SEsweTRlanpQQ0g3djM3czJWOE1DMzkzR29GaUFQX0VWWVpveXdPTGMxOThnNFN1ZWU4SE5nbUFYaG5qeG95eWRVZEJfMWg2S3MzSHBFNXRsdWdtZUQxSWhJUWlxQXJCZTlnQUQ3OHZfZXlVTTF5LVlxNElLcFdtbXh2U3V0MlI2U0FHWXh0UDJsSkhJbmN3QmtSZ9IB6AFBVV95cUxOS2ExNDEwdUdHNVhRN2tTNkw3OXFvMXRVREQ4c3QteUhXM2FyOTFuN25ndUVUTzl1Qk81Wjh5NnliTlhYRTdyd0ZOOTlYMzl5aUdWR2hQQ3pjTGNfVjFGZGFaTjJDWlZWYUpMcUJRTzZ5RXJWY1dCUWxGcURncEd6ZGxzRUFDMDZnMzZiSnROa1pFNVZmSHV5VjBSS2NrS3d4UTdjZ0hodDJZT2FsNXUyeHRKeHF5aDlCSXZpUDNETVpkUkc4ZUZyaEp3NGhDOE9oeGY4R2Y3Zmp0MmVsV3FiUXdZY3ljYzBF?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "CartaCapital: Ex-colegas de Direito da UFPE apelam a Raquel Lyra por apoio a Lula no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnVrT0FpY0pYUUZHeURFeFhXeF9iMlYzaWpjbFlxa1RoaGJTZ3E1T1IxZlA2UzA1T2I1WkJyazhiLW9Md1dKWWxSTXczal82LTFSc21kcU1NZWQyODEwVWhScTFnY2pVd19mcWdBWXNlYzRPRlJMdUNiX1g2b21uOHE5YzkwVUNZYVhoYlNIMHpydW5ZMlV6TXdyLUZBb2dhQ1hoaDlKcXZDcUZpbVdpRUtUdkFwWGN1Y3c3MjZ3?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Rádio Liberdade: Com inovação e acessibilidade, Governo de Pernambuco lança Edital Caju para o Carnaval e São João de 2027",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEsydW8xak5LekFxTlRvNVdzRVhKb01hUzYxVDZ2WEw0M1dHakYxSGtLS2tsa0ZudUJvcFpHRjZmWFVTX2haUGhGc0tDanVxQ1RuNHNuYWZHSnliNVdUTnFpTUE2T0NDeGZNdkNNWDFoSzhZSFQxTnp6Q2JGUFNrMWNMRFAydGZ1bVV6ai1VTFN2VFZra3RrSWhRbHUxdDJsbXpqbzlxVVhQclEtQnR3VWRIbXNHb05iYVdRMk52TU5QMEVsVzBkNWFR?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Secti lança estudo estratégico para fomento de infraestrutura digital em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWdiSEMwM01DOEN2OXBmVDJZWHY1Q0ZtaDlaZEd4SDNUMUwwYTBhWkZwZEpES0d2cFVTQlIzRXBSXzB1QlRIMHp0RUFNMzZDSEdvemRHSGl3T1VGQ2J1U2x4Z1JPQ1d1RGFGTjJjeUpxZ3ZjZDJiV21YX3E0UnZpc0dJRnNqMlpnSjFvemRXNU1HTU1DMW0tU2pYUFBTMVhkZzFORWhqU2d6a1BtbF90RV9KaHYxZGvSAbcBQVVfeXFMTmVnYkhDMDNNQzhDdjlwZlQyWVh2NUNGbWg5WmRHeEgzVDFMMGEwYVpGcGRKREtHdnBVU0JSM0VwUl8wdUJUSDB6dEVBTTM2Q0hHb3pkR0hpd09VRkNidVNseGdST0NXdURhRk4yY3lKcWd2Y2QyYldtWF9xNFJ2aXNHSUZzajJaZ0oxb3pkVzVNR01NQzFtLVNqWFBQUzFYZGcxTkVoalNnemtQbWxfdEVfSmh2MWRr?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Após período eleitoral, Raquel Lyra retorna aliados a secretarias do Estado",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUdRTWRyUE0ybm9oc3BzNkVQdXRiTnh2UXYxamd4VlBJX0hEc2JRVVczTHNRZUZ1YUJHOEdtQWZ6MzhPa1J6RF9abVNiMHVUSnUybHl2bTFsOS1ZeXg0REh4bHdpSm1KZzdhU19BbHI0cjdpY2owLUVUWjlDbGhuZlhLZldURkZ5SHAyVzIzeDc0V1MyeTdpZHlzbXhDZ2V6Q0s0?oc=5"
-    }
-  ],
-  "picos": [
-    {
-      "termo": "Creches",
-      "razao_aumento": 59.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "LeiaJá",
-        "hora": "2026-10-14T15:04:00Z",
-        "titulo": "Creches do Recife estarão abertas no domingo de segundo turno",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbU42YVdhRmhZcGg0by04VjkwN3BoeDBoWW5CWl9jLUlXTW1ya3ZrdlAxeEdpZmZCVUJmOXRmZUtFai1zMHZHRDhUNW9UNTkxT19BaWVwYWlTOHpTSm9yTDNNMGJER3hhcG1IZTY5bU1sc0k3NXlySmhTMzFKSGNXYkNIYVBIdmNmNlZ6NEEtem1hSDBHUlJoT29pb3FVRTRmMDdQTHEwbEo4VWtkYjRrMQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Fátima",
-      "razao_aumento": 57.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-14T17:44:27Z",
-        "titulo": "Dia de Nossa Senhora de Fátima passa a integrar calendário religioso do Recife",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3dkdW1aQk1mcWNLYzZOdk91TFZ5ZmlNaG1LclR6TFp2UHl0aU45NUJGZDZ3M0h2WG5CTWN0d0xvNFpoMFBwWmU5NXBYb3l4ZlgySDFIdndZSFN0T3Q5aWRyaGFUR25ET0pYZnc1UGxWYWlmNmNTalFuOTQ2blgwSzdEdWE3X2FRNV9QSlMtOFk3ZlJVWWpRRk01N0RtcUFxVWZjeENCOHVkWU1TZDV4NGZ2MjAzZ9IBtgFBVV95cUxNT3dkdW1aQk1mcWNLYzZOdk91TFZ5ZmlNaG1LclR6TFp2UHl0aU45NUJGZDZ3M0h2WG5CTWN0d0xvNFpoMFBwWmU5NXBYb3l4ZlgySDFIdndZSFN0T3Q5aWRyaGFUR25ET0pYZnc1UGxWYWlmNmNTalFuOTQ2blgwSzdEdWE3X2FRNV9QSlMtOFk3ZlJVWWpRRk01N0RtcUFxVWZjeENCOHVkWU1TZDV4NGZ2MjAzZw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Senhora de Fátima",
-      "razao_aumento": 57.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-14T17:44:27Z",
-        "titulo": "Dia de Nossa Senhora de Fátima passa a integrar calendário religioso do Recife",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3dkdW1aQk1mcWNLYzZOdk91TFZ5ZmlNaG1LclR6TFp2UHl0aU45NUJGZDZ3M0h2WG5CTWN0d0xvNFpoMFBwWmU5NXBYb3l4ZlgySDFIdndZSFN0T3Q5aWRyaGFUR25ET0pYZnc1UGxWYWlmNmNTalFuOTQ2blgwSzdEdWE3X2FRNV9QSlMtOFk3ZlJVWWpRRk01N0RtcUFxVWZjeENCOHVkWU1TZDV4NGZ2MjAzZ9IBtgFBVV95cUxNT3dkdW1aQk1mcWNLYzZOdk91TFZ5ZmlNaG1LclR6TFp2UHl0aU45NUJGZDZ3M0h2WG5CTWN0d0xvNFpoMFBwWmU5NXBYb3l4ZlgySDFIdndZSFN0T3Q5aWRyaGFUR25ET0pYZnc1UGxWYWlmNmNTalFuOTQ2blgwSzdEdWE3X2FRNV9QSlMtOFk3ZlJVWWpRRk01N0RtcUFxVWZjeENCOHVkWU1TZDV4NGZ2MjAzZw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "infraestrutura digital",
-      "razao_aumento": 50.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Blog do Didi Galvão",
-        "hora": "2026-10-14T18:22:18Z",
-        "titulo": "Governo de Pernambuco e LIDE dão início a estudo estratégico para fortalecer infraestrutura digital e atrair investimentos",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNFJJQXlGZmNuYnNJdnlTOXJZcGFDZkNUSUJVUEFnOUJOa3FQb3l6bXVFblhIdDBkTVdCdFpETGZra0RrRGVRei1zTW1LQXcwdGFUUDYxUTV1OEN2UlIzaUZpd2hjSEN4QzI1MXFBckE3eUdRNHFLLWZGUzd0RXl2dThBdkdMRVhKTW02dHNLN0ZsTWdoRDJ0ZXhRbUVZYkZPLVpCMW85MktJMHloMktONXlsdDc4VEcyc2NqbEhrOTRjVGhUU1lEQ0EybFBscktmcUNQRGlPQ0ZvckJ0YmtmRFU5RQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "creches abertas",
-      "razao_aumento": 47.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-10-14T14:17:00Z",
-        "titulo": "Recife terá creches abertas no domingo do segundo turno para facilitar votação de pais e mães",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1laVE80aG53b3Q4RVBEQ0xTcnFRS2wwUTVuYU5kUXBVUjlJek1yNjlfQkY3V0dReXRVMXdwQ200VERmNnNNRHdFWm9rVUhtWTBIMXNhazY3SlRYVjJzbmppcERGenJZdFJQZnZiT181TmVXb2llOWs2NlhpeHRsNFVfNFFTZ3ZnS2ZMaUJqNkxxSDVIRzQzMm12QXZyUUpVUy1FTl9hanpwTnBCbk1RWTNtRWx6ZzRVdWt3QlJHc2NJOF9PRjhtYVdJczBaRUoxa19Ba3lDZFhIVUw0YVE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Recife terá",
-      "razao_aumento": 47.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-10-14T14:17:00Z",
-        "titulo": "Recife terá creches abertas no domingo do segundo turno para facilitar votação de pais e mães",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1laVE80aG53b3Q4RVBEQ0xTcnFRS2wwUTVuYU5kUXBVUjlJek1yNjlfQkY3V0dReXRVMXdwQ200VERmNnNNRHdFWm9rVUhtWTBIMXNhazY3SlRYVjJzbmppcERGenJZdFJQZnZiT181TmVXb2llOWs2NlhpeHRsNFVfNFFTZ3ZnS2ZMaUJqNkxxSDVIRzQzMm12QXZyUUpVUy1FTl9hanpwTnBCbk1RWTNtRWx6ZzRVdWt3QlJHc2NJOF9PRjhtYVdJczBaRUoxa19Ba3lDZFhIVUw0YVE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "pesquisa Quaest",
-      "razao_aumento": 45.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "VEJA",
-        "hora": "2026-10-14T21:09:00Z",
-        "titulo": "A primeira pesquisa Quaest sobre a disputa Flávio x Lula no segundo turno",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVNKbmNYS1hVTFdzcUc0Qnh3eFl0bDd4T3JOUFppNjlhdzlKM2tQaGNjQndDUTdFTldncUpVN1NwSGFUYUx5NERMMDVmSjdRbEpDcXRDd3RUMmhCbGFLN0ozLTEtOEZMa0JmU1ljajVVZE9xd09kYzExMGs2MkY5QThwejJIdFgtLUJXUGtMZHpqLTJqUi1BV1FBOHFBRkd2SHBaNzNYanZFQTR3SUE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "abertas no domingo",
-      "razao_aumento": 45.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-10-14T14:17:00Z",
-        "titulo": "Recife terá creches abertas no domingo do segundo turno para facilitar votação de pais e mães",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1laVE80aG53b3Q4RVBEQ0xTcnFRS2wwUTVuYU5kUXBVUjlJek1yNjlfQkY3V0dReXRVMXdwQ200VERmNnNNRHdFWm9rVUhtWTBIMXNhazY3SlRYVjJzbmppcERGenJZdFJQZnZiT181TmVXb2llOWs2NlhpeHRsNFVfNFFTZ3ZnS2ZMaUJqNkxxSDVIRzQzMm12QXZyUUpVUy1FTl9hanpwTnBCbk1RWTNtRWx6ZzRVdWt3QlJHc2NJOF9PRjhtYVdJczBaRUoxa19Ba3lDZFhIVUw0YVE?oc=5",
-        "peso": 1.0
-      }
-    }
-  ],
+  "google_trends": [],
+  "picos": [],
   "nuvem": [
     {
-      "termo": "Lula",
+      "termo": "OEXERCITODOLULAVOLTOU",
       "peso_relativo": 100.0,
-      "fatia_pct": 19.64,
-      "fontes_distintas": 25
-    },
-    {
-      "termo": "Flávio",
-      "peso_relativo": 85.5,
-      "fatia_pct": 16.8,
-      "fontes_distintas": 15
-    },
-    {
-      "termo": "Bolsonaro",
-      "peso_relativo": 67.2,
-      "fatia_pct": 13.2,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Raquel",
-      "peso_relativo": 64.6,
-      "fatia_pct": 12.69,
-      "fontes_distintas": 14
-    },
-    {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 64.6,
-      "fatia_pct": 12.69,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Lyra",
-      "peso_relativo": 54.3,
-      "fatia_pct": 10.66,
-      "fontes_distintas": 14
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 54.3,
-      "fatia_pct": 10.66,
-      "fontes_distintas": 14
-    },
-    {
-      "termo": "Quaest",
-      "peso_relativo": 47.5,
-      "fatia_pct": 9.34,
-      "fontes_distintas": 11
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 36.2,
-      "fatia_pct": 7.11,
-      "fontes_distintas": 14
-    },
-    {
-      "termo": "Campos",
-      "peso_relativo": 28.4,
-      "fatia_pct": 5.58,
-      "fontes_distintas": 11
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 28.4,
-      "fatia_pct": 5.58,
-      "fontes_distintas": 11
-    },
-    {
-      "termo": "campanha de Lula",
-      "peso_relativo": 23.3,
-      "fatia_pct": 4.57,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "Senado",
-      "peso_relativo": 18.1,
-      "fatia_pct": 3.55,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Alepe",
-      "peso_relativo": 18.1,
-      "fatia_pct": 3.55,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Golpe",
-      "peso_relativo": 15.5,
-      "fatia_pct": 3.05,
+      "fatia_pct": 9.8,
       "fontes_distintas": 1
     },
     {
-      "termo": "Golpe No Senado",
-      "peso_relativo": 15.5,
-      "fatia_pct": 3.05,
+      "termo": "Lula",
+      "peso_relativo": 95.0,
+      "fatia_pct": 9.31,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Da6x1",
+      "peso_relativo": 95.0,
+      "fatia_pct": 9.31,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lula Pai",
+      "peso_relativo": 95.0,
+      "fatia_pct": 9.31,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fim Da6x1",
+      "peso_relativo": 95.0,
+      "fatia_pct": 9.31,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Pai Do Fim",
+      "peso_relativo": 95.0,
+      "fatia_pct": 9.31,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FLAVIOINIMIGODOTRABALHADOR",
+      "peso_relativo": 90.0,
+      "fatia_pct": 8.82,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "VITÓRIA",
+      "peso_relativo": 85.0,
+      "fatia_pct": 8.33,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "CLASSE",
+      "peso_relativo": 85.0,
+      "fatia_pct": 8.33,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "TRABALHADORA",
+      "peso_relativo": 85.0,
+      "fatia_pct": 8.33,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "CLASSE TRABALHADORA",
+      "peso_relativo": 85.0,
+      "fatia_pct": 8.33,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "VITÓRIA DA CLASSE",
+      "peso_relativo": 85.0,
+      "fatia_pct": 8.33,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ERIKA",
+      "peso_relativo": 80.0,
+      "fatia_pct": 7.84,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "HILTON",
+      "peso_relativo": 80.0,
+      "fatia_pct": 7.84,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ERIKA HILTON",
+      "peso_relativo": 80.0,
+      "fatia_pct": 7.84,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Carlos",
+      "peso_relativo": 75.0,
+      "fatia_pct": 7.35,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Miguel",
+      "peso_relativo": 75.0,
+      "fatia_pct": 7.35,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Carlos Miguel",
+      "peso_relativo": 75.0,
+      "fatia_pct": 7.35,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Prova",
+      "peso_relativo": 70.0,
+      "fatia_pct": 6.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fazendeiro",
+      "peso_relativo": 70.0,
+      "fatia_pct": 6.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Prova Do Fazendeiro",
+      "peso_relativo": 70.0,
+      "fatia_pct": 6.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ESCALA",
+      "peso_relativo": 65.0,
+      "fatia_pct": 6.37,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ESCALA 6X1",
+      "peso_relativo": 65.0,
+      "fatia_pct": 6.37,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FIM DA ESCALA",
+      "peso_relativo": 65.0,
+      "fatia_pct": 6.37,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ACABOU",
+      "peso_relativo": 60.0,
+      "fatia_pct": 5.88,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "LULA ACABOU",
+      "peso_relativo": 60.0,
+      "fatia_pct": 5.88,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Hulk",
+      "peso_relativo": 55.0,
+      "fatia_pct": 5.39,
       "fontes_distintas": 1
     },
     {
       "termo": "Pelo",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.89,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Escala6x1",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.89,
+      "peso_relativo": 50.0,
+      "fatia_pct": 4.9,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula Pelo",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.89,
+      "peso_relativo": 50.0,
+      "fatia_pct": 4.9,
       "fontes_distintas": 1
     },
     {
       "termo": "Pelo Fim",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.89,
+      "peso_relativo": 50.0,
+      "fatia_pct": 4.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fim D",
+      "peso_relativo": 50.0,
+      "fatia_pct": 4.9,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula Pelo Fim",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.89,
+      "peso_relativo": 50.0,
+      "fatia_pct": 4.9,
       "fontes_distintas": 1
     },
     {
-      "termo": "Fim Da Escala6x1",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.89,
+      "termo": "Pelo Fim D",
+      "peso_relativo": 50.0,
+      "fatia_pct": 4.9,
       "fontes_distintas": 1
     },
     {
-      "termo": "SÓCIO",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.59,
+      "termo": "Marlon",
+      "peso_relativo": 45.0,
+      "fatia_pct": 4.41,
       "fontes_distintas": 1
     },
     {
-      "termo": "VORCARO",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.59,
+      "termo": "Freitas",
+      "peso_relativo": 45.0,
+      "fatia_pct": 4.41,
       "fontes_distintas": 1
     },
     {
-      "termo": "FLÁVIO É SÓCIO",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.59,
+      "termo": "Marlon Freitas",
+      "peso_relativo": 45.0,
+      "fatia_pct": 4.41,
       "fontes_distintas": 1
     },
     {
-      "termo": "SÓCIO DO VORCARO",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.59,
+      "termo": "Wesley",
+      "peso_relativo": 40.0,
+      "fatia_pct": 3.92,
       "fontes_distintas": 1
     },
     {
-      "termo": "pesquisa Quaest",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.54,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Meta",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.54,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "CAGA",
-      "peso_relativo": 12.4,
-      "fatia_pct": 2.44,
+      "termo": "Natã",
+      "peso_relativo": 40.0,
+      "fatia_pct": 3.92,
       "fontes_distintas": 1
     },
     {
-      "termo": "CAGA NÃO FLÁVIO",
-      "peso_relativo": 12.4,
-      "fatia_pct": 2.44,
+      "termo": "Wesley Natã",
+      "peso_relativo": 40.0,
+      "fatia_pct": 3.92,
       "fontes_distintas": 1
     },
     {
-      "termo": "Real",
-      "peso_relativo": 11.6,
-      "fatia_pct": 2.28,
+      "termo": "VOLTAMOS",
+      "peso_relativo": 35.0,
+      "fatia_pct": 3.43,
       "fontes_distintas": 1
     },
     {
-      "termo": "Madrid",
-      "peso_relativo": 11.6,
-      "fatia_pct": 2.28,
+      "termo": "FORTE",
+      "peso_relativo": 35.0,
+      "fatia_pct": 3.43,
       "fontes_distintas": 1
     },
     {
-      "termo": "Real Madrid",
-      "peso_relativo": 11.6,
-      "fatia_pct": 2.28,
+      "termo": "Felipe",
+      "peso_relativo": 25.0,
+      "fatia_pct": 2.45,
       "fontes_distintas": 1
     },
     {
-      "termo": "Bernard",
-      "peso_relativo": 10.9,
-      "fatia_pct": 2.13,
+      "termo": "Anderson",
+      "peso_relativo": 25.0,
+      "fatia_pct": 2.45,
       "fontes_distintas": 1
     },
     {
-      "termo": "PT",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Nossa",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Senhora",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Nossa Senhora",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "creches abertas",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "infraestrutura digital",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.03,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Cuello",
-      "peso_relativo": 10.1,
-      "fatia_pct": 1.98,
+      "termo": "Felipe Anderson",
+      "peso_relativo": 25.0,
+      "fatia_pct": 2.45,
       "fontes_distintas": 1
     },
     {
-      "termo": "Endrick",
-      "peso_relativo": 9.3,
-      "fatia_pct": 1.83,
+      "termo": "Canobbio",
+      "peso_relativo": 20.0,
+      "fatia_pct": 1.96,
       "fontes_distintas": 1
-    },
-    {
-      "termo": "Elisa",
-      "peso_relativo": 9.0,
-      "fatia_pct": 1.78,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Ana Elisa",
-      "peso_relativo": 9.0,
-      "fatia_pct": 1.78,
-      "fontes_distintas": 3
     }
   ]
 }
