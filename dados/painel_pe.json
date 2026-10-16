@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-16T18:47:44Z",
-  "total_analisado": 124,
+  "atualizado_em": "2026-10-16T22:04:31Z",
+  "total_analisado": 121,
   "x_recife": [
     {
-      "termo": "#LULAPAROUJUIZDEFORA",
+      "termo": "#DilmaSeraVingada",
       "posicao": 1,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23DilmaSeraVingada",
+      "ruido": false
+    },
+    {
+      "termo": "#HOJEEUVOUBATERPANELA",
+      "posicao": 2,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23HOJEEUVOUBATERPANELA",
+      "ruido": false
+    },
+    {
+      "termo": "Globo",
+      "posicao": 3,
       "variacao": "NOVO",
       "direcao": "novo",
+      "url": "https://x.com/search?q=Globo",
+      "ruido": false
+    },
+    {
+      "termo": "#LULAPAROUJUIZDEFORA",
+      "posicao": 4,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23LULAPAROUJUIZDEFORA",
       "ruido": false
     },
     {
       "termo": "#MinasGeraisVota13",
-      "posicao": 2,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 5,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23MinasGeraisVota13",
       "ruido": false
     },
     {
       "termo": "#LulaEmIpatinga",
-      "posicao": 3,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23LulaEmIpatinga",
       "ruido": false
     },
     {
-      "termo": "#LulaVerdeAmarelo",
-      "posicao": 4,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaVerdeAmarelo",
-      "ruido": false
-    },
-    {
-      "termo": "#LulaPelaDemocracia",
-      "posicao": 5,
-      "variacao": "+10",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23LulaPelaDemocracia",
-      "ruido": false
-    },
-    {
       "termo": "LULA QUEBROU O BRASIL",
-      "posicao": 6,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=LULA%20QUEBROU%20O%20BRASIL",
-      "ruido": false
-    },
-    {
-      "termo": "FLAVIO VAI FORJAR ATENTADO",
       "posicao": 7,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=FLAVIO%20VAI%20FORJAR%20ATENTADO",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=LULA%20QUEBROU%20O%20BRASIL",
       "ruido": false
     },
     {
       "termo": "Jones",
       "posicao": 8,
-      "variacao": "-4",
-      "direcao": "cai",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Jones",
       "ruido": false
     },
     {
-      "termo": "Wagner Moura",
+      "termo": "Caixa",
       "posicao": 9,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Caixa",
+      "ruido": false
+    },
+    {
+      "termo": "FLAVIO VAI FORJAR ATENTADO",
+      "posicao": 10,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=FLAVIO%20VAI%20FORJAR%20ATENTADO",
+      "ruido": false
+    },
+    {
+      "termo": "Paulo Vieira",
+      "posicao": 11,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Paulo%20Vieira",
+      "ruido": false
+    },
+    {
+      "termo": "Panelaço",
+      "posicao": 12,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Panela%C3%A7o",
+      "ruido": false
+    },
+    {
+      "termo": "Gabriela Prioli",
+      "posicao": 13,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Gabriela%20Prioli",
+      "ruido": false
+    },
+    {
+      "termo": "FLÁVIO MANIPULOU AS ELEIÇÕES",
+      "posicao": 14,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=FL%C3%81VIO%20MANIPULOU%20AS%20ELEI%C3%87%C3%95ES",
+      "ruido": false
+    },
+    {
+      "termo": "Wagner Moura",
+      "posicao": 15,
       "variacao": "-4",
       "direcao": "cai",
       "url": "https://x.com/search?q=Wagner%20Moura",
       "ruido": false
     },
     {
-      "termo": "VÁ AO MERCADO BRASIL",
-      "posicao": 10,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=V%C3%81%20AO%20MERCADO%20BRASIL",
-      "ruido": false
-    },
-    {
-      "termo": "DESMENTINDO FLÁVIO",
-      "posicao": 11,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=DESMENTINDO%20FL%C3%81VIO",
-      "ruido": false
-    },
-    {
-      "termo": "O BRASIL É DOS BRASILEIROS",
-      "posicao": 12,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=O%20BRASIL%20%C3%89%20DOS%20BRASILEIROS",
-      "ruido": false
-    },
-    {
-      "termo": "LENAMIU PLS LOVE EP6",
-      "posicao": 13,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=LENAMIU%20PLS%20LOVE%20EP6",
-      "ruido": false
-    },
-    {
-      "termo": "VAI VIRAR",
-      "posicao": 14,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=VAI%20VIRAR",
-      "ruido": false
-    },
-    {
-      "termo": "POR 24TH BIRTHDAY",
-      "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=POR%2024TH%20BIRTHDAY",
-      "ruido": false
-    },
-    {
-      "termo": "Pátria Submissa",
-      "posicao": 16,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=P%C3%A1tria%20Submissa",
-      "ruido": false
-    },
-    {
-      "termo": "Loide",
-      "posicao": 17,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Loide",
-      "ruido": false
-    },
-    {
       "termo": "Reinaldo Azevedo",
-      "posicao": 18,
-      "variacao": "+6",
+      "posicao": 16,
+      "variacao": "+2",
       "direcao": "sobe",
       "url": "https://x.com/search?q=Reinaldo%20Azevedo",
       "ruido": false
     },
     {
-      "termo": "Revelando",
-      "posicao": 19,
-      "variacao": "-3",
+      "termo": "VÁ AO MERCADO BRASIL",
+      "posicao": 17,
+      "variacao": "-5",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Revelando",
+      "url": "https://x.com/search?q=V%C3%81%20AO%20MERCADO%20BRASIL",
       "ruido": false
     },
     {
-      "termo": "Tesla",
-      "posicao": 20,
-      "variacao": "-2",
+      "termo": "O BRASIL É DOS BRASILEIROS",
+      "posicao": 18,
+      "variacao": "-4",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Tesla",
+      "url": "https://x.com/search?q=O%20BRASIL%20%C3%89%20DOS%20BRASILEIROS",
+      "ruido": false
+    },
+    {
+      "termo": "RETOMAMOS A NOSSA BANDEIRA",
+      "posicao": 19,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=RETOMAMOS%20A%20NOSSA%20BANDEIRA",
+      "ruido": false
+    },
+    {
+      "termo": "Intercept",
+      "posicao": 20,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Intercept",
       "ruido": false
     }
   ],
@@ -173,8 +173,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "Instituto AOCP: PM e Bombeiros de Pernambuco têm prazo de inscrição estendido",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU9tdjUwOGl0U0NvSnk5MTVIdEhNS0lZaGxNX1FZbjNsU0Rtc04xejhTWEpnckpzVXlPY012UXdOUzFPLVg1UXgyUF91UGdvMjYtUVBhZHpVbXV3YVhFVGw3YnNXNnlxZDJYdGYzU1NfZlBsR0ZlSHk0RnQzZ0FraWhTYzlfcHVLeml2Y3JtRl9YaXhRdko0Q21OMzBmNHhBRFFCY0pfWEY?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Assembleia Legislativa do Estado de Pernambuco: Bandeira, hino e escudo: o que as leis dizem sobre os símbolos de Pernambuco",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHdGdl9Xb3IwRWlCR216dnc4X29VXzNIR3RCbFBZM2dtQ3hUZTZjVzd5Y2VVOUNqVmY2OXo0YU5SeXVNS0NoaVowT3VPNzdjSWFJcHZNOWRsQjNYSnR1Y3ZMYVI0YzFJSnVURXBkX2hKZXdzcWtDRXFOZWdfaXBpOGZ4VlU4MXU1M09UVE5ZWk9IeU9zVE01T0lNVDNiTFlzaE5yMnVVcWdOTFVqZW5CQXlDNWg?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Motociclista morre após bater em carro e ser atropelado por carreta na BR-101, no Recife",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRTlaNUlNNXN3WWtSdFp5MjFPYV9YV0xsbm9yNTVJMWN1TTYtRWMtbnFIZkNtMzhqRTBDM1ZiWTNxREVtZnpEUy0tdWh2bTNJek9HeFpZbDBCeEhrTzBldzctYU1oclprREhBTHY2QXViNGRDUlc2NVNWZTQtTFVFWGl3bnV5VEdRNFUzM0xRMjlPd2c3WDJoTXd5bXNaUEwyU245RTNIUDU3T3QwNlZoeFZhcl9Idk5tZzF0aEtGcmhBSUNoaUItTzBPYW5jRG0zeUtfTlFhZGxhby14SEpWUdIB7wFBVV95cUxOSXVkckk4dEFJUjM1TkJHYnVGNTh0cE5JQW1qQ0h1azQxdlBlMDdCSFlhUC1yS1Z5N1R3UjFKSUZLZEFqQy1RM0xVdHQ3NHJvanBFN1dBSlRWM253ZWo3V3FWMHE2bkVlS3FieU90ZXhZTmJlZ1pWQlF0OEpCeEUzZW44M2tJRWdjX1hNZWt6aWs0VF8zVHlmM0pqWDM3blZpdWJ6Q1VNLUxWajQzaERFWU9GVlVwS1ZrbzFRZEU0MkdVem16Tk8xeTRwMXhsa095eUN4M2JnQUt5Xy1GTGx6OHUtdkJ1bi1QaThlR0VQOA?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -183,28 +195,40 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYzVORngtT3BtdGxTV1l3LUhhT2hrWmpOYVZUQmRaM0RiUFZlUzhKYkVVbVc2MzNXNEFNYzZKOHMzS0pGZmx2VWNTODc2TFFJWkp0U19Bamt5aHp0TnJ5RmVHZkJDT2FQMTRtWTJ2aENlbHRHazBoQlZ6UlNENkJXakFpOUp3bTdnOHZXaG9neVRFcno4TUptLVNFWWtjeGxKcnRaaXA3cmJrWU85R0RvTw?oc=5"
     },
     {
-      "termo": "Pernambuco",
+      "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "O GLOBO: Caminhão-pipa desgovernado bate em ônibus e deixa 26 feridos em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3lnZDJwdko1MTNwQ0plcFplNmEyTkljY2VNTkNRUk05Z2FkRlU2Sk5TSlhmNkt4NTdNUTA3S2E2QnFVdXlhazlCMVpQb3h1OE1hdjBoc2ZXM1F4RzNtLU9GRzhRU0ZUWUx2UklXYmI4ZnlIX2E1WEMwd1FycjRSbjJjOWhMZUhXYk1tWVQ0ZXAyc0lyTVQxUUFHaWQxT3NwR3FaZWpJTWZXR2FKcW4yMjA2dFZzdC1KX1c3dWoyNkdiNjZsa3p2MV82NNIB2gFBVV95cUxNV1FZZ2tnZ0lJYWlfajJoTi15cHl1ck5FQ0xVVnVWRjFzMVNjMUJFUG9CVFNUY1huR2IyWFd4RGZsNlBpbzM2RGdEdGNGdXRPTkF2QThseC1rWFUwS0tGX2V1SnlfSHFxS19TUUdLQm5CU2l4ZzZFaXZSRWlzM3pQbmJuVTdkV0owWjNvWW1IVUZLd04tQk0zcTRnYXVxdzBxVzVjZUszYWx4NFJRNWJ1ZDFFMDZOMG1JSkpWMXBSRzhvYWhTNGtSWVFhRFp2bmJNNEtfYU1pMWd6dw?oc=5"
+      "manchete": "Governo Federal: Força-Tarefa prende mulheres sacando benefício fraudulento do INSS em Recife — Ministério da Previdência Social",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlJuZDdwOFVuLVkyWTVTeWd0MWlmLUVMaXZwalBEVGtPbFJyZEgwejVSNm1hVExsa0FmT0RPT3ZadzYzdWdnb2xfTzZNQkh4c1hoYnEzclZqTHhWRzNUcmFTek9HTW1WdHZMUWp1R3A1cDA0WTB3VWxzNE5jY0wzSkNOaEEwZVRsZXB6Z0Z1dFh2ZEY2UnhLaE1BTjlqRFE3amFuSU1vWjFJOWs4WHRfOEwwek04UVZBeGNqa3JqakJuT096SnBiWXNiOXVsZHRk?oc=5"
     },
     {
       "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Prefeitura de Tubarão: Trabalhos de drenagem e de preparação para pavimentação da rua do novo posto de saúde Recife/Vila Moema têm início neste sábado (17)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVGFFV2VpUl85YXJWUFZCeVFMSWdSdWNRaWt6M3lRWDEzVm94aFZacW1FTzhwbk5zZ0JsdkVINHhTZFBCblZmMEw2TFBxeTBXQzFtekI0ZXQ1Q3ZsUjFrU3gxRXJ2WUEzYS1yM2hsTUwxMUVmTkJxSkpyc193MGkzeW9kR2VjWHdhSi1MZUF6YmlRZFNnVFpZTGpCeVY5a19xQ0ZVTG54RTNZMTFlRzVMYlJBd2gtRGlLNFd1WW8wcmhSSW01WHFIWC1iUkc1SzV2ZkNZUGlRUG8zcmgxcWFFeFk5UQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "MINISTÉRIO PÚBLICO MILITAR: PJM Recife/PE abre seleção para Programa de Residência Administrativa",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wOWltRDJWTGNsSV8wWUdYcUZXMGZDdHJ3TkFkWTVEM0g2THBFYTRGb0hENDNfbmxsY1lFQlhUYVVqTEx6U0ZrQVJ2NlI?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "G1: Obra de viaduto na BR-101 deixa 11 bairros no Grande Recife sem água; veja lista",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbDA0TWotanlKNl9SWmZkLVZ5eFpxNVdXNXBMN3VUN2c0RkMtRDNzbFBPcm9ma2h1RmZQRHo1M0dwLW9mR2NZNHpnbGo4Q0dUWDhRb2pTY3RoMVFtNWlCTHhERVFvWnZpLTRETDZDQzZHYVBxWWhLNWpUT1piR0JIRjNhcGJPRklFSURSTmNhX3pkejZnUEZpWVBaM2l5Sk1iUzhFNTlKOXV5WnVHX1RZQzlFNHFma25TM3BTZFVhZlFMUDlBaWRiUENZbHJGWnlGQ3hZenI5M2MtdjVZN3Nla25OUEl2N0nSAfYBQVVfeXFMT3U0TVhaZVRrakJMU21oUGNacWx1UnpNalk4WDRGTzMxaHR5THhSU2dRUWN0M3I1dTF5cHRkRi1BMWhjRXBCMmI2ZDVBYnBzSm5GVVU0elNhZS1oVjUtbFllNXVpUllYSG80dU0zSDI3TTdBbkNPa3hHdlhQOExDUDFqZUJNQmJ4WVdXVEd3Zy01S0dkSjRxWEM1SjZBdS1qUjRPWXlGN2w1S0lKeWhQNGhiLXVuRVhiMEpSZGstSzl2QUlGU3NRMmFzenhmeTFXV21uOE1ib1FMNktVSldabktkeThpal9jNGt4dWo5a0xxS1RPVzNB?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Estadão: Azul anuncia 217 voos extras para Recife na próxima temporada de verão",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEs0a0hXcGU1X2FDbHplcy0wZ3hpMk5IYm1fREdCZWZyamJ2Q1NhVlVDaXZLc0d1eUkwV2NUYmtxOGNyZDdfT0ZFRGViTWdwMlVoYnNnazlyak4xd2RWZDNPaFpsZXNlODBFRGIxT3d1TGdtOVNCMFBpSms0cDlMeWJoOERYYm9UanRjUjhQNmN5MVVtNlpHZEZKTnBhVUJfZ3pqNG1KeHpTUVFORDVMeG1JWWZFQQ?oc=5"
+      "manchete": "CBN Recife: Comércio do Recife terá funcionamento facultativo no Dia do Comerciário",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVTRJc01uejdfQ01oZEJhYmQ2ZU5OVDBldzdFQzFqSmdienQwRW1qM1hoMTFkVWptMHVocElIcm84YzJCYVhsczJUczcxYURYbVVRT1RIY2F1VFl4RHhXX3BFUER0bW50MnZWejFfeHdvTlJTMlNmMkM2dTlsRDFtSTYyZ2YyWkJLazk5S2M0dTlCTHg5N01KNFIwaFptMGVhamt6SzhLLXFLQjl3NUE?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Recife recebe 1º Fórum de Remuneração de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXdBaTNaQkhUYWl0OENBY3FJYVZ0bkI4d2k2T3AyZEYzUXBCSFpJUzRjQ19DdEJZUHM5RWFzTmxrZ3B2N1otZkJQclNqUGpmeFdjV2Y0V0ZpLXZPUm9ETjVSWmtYdnJpeVoxZlMzTzBES3J2ZnVjcnQ5N3FEX0FzSVZTcUxUaGxQcldJTXlnejhSaXg0V1NzcTBFVTJ0TUHSAZ8BQVVfeXFMTUF3QWkzWkJIVGFpdDhDQWNxSWFWdG5COHdpNk9wMmRGM1FwQkhaSVM0Y0NfQ3RCWVBzOUVhc05sa2dwdjdaLWZCUHJTalBqZnhXY1dmNFdGaS12T1JvRE41UlprWHZyaXlaMWZTM08wREtydmZ1Y3J0OTdxRF9Bc0lWU3FMVGhsUHJXSU15Z3o4Uml4NFdTc3EwRVUydE1B?oc=5"
+      "manchete": "Diario de Pernambuco: Saiba quais foram os 10 deputados estaduais mais votados no Recife, Olinda e Jaboatão",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMXBnSlRaVUlIaG5LZm9Ja1dnWTRvTGtQOFI1RDdtMWR2blBTVXMyVFdSajA5bFFtX085cmtqVGNlb2FOeEJqanYwcE9WTDh2N0JPcE5TYUhyNmNwcHplOVFobHBRTVNrQ3MwRkI5d3BrWlZjLTlxR2hzS3lXSlF0S0tYd09WZ0ZRdGhQRVg2RXBRSk4xOXo5QXpzNExsUWJ2d1VQMGlVRmJTdjExeXg0cm5JQm93Q3daaEQwM1lZU3NuZk1mX0M0Z0RIN2tSOHhvOXp1MXRqVExFcE9YejRLdHVpQmo1a0lC?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -219,34 +243,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmt3NHNYbnFKLXhQb0p1N2dmN291SElqZDNfQW9aeVlkRVhoVUFhWmM1bGdqNkcweXIzVnVHejBjWW54RWZGWmU0ODFPMFh5ZzdqLWxlaEVOZDUxREY5R3YyaGptbEgtMGVmT19NV2FPUzZkWlc5QldCVk5qN2poYURNaGdpT0xjcFNvbnJlM2tlbjJyNzl5Z3g2NTJFUGFwNVE?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Estadão: Colisão entre caminhão desgovernado e ônibus deixa 26 feridos em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOck1Gb2YyMTJsV2Zrdklxbk5UUmU1QXpWcGYxcGJqU2hmdWpPdzBPQzR6THlTMjFnWXY4WjE4UXpaVXpTd1lNeTJCeThuSHZEUDRmZnVpbTZrdEVHQkNNblFYRXIyVFNMRURJTjVmY21sMlhmSmNoWnZ6blAwd3pxMkJQUW9vYS1ucm93dVVpa3l4aEU4a3h6WGgwdFJGVkJRemtLeGl2cUdfek50U0Qya1owN0NaUdIBtgFBVV95cUxOck1Gb2YyMTJsV2Zrdklxbk5UUmU1QXpWcGYxcGJqU2hmdWpPdzBPQzR6THlTMjFnWXY4WjE4UXpaVXpTd1lNeTJCeThuSHZEUDRmZnVpbTZrdEVHQkNNblFYRXIyVFNMRURJTjVmY21sMlhmSmNoWnZ6blAwd3pxMkJQUW9vYS1ucm93dVVpa3l4aEU4a3h6WGgwdFJGVkJRemtLeGl2cUdfek50U0Qya1owN0NaUQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "TV Guararapes: Vendas de imóveis novos crescem 43,4% na Região Metropolitana",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDB1X0tEcWY1QU9Ldnd1TThVOUVQNHVJV2lORGxXcDRlMmVocElfMW5iLWxPamptZC02UGotc2VxUHJlZzM3YWFJcDBiZTdWRm1ZZkJWdk00SXhBMkd6UXpYazFGMG5JN0pSenFsZVMtUFhtblRmVk1OWGlGS25hY1JmektwNVpTSkEzNmo2bkZpSHlteFIxZXNtN21MTGxwZUtQNm9EcXhSU3dJYWNOQkR0RVZ2TkE?oc=5"
-    },
-    {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog Nossa Voz: Apesar de não conquistar vaga na Alepe, Gilmar Santos classifica resultado eleitoral como “vitória política extraordinária”",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qcF95dmstbU11Y1NVaGdsODFSZ2JKREx1dWNRRF95X3p2TlJ5dnRMXy1EdXdZbk9lQXBuazJqOThtdXA2RjIyRmJfQ2pTUEozTWZKdA?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Finfa: Luciano Duque é homenageado nos 40 anos da Fundação Altino Ventura por contribuição à instituição",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUG1YVUZxcTMzQjFLWTMwU25WSWZzMjFveWl6V3I2SkR6azlRT3dyS3pOaEgzQXp2NFNmNjJ0QktCT0FwT3YxaHJMczJKQmI1S0pGV2o5N3paSWJEZUZ2aVNGV2lGa2Y3TDNzVU1MNUhwczlqQm96Mm1KTHhSSUEtcnBSTW05UkFtcE5UTjQzbW1lS1YxbkozaE9SeERjTFh6cFZGeTEzMENya1FsWTdpZ1pweHpRUjhucXo3enpjZTU5YThic3ZmakdPN3NHLWtIY1lr?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Roberto Gonçalves: Flávio Bolsonaro publica foto e parabeniza Raquel e aliados",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1JPdlp6WFY4a0JISEJycGlJU29FMjR5c3FVQ1ROcFN3Yks5LVZQY3ZCWXp6MFQyS0E1YkNGWUJEMm53TV82cUMtSm5qSEpDSXkzWkRfcjhJNVB0eVVrTkgtTmRPcjZGT2d4Q0VXM09jWVVVOG40TjRwU0xsZ2hPSERKdHZqWXVXN1lzcXRjazZBU2VYd1JDLUFsbVIxMVJxZFFZSg?oc=5"
+      "manchete": "Blog Edmar Lyra: Raquel pede que Alepe autorize auxílio-moradia para moradores do Cuca Legal II",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUptcVQ2UHFSUzJlS3d5UjZXNHotaF9kOGlMend3RFAxMjViMXg3RWFnMDBmUmpnQjYxNFRkZVdrZE5ZRVRqc0RKYmFXRDhadVVQSlQ0WVdWcjZtZXRJbjhvRVRiTGtEM1h0OG45dzFlQVlqYXpXakpZZXRUWFFrck5SYzh2Z0VYeUZCY0l3SHhiTTZPVWFLWXdnMm9PNS1sck4wMTRUX2U?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -263,8 +263,8 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Pernambuco transfere ponto facultativo do Dia do Servidor Público Estadual para 30 de outubro",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN21qVnRicWVmZFVxaThvak0wQlloZUw2dmVJbzRpdWdxUkh1cnN5bFZ2bERPZHM1Yld2NU9vaEFwQXEyY1dSeXdVbjVhT3BNQ0Njc3RXOFVxTXpha0dFWktXSFZ0bDdkaXVDaFBQVlkyMVFSTFRZbmJDUk56TGdQMHZpYU52R3Q4YWU2VXF2RWVQem5SVmxPeUFvdi1ucTFOcFRIcHpKNkI0amNzbU5pU1ptRkg0VTFBaUFwYk1kV20ySTZ1TzZwTElIUndYejJFSDluR3ZWOTdidnFSdHg0RjdtZUF2OVo5dXVyNk9zRDNPVFpOUzVsSw?oc=5"
+      "manchete": "Blog de Assis Ramalho: Governo de Pernambuco inaugura 17 Casas das Juventudes em 2026 e amplia rede de atendimento a jovens",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObzBiOUd5YmhEYmV0Uy00VDczbzhhVnBsTmZ1a2tCaWwyMzg5TnJKcXIxMGdvcGVpM2hkbmNzYlJ1T05ST1dTUmVfakJDQm8wTGFXUzBGbVFmcXV1dko3SWZISTBRRU9yampRTVhSXzZDamltV25sdnBKZDlvdXVSbjFzc3dYWmM1NUpwMA?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -281,56 +281,8 @@
   ],
   "picos": [
     {
-      "termo": "Estadual",
-      "razao_aumento": 71.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Fique Sabendo PE",
-        "hora": "2026-10-16T11:30:00Z",
-        "titulo": "Governo de Pernambuco transfere ponto facultativo do Dia do Servidor Público Estadual",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhFNzM1TnBST3huMHA0MjNUT3V6ckFnRko4WjZqbFFxMnpqUGRRdWlJQ0U5elUtcDlROGgxcjhPQUdQa0JLM2hnOEl3ak5RN0NNaXVXRVZUSEVSUEp4WVM2V2xKVFEtUmNFam5Kcm9LclFELW0zak11ZXpyT3NJMDB0dEk0TWF3YWVxN3pXMW5YYU5BTEd1WlhDQl9zTGV5WG50bTlESlliMHJ2Zkt2aVBTUQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Público Estadual",
-      "razao_aumento": 71.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Fique Sabendo PE",
-        "hora": "2026-10-16T11:30:00Z",
-        "titulo": "Governo de Pernambuco transfere ponto facultativo do Dia do Servidor Público Estadual",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhFNzM1TnBST3huMHA0MjNUT3V6ckFnRko4WjZqbFFxMnpqUGRRdWlJQ0U5elUtcDlROGgxcjhPQUdQa0JLM2hnOEl3ak5RN0NNaXVXRVZUSEVSUEp4WVM2V2xKVFEtUmNFam5Kcm9LclFELW0zak11ZXpyT3NJMDB0dEk0TWF3YWVxN3pXMW5YYU5BTEd1WlhDQl9zTGV5WG50bTlESlliMHJ2Zkt2aVBTUQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Servidor Público Estadual",
-      "razao_aumento": 71.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Fique Sabendo PE",
-        "hora": "2026-10-16T11:30:00Z",
-        "titulo": "Governo de Pernambuco transfere ponto facultativo do Dia do Servidor Público Estadual",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhFNzM1TnBST3huMHA0MjNUT3V6ckFnRko4WjZqbFFxMnpqUGRRdWlJQ0U5elUtcDlROGgxcjhPQUdQa0JLM2hnOEl3ak5RN0NNaXVXRVZUSEVSUEp4WVM2V2xKVFEtUmNFam5Kcm9LclFELW0zak11ZXpyT3NJMDB0dEk0TWF3YWVxN3pXMW5YYU5BTEd1WlhDQl9zTGV5WG50bTlESlliMHJ2Zkt2aVBTUQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "políticas públicas",
-      "razao_aumento": 50.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Blog do Finfa",
-        "hora": "2026-10-15T20:51:46Z",
-        "titulo": "Com apoio do Recife, COMDICA lança observatório de políticas públicas para crianças e adolescentes",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS0pkd0lBR3czQkh4ZHRtam9UN0llYzdqSlRIVUVqVENDQkRfUHFzWEVYRS03WE1qcUtLTVZSckJTMnJzcGFPaW13al8xVnNjd0NxS2VtNERIemJvMEVMREE4NjRPSUZLS2E3M3hoWmZwNGR6NF9qbl9DUzA4bmJyNDZpLUg3SnFYbXcwQnAzN1pmOGNESkRiLUp1TWI5a3E5bTNvRVRhS0hDNVFhV2VFODhGVGhlMVUwMHpuazh2ZHdSUm5Oc3hDdnprY1owQ01IWU1r?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
       "termo": "Bolsonaro na Globo",
-      "razao_aumento": 43.5,
+      "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "O GLOBO",
@@ -341,38 +293,86 @@
       }
     },
     {
-      "termo": "comemoram aprovação",
-      "razao_aumento": 33.7,
+      "termo": "Lula após",
+      "razao_aumento": 52.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Francês News",
-        "hora": "2026-10-15T21:00:00Z",
-        "titulo": "Raquel Lyra e Victor Marques comemoram aprovação do fim da escala 6x1 no Senado",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXF2bUt2VXVWUUdfZVRKbzhfTVNpZjZ0bnhIUldrMmlDazJmZ2Y1eWFfR1hibDFNdHJHZ0U2MXY3N1Nfb2NQaWVsMkEtdEx2RmU3dDNrbkJxT0IzWVJXRlN3dGFWVXFoZW9TZUlkTHRFVWc0bFJBWHJWT1JCNHlQMWc4Wl85NGNMMkxhQVZHLTY0T3NMdjFadV9uMkxnSlZnc1MxQzBWRFhGbE45Q1h5ME9kRjg4MTBfamlhNlRySWpPWmVhbm0w?oc=5",
+        "fonte": "Agência Brasil",
+        "hora": "2026-10-16T15:59:00Z",
+        "titulo": "Descanso de trabalhador não quebra empresas, diz Lula após fim da 6x1",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONnhpOFdFbUVZZW9BZTg4N3puZ1pWcEgyZlh0U3RGak1TWUhhRnlHcF9IWjlvWlpLWmVhRGlPUF9SaGJrczZ4ejZUdUFuMjZvSGRwVFZ0VHExR3dIaGNOZklpVEREaUx0TFhiY3lzMUNzOXlXQlU2SkVScnNSeW9iaVNPVVR5ZlJzWHF6c0U0OGRubjEyUlJ5NGZqMnRVRUt0U2YtYkhCT3pCOW43eGh3Y0c3MHNtazBFUUpoaG94QlF3bjJ3?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "fim da 6x1",
-      "razao_aumento": 29.4,
+      "termo": "segunda feira",
+      "razao_aumento": 43.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-10-16T15:51:16Z",
-        "titulo": "Fim da 6x1 melhora imagem de Lula nas redes, mas avanço é pequeno, mostra monitoramento",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMnZucGF3QTVkYU1EUVM4SldlR0VoMjE4MUJCTGNzQTQzUFhUdDNMRm1TMzYzalZ5Y29kOS1Sb2ktUGR3VE0yNmt4V2RVdE5aSGVVTWE2a2IyMkgwMWtlT3FvYXlFVGpfVURHSXNWTi1mYjNGYjBWOTZCeXduako3M05pVFBZT3hVRU5BX2Y4QkpWM0hiZ2Z5bDMybmdJRWRKb05JU1NpMHR0S1NUVXJ2YlZjQ2I4d3F3a0x6d0xpZnd5RXlqS2pBUXg5SmlQQzMtbGpkT0NmakU5bzdiY25kRHI5cTdWN0pVdHfSAfgBQVVfeXFMTzR3R0JNV01TbDJ1bGJiNVRfRk5QdUlqd1FJX05OX3NvelZTMlQya3lubm5BaGl6d2ZjVUJCVjhIQnRIWWFNQVFadTNqS0w4eWhlbEZiZlFrNkJfU04yRlZzaWk1TzZmcnltVXpWSUU1enZ3MXVyal91RkpqNGtQRk5mbEpOMHJ6ZjhaeHJMSlc0ZXY2ajNBenNNWkFZQzdlZ1Y3blh2SHdRNl91bFZ2R2hZeG1fMTNmUUhvWTZKV3pNckxKaG9OdDIyc3FzajNuZWFvNDVxa3JkczhKOGpWQ0REQ0FlS0JwOHMwQTBYdVN1Wjgza25NOTM?oc=5",
+        "fonte": "Sul 21",
+        "hora": "2026-10-16T16:06:09Z",
+        "titulo": "Lula voltará a Porto Alegre para novo ato na segunda-feira (19)",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFBWcVRiSHQzQ3VQMWtma1JxQ0szS2R2bWFZQ1h1Q19UUnpEa2pHNU1GVGk0UEg3dkpkcGFwaW50LTdDQ0ZjY2UwTTJSQ1J2OHh6VGxDVW1SSjhaLXJpT243bHMzM1R1SUNCX2s4NlRTSnR2bnYxVFBLV3h3ajhnQ2tPSjE3cGxmdHJrd2FVcUM3enRxc2NXTktzZVdWSEctUG44blRieGZaQXlkU3c?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Filho do prefeito",
-      "razao_aumento": 29.4,
+      "termo": "Pernambuco abre",
+      "razao_aumento": 43.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Carlos Britto",
-        "hora": "2026-10-16T15:04:51Z",
-        "titulo": "Filho do prefeito de São Caetano morre em acidente, e Raquel Lyra lamenta perda",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm9tczV0MGh0LWpvSE9FejFOOFVZeGVTWEZ3S0N0TjJ1RWNlaTl1bURJYVBzZEpWUXZNTFpXLWlNNDIzZjlDeUFCdVk0bnFES0hpQzFJUV96cU5rY3o5cGtrSWlmX2lZQnFEY1pIX0lKQjBFZHVhWkUwZ0o1YzJLaDRuVWpvZm1HcXBJaHpZeHM0ckRjTnM5alVsZWNPSjg3WG5tM0p2NTFjRXU4?oc=5",
+        "fonte": "PE Notícias",
+        "hora": "2026-10-16T16:30:45Z",
+        "titulo": "Governo de Pernambuco abre seleção cultural para o Carnaval e São João de 2027",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORzdweHdwcGZsTko5eTdaYzBjdkJfN0NSTjVzWkhFSlFuTDFoNXMzWVFqYmI1c08zLXdFTTdoSURPNl9QbG1Wc3dEcGRmQl9kMFRaTkduNEE4OUZvdmRLVXk0cHVvVlZhaE1yVHc2UGkwd3U2Z3ZIWE1rTXdEbEUxWmdlR0lsamNnRE0xYi1qaEFMWHhld0xVZkJrRmVnY25YOUljczAybFZpZklHeWdz?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "abre seleção",
+      "razao_aumento": 43.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "PE Notícias",
+        "hora": "2026-10-16T16:30:45Z",
+        "titulo": "Governo de Pernambuco abre seleção cultural para o Carnaval e São João de 2027",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORzdweHdwcGZsTko5eTdaYzBjdkJfN0NSTjVzWkhFSlFuTDFoNXMzWVFqYmI1c08zLXdFTTdoSURPNl9QbG1Wc3dEcGRmQl9kMFRaTkduNEE4OUZvdmRLVXk0cHVvVlZhaE1yVHc2UGkwd3U2Z3ZIWE1rTXdEbEUxWmdlR0lsamNnRE0xYi1qaEFMWHhld0xVZkJrRmVnY25YOUljczAybFZpZklHeWdz?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Pernambuco abre seleção",
+      "razao_aumento": 43.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "PE Notícias",
+        "hora": "2026-10-16T16:30:45Z",
+        "titulo": "Governo de Pernambuco abre seleção cultural para o Carnaval e São João de 2027",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORzdweHdwcGZsTko5eTdaYzBjdkJfN0NSTjVzWkhFSlFuTDFoNXMzWVFqYmI1c08zLXdFTTdoSURPNl9QbG1Wc3dEcGRmQl9kMFRaTkduNEE4OUZvdmRLVXk0cHVvVlZhaE1yVHc2UGkwd3U2Z3ZIWE1rTXdEbEUxWmdlR0lsamNnRE0xYi1qaEFMWHhld0xVZkJrRmVnY25YOUljczAybFZpZklHeWdz?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Porto",
+      "razao_aumento": 31.2,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Sul 21",
+        "hora": "2026-10-16T16:06:09Z",
+        "titulo": "Lula voltará a Porto Alegre para novo ato na segunda-feira (19)",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFBWcVRiSHQzQ3VQMWtma1JxQ0szS2R2bWFZQ1h1Q19UUnpEa2pHNU1GVGk0UEg3dkpkcGFwaW50LTdDQ0ZjY2UwTTJSQ1J2OHh6VGxDVW1SSjhaLXJpT243bHMzM1R1SUNCX2s4NlRTSnR2bnYxVFBLV3h3ajhnQ2tPSjE3cGxmdHJrd2FVcUM3enRxc2NXTktzZVdWSEctUG44blRieGZaQXlkU3c?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Alegre",
+      "razao_aumento": 31.2,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Sul 21",
+        "hora": "2026-10-16T16:06:09Z",
+        "titulo": "Lula voltará a Porto Alegre para novo ato na segunda-feira (19)",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFBWcVRiSHQzQ3VQMWtma1JxQ0szS2R2bWFZQ1h1Q19UUnpEa2pHNU1GVGk0UEg3dkpkcGFwaW50LTdDQ0ZjY2UwTTJSQ1J2OHh6VGxDVW1SSjhaLXJpT243bHMzM1R1SUNCX2s4NlRTSnR2bnYxVFBLV3h3ajhnQ2tPSjE3cGxmdHJrd2FVcUM3enRxc2NXTktzZVdWSEctUG44blRieGZaQXlkU3c?oc=5",
         "peso": 1.0
       }
     }
@@ -381,272 +381,272 @@
     {
       "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 22.28,
-      "fontes_distintas": 22
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 97.8,
-      "fatia_pct": 21.8,
+      "fatia_pct": 21.79,
       "fontes_distintas": 21
     },
     {
-      "termo": "Bolsonaro",
-      "peso_relativo": 72.6,
-      "fatia_pct": 16.17,
-      "fontes_distintas": 18
-    },
-    {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 69.9,
-      "fatia_pct": 15.57,
+      "termo": "Lula",
+      "peso_relativo": 89.2,
+      "fatia_pct": 19.44,
       "fontes_distintas": 17
     },
     {
+      "termo": "Bolsonaro",
+      "peso_relativo": 79.3,
+      "fatia_pct": 17.28,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 76.5,
+      "fatia_pct": 16.67,
+      "fontes_distintas": 15
+    },
+    {
       "termo": "Raquel",
-      "peso_relativo": 48.4,
-      "fatia_pct": 10.78,
-      "fontes_distintas": 13
+      "peso_relativo": 45.3,
+      "fatia_pct": 9.88,
+      "fontes_distintas": 12
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 40.3,
-      "fatia_pct": 8.98,
+      "peso_relativo": 36.8,
+      "fatia_pct": 8.02,
       "fontes_distintas": 13
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 37.6,
-      "fatia_pct": 8.38,
+      "peso_relativo": 34.0,
+      "fatia_pct": 7.41,
       "fontes_distintas": 12
     },
     {
-      "termo": "Minas",
-      "peso_relativo": 18.0,
-      "fatia_pct": 4.01,
-      "fontes_distintas": 2
+      "termo": "Globo",
+      "peso_relativo": 32.3,
+      "fatia_pct": 7.04,
+      "fontes_distintas": 6
     },
     {
-      "termo": "LULAPAROUJUIZDEFORA",
-      "peso_relativo": 16.1,
-      "fatia_pct": 3.59,
+      "termo": "BRASIL",
+      "peso_relativo": 17.6,
+      "fatia_pct": 3.83,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Dilma",
+      "peso_relativo": 17.0,
+      "fatia_pct": 3.7,
       "fontes_distintas": 1
     },
     {
+      "termo": "Sera",
+      "peso_relativo": 17.0,
+      "fatia_pct": 3.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vingada",
+      "peso_relativo": 17.0,
+      "fatia_pct": 3.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Dilma Sera",
+      "peso_relativo": 17.0,
+      "fatia_pct": 3.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Sera Vingada",
+      "peso_relativo": 17.0,
+      "fatia_pct": 3.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Dilma Sera Vingada",
+      "peso_relativo": 17.0,
+      "fatia_pct": 3.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Minas",
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.58,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "HOJEEUVOUBATERPANELA",
+      "peso_relativo": 16.1,
+      "fatia_pct": 3.52,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "LULAPAROUJUIZDEFORA",
+      "peso_relativo": 14.4,
+      "fatia_pct": 3.15,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lula e Flávio",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.09,
+      "fontes_distintas": 5
+    },
+    {
       "termo": "Gerais",
-      "peso_relativo": 15.3,
-      "fatia_pct": 3.41,
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.96,
       "fontes_distintas": 1
     },
     {
       "termo": "Vota13",
-      "peso_relativo": 15.3,
-      "fatia_pct": 3.41,
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.96,
       "fontes_distintas": 1
     },
     {
       "termo": "Minas Gerais",
-      "peso_relativo": 15.3,
-      "fatia_pct": 3.41,
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.96,
       "fontes_distintas": 1
     },
     {
       "termo": "Gerais Vota13",
-      "peso_relativo": 15.3,
-      "fatia_pct": 3.41,
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.96,
       "fontes_distintas": 1
     },
     {
       "termo": "Minas Gerais Vota13",
-      "peso_relativo": 15.3,
-      "fatia_pct": 3.41,
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.96,
       "fontes_distintas": 1
     },
     {
-      "termo": "Moura",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.35,
-      "fontes_distintas": 2
-    },
-    {
       "termo": "Ipatinga",
-      "peso_relativo": 14.5,
-      "fatia_pct": 3.23,
+      "peso_relativo": 12.7,
+      "fatia_pct": 2.78,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula Em Ipatinga",
-      "peso_relativo": 14.5,
-      "fatia_pct": 3.23,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Verde",
-      "peso_relativo": 13.7,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Amarelo",
-      "peso_relativo": 13.7,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Verde",
-      "peso_relativo": 13.7,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Verde Amarelo",
-      "peso_relativo": 13.7,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Verde Amarelo",
-      "peso_relativo": 13.7,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Servidor",
-      "peso_relativo": 13.4,
-      "fatia_pct": 2.99,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 13.4,
-      "fatia_pct": 2.99,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 13.4,
-      "fatia_pct": 2.99,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "ponto facultativo",
-      "peso_relativo": 13.4,
-      "fatia_pct": 2.99,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "JONES",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.93,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Pela",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Democracia",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Pela",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Pela Democracia",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Pela Democracia",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.87,
+      "peso_relativo": 12.7,
+      "fatia_pct": 2.78,
       "fontes_distintas": 1
     },
     {
       "termo": "QUEBROU",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.69,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "BRASIL",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.69,
+      "peso_relativo": 11.9,
+      "fatia_pct": 2.59,
       "fontes_distintas": 1
     },
     {
       "termo": "LULA QUEBROU",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.69,
+      "peso_relativo": 11.9,
+      "fatia_pct": 2.59,
       "fontes_distintas": 1
     },
     {
       "termo": "QUEBROU O BRASIL",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.69,
+      "peso_relativo": 11.9,
+      "fatia_pct": 2.59,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Eleições",
+      "peso_relativo": 11.6,
+      "fatia_pct": 2.53,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Servidor",
+      "peso_relativo": 11.3,
+      "fatia_pct": 2.47,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Alepe",
+      "peso_relativo": 11.3,
+      "fatia_pct": 2.47,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 11.3,
+      "fatia_pct": 2.47,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Meta",
+      "peso_relativo": 11.3,
+      "fatia_pct": 2.47,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Bolsonaro na Globo",
+      "peso_relativo": 11.3,
+      "fatia_pct": 2.47,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "ponto facultativo",
+      "peso_relativo": 11.3,
+      "fatia_pct": 2.47,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Jones",
+      "peso_relativo": 11.0,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Moura",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.35,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Caixa",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.22,
       "fontes_distintas": 1
     },
     {
       "termo": "FORJAR",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.51,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.04,
       "fontes_distintas": 1
     },
     {
       "termo": "ATENTADO",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.51,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.04,
       "fontes_distintas": 1
     },
     {
       "termo": "FORJAR ATENTADO",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.51,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.04,
       "fontes_distintas": 1
     },
     {
       "termo": "FLAVIO VAI FORJAR",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.51,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.04,
       "fontes_distintas": 1
     },
     {
-      "termo": "Público",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Servidor Público",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "fim da escala",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.4,
+      "termo": "Filho",
+      "peso_relativo": 8.5,
+      "fatia_pct": 1.85,
       "fontes_distintas": 3
     },
     {
-      "termo": "Justiça",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Wagner",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.16,
-      "fontes_distintas": 1
+      "termo": "segunda feira",
+      "peso_relativo": 8.5,
+      "fatia_pct": 1.85,
+      "fontes_distintas": 3
     }
   ]
 }
