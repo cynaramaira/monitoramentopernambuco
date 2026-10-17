@@ -1,18 +1,26 @@
 {
-  "atualizado_em": "2026-10-17T21:26:04Z",
-  "total_analisado": 113,
+  "atualizado_em": "2026-10-17T23:25:05Z",
+  "total_analisado": 111,
   "x_recife": [
     {
-      "termo": "#Somos5MilhoesDeSoldadosDoLula",
+      "termo": "BATEU O DESESPERO",
       "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=BATEU%20O%20DESESPERO",
+      "ruido": false
+    },
+    {
+      "termo": "#Somos5MilhoesDeSoldadosDoLula",
+      "posicao": 2,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23Somos5MilhoesDeSoldadosDoLula",
       "ruido": false
     },
     {
       "termo": "FLÁVIO VAI FORJAR UM ATENTADO",
-      "posicao": 2,
+      "posicao": 3,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=FL%C3%81VIO%20VAI%20FORJAR%20UM%20ATENTADO",
@@ -20,34 +28,26 @@
     },
     {
       "termo": "Milena",
-      "posicao": 3,
+      "posicao": 4,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=Milena",
       "ruido": false
     },
     {
-      "termo": "#LulaVaiTerQueComprarCelular",
-      "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23LulaVaiTerQueComprarCelular",
-      "ruido": false
-    },
-    {
-      "termo": "#OVerdeEAmareloENosso",
+      "termo": "Salvador",
       "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23OVerdeEAmareloENosso",
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Salvador",
       "ruido": false
     },
     {
-      "termo": "TORCEDORES CONTRA LULA",
+      "termo": "NÃO SÃO PETISTAS",
       "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=TORCEDORES%20CONTRA%20LULA",
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=N%C3%83O%20S%C3%83O%20PETISTAS",
       "ruido": false
     },
     {
@@ -59,107 +59,107 @@
       "ruido": false
     },
     {
-      "termo": "FLÁVIO LADRÃO",
+      "termo": "FALA TUDO ROBERTA",
       "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=FL%C3%81VIO%20LADR%C3%83O",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=FALA%20TUDO%20ROBERTA",
       "ruido": false
     },
     {
-      "termo": "NÃO SÃO PETISTAS",
+      "termo": "TORCEDORES CONTRA LULA",
       "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=N%C3%83O%20S%C3%83O%20PETISTAS",
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=TORCEDORES%20CONTRA%20LULA",
       "ruido": false
     },
     {
-      "termo": "Barcelona",
+      "termo": "#GlobalWordBread",
       "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Barcelona",
-      "ruido": false
-    },
-    {
-      "termo": "Salvador",
-      "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Salvador",
-      "ruido": false
-    },
-    {
-      "termo": "Richarlison",
-      "posicao": 12,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Richarlison",
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23GlobalWordBread",
       "ruido": false
     },
     {
       "termo": "Janones",
-      "posicao": 13,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 11,
+      "variacao": "+4",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Janones",
       "ruido": false
     },
     {
-      "termo": "FLÁVIO DEVOLVE A ILHA",
+      "termo": "Tiquinho Soares",
+      "posicao": 12,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Tiquinho%20Soares",
+      "ruido": false
+    },
+    {
+      "termo": "França",
+      "posicao": 13,
+      "variacao": "+11",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Fran%C3%A7a",
+      "ruido": false
+    },
+    {
+      "termo": "Roberta Luchsinger",
       "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
+      "variacao": "+27",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Roberta%20Luchsinger",
+      "ruido": false
+    },
+    {
+      "termo": "FLÁVIO DEVOLVE A ILHA",
+      "posicao": 15,
+      "variacao": "+3",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=FL%C3%81VIO%20DEVOLVE%20A%20ILHA",
       "ruido": false
     },
     {
-      "termo": "Relevante",
-      "posicao": 15,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Relevante",
-      "ruido": false
-    },
-    {
-      "termo": "Betis",
+      "termo": "#LulaVaiTerQueComprarCelular",
       "posicao": 16,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Betis",
+      "variacao": "-7",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23LulaVaiTerQueComprarCelular",
       "ruido": false
     },
     {
-      "termo": "#RetomamosNossasCores",
+      "termo": "FLÁVIO LADRÃO",
       "posicao": 17,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23RetomamosNossasCores",
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=FL%C3%81VIO%20LADR%C3%83O",
       "ruido": false
     },
     {
-      "termo": "Yamal",
+      "termo": "#NossaBandeiraEVerdeEAmarela",
       "posicao": 18,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Yamal",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23NossaBandeiraEVerdeEAmarela",
       "ruido": false
     },
     {
-      "termo": "Farol da Barra",
+      "termo": "Chapecoense",
       "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Farol%20da%20Barra",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Chapecoense",
       "ruido": false
     },
     {
-      "termo": "Gabriel Jesus",
+      "termo": "Richarlison",
       "posicao": 20,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Gabriel%20Jesus",
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Richarlison",
       "ruido": false
     }
   ],
@@ -179,6 +179,12 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "Blog do Magno: Confirmada agenda de Lula em Pernambuco na próxima terça",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjVMOGJjM2Z4Q3NHbnROT19HY0x6VFZrSmJueGw0bm4zZmI2N29COFFNOHRHaHhPX3FfWlNWb0NIcmJxZ2Q5OG5QSGZNazc2UlNGbGNidHB0dEVGUGREUlJlb3ZzQi03THBWbUk4Z1I4emF5OUdoSS1qVHUxXzFsQ094bWhCUFVqa1MxZA?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "JC: Prêmio a autores de Pernambuco",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDJRNjRnbUZMWXdZY1k2b1dJYnJrN1U5TGt6SGtVaEJkWlRxeWhDbUZDUGJHLVI4ZU9Ec3F1ellva0ZiVzBCdWpVU1ZJcEllTi1oY0dQUXpSVFpDOHhmSzlEdlFWbjM5YXRnVVM1T2pRVUNBbU9GeW11b3ZQSWFKTGdsbVpQMUFNblk1TTJhTQ?oc=5"
     },
@@ -187,12 +193,6 @@
       "volume": "Últimas 12h",
       "manchete": "Márcio Didier: Pernambuco amplia rede de Escolas Técnicas com 15 novas unidades em 2027",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16MnNPODJvelYtdUZ6LTh3OWwwQndhMTFHUWpOdUVSeC1KQV9QLURMWGZac1lfanR2TTFYU3poc1dBNXA3YXFZN1BhemtQbGozYUhJY3BsRE5jbnpvclU3NTE4ZW1XblR6eXNjVVdYZW5xcGtL?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: Governo de Pernambuco entrega moradias reformadas pelo Morar Bem",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ3NsVld4ZnZjN1lkM01lV21IbC1PUndBNnhqNHF6NjJtTGtfalFuQVE2aUFVMWctQVl4M1BiMTVqRW1QcTVPb1NvVzdqSXR4TGp4ekpRMkd6dkxsekJJUFM2UlBWOF8yalR1bUxrVmRJdWxXa2FQM0ExaEhSRk1xdk9hYVp5VHUzY3dkTl83OUR1LWVTMXpVTU9ES2hBcHEzQ1pUTQ?oc=5"
     },
     {
       "termo": "Recife",
@@ -233,14 +233,20 @@
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Alberes Xavier: 40 anos de história: Coronel Feitosa é homenageado pela Fundação Altino Ventura em solenidade na Alepe",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdlBxcmJVS1RVVG1sa3dFMWlfNDRaOWJDdFJTRHVYcEJCRFIzaGlJalBZVnZKVFpKZ2Z3d0lPU3dJR3F2WE1XYVJza0ViRVM5MU83cWZaNjdoZWxNc0xBNnBldjRLeVk5OTBYSjl2YVFYTTVmTlM0N2RnOEg0MGtLNE12dzQ5OGZsZlZVUEo5ZXN3YW41UHFaWWVkQTNDS0xqSURic3VIcThWS3h0dGpIT20wMmJpRHhnT2pJT1p1b0pGeWpHM1ZoSzFrMm9vXzZEMHFCV0h6Y0ZJZDQtZzNEVFBR?oc=5"
+      "manchete": "Jamildo: Andrea Medeiros afirma que não disputará Prefeitura de Jaboatão e defende ação social em mandato na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaHJWVTJpb2c3Z3ZqVHhqUHdRTGNYTWJKNmJ3TGxqLThJTE1uLVNHSVMzSVVPSmJZODdNRlNxUWdPaXIxQlpPb1pQc2dyM1l5XzkwTlliNkQzSDA4dEVMa3M3OVNlRHNkNEg0NjE4WmVDNXJ1UXpvRTNVdG1EWXhZektrTUdmOHQ0MS1fTDMzRkZBaDZJQ1ZiaklRWUNxTk01dXZTdjF4dFBFek5lUFBYMUYwclJNa2ZUd1l6Z1dZS0phS1JTQ1p6bk9nWm1BdTZBM3lIMkQxU0Z6ZjTSAdsBQVVfeXFMTmhyVlUyaW9nN2d2alR4alB3UUxjWE1iSjZid0xsai04SUxNbi1TR0lTM0lVT0piWTg3TUZTcVFnT2lyMUJaT29aUHNncjNZeV85ME5ZYjZEM0gwOHRFTGtzNzlTZURzZDRINDYxOFplQzVydVF6b0UzVXRtRFl4WXpLa01HZjh0NDEtX0wzM0ZGQWg2SUNWYmpJUVlDcU5NNXV2U3YxeHRQRXpOZVBQWDFGMHJSTWtmVHdZemdXWUtKYUtSU0Naem5PZ1ptQXU2QTN5SDJEMVNGemY0?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Edenevaldo Alves: Fundação Altino Ventura homenageia prefeito Simão Durando por contribuição na saúde oftalmológica dos pernambucanos",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmM2Ynh2YnpnT1ZQcWJncUlZbVdmQV8wdzY4UTd0S01oSEdTOXBWZWt0TnhfR2R2VnFDQnhXTDI3U2x4Mk5QcDBhVzdSZ1FDZkJmM0FjN1pXVlFvT1ZpUW9BUFMxOWZQc0tIQzlRcVdrNzE5Y1BuREprN1JiQzRGLXVSR1NtRHlkbndMLUJXenkxcFJGT0xXTmVhazZkS25mZnAxekpfU0VLN3NPRnhfMTJHR2RyTy00VUpGQ3pfdkV6SDF6bzZaTGNzYm4wUlkwdEdBQ0QwdElhQ2NvMEJnMA?oc=5"
+      "manchete": "Blog do Alberes Xavier: 40 anos de história: Coronel Feitosa é homenageado pela Fundação Altino Ventura em solenidade na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdlBxcmJVS1RVVG1sa3dFMWlfNDRaOWJDdFJTRHVYcEJCRFIzaGlJalBZVnZKVFpKZ2Z3d0lPU3dJR3F2WE1XYVJza0ViRVM5MU83cWZaNjdoZWxNc0xBNnBldjRLeVk5OTBYSjl2YVFYTTVmTlM0N2RnOEg0MGtLNE12dzQ5OGZsZlZVUEo5ZXN3YW41UHFaWWVkQTNDS0xqSURic3VIcThWS3h0dGpIT20wMmJpRHhnT2pJT1p1b0pGeWpHM1ZoSzFrMm9vXzZEMHFCV0h6Y0ZJZDQtZzNEVFBR?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Blog de Assis Ramalho: No Recife, Governo de Pernambuco investe mais de R$ 16,7 milhões em obras de contenção de encostas para proteger 1,5 mil moradores de Coqueiral",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlFEQm51NjlNcnhiVjNLbnFMMFZ4OUNLOHBEOENtVW9XNUJtcFhXXzA3VVlpTDdTMU8tWkt3dzQteE1DdWlVR0RNci11bzBPcFNQdkxONTE0ejNxZ2pjOHJ0YkJHOUZseVEwbkdUb2hJZkNFcmVpSDhrNjBvS25GbEt2a1NXQzJkSXZhRA?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -257,98 +263,98 @@
   ],
   "picos": [
     {
-      "termo": "Coluna",
-      "razao_aumento": 125.0,
+      "termo": "reconstruir o PSB",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Alberes Xavier",
-        "hora": "2026-10-17T03:01:00Z",
-        "titulo": "Coluna do sábado: Abimael amplia votação e consolida espaço da direita conservadora no Agreste",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcjR6M1B1Y1Y5RHd0RU5OWldHZjQ0T05tRG40T0NDOFpYMnFFQ1hkbEdESFhJTGF6bEo4SmJnYmxNeEJRNXczWU8zcFpTcWZBOHBnM053NldJS1hnSURBRXF6cy1rLWU5OURkM1VaeUN5aWFvXy1HN240NzE2TzJvZ284cUJ2eHFKNkdweURTd0R2TXI3ZjJ5YlAyYXFZeGs3Tk9mRWYwMDNZbm05VWRESW5nQzIyYzc3ejAyN2I0ci1UTXgwT2Q5Rmlwb0NYaEVSVEh6VlVXQQ?oc=5",
+        "fonte": "JC",
+        "hora": "2026-10-17T13:00:00Z",
+        "titulo": "João Campos está disposto a reconstruir o PSB como fez seu pai?",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX0lUa1Y3ZlZwRGZqaGJRdUE2R1JQVzRFVlllLUEybW1yLUpPRWFucDRnVHhRU1JfejFQNC1qY241UlBxN0F4ZWNfckR4blVBSmhyTVN0dFZwSWN4dkwxdWRXQTUwNUZmU1ZoQUk3ZkFHNndBbXNTTnJPbDd5bENudGFiRjdfcVJSWFJnZEtUNF9EVi1MLXo1TWJmRm56T1dTRXc5X3VzZm1OUDNoQnhTZDBic1NTb01XRzJfWURiUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Pernambuco investe",
-      "razao_aumento": 110.2,
+      "termo": "título de cidadão",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-16T22:25:06Z",
-        "titulo": "No Recife, Governo de Pernambuco investe mais de R$ 16,7 milhões em obras de contenção de encostas para proteger 1,5 mil moradores de Coqueiral",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc09PWE1JVk9sQmlWQmpzSFJlZ0pSdHdFUktLU1p4TmVxa1ViRG5uaXdyb3BVQ19GTDhvWDdRcktrZmdoZDFDVFJ0a3A0WFlSaFFNUDFHSkU2aU1MVE1rZVJFSDhjZVJNZkJHTUZwb1B0SlBnTTdjNV95OEpqNk5xRzZTTTZ3MzNVdXFoczNMaE1sbE13YXZxcDZlOGh3Tmlmb0NFNVVzRlR1LUJXU2FZSHpIR1g3akRid0UxMG51RWJBVGRLdEhFRGNKRnRvSjhldkpuYktNT1NNcUs4QWVlc0FGd2tjZ1Z5elp6ZmhvRFQ2dG1RVUNJUXVB?oc=5",
+        "fonte": "Jovem Pan",
+        "hora": "2026-10-17T18:10:55Z",
+        "titulo": "Juíza autoriza título de cidadão de Salvador a Flávio Bolsonaro no Farol da Barra",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUcwNWRSdVFHMW9MZzI0enpRM3RZc0ZwZGpqMm5IWkVyekFVdmdsLUNEanlVWV95dG5DeUhRUDVhV2I5OXhHTktBdmVORmdxbE01Y1pWMDVxNVROUGtaQlcxWEd1TW1UZkRQX1VsMnlZc0dEbWJESDNuVHB1cWRpd3E2ZnhYak90SlR4ZzZ6OW1XMDNLakk1RmotbU1Oc3lWUXY2YnN3dWtvWmJEeGswV1hvTTd6QQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "contenção de encostas",
-      "razao_aumento": 94.4,
+      "termo": "Atos",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-16T22:25:06Z",
-        "titulo": "No Recife, Governo de Pernambuco investe mais de R$ 16,7 milhões em obras de contenção de encostas para proteger 1,5 mil moradores de Coqueiral",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc09PWE1JVk9sQmlWQmpzSFJlZ0pSdHdFUktLU1p4TmVxa1ViRG5uaXdyb3BVQ19GTDhvWDdRcktrZmdoZDFDVFJ0a3A0WFlSaFFNUDFHSkU2aU1MVE1rZVJFSDhjZVJNZkJHTUZwb1B0SlBnTTdjNV95OEpqNk5xRzZTTTZ3MzNVdXFoczNMaE1sbE13YXZxcDZlOGh3Tmlmb0NFNVVzRlR1LUJXU2FZSHpIR1g3akRid0UxMG51RWJBVGRLdEhFRGNKRnRvSjhldkpuYktNT1NNcUs4QWVlc0FGd2tjZ1Z5elp6ZmhvRFQ2dG1RVUNJUXVB?oc=5",
+        "fonte": "Band",
+        "hora": "2026-10-17T20:45:00Z",
+        "titulo": "Atos pró-Flávio Bolsonaro têm carreata e discursos em Curitiba",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVU1pYnRqS3FHRG8ta0w2T090cTF4QTdyYkt6UGJUMzlrNzFBN29rWUQ5VUxCUTNMeE9PNHYzMTB6aEczT0JfaDBlTGpVTEJKQVRVcEE2LU9RbkIzNnhEZ0ZIRFo2YWF3WWo3aWxPQURIWEVkcmEyNDlDeDVWVEJCY3JBVWhSSm92cTFaR3c4WEVLTHZSc2ZXRV82dnE0M3RGWDRyMThsRQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "milhões em obras",
-      "razao_aumento": 82.7,
+      "termo": "Farol",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-16T22:25:06Z",
-        "titulo": "No Recife, Governo de Pernambuco investe mais de R$ 16,7 milhões em obras de contenção de encostas para proteger 1,5 mil moradores de Coqueiral",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc09PWE1JVk9sQmlWQmpzSFJlZ0pSdHdFUktLU1p4TmVxa1ViRG5uaXdyb3BVQ19GTDhvWDdRcktrZmdoZDFDVFJ0a3A0WFlSaFFNUDFHSkU2aU1MVE1rZVJFSDhjZVJNZkJHTUZwb1B0SlBnTTdjNV95OEpqNk5xRzZTTTZ3MzNVdXFoczNMaE1sbE13YXZxcDZlOGh3Tmlmb0NFNVVzRlR1LUJXU2FZSHpIR1g3akRid0UxMG51RWJBVGRLdEhFRGNKRnRvSjhldkpuYktNT1NNcUs4QWVlc0FGd2tjZ1Z5elp6ZmhvRFQ2dG1RVUNJUXVB?oc=5",
+        "fonte": "Jovem Pan",
+        "hora": "2026-10-17T18:10:55Z",
+        "titulo": "Juíza autoriza título de cidadão de Salvador a Flávio Bolsonaro no Farol da Barra",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUcwNWRSdVFHMW9MZzI0enpRM3RZc0ZwZGpqMm5IWkVyekFVdmdsLUNEanlVWV95dG5DeUhRUDVhV2I5OXhHTktBdmVORmdxbE01Y1pWMDVxNVROUGtaQlcxWEd1TW1UZkRQX1VsMnlZc0dEbWJESDNuVHB1cWRpd3E2ZnhYak90SlR4ZzZ6OW1XMDNLakk1RmotbU1Oc3lWUXY2YnN3dWtvWmJEeGswV1hvTTd6QQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "obras de contenção",
-      "razao_aumento": 73.4,
+      "termo": "Barra",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-16T22:25:06Z",
-        "titulo": "No Recife, Governo de Pernambuco investe mais de R$ 16,7 milhões em obras de contenção de encostas para proteger 1,5 mil moradores de Coqueiral",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc09PWE1JVk9sQmlWQmpzSFJlZ0pSdHdFUktLU1p4TmVxa1ViRG5uaXdyb3BVQ19GTDhvWDdRcktrZmdoZDFDVFJ0a3A0WFlSaFFNUDFHSkU2aU1MVE1rZVJFSDhjZVJNZkJHTUZwb1B0SlBnTTdjNV95OEpqNk5xRzZTTTZ3MzNVdXFoczNMaE1sbE13YXZxcDZlOGh3Tmlmb0NFNVVzRlR1LUJXU2FZSHpIR1g3akRid0UxMG51RWJBVGRLdEhFRGNKRnRvSjhldkpuYktNT1NNcUs4QWVlc0FGd2tjZ1Z5elp6ZmhvRFQ2dG1RVUNJUXVB?oc=5",
+        "fonte": "Jovem Pan",
+        "hora": "2026-10-17T18:10:55Z",
+        "titulo": "Juíza autoriza título de cidadão de Salvador a Flávio Bolsonaro no Farol da Barra",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUcwNWRSdVFHMW9MZzI0enpRM3RZc0ZwZGpqMm5IWkVyekFVdmdsLUNEanlVWV95dG5DeUhRUDVhV2I5OXhHTktBdmVORmdxbE01Y1pWMDVxNVROUGtaQlcxWEd1TW1UZkRQX1VsMnlZc0dEbWJESDNuVHB1cWRpd3E2ZnhYak90SlR4ZzZ6OW1XMDNLakk1RmotbU1Oc3lWUXY2YnN3dWtvWmJEeGswV1hvTTd6QQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Pernambuco entrega",
-      "razao_aumento": 63.2,
+      "termo": "Bolsonaro no Farol",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Cenário",
-        "hora": "2026-10-17T11:10:00Z",
-        "titulo": "Governo de Pernambuco entrega moradias reformadas pelo Morar Bem",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ3NsVld4ZnZjN1lkM01lV21IbC1PUndBNnhqNHF6NjJtTGtfalFuQVE2aUFVMWctQVl4M1BiMTVqRW1QcTVPb1NvVzdqSXR4TGp4ekpRMkd6dkxsekJJUFM2UlBWOF8yalR1bUxrVmRJdWxXa2FQM0ExaEhSRk1xdk9hYVp5VHUzY3dkTl83OUR1LWVTMXpVTU9ES2hBcHEzQ1pUTQ?oc=5",
+        "fonte": "Jovem Pan",
+        "hora": "2026-10-17T18:10:55Z",
+        "titulo": "Juíza autoriza título de cidadão de Salvador a Flávio Bolsonaro no Farol da Barra",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUcwNWRSdVFHMW9MZzI0enpRM3RZc0ZwZGpqMm5IWkVyekFVdmdsLUNEanlVWV95dG5DeUhRUDVhV2I5OXhHTktBdmVORmdxbE01Y1pWMDVxNVROUGtaQlcxWEd1TW1UZkRQX1VsMnlZc0dEbWJESDNuVHB1cWRpd3E2ZnhYak90SlR4ZzZ6OW1XMDNLakk1RmotbU1Oc3lWUXY2YnN3dWtvWmJEeGswV1hvTTd6QQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "verde e amarelo",
-      "razao_aumento": 52.6,
+      "termo": "Farol da Barra",
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Jovem Pan",
+        "hora": "2026-10-17T18:10:55Z",
+        "titulo": "Juíza autoriza título de cidadão de Salvador a Flávio Bolsonaro no Farol da Barra",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUcwNWRSdVFHMW9MZzI0enpRM3RZc0ZwZGpqMm5IWkVyekFVdmdsLUNEanlVWV95dG5DeUhRUDVhV2I5OXhHTktBdmVORmdxbE01Y1pWMDVxNVROUGtaQlcxWEd1TW1UZkRQX1VsMnlZc0dEbWJESDNuVHB1cWRpd3E2ZnhYak90SlR4ZzZ6OW1XMDNLakk1RmotbU1Oc3lWUXY2YnN3dWtvWmJEeGswV1hvTTd6QQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "eleitores de Flávio",
+      "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha de S.Paulo",
-        "hora": "2026-10-17T15:39:00Z",
-        "titulo": "Apoiadores de Lula mobilizam redes usando verde e amarelo após convocação de Janones",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd2w2NlNrVDh6WmFUX2VnNWtoU1I2Qzk3SEN0QW1NX25IaHVEeGVhVWRNb3NZMFZ4YmF0Y0c4NHJWMDNRMkhtMzR5dEppdUp1RENESHV4TXhVTG1ZMEVoVXlaOGJHWHpaanc3OEVYd0c4emJ2V2JocG9uQkRGQ0FXSmIxd056ZGZMd0NOOWdGWm16Y3ZfRm0yYnFRQlhpcUZfTjA2VmI2bUpFOWJ5bWNiUURXTWR4YmtLSWpVM1F6MFhHaVdfSTEzWHlway0zM3M?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Fundação",
-      "razao_aumento": 52.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Edenevaldo Alves",
-        "hora": "2026-10-17T11:00:34Z",
-        "titulo": "Fundação Altino Ventura homenageia prefeito Simão Durando por contribuição na saúde oftalmológica dos pernambucanos",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmM2Ynh2YnpnT1ZQcWJncUlZbVdmQV8wdzY4UTd0S01oSEdTOXBWZWt0TnhfR2R2VnFDQnhXTDI3U2x4Mk5QcDBhVzdSZ1FDZkJmM0FjN1pXVlFvT1ZpUW9BUFMxOWZQc0tIQzlRcVdrNzE5Y1BuREprN1JiQzRGLXVSR1NtRHlkbndMLUJXenkxcFJGT0xXTmVhazZkS25mZnAxekpfU0VLN3NPRnhfMTJHR2RyTy00VUpGQ3pfdkV6SDF6bzZaTGNzYm4wUlkwdEdBQ0QwdElhQ2NvMEJnMA?oc=5",
+        "hora": "2026-10-17T15:58:00Z",
+        "titulo": "Datafolha: eleitores de Flávio dizem votar por mudança, e os de Lula, por proteção social",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnFpZ3piMWVFVlFqbkQ2MkRwNWd4YWJPOG9CQWpKOGUtOUxSTlRJbzFuSW9UTnJ2MlFKczNnOWFpM1VFRkxlZ0ZMNUpmZnhzQXl0R0o2YUVpbHBjZHM0MFpDb3FtMEdwb3V2SUdfY0tQX2U4T0hoaWhOQWVJVTNka3NNTzgtUFJkOVlhajB6WDcwcEVDQ29fNmtqMlJUZ3RQdExuOUNBWDluU3pWRE9XMG1FZUl2a09KWmhkeWRtY1VLb2JnNjV2ZThxNWdOUi0yM2c?oc=5",
         "peso": 1.0
       }
     }
@@ -357,272 +363,272 @@
     {
       "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 25.95,
-      "fontes_distintas": 19
+      "fatia_pct": 23.95,
+      "fontes_distintas": 17
     },
     {
       "termo": "Lula",
-      "peso_relativo": 90.7,
-      "fatia_pct": 23.53,
-      "fontes_distintas": 18
+      "peso_relativo": 95.3,
+      "fatia_pct": 22.83,
+      "fontes_distintas": 16
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 57.9,
-      "fatia_pct": 15.03,
+      "peso_relativo": 68.7,
+      "fatia_pct": 16.45,
       "fontes_distintas": 14
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 57.9,
-      "fatia_pct": 15.03,
-      "fontes_distintas": 14
+      "peso_relativo": 65.9,
+      "fatia_pct": 15.79,
+      "fontes_distintas": 13
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 27.7,
-      "fatia_pct": 7.19,
-      "fontes_distintas": 10
+      "peso_relativo": 24.7,
+      "fatia_pct": 5.92,
+      "fontes_distintas": 8
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 27.7,
-      "fatia_pct": 7.19,
-      "fontes_distintas": 10
+      "peso_relativo": 24.7,
+      "fatia_pct": 5.92,
+      "fontes_distintas": 8
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 27.7,
-      "fatia_pct": 7.19,
-      "fontes_distintas": 10
+      "peso_relativo": 24.7,
+      "fatia_pct": 5.92,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Salvador",
+      "peso_relativo": 24.2,
+      "fatia_pct": 5.79,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "BATEU",
+      "peso_relativo": 16.5,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "DESESPERO",
+      "peso_relativo": 16.5,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BATEU O DESESPERO",
+      "peso_relativo": 16.5,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 1
     },
     {
       "termo": "Somos5Milhoes",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.92,
+      "peso_relativo": 15.7,
+      "fatia_pct": 3.75,
       "fontes_distintas": 1
     },
     {
       "termo": "Soldados",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.92,
+      "peso_relativo": 15.7,
+      "fatia_pct": 3.75,
       "fontes_distintas": 1
     },
     {
       "termo": "Somos5Milhoes De Soldados",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.92,
+      "peso_relativo": 15.7,
+      "fatia_pct": 3.75,
       "fontes_distintas": 1
     },
     {
       "termo": "Soldados Do Lula",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.92,
+      "peso_relativo": 15.7,
+      "fatia_pct": 3.75,
       "fontes_distintas": 1
     },
     {
       "termo": "FORJAR",
-      "peso_relativo": 14.4,
-      "fatia_pct": 3.73,
+      "peso_relativo": 14.8,
+      "fatia_pct": 3.55,
       "fontes_distintas": 1
     },
     {
       "termo": "ATENTADO",
-      "peso_relativo": 14.4,
-      "fatia_pct": 3.73,
+      "peso_relativo": 14.8,
+      "fatia_pct": 3.55,
       "fontes_distintas": 1
     },
     {
       "termo": "FLÁVIO VAI FORJAR",
-      "peso_relativo": 14.4,
-      "fatia_pct": 3.73,
+      "peso_relativo": 14.8,
+      "fatia_pct": 3.55,
       "fontes_distintas": 1
     },
     {
       "termo": "FORJAR UM ATENTADO",
-      "peso_relativo": 14.4,
-      "fatia_pct": 3.73,
+      "peso_relativo": 14.8,
+      "fatia_pct": 3.55,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Milena",
+      "peso_relativo": 14.0,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
       "termo": "Janones",
-      "peso_relativo": 13.6,
-      "fatia_pct": 3.53,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Milena",
-      "peso_relativo": 13.6,
-      "fatia_pct": 3.53,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Comprar",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.33,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Celular",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.33,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Comprar Celular",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.33,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Globo",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.27,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "OVerde",
-      "peso_relativo": 12.1,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EAmarelo",
-      "peso_relativo": 12.1,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ENosso",
-      "peso_relativo": 12.1,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "OVerde EAmarelo",
-      "peso_relativo": 12.1,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EAmarelo ENosso",
-      "peso_relativo": 12.1,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "OVerde EAmarelo ENosso",
-      "peso_relativo": 12.1,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "TORCEDORES",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.94,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "TORCEDORES CONTRA LULA",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.94,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Fanboy",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Mr Fanboy",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Fanboy EP8",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Mr Fanboy EP8",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "obras de contenção",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.61,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "moradias reformadas",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.61,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Bolsonaro e Lula",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.61,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Ipespe",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.61,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Salvador",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.61,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "LADRÃO",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.55,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FLÁVIO LADRÃO",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.55,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Richarlison",
-      "peso_relativo": 9.3,
-      "fatia_pct": 2.42,
-      "fontes_distintas": 2
+      "peso_relativo": 13.7,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 3
     },
     {
       "termo": "PETISTAS",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.35,
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.96,
       "fontes_distintas": 1
     },
     {
       "termo": "SÃO PETISTAS",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.35,
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.96,
       "fontes_distintas": 1
     },
     {
-      "termo": "Barcelona",
-      "peso_relativo": 8.3,
-      "fatia_pct": 2.16,
+      "termo": "Fanboy",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.76,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mr Fanboy",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.76,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fanboy EP8",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.76,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mr Fanboy EP8",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.76,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "moradias reformadas",
+      "peso_relativo": 11.0,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "apoio a Lula",
+      "peso_relativo": 11.0,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Krause",
+      "peso_relativo": 11.0,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Campos",
+      "peso_relativo": 11.0,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "reeleição de Lula",
+      "peso_relativo": 11.0,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "ROBERTA",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.57,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "TORCEDORES",
+      "peso_relativo": 9.9,
+      "fatia_pct": 2.37,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "TORCEDORES CONTRA LULA",
+      "peso_relativo": 9.9,
+      "fatia_pct": 2.37,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Richarlison",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Global",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Word",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bread",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Global Word",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Word Bread",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Global Word Bread",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.17,
       "fontes_distintas": 1
     },
     {
       "termo": "Eleições",
-      "peso_relativo": 7.6,
-      "fatia_pct": 1.96,
+      "peso_relativo": 8.2,
+      "fatia_pct": 1.97,
       "fontes_distintas": 3
+    },
+    {
+      "termo": "obras de contenção",
+      "peso_relativo": 8.2,
+      "fatia_pct": 1.97,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Programa",
+      "peso_relativo": 8.2,
+      "fatia_pct": 1.97,
+      "fontes_distintas": 2
     }
   ]
 }
