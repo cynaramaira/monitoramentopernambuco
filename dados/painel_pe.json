@@ -1,169 +1,181 @@
 {
-  "atualizado_em": "2026-10-18T11:42:22Z",
-  "total_analisado": 107,
+  "atualizado_em": "2026-10-18T15:49:27Z",
+  "total_analisado": 87,
   "x_recife": [
     {
-      "termo": "#LulaSeuExercitoTeEspera",
+      "termo": "#ElesPoderiamEstarVivos",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23LulaSeuExercitoTeEspera",
+      "url": "https://x.com/search?q=%23ElesPoderiamEstarVivos",
       "ruido": false
     },
     {
-      "termo": "#LulaJaSomos5Milhoes",
+      "termo": "#VacinaSalvaVidaBolsonaroTira",
       "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23LulaJaSomos5Milhoes",
+      "url": "https://x.com/search?q=%23VacinaSalvaVidaBolsonaroTira",
       "ruido": false
     },
     {
-      "termo": "#goLOUD",
+      "termo": "Paulo Gustavo",
       "posicao": 3,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23goLOUD",
+      "url": "https://x.com/search?q=Paulo%20Gustavo",
       "ruido": false
     },
     {
-      "termo": "#VALORANTChampions",
+      "termo": "ELES QUEREM QUE VOCÊ ESQUEÇA",
       "posicao": 4,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23VALORANTChampions",
+      "url": "https://x.com/search?q=ELES%20QUEREM%20QUE%20VOC%C3%8A%20ESQUE%C3%87A",
       "ruido": false
     },
     {
-      "termo": "Erde",
+      "termo": "NÓS NÃO VAMOS ESQUECER",
       "posicao": 5,
-      "variacao": "+6",
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Erde",
+      "url": "https://x.com/search?q=N%C3%93S%20N%C3%83O%20VAMOS%20ESQUECER",
       "ruido": false
     },
     {
-      "termo": "tkzin",
+      "termo": "Covid",
       "posicao": 6,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=tkzin",
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Covid",
       "ruido": false
     },
     {
-      "termo": "#LingOrmBetweenUsConcertD2",
+      "termo": "Felca",
       "posicao": 7,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23LingOrmBetweenUsConcertD2",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Felca",
       "ruido": false
     },
     {
-      "termo": "THE WORLD BETWEEN LINGORM D2",
+      "termo": "SOMOS O SEU EXERCITO LULA",
       "posicao": 8,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=SOMOS%20O%20SEU%20EXERCITO%20LULA",
+      "ruido": false
+    },
+    {
+      "termo": "LULA SEU EXÉRCITO TE AMA",
+      "posicao": 9,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=LULA%20SEU%20EX%C3%89RCITO%20TE%20AMA",
+      "ruido": false
+    },
+    {
+      "termo": "BOLSONAROS NUNCA MAIS",
+      "posicao": 10,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=BOLSONAROS%20NUNCA%20MAIS",
+      "ruido": false
+    },
+    {
+      "termo": "Atacou",
+      "posicao": 11,
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Atacou",
+      "ruido": false
+    },
+    {
+      "termo": "França",
+      "posicao": 12,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Fran%C3%A7a",
+      "ruido": false
+    },
+    {
+      "termo": "COMPRA O CELULAR LULA",
+      "posicao": 13,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D2",
+      "url": "https://x.com/search?q=COMPRA%20O%20CELULAR%20LULA",
+      "ruido": false
+    },
+    {
+      "termo": "Dona Déa",
+      "posicao": 14,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Dona%20D%C3%A9a",
+      "ruido": false
+    },
+    {
+      "termo": "JAMAIS ESQUECEREMOS",
+      "posicao": 15,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=JAMAIS%20ESQUECEREMOS",
+      "ruido": false
+    },
+    {
+      "termo": "Carrick",
+      "posicao": 16,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Carrick",
       "ruido": false
     },
     {
       "termo": "Roberta Luchsinger",
-      "posicao": 9,
-      "variacao": "-4",
+      "posicao": 17,
+      "variacao": "-3",
       "direcao": "cai",
       "url": "https://x.com/search?q=Roberta%20Luchsinger",
       "ruido": false
     },
     {
-      "termo": "Davih",
-      "posicao": 10,
-      "variacao": "+6",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Davih",
-      "ruido": false
-    },
-    {
-      "termo": "LULA NÃO MATE A ROBERTA",
-      "posicao": 11,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=LULA%20N%C3%83O%20MATE%20A%20ROBERTA",
-      "ruido": false
-    },
-    {
-      "termo": "Lulinha",
-      "posicao": 12,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Lulinha",
-      "ruido": false
-    },
-    {
-      "termo": "Celso Daniel",
-      "posicao": 13,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Celso%20Daniel",
-      "ruido": false
-    },
-    {
-      "termo": "FLAVIO ALIADO DO CV",
-      "posicao": 14,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=FLAVIO%20ALIADO%20DO%20CV",
-      "ruido": false
-    },
-    {
-      "termo": "Aspas",
-      "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Aspas",
-      "ruido": false
-    },
-    {
-      "termo": "Vox Brasil",
-      "posicao": 16,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Vox%20Brasil",
-      "ruido": false
-    },
-    {
-      "termo": "unicamp",
-      "posicao": 17,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=unicamp",
-      "ruido": false
-    },
-    {
-      "termo": "Felca",
+      "termo": "#FourthConcertD3",
       "posicao": 18,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Felca",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23FourthConcertD3",
       "ruido": false
     },
     {
-      "termo": "França",
+      "termo": "LOUD",
       "posicao": 19,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Fran%C3%A7a",
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=LOUD",
       "ruido": false
     },
     {
-      "termo": "ACABOU LULA",
+      "termo": "FLÁVIO É RETROCESSO",
       "posicao": 20,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=ACABOU%20LULA",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=FL%C3%81VIO%20%C3%89%20RETROCESSO",
       "ruido": false
     }
   ],
   "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "CBN Recife: Seis seções eleitorais terão mudança de endereço no 2º turno em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWU1OQXE1cTdnc2hIaURjZFZzRVMyQW5BZmpSUVo4YW1tNHpjWVlnbkVlVkRfS3p6ZVVWUk9yQnNiYWtpWnNnSDBIZ3NUZ29MS043MGFPTjlyV1QwOFFqMTZpYW5DOTMwYVp3SDVoRjlPakZMdW5ScFJSQTY1ZFVNbVFXcHB3VHRyU2hEd0ZMdUFVN0JMQVJyemRlVDFVc2tDeHZmX3dPeVRTdjZEVGNSRXB3?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Mega-Sena: seis apostas feitas em PE ganham prêmios de até R$ 176 mil na quina",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHFhLUJCaVAyR3lXX0VweTdCWmQtdlZXN1RLc1lVcV8zeWV6VnMtc0l0RmNoUFpsdU5WSkpjSXhCUVlON0kzcTZYNmlhYTlxbWsteGlKTHM5OFNzN0syclRHa1FOVDhvR2pkcTl1V3M1MVJaSXhjSk9USDVHdEtlUjJmNzk2N1Yxdld4M3ZLVEZhV1RKNmxXejBTQzlEd3lGSWtYM0lfMzNBUGtFbzdHY0tTMnQzWkJsRzVPWXNQLTY5VVVrVnRMZzY0QmJ5VlR3RnfSAeABQVVfeXFMTjNCdmpUWkpURVNvYlMyck5aWGdMRjd5ZEVCNHhNblNHMDVIcEZpaTZtOGl2d3l2c2VtbnlHMFBTNWZYdFFMYTFUT1lTRVVSM2FtcDAtRFQycVZ2ZFpFZk9aU2J5VGktU3k3eUR5enZKZ2NsUXZabzUzc0VsNC1aaVVia19xLXNfNkpKRXNWa2xWT3ZvdXZMMUhfQjFWenU3NFd2aEJTSzVOMEJEdlhGNmJLUFlrSE15bEFSLVJXQ3RkMl9pZnJTWERGaml3cHFJVlZQdHZoUGdQOGZDWmNUd20?oc=5"
+    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -173,122 +185,158 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "- Blog Dellas: Lula volta a Pernambuco em 20 de outubro para ato de campanha em Petrolina -",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3JEa1hCb0dPX1RWVmhpSld3UjlJMW1JeW5HaWFuTFZ5ZEJ3M2VWVUFHMXVvVVRQRnVucFZmZmc3bF9BQ3BOUHN2TUhhZm5GSVdkdUtQREJEOWhxR0JxQjRYWGRnWXFpR3RMdDJyejd1aS1xbU9EMVZuQjlUd1l2Ui12bWpLYXM1TDhtUmVBWVBTbEUxS2Z3SkxOdUNEbFplOVhz?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Conexão Política: Deputado Federal em Pernambuco: conheça os candidatos nas eleições 2026",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjlHUE5hdW5mWU9MS3ZUcHlDcUNMa0tKV1J3cDJ6MWE1S2std3VMYnZaNGFnQ2pscmFIQmhsVUZacUxVQ2xmVkwyWGNKZWhIdEh1bmJXQm1lU0pZUkMyOTNMWXo4MjFfMWxXX3lMbEFnd0hZNExSTTg1bElCX1RNUW1VeDNlRGRmMGVQVHBsSWpwdmRmeXBj?oc=5"
+      "manchete": "JC: Sete presídios de Pernambuco devem adotar padrão de segurança máxima por abrigarem membros de facções",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPam9JMExtbWI0SG53WDVDTWVPd0FsSDY5LUNHLW5MNlBRSnF6UlJSbE9KX2RxQjUtNWN0MHR3ZmxIR0xtLWlYX1lpRTQ5WWZYLVE3SHl1TmxGYW9qSlFMQTlra0xKUzItaVhsZ1RKQUdvOTJCbVotVWwtVnNTSGx1TmlHY2xaMTRZbHhFWGVwd3BOaE1NemhOT0lTS3NpRUpHdHBpNlk3U0NWOGJTbUp4RjIwVDZ0Ri1aUjFFdm1rV3l5N3dSVVBWYi1HdEhZNnR1RzNjbnJRVGx3MmpHYmdyRHNBcE9WZVJvTTZQSFNn?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Carro do ovo é usado para conscientizar contra feminicídio nas ruas do Recife",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcWoxallGbTRXQ2hRTEI1d3pzMVd0X3pPZC1PcE03dHc5ek9uYUtyR0JoVUlPRkM0MmQ4dkNiU0IzeGxudS1leTZad0ZMd2pYa1Q1LXNEMUp0SEVjSHp1Wm9xQm5GYVBWTW1ZRm9sOTVsM1VxSGU1MlVnM3dMY05CU01MT3RHQWxtR3NucjlkaTllcno2ckFSTktyYzdKNUtBbk8xOWxSNmh4T1A5ck1mQVcyWmozRU5scTkxbGladU0tZnE3YVI5ek1ZLVRDWXNZLXRlc1Z30gHkAUFVX3lxTE1KZnE4QkI2YS12VjBKME9Hc0pYY284TEY4QmNNQUV6bTd5OFVuYlNrMEVhMW9CeGtORnhFaDFDMVE3cXhOdXM1U01URDlsYmVyb2xyVlYyMld1WVlCNEdqenJHcDhKTnJFUVRVVXRXYUw2WGlrdzY3djJNXzY3T2tNUXdGZ0lGUTYxY2RBbUNvMW5aNi1mTnVDenhlMl9kZV9XRUFNdFZjVXlJMGprNUc2anVHSlRUUHZaLTRTOEF5R1hoX0d2VVhlNXhGamJ6eS1XRFZaU2VkcXNqX1hETGZMMDFUeQ?oc=5"
+      "manchete": "RioMar Recife: Coleção Pokémon x adidas está disponível no RioMar Recife",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlJObHdlQ2o1dDJlSDhXMVFtY2xIYXVTNnlNWlBGTTBKbHBJU2llUVlWd0VYMTBDQmNQdnhoSnpBbHRGdzlVLVJLOFdVeXp0dXJWdkoyd182cFRKTmJabTdDU2txOGhHNHdRMVRPYXg4cEFBXzJMZTJXZGtBeW1FQkJwMUNnRk9tSXdGWXlRN2tWWDdfMTdqNWlSZw?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
       "manchete": "Clima ao vivo: Clima ao Vivo em Recife | Câmera do tempo - veja agora - Clima ao Vivo",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QVk01b05lbHMxdzJqT0hsWHN4emlLZzVuX0QwbmIta1FHVWRMQUx1N3RLUE5lQm91bEpBYWNuYnRvR294Uk9UbVdjNzVVMHZUSXlnZHBMdVh4MjkyT2x1Ty10YWdwVXpqXzlOeHVDdVl1alM5VFRRWTNxX1I?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; não chove",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZENncndqeGRQVFYxNThiR3ZKUVRXNkRmaVZ6QWxXc1o1cFA5MW9xTzFUT295WFZ0LXozeko2eXE5UUl4UHp3bC1EUEJ2alJqZVVuNVA4MkREdFEyTDRKU2VhOUlJaGpEREZ5d1J6S0hTR2xOWGtjZHJGZS1nbEZMTFM1Z01ZN0JpaE01Ti14WV9xakZ1SG05RWU4bkNFNVRGY0tyLW5VX0tYRy1TbkY0UlJlRmo5cFNBNGpfcTB3cF9LY3FsbVJkcnB5enZnRU54NU1xcG5NMFpncHBmTGs3VFdOakvSAfMBQVVfeXFMTVpQVHFZTFdTT2NYcHdkQ2tVZnBpYW9LQW5XSkVHalF6Wlg0T3pXaUdtd0NhUDg1NFNtaTRtLWY5clRWekVYMmJwX0gtQkJYcldPZ3VZQzlGRnR4Mjg2dmE4ZHZXcWVnVlJVWm42Sm9PNDFPZ0lvV1VCeEJiZm5LaXhzdFZoUkl3OTRiUGRrbXJfWE9fSmpDV2VpZWl6RXVWU1I0VEFlQUpHNVcxelFPY19HRHZhTGstLVRqWVNyQjBkUWliVkFSemdPZjRmazRoWjdYZGZnQ1lBZmhLaWUwMVEtZHRtNjBzem9RZWs0aEN6VlBV?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Portal O Dia: Recife tem dia parcialmente nublado com temperaturas de 25°C a 31°C",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnJJc2RxOUJJYUJKTHM0T09IbVpqQVBYODhlMkRsMHJqQ1IwMDNucUlGNmJldjl2MkhMTXRDVWE0Q28tS1lBVFpYS0dMQUh1M1JJU0VwMWNKRE5jTlZfMzdqWDlLTXBGSlpoMC1Yc2M5bUktOVZVVDZTWTFQaHVzQUFoRWxYckVsU2pVUjJMb25hWkY3UGJtb0o5WnhQVGJrYVpBNDhfaHUwejRaWC1QT3Nwd1Nid9IBuwFBVV95cUxOdzlLVW9HT1lheEw0U0p0TDV5Mm9BSHBROVBCZWhzN0gtZ3VXbEdOZzRGZ0I0cnh4RGY4dTd0dUVNUFJKQXA0WHlab1J5Sms5WjBpRHM5bHg1OXgwdGZhV3ZKclRvU0JKWlFmb01zbHlmUjg1dkdMTVhHRTVXaWtySXJ2YlBVVGNWbUk3ZnNGdnFIemZpTzhwaXZnbkhNSmljUTRfWHhFSTNBeFQzVXRTbFkxY05Rc1g1MmFr?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Instagram: A Pena Cal Galeria (@penacalgaleria), comandada por Eva Pena Cal (@evapenacal), participa da 5ª edição da ArtPE – Feira de Arte Contemporânea de Pernambuco, no #Recife, com obras de Edineusa Bezerril (edineusasantosbezerril) e Nathalia Valladar",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aQkJXQ3NUZmFaQ1JOTHVFZjdaVXdEVG5HR3dTN0VRYlZJMU93dUgzQ1p1eWxKVFV0TzBKTWoyX2tjUEswbURQR1kycF8tZlZCMkE?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Apoiadores de Lula realizam atos em diversas cidades de Pernambuco neste domingo (18)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXdBa2VyQWpoYlA4QTI4Q2tXa1o4YWY4Zm5wVUdXYklnd01vTFl6OVhlRGlFTVVoR2NjSFJoU002aThFb3JZNUd5TjgxekxYczhVTzVyYWZWcEtOSGRYVEpaY09rOTgwbkdsRExhNERyNnVNYTVKXzdZa1FBUkZhUnlyR0FjNHZRQ2pqNXFibGhXeEFtN3ZLTmliV3JPOHJOb0JVUW1XaHJLN0k2OExaYk82M29aeEUtYXRfcy11eENuVHFGNUFRTDFDMHpaN3lNS24xVzNXTlExcWpRQXZiQm8xalVtZnc?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Farol de Notícias: Dois corpos carbonizados são encontrados em área de mata",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUhTV2dHVG5Md0U1dkxSbk1BSnFqRnVVcFg3UVprbVA0WVU4MllNcEp6VmlTaXNIcTd4MnBPako1YVBEMEd3c3hMY251UVJQeFp5QloySjZFeVViRVloQTgtcnB6azc5bkZfMWY3NTJLUlNyZ2xoejhVRldRN1RlN01SYnY0R0UzWk9laDY5bUt4d9IBkgFBVV95cUxOeUhTV2dHVG5Md0U1dkxSbk1BSnFqRnVVcFg3UVprbVA0WVU4MllNcEp6VmlTaXNIcTd4MnBPako1YVBEMEd3c3hMY251UVJQeFp5QloySjZFeVViRVloQTgtcnB6azc5bkZfMWY3NTJLUlNyZ2xoejhVRldRN1RlN01SYnY0R0UzWk9laDY5bUt4dw?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Alberes Xavier: Moraes contrariou alerta da PF sobre sigilo de fonte de jornalista",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT05GRzk1aTlDdHpiTEtXVzdnQS1xXzN5Ukx1NFVDaGpGYTYtU2I4ZU5yUEdpWkVGajE0dUpOTVpSRTZUUlpZeUlTY0QyblJFcTVGXzB3TEZGMERmSmJheUVNZWdwUlZHVG9iSWNscEctSENzR0VHcWJBS1hWZGJjcmFHYUY1VkJpSFE5VkxtYlJuNDZncEVMT211NERDSTlhLVhoem5tLXpjenZwdklESFM1MA?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Jornal Desafio: Ex-prefeito de Araripina, Raimundo Pimentel vai para a Casa Civil de Raquel Lyra após derrota na disputa por deputado estadual – Jornal Desafio",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMEl6YmtUeXB0cWpiXzZuUG92QlRvSWVtSnRqTldsNHdpdTBUaVluZ1ZOTkRJbG1sQ19ad0xPZnMyRlFZbnpKdVNNX19remM1Yi1SSlc4QTZCQ0FHbmNvcHlrbmV2VkpoYk8zZElUQm04cU9DWmxiQmNacnRvenJEM1lxWmVTbzhRRWRyUUtnenlXYUhGX2otWF96NWduMWVKaDd3X3plNlI0Vm9sR2Q2Mmc4cC11clRYV0dNWC1FazdQb1lqclBoaWFIR2Exc0NVMUVwUE05Wnk2U2NMVkZlNjRERms3TExqanlv?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "reconstruir o PSB",
-      "razao_aumento": 90.4,
+      "termo": "Paulista",
+      "razao_aumento": 153.8,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-10-17T13:00:00Z",
-        "titulo": "João Campos está disposto a reconstruir o PSB como fez seu pai?",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX0lUa1Y3ZlZwRGZqaGJRdUE2R1JQVzRFVlllLUEybW1yLUpPRWFucDRnVHhRU1JfejFQNC1qY241UlBxN0F4ZWNfckR4blVBSmhyTVN0dFZwSWN4dkwxdWRXQTUwNUZmU1ZoQUk3ZkFHNndBbXNTTnJPbDd5bENudGFiRjdfcVJSWFJnZEtUNF9EVi1MLXo1TWJmRm56T1dTRXc5X3VzZm1OUDNoQnhTZDBic1NTb01XRzJfWURiUQ?oc=5",
+        "fonte": "VEJA",
+        "hora": "2026-10-18T13:07:39Z",
+        "titulo": "Antes do debate, Flávio Bolsonaro vai a ato na Paulista e aliados de Lula comandam eventos em grandes cidades",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXJsU0g0dGdsYlc4TE4xal9lLUpRZW4zdXhHOTM1WjJvanNQMFpvYkh0Z0RFN2dDVHUxSWZIQlY4WFlxVFV0VWV2TEllQUFSWWJBWElqQ002WG9DZEg2NGlLdnRGN2xWWU80RVNIYjU1SnVEQ1Jjbk1LdmNuM280LWZHZTl0ZXhKZExiRUJsRkp5UGZuTTBoM0ZsQ1dNQ29FV09zV2pOSTAwQQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Escolas",
-      "razao_aumento": 90.4,
+      "termo": "neste domingo",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Secretaria de Educação e Esportes de Pernambuco",
-        "hora": "2026-10-17T20:39:51Z",
-        "titulo": "Pernambuco amplia rede de Escolas Técnicas Estaduais com 15 novas unidades a partir de 2027",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk1MZVJPbG1weWFxeHVoaVlrSGdJZ1hZSmFPQS03c29UOW5odnRvc3NfX3F2ekpPUllBZ1hWWGIyWENGWFBBMi1iWnc4RExUS0xDQlFkenAwcUtuZk1rMVRBYy1wU1BUUUI5bFJyd3hob0NWVkd4Si1fajhxbjVnWVZnWFRnWFVpTVlrWGN2aEhINlBMdXdPQ0x4d0hBcWhMSHBSbHZsLWk3WjVTQXh4VHo2RXFmOC15WkQzVFpQTEZWYTM5?oc=5",
+        "fonte": "Poder360",
+        "hora": "2026-10-18T09:04:52Z",
+        "titulo": "A 7 dias do 2º turno, Flávio e Lula fazem 1º debate direto neste domingo",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnl2a2RJd21NYnFHc1otdVFDQ29MUzk2am9JWGM0ZWRsbnFMMEtCMmdITkR0dUVqVURzeGo5Z2hiWGwwbGYxWEdxb2g0SHc5bVJjdnhqYkpjRnFicTVrQjJHVkUweFc4NVJjRnlqdTlIRVdqODNDN2puTV93a013SEx5VGwzNGJDamNGSUFyWFZDZWdGZDhuRTNpNHk2YS11QXBXd1pub0R1R3phLWdDa3RvLWVVczluVkYxLQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Técnicas",
-      "razao_aumento": 90.4,
+      "termo": "reúne apoiadores",
+      "razao_aumento": 57.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Secretaria de Educação e Esportes de Pernambuco",
-        "hora": "2026-10-17T20:39:51Z",
-        "titulo": "Pernambuco amplia rede de Escolas Técnicas Estaduais com 15 novas unidades a partir de 2027",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk1MZVJPbG1weWFxeHVoaVlrSGdJZ1hZSmFPQS03c29UOW5odnRvc3NfX3F2ekpPUllBZ1hWWGIyWENGWFBBMi1iWnc4RExUS0xDQlFkenAwcUtuZk1rMVRBYy1wU1BUUUI5bFJyd3hob0NWVkd4Si1fajhxbjVnWVZnWFRnWFVpTVlrWGN2aEhINlBMdXdPQ0x4d0hBcWhMSHBSbHZsLWk3WjVTQXh4VHo2RXFmOC15WkQzVFpQTEZWYTM5?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-18T14:05:24Z",
+        "titulo": "Ato a favor de Flávio Bolsonaro reúne apoiadores em Goiânia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlFSWm9FRHVld1FaeW9FYUNBcmlvREdXRmd0SjE0X2NLZ2NyZFhFRFpoZzg2bGliNmlXUDdMX1N0a1R3TW0yZFFEalNEdlMwNE1mekFNYTRLWG9JOHFSVUVhQTVXWV9HcktzUlRrVUdZYndNSTNWWEdhamZmejd5QjBWbUsxd3dZMlZNRFFRVXVBYVNiYlhZTnZBdUpDUlc0dXRsU1pIa28wLUlHSXQyQ1hDNlDSAcMBQVVfeXFMTjJRcldnZXlxelpxM0xnbElRaWtUVDBCUE85cGU5NkhfM0RVQXprYmRQUFktdlBXc19MQlNUSDl5ajV5RlNoTW9BRlE1aWprRXRxYjN2cmdkcjJEb1hlRWk0enFvRnJWSVlsZU9qSnRBekZVVU9GVWFmcWQ4QWtWQk5TT3JoMy10anV1clE2Vnp4QlFpZnlBdjNGZWlSVmxHOXpqVzNBakFGNXhKLXVxUWJteHZ0T2ZlWXB3ZjhOM0ljNjhr?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Estaduais",
-      "razao_aumento": 90.4,
+      "termo": "Vox Brasil",
+      "razao_aumento": 50.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Secretaria de Educação e Esportes de Pernambuco",
-        "hora": "2026-10-17T20:39:51Z",
-        "titulo": "Pernambuco amplia rede de Escolas Técnicas Estaduais com 15 novas unidades a partir de 2027",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk1MZVJPbG1weWFxeHVoaVlrSGdJZ1hZSmFPQS03c29UOW5odnRvc3NfX3F2ekpPUllBZ1hWWGIyWENGWFBBMi1iWnc4RExUS0xDQlFkenAwcUtuZk1rMVRBYy1wU1BUUUI5bFJyd3hob0NWVkd4Si1fajhxbjVnWVZnWFRnWFVpTVlrWGN2aEhINlBMdXdPQ0x4d0hBcWhMSHBSbHZsLWk3WjVTQXh4VHo2RXFmOC15WkQzVFpQTEZWYTM5?oc=5",
+        "fonte": "JOTA Info",
+        "hora": "2026-10-18T03:00:30Z",
+        "titulo": "Lula tem 51% dos votos válidos, e Flávio Bolsonaro, 49%, diz pesquisa Vox Brasil",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS01yNkQ4b2MwRFVTbmNBVW9STjBzb0VmQnppaW4xYndWa2J0MFg4WVg0NlhoV3pZS0F3bTB5VUFZSjdOTG5DNVd3bzAxS1U2Vl9XVjBPSnFnalE1ZnRkYU5oa3FzWm00R3YtUllSUDhGSXNRMmpNLU9mS3VIODBLT2piWTUyRGV5X0VVTXpxNmpEaE9zWUxBbmFtZjRTZTM3ZFFlV0wwX25HbkcwYkxTMUxEU0VQeDhVNW51OQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Escolas Técnicas",
-      "razao_aumento": 90.4,
+      "termo": "Flávio e Lula",
+      "razao_aumento": 46.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Secretaria de Educação e Esportes de Pernambuco",
-        "hora": "2026-10-17T20:39:51Z",
-        "titulo": "Pernambuco amplia rede de Escolas Técnicas Estaduais com 15 novas unidades a partir de 2027",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk1MZVJPbG1weWFxeHVoaVlrSGdJZ1hZSmFPQS03c29UOW5odnRvc3NfX3F2ekpPUllBZ1hWWGIyWENGWFBBMi1iWnc4RExUS0xDQlFkenAwcUtuZk1rMVRBYy1wU1BUUUI5bFJyd3hob0NWVkd4Si1fajhxbjVnWVZnWFRnWFVpTVlrWGN2aEhINlBMdXdPQ0x4d0hBcWhMSHBSbHZsLWk3WjVTQXh4VHo2RXFmOC15WkQzVFpQTEZWYTM5?oc=5",
+        "fonte": "Poder360",
+        "hora": "2026-10-18T09:04:52Z",
+        "titulo": "A 7 dias do 2º turno, Flávio e Lula fazem 1º debate direto neste domingo",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnl2a2RJd21NYnFHc1otdVFDQ29MUzk2am9JWGM0ZWRsbnFMMEtCMmdITkR0dUVqVURzeGo5Z2hiWGwwbGYxWEdxb2g0SHc5bVJjdnhqYkpjRnFicTVrQjJHVkUweFc4NVJjRnlqdTlIRVdqODNDN2puTV93a013SEx5VGwzNGJDamNGSUFyWFZDZWdGZDhuRTNpNHk2YS11QXBXd1pub0R1R3phLWdDa3RvLWVVczluVkYxLQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Técnicas Estaduais",
-      "razao_aumento": 90.4,
+      "termo": "Avenida",
+      "razao_aumento": 38.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Secretaria de Educação e Esportes de Pernambuco",
-        "hora": "2026-10-17T20:39:51Z",
-        "titulo": "Pernambuco amplia rede de Escolas Técnicas Estaduais com 15 novas unidades a partir de 2027",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk1MZVJPbG1weWFxeHVoaVlrSGdJZ1hZSmFPQS03c29UOW5odnRvc3NfX3F2ekpPUllBZ1hWWGIyWENGWFBBMi1iWnc4RExUS0xDQlFkenAwcUtuZk1rMVRBYy1wU1BUUUI5bFJyd3hob0NWVkd4Si1fajhxbjVnWVZnWFRnWFVpTVlrWGN2aEhINlBMdXdPQ0x4d0hBcWhMSHBSbHZsLWk3WjVTQXh4VHo2RXFmOC15WkQzVFpQTEZWYTM5?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-18T14:27:49Z",
+        "titulo": "Flávio Bolsonaro chega à Avenida Paulista para ato de campanha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHhqUU9QQUNTbzNzdldJMnhQZllOellhaTNCclA0RTZVTlZNOXpoWnUxY0U5cVYyLXUtdWtaY3oycVBzOEJTU0lBMEVJUXNiWVFsNVFjX2RpMGJiTnpERm1wcGZqNHc4SXl6eENmcUx3eDRuR1hLQldDLWowcnRKcy1xOHFuTnVMM3JVSHA0a2loNndxMzltMWNxZndZc0HSAa4BQVVfeXFMT19sQnAySGVZSk5HUmlXNVdJd2NwVFZSQTE2bWN4T05KTWVuYWRPcEk0RGV4YzdFNy1TUUx4OWR1bm1LRG4zWjNrMnFRN3V1ZjJPZGI1Q0FQSjZnSFlUWE9yRGthQk9xRzVFSVBPWU1DUzRPZ2Q3eER6a0F3NmNTQ0lUa05DT1hQV2F3MlY0a3dPekV2OEw5VkZ3TEJlX0RpQnlCcFdFWkd5Ql92bmNB?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Escolas Técnicas Estaduais",
-      "razao_aumento": 90.4,
+      "termo": "Avenida Paulista",
+      "razao_aumento": 38.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Secretaria de Educação e Esportes de Pernambuco",
-        "hora": "2026-10-17T20:39:51Z",
-        "titulo": "Pernambuco amplia rede de Escolas Técnicas Estaduais com 15 novas unidades a partir de 2027",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk1MZVJPbG1weWFxeHVoaVlrSGdJZ1hZSmFPQS03c29UOW5odnRvc3NfX3F2ekpPUllBZ1hWWGIyWENGWFBBMi1iWnc4RExUS0xDQlFkenAwcUtuZk1rMVRBYy1wU1BUUUI5bFJyd3hob0NWVkd4Si1fajhxbjVnWVZnWFRnWFVpTVlrWGN2aEhINlBMdXdPQ0x4d0hBcWhMSHBSbHZsLWk3WjVTQXh4VHo2RXFmOC15WkQzVFpQTEZWYTM5?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-18T14:27:49Z",
+        "titulo": "Flávio Bolsonaro chega à Avenida Paulista para ato de campanha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHhqUU9QQUNTbzNzdldJMnhQZllOellhaTNCclA0RTZVTlZNOXpoWnUxY0U5cVYyLXUtdWtaY3oycVBzOEJTU0lBMEVJUXNiWVFsNVFjX2RpMGJiTnpERm1wcGZqNHc4SXl6eENmcUx3eDRuR1hLQldDLWowcnRKcy1xOHFuTnVMM3JVSHA0a2loNndxMzltMWNxZndZc0HSAa4BQVVfeXFMT19sQnAySGVZSk5HUmlXNVdJd2NwVFZSQTE2bWN4T05KTWVuYWRPcEk0RGV4YzdFNy1TUUx4OWR1bm1LRG4zWjNrMnFRN3V1ZjJPZGI1Q0FQSjZnSFlUWE9yRGthQk9xRzVFSVBPWU1DUzRPZ2Q3eER6a0F3NmNTQ0lUa05DT1hQV2F3MlY0a3dPekV2OEw5VkZ3TEJlX0RpQnlCcFdFWkd5Ql92bmNB?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "partir de 2027",
-      "razao_aumento": 90.4,
+      "termo": "Bolsonaro reúne",
+      "razao_aumento": 38.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Secretaria de Educação e Esportes de Pernambuco",
-        "hora": "2026-10-17T20:39:51Z",
-        "titulo": "Pernambuco amplia rede de Escolas Técnicas Estaduais com 15 novas unidades a partir de 2027",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk1MZVJPbG1weWFxeHVoaVlrSGdJZ1hZSmFPQS03c29UOW5odnRvc3NfX3F2ekpPUllBZ1hWWGIyWENGWFBBMi1iWnc4RExUS0xDQlFkenAwcUtuZk1rMVRBYy1wU1BUUUI5bFJyd3hob0NWVkd4Si1fajhxbjVnWVZnWFRnWFVpTVlrWGN2aEhINlBMdXdPQ0x4d0hBcWhMSHBSbHZsLWk3WjVTQXh4VHo2RXFmOC15WkQzVFpQTEZWYTM5?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-18T14:05:24Z",
+        "titulo": "Ato a favor de Flávio Bolsonaro reúne apoiadores em Goiânia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlFSWm9FRHVld1FaeW9FYUNBcmlvREdXRmd0SjE0X2NLZ2NyZFhFRFpoZzg2bGliNmlXUDdMX1N0a1R3TW0yZFFEalNEdlMwNE1mekFNYTRLWG9JOHFSVUVhQTVXWV9HcktzUlRrVUdZYndNSTNWWEdhamZmejd5QjBWbUsxd3dZMlZNRFFRVXVBYVNiYlhZTnZBdUpDUlc0dXRsU1pIa28wLUlHSXQyQ1hDNlDSAcMBQVVfeXFMTjJRcldnZXlxelpxM0xnbElRaWtUVDBCUE85cGU5NkhfM0RVQXprYmRQUFktdlBXc19MQlNUSDl5ajV5RlNoTW9BRlE1aWprRXRxYjN2cmdkcjJEb1hlRWk0enFvRnJWSVlsZU9qSnRBekZVVU9GVWFmcWQ4QWtWQk5TT3JoMy10anV1clE2Vnp4QlFpZnlBdjNGZWlSVmxHOXpqVzNBakFGNXhKLXVxUWJteHZ0T2ZlWXB3ZjhOM0ljNjhr?oc=5",
         "peso": 1.0
       }
     }
@@ -297,271 +345,271 @@
     {
       "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 25.92,
-      "fontes_distintas": 21
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 89.2,
-      "fatia_pct": 23.13,
-      "fontes_distintas": 16
+      "fatia_pct": 25.62,
+      "fontes_distintas": 18
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 70.9,
-      "fatia_pct": 18.37,
-      "fontes_distintas": 15
+      "peso_relativo": 95.2,
+      "fatia_pct": 24.38,
+      "fontes_distintas": 17
+    },
+    {
+      "termo": "Lula",
+      "peso_relativo": 86.8,
+      "fatia_pct": 22.23,
+      "fontes_distintas": 17
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 63.0,
-      "fatia_pct": 16.33,
-      "fontes_distintas": 14
+      "peso_relativo": 72.1,
+      "fatia_pct": 18.46,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "Paulista",
+      "peso_relativo": 30.0,
+      "fatia_pct": 7.69,
+      "fontes_distintas": 9
     },
     {
       "termo": "Raquel",
       "peso_relativo": 21.0,
-      "fatia_pct": 5.44,
-      "fontes_distintas": 8
+      "fatia_pct": 5.38,
+      "fontes_distintas": 7
     },
     {
       "termo": "Lyra",
       "peso_relativo": 21.0,
-      "fatia_pct": 5.44,
-      "fontes_distintas": 8
+      "fatia_pct": 5.38,
+      "fontes_distintas": 7
     },
     {
       "termo": "Raquel Lyra",
       "peso_relativo": 21.0,
-      "fatia_pct": 5.44,
-      "fontes_distintas": 8
+      "fatia_pct": 5.38,
+      "fontes_distintas": 7
     },
     {
       "termo": "Lula e Flávio",
       "peso_relativo": 21.0,
-      "fatia_pct": 5.44,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Exercito",
-      "peso_relativo": 15.7,
-      "fatia_pct": 4.08,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Espera",
-      "peso_relativo": 15.7,
-      "fatia_pct": 4.08,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Exercito Te",
-      "peso_relativo": 15.7,
-      "fatia_pct": 4.08,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Te Espera",
-      "peso_relativo": 15.7,
-      "fatia_pct": 4.08,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Seu Exercito",
-      "peso_relativo": 15.7,
-      "fatia_pct": 4.08,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Exercito Te Espera",
-      "peso_relativo": 15.7,
-      "fatia_pct": 4.08,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Somos5Milhoes",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.88,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Ja",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.88,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Ja Somos5Milhoes",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.88,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Ja Somos5Milhoes",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.88,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "LOUD",
-      "peso_relativo": 14.2,
-      "fatia_pct": 3.67,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "go LOUD",
-      "peso_relativo": 14.2,
-      "fatia_pct": 3.67,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "VALORANTChampions",
-      "peso_relativo": 13.4,
-      "fatia_pct": 3.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Salvador",
-      "peso_relativo": 13.1,
-      "fatia_pct": 3.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Erde",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.27,
-      "fontes_distintas": 1
+      "fatia_pct": 5.38,
+      "fontes_distintas": 5
     },
     {
       "termo": "Brasil",
-      "peso_relativo": 11.8,
-      "fatia_pct": 3.06,
+      "peso_relativo": 21.0,
+      "fatia_pct": 5.38,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Estar",
+      "peso_relativo": 18.0,
+      "fatia_pct": 4.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vivos",
+      "peso_relativo": 18.0,
+      "fatia_pct": 4.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Estar Vivos",
+      "peso_relativo": 18.0,
+      "fatia_pct": 4.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vacina",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Salva",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vida",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Tira",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vacina Salva",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Salva Vida",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vida Bolsonaro",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonaro Tira",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vacina Salva Vida",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Salva Vida Bolsonaro",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vida Bolsonaro Tira",
+      "peso_relativo": 17.1,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Paulo",
+      "peso_relativo": 16.2,
+      "fatia_pct": 4.15,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Gustavo",
+      "peso_relativo": 16.2,
+      "fatia_pct": 4.15,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Paulo Gustavo",
+      "peso_relativo": 16.2,
+      "fatia_pct": 4.15,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "QUEREM",
+      "peso_relativo": 15.3,
+      "fatia_pct": 3.92,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ESQUEÇA",
+      "peso_relativo": 15.3,
+      "fatia_pct": 3.92,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "neste domingo",
+      "peso_relativo": 15.0,
+      "fatia_pct": 3.85,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Flávio e Lula",
+      "peso_relativo": 15.0,
+      "fatia_pct": 3.85,
       "fontes_distintas": 4
     },
     {
-      "termo": "Ling",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
+      "termo": "ESQUECER",
+      "peso_relativo": 14.4,
+      "fatia_pct": 3.69,
       "fontes_distintas": 1
     },
     {
-      "termo": "Between",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
+      "termo": "Covid",
+      "peso_relativo": 13.5,
+      "fatia_pct": 3.46,
       "fontes_distintas": 1
     },
     {
-      "termo": "Concert",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
+      "termo": "Felca",
+      "peso_relativo": 12.6,
+      "fatia_pct": 3.23,
       "fontes_distintas": 1
     },
     {
-      "termo": "Ling Orm",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Orm Between",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Between Us",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Us Concert",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Concert D2",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Ling Orm Between",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Orm Between Us",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Between Us Concert",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Us Concert D2",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Krause",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.72,
+      "termo": "Eleições",
+      "peso_relativo": 12.0,
+      "fatia_pct": 3.08,
       "fontes_distintas": 4
     },
     {
-      "termo": "WORLD",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.65,
+      "termo": "SOMOS",
+      "peso_relativo": 11.7,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "LINGORM",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.65,
+      "termo": "EXERCITO",
+      "peso_relativo": 11.7,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "THE WORLD",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.65,
+      "termo": "EXERCITO LULA",
+      "peso_relativo": 11.7,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "WORLD BETWEEN",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.65,
+      "termo": "EXÉRCITO TE",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.77,
       "fontes_distintas": 1
     },
     {
-      "termo": "BETWEEN LINGORM",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.65,
+      "termo": "TE AMA",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.77,
       "fontes_distintas": 1
     },
     {
-      "termo": "LINGORM D2",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.65,
+      "termo": "LULA SEU EXÉRCITO",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.77,
       "fontes_distintas": 1
     },
     {
-      "termo": "THE WORLD BETWEEN",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.65,
+      "termo": "EXÉRCITO TE AMA",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.77,
       "fontes_distintas": 1
     },
     {
-      "termo": "WORLD BETWEEN LINGORM",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.65,
+      "termo": "BOLSONAROS",
+      "peso_relativo": 9.9,
+      "fatia_pct": 2.54,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "NUNCA",
+      "peso_relativo": 9.9,
+      "fatia_pct": 2.54,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BOLSONAROS NUNCA",
+      "peso_relativo": 9.9,
+      "fatia_pct": 2.54,
       "fontes_distintas": 1
     }
   ]
