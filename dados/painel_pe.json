@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-18T15:49:27Z",
-  "total_analisado": 87,
+  "atualizado_em": "2026-10-18T18:37:23Z",
+  "total_analisado": 92,
   "x_recife": [
     {
-      "termo": "#ElesPoderiamEstarVivos",
+      "termo": "Olinda",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
+      "url": "https://x.com/search?q=Olinda",
+      "ruido": false
+    },
+    {
+      "termo": "João Gomes",
+      "posicao": 2,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Jo%C3%A3o%20Gomes",
+      "ruido": false
+    },
+    {
+      "termo": "Lua Blanco",
+      "posicao": 3,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Lua%20Blanco",
+      "ruido": false
+    },
+    {
+      "termo": "#ElesPoderiamEstarVivos",
+      "posicao": 4,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23ElesPoderiamEstarVivos",
       "ruido": false
     },
     {
-      "termo": "#VacinaSalvaVidaBolsonaroTira",
-      "posicao": 2,
+      "termo": "#ExercitoDoLulaNaBand",
+      "posicao": 5,
       "variacao": "=",
       "direcao": "igual",
+      "url": "https://x.com/search?q=%23ExercitoDoLulaNaBand",
+      "ruido": false
+    },
+    {
+      "termo": "#VacinaSalvaVidaBolsonaroTira",
+      "posicao": 6,
+      "variacao": "-2",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23VacinaSalvaVidaBolsonaroTira",
       "ruido": false
     },
     {
-      "termo": "Paulo Gustavo",
-      "posicao": 3,
+      "termo": "Roberta Messi",
+      "posicao": 7,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Roberta%20Messi",
+      "ruido": false
+    },
+    {
+      "termo": "Rebelde",
+      "posicao": 8,
       "variacao": "=",
       "direcao": "igual",
+      "url": "https://x.com/search?q=Rebelde",
+      "ruido": false
+    },
+    {
+      "termo": "Paulo Gustavo",
+      "posicao": 9,
+      "variacao": "-2",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Paulo%20Gustavo",
       "ruido": false
     },
     {
+      "termo": "Avenida Paulista",
+      "posicao": 10,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Avenida%20Paulista",
+      "ruido": false
+    },
+    {
+      "termo": "Felca",
+      "posicao": 11,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Felca",
+      "ruido": false
+    },
+    {
+      "termo": "unicamp",
+      "posicao": 12,
+      "variacao": "+20",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=unicamp",
+      "ruido": false
+    },
+    {
       "termo": "ELES QUEREM QUE VOCÊ ESQUEÇA",
-      "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 13,
+      "variacao": "-3",
+      "direcao": "cai",
       "url": "https://x.com/search?q=ELES%20QUEREM%20QUE%20VOC%C3%8A%20ESQUE%C3%87A",
       "ruido": false
     },
     {
       "termo": "NÓS NÃO VAMOS ESQUECER",
-      "posicao": 5,
-      "variacao": "+1",
-      "direcao": "sobe",
+      "posicao": 14,
+      "variacao": "-2",
+      "direcao": "cai",
       "url": "https://x.com/search?q=N%C3%93S%20N%C3%83O%20VAMOS%20ESQUECER",
       "ruido": false
     },
     {
-      "termo": "Covid",
-      "posicao": 6,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Covid",
-      "ruido": false
-    },
-    {
-      "termo": "Felca",
-      "posicao": 7,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Felca",
+      "termo": "BOLSONAROS NUNCA MAIS",
+      "posicao": 15,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=BOLSONAROS%20NUNCA%20MAIS",
       "ruido": false
     },
     {
       "termo": "SOMOS O SEU EXERCITO LULA",
-      "posicao": 8,
-      "variacao": "-1",
+      "posicao": 16,
+      "variacao": "-3",
       "direcao": "cai",
       "url": "https://x.com/search?q=SOMOS%20O%20SEU%20EXERCITO%20LULA",
       "ruido": false
     },
     {
-      "termo": "LULA SEU EXÉRCITO TE AMA",
-      "posicao": 9,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=LULA%20SEU%20EX%C3%89RCITO%20TE%20AMA",
-      "ruido": false
-    },
-    {
-      "termo": "BOLSONAROS NUNCA MAIS",
-      "posicao": 10,
-      "variacao": "-1",
+      "termo": "Covid",
+      "posicao": 17,
+      "variacao": "-6",
       "direcao": "cai",
-      "url": "https://x.com/search?q=BOLSONAROS%20NUNCA%20MAIS",
-      "ruido": false
-    },
-    {
-      "termo": "Atacou",
-      "posicao": 11,
-      "variacao": "+5",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Atacou",
+      "url": "https://x.com/search?q=Covid",
       "ruido": false
     },
     {
       "termo": "França",
-      "posicao": 12,
-      "variacao": "+3",
-      "direcao": "sobe",
+      "posicao": 18,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Fran%C3%A7a",
       "ruido": false
     },
     {
-      "termo": "COMPRA O CELULAR LULA",
-      "posicao": 13,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=COMPRA%20O%20CELULAR%20LULA",
+      "termo": "Arthur Aguiar",
+      "posicao": 19,
+      "variacao": "+19",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Arthur%20Aguiar",
       "ruido": false
     },
     {
-      "termo": "Dona Déa",
-      "posicao": 14,
+      "termo": "Fátima Bernardes",
+      "posicao": 20,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Dona%20D%C3%A9a",
-      "ruido": false
-    },
-    {
-      "termo": "JAMAIS ESQUECEREMOS",
-      "posicao": 15,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=JAMAIS%20ESQUECEREMOS",
-      "ruido": false
-    },
-    {
-      "termo": "Carrick",
-      "posicao": 16,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Carrick",
-      "ruido": false
-    },
-    {
-      "termo": "Roberta Luchsinger",
-      "posicao": 17,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Roberta%20Luchsinger",
-      "ruido": false
-    },
-    {
-      "termo": "#FourthConcertD3",
-      "posicao": 18,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23FourthConcertD3",
-      "ruido": false
-    },
-    {
-      "termo": "LOUD",
-      "posicao": 19,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=LOUD",
-      "ruido": false
-    },
-    {
-      "termo": "FLÁVIO É RETROCESSO",
-      "posicao": 20,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=FL%C3%81VIO%20%C3%89%20RETROCESSO",
+      "url": "https://x.com/search?q=F%C3%A1tima%20Bernardes",
       "ruido": false
     }
   ],
@@ -173,20 +173,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Apoiadores de Flávio promovem atos em Pernambuco neste domingo (18)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHppb1hjSnlxcWZzYXRwN1ljVi0ya1I3cE0zeVc4SV9wa25EX1FFMVV1QktZTWZ4WEZwR2xTdE9vRDBLbmtKeVRyV1pPM0ZwRDlrdnNBSDF0MTVTMG9oWmVVZTlTTnN6S2ROMUZyc01UbkdHMTF3MXM0SnV2QVFZVFNTR1pqWFZQYkJ6VmlQRV9DZTltZ3dVQW1Nc0V5VkJqZEw4UWlGVkZrYjhJNWdzeklMZnVfeFpTdzd5WDgxV3E2bUI1c3VWcWRzQzlDZnc?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Carreata da Direita reúne apoiadores de Flávio Bolsonaro em Abreu e Lima, neste domingo (18)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmVWelVUcUdmWUk4WER5YTN2QVRYeVBfbGFuR0VtbzFmX0JDcFdDc0dreHpIc1JKNGJ3LVBQYXRCNi0zXzBWaHZ4Y0VMM2JKVWU4cjg0QWltRHlwQXBwQ1pKUGNGVU01VUJDaXQ2U3dFTm1fdTdtYi1iWnR5ZXQyRmw4NlhOd2R0SEFLSXctb1VwUklQbFU3dy1GVGhEUGlHLS03TnBUWDZRN0tqMkFrWnRDSErSAbQBQVVfeXFMTmJlVnpVVHFHZllJOFhEeWEzdkFUWHlQX2xhbkdFbW8xZl9CQ3BXQ3NHa3h6SHNSSjRidy1QUGF0QjYtM18wVmh2eGNFTDNiSlVlOHI4NEFpbUR5cEFwcENaSlBjRlVNNVVCQ2l0NlN3RU5tX3U3bWItYlp0eWV0MkZsODZYTndkdEhBS0l3LW9VcFJJUGxVN3ctRlRoRFBpRy0tN05wVFg2UTdLajJBa1p0Q0hK?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "G1: Mega-Sena: seis apostas feitas em PE ganham prêmios de até R$ 176 mil na quina",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHFhLUJCaVAyR3lXX0VweTdCWmQtdlZXN1RLc1lVcV8zeWV6VnMtc0l0RmNoUFpsdU5WSkpjSXhCUVlON0kzcTZYNmlhYTlxbWsteGlKTHM5OFNzN0syclRHa1FOVDhvR2pkcTl1V3M1MVJaSXhjSk9USDVHdEtlUjJmNzk2N1Yxdld4M3ZLVEZhV1RKNmxXejBTQzlEd3lGSWtYM0lfMzNBUGtFbzdHY0tTMnQzWkJsRzVPWXNQLTY5VVVrVnRMZzY0QmJ5VlR3RnfSAeABQVVfeXFMTjNCdmpUWkpURVNvYlMyck5aWGdMRjd5ZEVCNHhNblNHMDVIcEZpaTZtOGl2d3l2c2VtbnlHMFBTNWZYdFFMYTFUT1lTRVVSM2FtcDAtRFQycVZ2ZFpFZk9aU2J5VGktU3k3eUR5enZKZ2NsUXZabzUzc0VsNC1aaVVia19xLXNfNkpKRXNWa2xWT3ZvdXZMMUhfQjFWenU3NFd2aEJTSzVOMEJEdlhGNmJLUFlrSE15bEFSLVJXQ3RkMl9pZnJTWERGaml3cHFJVlZQdHZoUGdQOGZDWmNUd20?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Acia Araçatuba: Comércio varejista de Pernambuco lidera alta em 2026",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUtxckRzNmJUM29JY1FRRVVZWGdYVVVoYTJSNUg4NW1DbHlQOG5pSzhId0padVVYMlF0R29jbFpnUzJhcGpCRFpvZ3dzUk1VVFdjOE1zMzlBNS1QQnowNFhmc1ZCeFNEMGhNQ01LU3lsaHBzZ093enNfQjJDVm1TNQ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "JC: Sete presídios de Pernambuco devem adotar padrão de segurança máxima por abrigarem membros de facções",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPam9JMExtbWI0SG53WDVDTWVPd0FsSDY5LUNHLW5MNlBRSnF6UlJSbE9KX2RxQjUtNWN0MHR3ZmxIR0xtLWlYX1lpRTQ5WWZYLVE3SHl1TmxGYW9qSlFMQTlra0xKUzItaVhsZ1RKQUdvOTJCbVotVWwtVnNTSGx1TmlHY2xaMTRZbHhFWGVwd3BOaE1NemhOT0lTS3NpRUpHdHBpNlk3U0NWOGJTbUp4RjIwVDZ0Ri1aUjFFdm1rV3l5N3dSVVBWYi1HdEhZNnR1RzNjbnJRVGx3MmpHYmdyRHNBcE9WZVJvTTZQSFNn?oc=5"
     },
     {
       "termo": "Recife",
@@ -197,26 +197,20 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Clima ao vivo: Clima ao Vivo em Recife | Câmera do tempo - veja agora - Clima ao Vivo",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QVk01b05lbHMxdzJqT0hsWHN4emlLZzVuX0QwbmIta1FHVWRMQUx1N3RLUE5lQm91bEpBYWNuYnRvR294Uk9UbVdjNzVVMHZUSXlnZHBMdVh4MjkyT2x1Ty10YWdwVXpqXzlOeHVDdVl1alM5VFRRWTNxX1I?oc=5"
+      "manchete": "Estadão: Azul anuncia 217 voos extras para Recife na próxima temporada de verão",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjhZLWtJcnR5NktTakZLcndJLVBpR2RrZGhnSHM1MVVmQWQ1S0M5RlNYMDNtNUpoU3Bkd2xqNG14aXVSMTJvTHRmZExSWHlxVTJaMnJabThteFY3Tm0wQnFNVWpLekZ0Q1gxekk3ckhBbGpYRElBLVAyX0hSRHF6NVNnSzA0ZUV1eW5zVDhaM3VweUZxTTBlRDVIN05Pb3NUam14aDFsZVZWNHdBRTQ4OGJaREw1djg0?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; não chove",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZENncndqeGRQVFYxNThiR3ZKUVRXNkRmaVZ6QWxXc1o1cFA5MW9xTzFUT295WFZ0LXozeko2eXE5UUl4UHp3bC1EUEJ2alJqZVVuNVA4MkREdFEyTDRKU2VhOUlJaGpEREZ5d1J6S0hTR2xOWGtjZHJGZS1nbEZMTFM1Z01ZN0JpaE01Ti14WV9xakZ1SG05RWU4bkNFNVRGY0tyLW5VX0tYRy1TbkY0UlJlRmo5cFNBNGpfcTB3cF9LY3FsbVJkcnB5enZnRU54NU1xcG5NMFpncHBmTGs3VFdOakvSAfMBQVVfeXFMTVpQVHFZTFdTT2NYcHdkQ2tVZnBpYW9LQW5XSkVHalF6Wlg0T3pXaUdtd0NhUDg1NFNtaTRtLWY5clRWekVYMmJwX0gtQkJYcldPZ3VZQzlGRnR4Mjg2dmE4ZHZXcWVnVlJVWm42Sm9PNDFPZ0lvV1VCeEJiZm5LaXhzdFZoUkl3OTRiUGRrbXJfWE9fSmpDV2VpZWl6RXVWU1I0VEFlQUpHNVcxelFPY19HRHZhTGstLVRqWVNyQjBkUWliVkFSemdPZjRmazRoWjdYZGZnQ1lBZmhLaWUwMVEtZHRtNjBzem9RZWs0aEN6VlBV?oc=5"
+      "manchete": "CBN Recife: Polícia investiga duplo homicídio em Ipojuca, no Grande Recife; corpos estavam carbonizados",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDNXZ0o4VzU0RHZxMmo1MExYUDJWZEtxdlZVaE5tUExSRjBsMUkxMldZMElzMm80Q0hxU0MtMklseExSeUJHNmZ3VnkyWTNBM1VWNVJHSURXZk1ibTBIZ19yQmF6eWpBVGRZVWVnNUM0RUk4SnpWV1NsMGwzcTM0YU5FS2lTZDRrQlJobThFZnc3VlpLNklQdU5YQ2d2clA2eEk3YXdzV0FES3RyOGI5X1p0T0UycXpqOTByaU1IR1o3bFVfenc?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
       "manchete": "Portal O Dia: Recife tem dia parcialmente nublado com temperaturas de 25°C a 31°C",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnJJc2RxOUJJYUJKTHM0T09IbVpqQVBYODhlMkRsMHJqQ1IwMDNucUlGNmJldjl2MkhMTXRDVWE0Q28tS1lBVFpYS0dMQUh1M1JJU0VwMWNKRE5jTlZfMzdqWDlLTXBGSlpoMC1Yc2M5bUktOVZVVDZTWTFQaHVzQUFoRWxYckVsU2pVUjJMb25hWkY3UGJtb0o5WnhQVGJrYVpBNDhfaHUwejRaWC1QT3Nwd1Nid9IBuwFBVV95cUxOdzlLVW9HT1lheEw0U0p0TDV5Mm9BSHBROVBCZWhzN0gtZ3VXbEdOZzRGZ0I0cnh4RGY4dTd0dUVNUFJKQXA0WHlab1J5Sms5WjBpRHM5bHg1OXgwdGZhV3ZKclRvU0JKWlFmb01zbHlmUjg1dkdMTVhHRTVXaWtySXJ2YlBVVGNWbUk3ZnNGdnFIemZpTzhwaXZnbkhNSmljUTRfWHhFSTNBeFQzVXRTbFkxY05Rc1g1MmFr?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Instagram: A Pena Cal Galeria (@penacalgaleria), comandada por Eva Pena Cal (@evapenacal), participa da 5ª edição da ArtPE – Feira de Arte Contemporânea de Pernambuco, no #Recife, com obras de Edineusa Bezerril (edineusasantosbezerril) e Nathalia Valladar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aQkJXQ3NUZmFaQ1JOTHVFZjdaVXdEVG5HR3dTN0VRYlZJMU93dUgzQ1p1eWxKVFV0TzBKTWoyX2tjUEswbURQR1kycF8tZlZCMkE?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -241,36 +235,36 @@
       "volume": "Últimas 12h",
       "manchete": "Jornal Desafio: Ex-prefeito de Araripina, Raimundo Pimentel vai para a Casa Civil de Raquel Lyra após derrota na disputa por deputado estadual – Jornal Desafio",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMEl6YmtUeXB0cWpiXzZuUG92QlRvSWVtSnRqTldsNHdpdTBUaVluZ1ZOTkRJbG1sQ19ad0xPZnMyRlFZbnpKdVNNX19remM1Yi1SSlc4QTZCQ0FHbmNvcHlrbmV2VkpoYk8zZElUQm04cU9DWmxiQmNacnRvenJEM1lxWmVTbzhRRWRyUUtnenlXYUhGX2otWF96NWduMWVKaDd3X3plNlI0Vm9sR2Q2Mmc4cC11clRYV0dNWC1FazdQb1lqclBoaWFIR2Exc0NVMUVwUE05Wnk2U2NMVkZlNjRERms3TExqanlv?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Elvis: Prefeito de Petrolina cobra providências de Raquel Lyra sobre falta de água",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGV6a0gycjROX24yTHM4cEJBWGFYV2ZHREFZZm1KZGJXT0NlTjNqQzF3cDdqX2tMWmNxMUYtZHp0Z2pQcFNndE0wSlNKV1Y1NVRQSXZ4Vm1pT3B4TFhDOFVONGc0cXpKclYwMk5DeWRUeFNEZVBnLWY5eTgtS3NpNHdaYmV6enVNOFBRa3htaG5Fd1Z4Mzl2TjdJQndMeEllUXFXc2llanBiY3J1X2dTZXJXNUZzVUE?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Roberto Gonçalves: João Campos está disposto a reconstruir o PSB como fez seu pai?",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZi1WQl9ZN19lWkFMLWJtbFBoaHhWYjc4ZDJMRmpTMUdGNGNJcW9CcHViRXF1aklmWUFwMUpBazlxbkRMQTVaX0FSX29UV1lEWmo0ek14bEtwaVY5ODE1c0E4YXVvVHpfaTIwSEVrSzV1MmxxOFVRcnlVU3pmV1RrUEpWNENYUUlEczRUZ2FZQU54VzlnV21mbTVyOUtET25Xcnh0djZ5Q2s?oc=5"
     }
   ],
   "picos": [
     {
       "termo": "Paulista",
-      "razao_aumento": 153.8,
+      "razao_aumento": 84.7,
       "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "VEJA",
-        "hora": "2026-10-18T13:07:39Z",
-        "titulo": "Antes do debate, Flávio Bolsonaro vai a ato na Paulista e aliados de Lula comandam eventos em grandes cidades",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXJsU0g0dGdsYlc4TE4xal9lLUpRZW4zdXhHOTM1WjJvanNQMFpvYkh0Z0RFN2dDVHUxSWZIQlY4WFlxVFV0VWV2TEllQUFSWWJBWElqQ002WG9DZEg2NGlLdnRGN2xWWU80RVNIYjU1SnVEQ1Jjbk1LdmNuM280LWZHZTl0ZXhKZExiRUJsRkp5UGZuTTBoM0ZsQ1dNQ29FV09zV2pOSTAwQQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "neste domingo",
-      "razao_aumento": 100.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Poder360",
-        "hora": "2026-10-18T09:04:52Z",
-        "titulo": "A 7 dias do 2º turno, Flávio e Lula fazem 1º debate direto neste domingo",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnl2a2RJd21NYnFHc1otdVFDQ29MUzk2am9JWGM0ZWRsbnFMMEtCMmdITkR0dUVqVURzeGo5Z2hiWGwwbGYxWEdxb2g0SHc5bVJjdnhqYkpjRnFicTVrQjJHVkUweFc4NVJjRnlqdTlIRVdqODNDN2puTV93a013SEx5VGwzNGJDamNGSUFyWFZDZWdGZDhuRTNpNHk2YS11QXBXd1pub0R1R3phLWdDa3RvLWVVczluVkYxLQ?oc=5",
-        "peso": 1.0
+        "rede": "X",
+        "fonte": "Recife",
+        "hora": "2026-10-18T17:51:17Z",
+        "titulo": "Avenida Paulista",
+        "url": "https://x.com/search?q=Avenida%20Paulista",
+        "peso": 3.3
       }
     },
     {
       "termo": "reúne apoiadores",
-      "razao_aumento": 57.7,
+      "razao_aumento": 78.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -282,55 +276,67 @@
     },
     {
       "termo": "Vox Brasil",
-      "razao_aumento": 50.0,
+      "razao_aumento": 64.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JOTA Info",
-        "hora": "2026-10-18T03:00:30Z",
-        "titulo": "Lula tem 51% dos votos válidos, e Flávio Bolsonaro, 49%, diz pesquisa Vox Brasil",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS01yNkQ4b2MwRFVTbmNBVW9STjBzb0VmQnppaW4xYndWa2J0MFg4WVg0NlhoV3pZS0F3bTB5VUFZSjdOTG5DNVd3bzAxS1U2Vl9XVjBPSnFnalE1ZnRkYU5oa3FzWm00R3YtUllSUDhGSXNRMmpNLU9mS3VIODBLT2piWTUyRGV5X0VVTXpxNmpEaE9zWUxBbmFtZjRTZTM3ZFFlV0wwX25HbkcwYkxTMUxEU0VQeDhVNW51OQ?oc=5",
+        "fonte": "Vermelho",
+        "hora": "2026-10-18T11:34:00Z",
+        "titulo": "Lula vira e vai a 51% contra 49% de Flávio Bolsonaro, mostra pesquisa Vox Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWRadXU0TWNJQXRJX2p6UWp4MV85b3l4RXVnaHc5T0dEbzY3VkpRSG10RWZOeDl5RVhYZGM0T2VTd3EyY1VmcDQydGZoMy15MVdCYzl6bUVLaVJ2X0M2RXBpeFE1emJWcDZGSUJZSHdxbFZoTE1kaHpvaVJzeUtSQ3VxRW1haGlrWHZjUGU5Ukg4dUZLZEE1UlZSVEg1SDlBR1B0VHdBakpBZw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Flávio e Lula",
-      "razao_aumento": 46.7,
+      "termo": "Pesquisa Vox",
+      "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Poder360",
-        "hora": "2026-10-18T09:04:52Z",
-        "titulo": "A 7 dias do 2º turno, Flávio e Lula fazem 1º debate direto neste domingo",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnl2a2RJd21NYnFHc1otdVFDQ29MUzk2am9JWGM0ZWRsbnFMMEtCMmdITkR0dUVqVURzeGo5Z2hiWGwwbGYxWEdxb2g0SHc5bVJjdnhqYkpjRnFicTVrQjJHVkUweFc4NVJjRnlqdTlIRVdqODNDN2puTV93a013SEx5VGwzNGJDamNGSUFyWFZDZWdGZDhuRTNpNHk2YS11QXBXd1pub0R1R3phLWdDa3RvLWVVczluVkYxLQ?oc=5",
+        "fonte": "Vermelho",
+        "hora": "2026-10-18T11:34:00Z",
+        "titulo": "Lula vira e vai a 51% contra 49% de Flávio Bolsonaro, mostra pesquisa Vox Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWRadXU0TWNJQXRJX2p6UWp4MV85b3l4RXVnaHc5T0dEbzY3VkpRSG10RWZOeDl5RVhYZGM0T2VTd3EyY1VmcDQydGZoMy15MVdCYzl6bUVLaVJ2X0M2RXBpeFE1emJWcDZGSUJZSHdxbFZoTE1kaHpvaVJzeUtSQ3VxRW1haGlrWHZjUGU5Ukg4dUZLZEE1UlZSVEg1SDlBR1B0VHdBakpBZw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Avenida",
-      "razao_aumento": 38.5,
+      "termo": "Pesquisa Vox Brasil",
+      "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-18T14:27:49Z",
-        "titulo": "Flávio Bolsonaro chega à Avenida Paulista para ato de campanha",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHhqUU9QQUNTbzNzdldJMnhQZllOellhaTNCclA0RTZVTlZNOXpoWnUxY0U5cVYyLXUtdWtaY3oycVBzOEJTU0lBMEVJUXNiWVFsNVFjX2RpMGJiTnpERm1wcGZqNHc4SXl6eENmcUx3eDRuR1hLQldDLWowcnRKcy1xOHFuTnVMM3JVSHA0a2loNndxMzltMWNxZndZc0HSAa4BQVVfeXFMT19sQnAySGVZSk5HUmlXNVdJd2NwVFZSQTE2bWN4T05KTWVuYWRPcEk0RGV4YzdFNy1TUUx4OWR1bm1LRG4zWjNrMnFRN3V1ZjJPZGI1Q0FQSjZnSFlUWE9yRGthQk9xRzVFSVBPWU1DUzRPZ2Q3eER6a0F3NmNTQ0lUa05DT1hQV2F3MlY0a3dPekV2OEw5VkZ3TEJlX0RpQnlCcFdFWkd5Ql92bmNB?oc=5",
+        "fonte": "Vermelho",
+        "hora": "2026-10-18T11:34:00Z",
+        "titulo": "Lula vira e vai a 51% contra 49% de Flávio Bolsonaro, mostra pesquisa Vox Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWRadXU0TWNJQXRJX2p6UWp4MV85b3l4RXVnaHc5T0dEbzY3VkpRSG10RWZOeDl5RVhYZGM0T2VTd3EyY1VmcDQydGZoMy15MVdCYzl6bUVLaVJ2X0M2RXBpeFE1emJWcDZGSUJZSHdxbFZoTE1kaHpvaVJzeUtSQ3VxRW1haGlrWHZjUGU5Ukg4dUZLZEE1UlZSVEg1SDlBR1B0VHdBakpBZw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Avenida Paulista",
-      "razao_aumento": 38.5,
+      "termo": "atos pró Lula",
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-18T14:27:49Z",
-        "titulo": "Flávio Bolsonaro chega à Avenida Paulista para ato de campanha",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHhqUU9QQUNTbzNzdldJMnhQZllOellhaTNCclA0RTZVTlZNOXpoWnUxY0U5cVYyLXUtdWtaY3oycVBzOEJTU0lBMEVJUXNiWVFsNVFjX2RpMGJiTnpERm1wcGZqNHc4SXl6eENmcUx3eDRuR1hLQldDLWowcnRKcy1xOHFuTnVMM3JVSHA0a2loNndxMzltMWNxZndZc0HSAa4BQVVfeXFMT19sQnAySGVZSk5HUmlXNVdJd2NwVFZSQTE2bWN4T05KTWVuYWRPcEk0RGV4YzdFNy1TUUx4OWR1bm1LRG4zWjNrMnFRN3V1ZjJPZGI1Q0FQSjZnSFlUWE9yRGthQk9xRzVFSVBPWU1DUzRPZ2Q3eER6a0F3NmNTQ0lUa05DT1hQV2F3MlY0a3dPekV2OEw5VkZ3TEJlX0RpQnlCcFdFWkd5Ql92bmNB?oc=5",
+        "fonte": "- Blog Dellas",
+        "hora": "2026-10-18T00:29:00Z",
+        "titulo": "Camisa do Brasil e gesto de \"L\" ganham as redes em meio a atos pró-Lula em Pernambuco neste sábado (17) -",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0FqZ0V6R0JINXJUYWlPVERpSUNMWFdtbEhZV0hGTnkxWFFWWE9lZDNhQWJ6MnBocm45b0hmSDd1aWpYR2lLMzQ4UVM2OVlhbmNRQ1JVcWxVX3RqT2FzNmhPVXZMSjNQZm1BUnoxQ2FNWm4xcmNpSVRNVWxsbXJCblJXUWx3Zm5lZEc0bkkzUUVZUzBsQzRSa1g2Zmo4dVFWYTNYSlRZay16ZV9UMk5HeHdENVl1UlVsUm5PSjhETUNOQXFr?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Bolsonaro reúne",
-      "razao_aumento": 38.5,
+      "razao_aumento": 52.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-18T14:05:24Z",
+        "titulo": "Ato a favor de Flávio Bolsonaro reúne apoiadores em Goiânia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlFSWm9FRHVld1FaeW9FYUNBcmlvREdXRmd0SjE0X2NLZ2NyZFhFRFpoZzg2bGliNmlXUDdMX1N0a1R3TW0yZFFEalNEdlMwNE1mekFNYTRLWG9JOHFSVUVhQTVXWV9HcktzUlRrVUdZYndNSTNWWEdhamZmejd5QjBWbUsxd3dZMlZNRFFRVXVBYVNiYlhZTnZBdUpDUlc0dXRsU1pIa28wLUlHSXQyQ1hDNlDSAcMBQVVfeXFMTjJRcldnZXlxelpxM0xnbElRaWtUVDBCUE85cGU5NkhfM0RVQXprYmRQUFktdlBXc19MQlNUSDl5ajV5RlNoTW9BRlE1aWprRXRxYjN2cmdkcjJEb1hlRWk0enFvRnJWSVlsZU9qSnRBekZVVU9GVWFmcWQ4QWtWQk5TT3JoMy10anV1clE2Vnp4QlFpZnlBdjNGZWlSVmxHOXpqVzNBakFGNXhKLXVxUWJteHZ0T2ZlWXB3ZjhOM0ljNjhr?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Flávio Bolsonaro reúne",
+      "razao_aumento": 52.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -343,273 +349,273 @@
   ],
   "nuvem": [
     {
-      "termo": "Flávio",
+      "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 25.62,
+      "fatia_pct": 25.97,
+      "fontes_distintas": 19
+    },
+    {
+      "termo": "Flávio",
+      "peso_relativo": 94.8,
+      "fatia_pct": 24.63,
       "fontes_distintas": 18
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 95.2,
-      "fatia_pct": 24.38,
-      "fontes_distintas": 17
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 86.8,
-      "fatia_pct": 22.23,
-      "fontes_distintas": 17
+      "peso_relativo": 84.8,
+      "fatia_pct": 22.01,
+      "fontes_distintas": 19
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 72.1,
-      "fatia_pct": 18.46,
-      "fontes_distintas": 15
+      "peso_relativo": 60.3,
+      "fatia_pct": 15.67,
+      "fontes_distintas": 16
     },
     {
       "termo": "Paulista",
-      "peso_relativo": 30.0,
-      "fatia_pct": 7.69,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "Raquel",
-      "peso_relativo": 21.0,
-      "fatia_pct": 5.38,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Lyra",
-      "peso_relativo": 21.0,
-      "fatia_pct": 5.38,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 21.0,
-      "fatia_pct": 5.38,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 21.0,
-      "fatia_pct": 5.38,
-      "fontes_distintas": 5
+      "peso_relativo": 49.7,
+      "fatia_pct": 12.91,
+      "fontes_distintas": 11
     },
     {
       "termo": "Brasil",
-      "peso_relativo": 21.0,
-      "fatia_pct": 5.38,
+      "peso_relativo": 20.1,
+      "fatia_pct": 5.22,
       "fontes_distintas": 7
     },
     {
+      "termo": "Band",
+      "peso_relativo": 19.5,
+      "fatia_pct": 5.07,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 19.3,
+      "fatia_pct": 5.0,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Raquel",
+      "peso_relativo": 17.2,
+      "fatia_pct": 4.48,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 17.2,
+      "fatia_pct": 4.48,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 17.2,
+      "fatia_pct": 4.48,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "neste domingo",
+      "peso_relativo": 17.2,
+      "fatia_pct": 4.48,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Olinda",
+      "peso_relativo": 17.2,
+      "fatia_pct": 4.48,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Gomes",
+      "peso_relativo": 16.4,
+      "fatia_pct": 4.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "João Gomes",
+      "peso_relativo": 16.4,
+      "fatia_pct": 4.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Blanco",
+      "peso_relativo": 15.5,
+      "fatia_pct": 4.03,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lua Blanco",
+      "peso_relativo": 15.5,
+      "fatia_pct": 4.03,
+      "fontes_distintas": 1
+    },
+    {
       "termo": "Estar",
-      "peso_relativo": 18.0,
-      "fatia_pct": 4.62,
+      "peso_relativo": 14.7,
+      "fatia_pct": 3.81,
       "fontes_distintas": 1
     },
     {
       "termo": "Vivos",
-      "peso_relativo": 18.0,
-      "fatia_pct": 4.62,
+      "peso_relativo": 14.7,
+      "fatia_pct": 3.81,
       "fontes_distintas": 1
     },
     {
       "termo": "Estar Vivos",
-      "peso_relativo": 18.0,
-      "fatia_pct": 4.62,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Vacina",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Salva",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Vida",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Tira",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Vacina Salva",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Salva Vida",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Vida Bolsonaro",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bolsonaro Tira",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Vacina Salva Vida",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Salva Vida Bolsonaro",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Vida Bolsonaro Tira",
-      "peso_relativo": 17.1,
-      "fatia_pct": 4.38,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Paulo",
-      "peso_relativo": 16.2,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Gustavo",
-      "peso_relativo": 16.2,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Paulo Gustavo",
-      "peso_relativo": 16.2,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "QUEREM",
-      "peso_relativo": 15.3,
-      "fatia_pct": 3.92,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ESQUEÇA",
-      "peso_relativo": 15.3,
-      "fatia_pct": 3.92,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "neste domingo",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Flávio e Lula",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "ESQUECER",
-      "peso_relativo": 14.4,
-      "fatia_pct": 3.69,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Covid",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.46,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Felca",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.23,
+      "peso_relativo": 14.7,
+      "fatia_pct": 3.81,
       "fontes_distintas": 1
     },
     {
       "termo": "Eleições",
-      "peso_relativo": 12.0,
-      "fatia_pct": 3.08,
+      "peso_relativo": 14.4,
+      "fatia_pct": 3.73,
       "fontes_distintas": 4
     },
     {
-      "termo": "SOMOS",
-      "peso_relativo": 11.7,
-      "fatia_pct": 3.0,
+      "termo": "Lula e Flávio",
+      "peso_relativo": 14.4,
+      "fatia_pct": 3.73,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Exercito",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.58,
       "fontes_distintas": 1
     },
     {
-      "termo": "EXERCITO",
-      "peso_relativo": 11.7,
-      "fatia_pct": 3.0,
+      "termo": "Exercito Do Lula",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.58,
       "fontes_distintas": 1
     },
     {
-      "termo": "EXERCITO LULA",
-      "peso_relativo": 11.7,
-      "fatia_pct": 3.0,
+      "termo": "Lula Na Band",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.58,
       "fontes_distintas": 1
     },
     {
-      "termo": "EXÉRCITO TE",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.77,
+      "termo": "Vacina",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "TE AMA",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.77,
+      "termo": "Salva",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "LULA SEU EXÉRCITO",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.77,
+      "termo": "Vida",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "EXÉRCITO TE AMA",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.77,
+      "termo": "Tira",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "BOLSONAROS",
-      "peso_relativo": 9.9,
-      "fatia_pct": 2.54,
+      "termo": "Vacina Salva",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "NUNCA",
-      "peso_relativo": 9.9,
-      "fatia_pct": 2.54,
+      "termo": "Salva Vida",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "BOLSONAROS NUNCA",
-      "peso_relativo": 9.9,
-      "fatia_pct": 2.54,
+      "termo": "Vida Bolsonaro",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonaro Tira",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vacina Salva Vida",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Salva Vida Bolsonaro",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Vida Bolsonaro Tira",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Avenida",
+      "peso_relativo": 12.4,
+      "fatia_pct": 3.21,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Avenida Paulista",
+      "peso_relativo": 12.4,
+      "fatia_pct": 3.21,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Roberta",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.13,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Messi",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.13,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Roberta Messi",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.13,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "atos pró Lula",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.99,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "ato de Flávio",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.99,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Rebelde",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Paulo",
+      "peso_relativo": 10.3,
+      "fatia_pct": 2.69,
       "fontes_distintas": 1
     }
   ]
