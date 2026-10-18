@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-18T01:31:42Z",
-  "total_analisado": 114,
+  "atualizado_em": "2026-10-18T06:35:30Z",
+  "total_analisado": 106,
   "x_recife": [
     {
-      "termo": "#LulaTemOMaiorExercitoDoMundo",
+      "termo": "#Lula13",
       "posicao": 1,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23Lula13",
+      "ruido": false
+    },
+    {
+      "termo": "#LulaTemOMaiorExercitoDoMundo",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23LulaTemOMaiorExercitoDoMundo",
       "ruido": false
     },
     {
-      "termo": "#DesbloqueiaOJanonesFlavio",
-      "posicao": 2,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23DesbloqueiaOJanonesFlavio",
-      "ruido": false
-    },
-    {
-      "termo": "#LulaJaSomos5Milhoes",
+      "termo": "#ExercitoDoLulaDominouTudo",
       "posicao": 3,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaJaSomos5Milhoes",
-      "ruido": false
-    },
-    {
-      "termo": "#LulaSeuExercitoTeEspera",
-      "posicao": 4,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaSeuExercitoTeEspera",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23ExercitoDoLulaDominouTudo",
       "ruido": false
     },
     {
       "termo": "#LulaSeuExercitoTeAma",
-      "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 4,
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=%23LulaSeuExercitoTeAma",
       "ruido": false
     },
     {
-      "termo": "BATEU O DESESPERO",
+      "termo": "Roberta Luchsinger",
+      "posicao": 5,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Roberta%20Luchsinger",
+      "ruido": false
+    },
+    {
+      "termo": "#LulaJaSomos5Milhoes",
       "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23LulaJaSomos5Milhoes",
+      "ruido": false
+    },
+    {
+      "termo": "ACABOU LULA",
+      "posicao": 7,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=ACABOU%20LULA",
+      "ruido": false
+    },
+    {
+      "termo": "FLAVIO ALIADO DO CV",
+      "posicao": 8,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=FLAVIO%20ALIADO%20DO%20CV",
+      "ruido": false
+    },
+    {
+      "termo": "Lulinha",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Lulinha",
+      "ruido": false
+    },
+    {
+      "termo": "BATEU O DESESPERO",
+      "posicao": 10,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=BATEU%20O%20DESESPERO",
       "ruido": false
     },
     {
-      "termo": "Roberta Luchsinger",
-      "posicao": 7,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Roberta%20Luchsinger",
-      "ruido": false
-    },
-    {
-      "termo": "FALA TUDO ROBERTA",
-      "posicao": 8,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=FALA%20TUDO%20ROBERTA",
-      "ruido": false
-    },
-    {
-      "termo": "LULA PAI DA MENTIRA",
-      "posicao": 9,
-      "variacao": "+13",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=LULA%20PAI%20DA%20MENTIRA",
-      "ruido": false
-    },
-    {
-      "termo": "Lulinha",
-      "posicao": 10,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Lulinha",
-      "ruido": false
-    },
-    {
-      "termo": "Andreas",
+      "termo": "LULA REELEITO",
       "posicao": 11,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Andreas",
-      "ruido": false
-    },
-    {
-      "termo": "FLÁVIO DEVOLVE A ILHA",
-      "posicao": 12,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=FL%C3%81VIO%20DEVOLVE%20A%20ILHA",
-      "ruido": false
-    },
-    {
-      "termo": "LULA CORRUPTO E MENTIROSO",
-      "posicao": 13,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=LULA%20CORRUPTO%20E%20MENTIROSO",
-      "ruido": false
-    },
-    {
-      "termo": "TORCEDORES COM LULA",
-      "posicao": 14,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=TORCEDORES%20COM%20LULA",
-      "ruido": false
-    },
-    {
-      "termo": "NÃO ENGAJEM",
-      "posicao": 15,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=N%C3%83O%20ENGAJEM",
+      "url": "https://x.com/search?q=LULA%20REELEITO",
       "ruido": false
     },
     {
       "termo": "Celso Daniel",
-      "posicao": 16,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 12,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Celso%20Daniel",
       "ruido": false
     },
     {
-      "termo": "MENTIROSO E MAU CARÁTER",
+      "termo": "LULA PAI DA MENTIRA",
+      "posicao": 13,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=LULA%20PAI%20DA%20MENTIRA",
+      "ruido": false
+    },
+    {
+      "termo": "FALA TUDO ROBERTA",
+      "posicao": 14,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=FALA%20TUDO%20ROBERTA",
+      "ruido": false
+    },
+    {
+      "termo": "LULA NÃO MATE A ROBERTA",
+      "posicao": 15,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=LULA%20N%C3%83O%20MATE%20A%20ROBERTA",
+      "ruido": false
+    },
+    {
+      "termo": "Tchê tchê",
+      "posicao": 16,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Tch%C3%AA%20tch%C3%AA",
+      "ruido": false
+    },
+    {
+      "termo": "Paulo Gustavo",
       "posicao": 17,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=MENTIROSO%20E%20MAU%20CAR%C3%81TER",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Paulo%20Gustavo",
       "ruido": false
     },
     {
-      "termo": "LULA MACHISTA",
+      "termo": "LULA CORRUPTO E MENTIROSO",
       "posicao": 18,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=LULA%20MACHISTA",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=LULA%20CORRUPTO%20E%20MENTIROSO",
       "ruido": false
     },
     {
-      "termo": "Igor Gomes",
+      "termo": "Connor",
       "posicao": 19,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Igor%20Gomes",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Connor",
       "ruido": false
     },
     {
-      "termo": "Athletico",
+      "termo": "França",
       "posicao": 20,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Athletico",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Fran%C3%A7a",
       "ruido": false
     }
   ],
@@ -173,32 +173,26 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Menina de 6 anos morre após casa pegar fogo em João Alfredo",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN0ZXYmpiY1V4QUFNcnI4aVV3V1hVN1pfMlI3YUFuTHRCelltNzZvQkhfd2g1TGd0eHRuVnZaQVAtUkR0RGswckpQcmJidlhsRFdZdGxLM3I3OHQ1REpLcE5Ga2lDa043dzdvYzlYVmpuSlBvSG5UQkJteENsTFRsV18yRy1WbWdhX0ZwZ2ExWUtYbXZoblFqS1hZX0xKX1hobUZWSERsa0RvNFhSZlVZcUFrcXdraXZLZzdlT0JMUdIBzgFBVV95cUxNVDkzM3FuTUdTVWY5Wmh6YURjMzBkN0k4ZXR2YzBKU1hsNEdZOVVvN3FGcDdDem1LV2lBLU9WT0NXaTZHSTY1b0FNQTRTeHZMTzd2YmZ3NUE0dzYwaUtYTHhIX2ZBT1hNQmxYNDREa3IxRDUyZXRZRkVOQm15V1N6MzMzbmFfY2ZIQXR1a3EzN2xURERDRHhtRWhwUVRlQ2RFVnd0alBKVWlXeVgyaGlETlBVSWk5SURtR3gwMFVyTUVFLWpDaXRZd01scTlaQQ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
       "manchete": "- Blog Dellas: Lula volta a Pernambuco em 20 de outubro para ato de campanha em Petrolina -",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3JEa1hCb0dPX1RWVmhpSld3UjlJMW1JeW5HaWFuTFZ5ZEJ3M2VWVUFHMXVvVVRQRnVucFZmZmc3bF9BQ3BOUHN2TUhhZm5GSVdkdUtQREJEOWhxR0JxQjRYWGRnWXFpR3RMdDJyejd1aS1xbU9EMVZuQjlUd1l2Ui12bWpLYXM1TDhtUmVBWVBTbEUxS2Z3SkxOdUNEbFplOVhz?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Confirmada agenda de Lula em Pernambuco na próxima terça",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjVMOGJjM2Z4Q3NHbnROT19HY0x6VFZrSmJueGw0bm4zZmI2N29COFFNOHRHaHhPX3FfWlNWb0NIcmJxZ2Q5OG5QSGZNazc2UlNGbGNidHB0dEVGUGREUlJlb3ZzQi03THBWbUk4Z1I4emF5OUdoSS1qVHUxXzFsQ094bWhCUFVqa1MxZA?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "ANF - Agência de Notícias das Favelas: Seis seções eleitorais de Pernambuco mudam de endereço no 2º turno - ANF",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzJndDdZd3NqeUVMcFdJTTZ6eWRJUkRUdFFZY1dXcHViOXF5bUpSc0djVzU3V214cHlWRGtFWDgzaC1vNkpVX013XzBST25iWDhZU0UtOHctOVlMR1BJZ3pvNEhwLU83Z1ZjMGl2UUhPaVlEVFNCMHNlOEFnN28zRUY2a3FoeGJrVWdldHczQzFidEtJ?oc=5"
+      "manchete": "Márcio Didier: Pernambuco amplia rede de Escolas Técnicas com 15 novas unidades em 2027",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16MnNPODJvelYtdUZ6LTh3OWwwQndhMTFHUWpOdUVSeC1KQV9QLURMWGZac1lfanR2TTFYU3poc1dBNXA3YXFZN1BhemtQbGozYUhJY3BsRE5jbnpvclU3NTE4ZW1XblR6eXNjVVdYZW5xcGtL?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Agência Brasil: Recife vai sediar maior festival de animação do Brasil, o Animage",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVJsbWZiekJhODZvclJBbkphTjg2MVNMRVpGWjMtczJnWjB2ZDVJYWxSMEVJc3ZCdTVyZWVTU3F6Mkd4bjczQ2xzQVVyTVNWVXdzbDdjdjlnem5BZVNkLXk5T0pSQUxNeWZGS3E3SnlneGJpQVRmWWxkcG0taU04TmJMTGd5YmZEWXpwdVJsbkF3SzBpck1qX2sxWG0yTlo3TExhVV9tZlc1elNPcFZVRGNFYy1iZE1hTDZjdFFn?oc=5"
+      "manchete": "G1: Carro do ovo é usado para conscientizar contra feminicídio nas ruas do Recife",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcWoxallGbTRXQ2hRTEI1d3pzMVd0X3pPZC1PcE03dHc5ek9uYUtyR0JoVUlPRkM0MmQ4dkNiU0IzeGxudS1leTZad0ZMd2pYa1Q1LXNEMUp0SEVjSHp1Wm9xQm5GYVBWTW1ZRm9sOTVsM1VxSGU1MlVnM3dMY05CU01MT3RHQWxtR3NucjlkaTllcno2ckFSTktyYzdKNUtBbk8xOWxSNmh4T1A5ck1mQVcyWmozRU5scTkxbGladU0tZnE3YVI5ek1ZLVRDWXNZLXRlc1Z30gHkAUFVX3lxTE1KZnE4QkI2YS12VjBKME9Hc0pYY284TEY4QmNNQUV6bTd5OFVuYlNrMEVhMW9CeGtORnhFaDFDMVE3cXhOdXM1U01URDlsYmVyb2xyVlYyMld1WVlCNEdqenJHcDhKTnJFUVRVVXRXYUw2WGlrdzY3djJNXzY3T2tNUXdGZ0lGUTYxY2RBbUNvMW5aNi1mTnVDenhlMl9kZV9XRUFNdFZjVXlJMGprNUc2anVHSlRUUHZaLTRTOEF5R1hoX0d2VVhlNXhGamJ6eS1XRFZaU2VkcXNqX1hETGZMMDFUeQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Clima ao vivo: Clima ao Vivo em Recife | Câmera do tempo - veja agora - Clima ao Vivo",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QVk01b05lbHMxdzJqT0hsWHN4emlLZzVuX0QwbmIta1FHVWRMQUx1N3RLUE5lQm91bEpBYWNuYnRvR294Uk9UbVdjNzVVMHZUSXlnZHBMdVh4MjkyT2x1Ty10YWdwVXpqXzlOeHVDdVl1alM5VFRRWTNxX1I?oc=5"
     },
     {
       "termo": "Recife",
@@ -207,64 +201,28 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0FzMEkycUROc2lRQXhJbmY3bUM0cDZBMzByVkZ5RHd6RXFLakNQeWFBOVpORzlCdnpCM1BwM0xEWHQ3dXk0bVhQQ1Jwd0dzaEIySnBDaElkcmFuUkFrSnZERFdUd1czVjlNa2lMSWMxRkUxRFdnLXZmeXNKbzNraDNKOW5HaGZXb2RNaUhqSE1uOFBFbkI1SmV3UFNIMVBHUk5CZzJKNA?oc=5"
     },
     {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "G1: No Recife, carro do ovo é usado para conscientizar contra feminicídio",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXFKcVRZQ0h3cWIwQW9SWlFfNUs2RkNhNWVUZ0hNOEM4cnRvZ2lFaHRHaUd2ZjBFWDNyalJKOGhodk4wbTNjR0Q5QjEwTzBYYnQzNDQ0T3h5Q1p0T2lwLWNIVUpQYTVXdElDTkNmLTBiS1ptNF9wOHA3OV83b3JaZC1WUzBOeC1wMDdkT2k2dndTTTg0TXI1QS1BY3JicThZUTg1TE53cUlVUXRuVV9qOFg2LWNUMlJwRTVyYnY1bzJZQmlJ0gHTAUFVX3lxTFB3REtIMVN6MHhnQkUxUVc3ZTg5eE1lSGctVWUyMGJnUTM3aDFCZms5bXJKZjRDckhYZHZoWExPandqbGtia0pWelMzYUtlbnBaSUlqdC1IN08yQXNZMTdMYVhJMHB6UkFERWdpcWFBV2EtazZoNlZ1RVZwUFpnLVptanBpZmhVWWkxZEhHSTdGb2dMNEFXbUtDcXRoYUtOdE9Zeko4ZHBWdkhzN0s2ek0xMWRnTUpXSlVBRmY3dW5LOUhiWFVHeVFGbnI0bF9Jcko0R1E?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "band.com.br: Caminhão desgovernado atinge ônibus e deixa feridos em Recife",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjB5YmpoX05qN2hLcXhhT2pTdGFvS3RuY1VBbGVzMGhpV2NuVmNOeVV2dWYwSWh4OHl6cHZXX3N3SjN2UjZFNE5lR3VoZHNXQjkxc05RVGJJd1hZQk5Kbzh1eEw1UWRieGVWeVoxN1lxd3B5OGpVcFRncWlmaEI3ZUx5MDd2YlFCQXRFcFJMRzR1MmpTV1BtQ3pxZjhRSjRGcU1wWHEzVTNDV1V1WnMwZlBWU0o?oc=5"
-    },
-    {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Diario de Pernambuco: VLT colide com carro em Jaboatão pela segunda vez em uma semana",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGVIVHBBUVlnZlYzd2xqNkRhXzVuN1BwS2wxV0JoQWxGcU4xTEtQM3c3SnlYeEZ5TTg4Rzhfcmc5Nl84ZHhHaVpkVzdEcWUtQ3NfTXJFekNVbGxvM3BNNW1EM0szZVhGX0Nnc3JZNzNNWlNYNHZhZzltQzlXWVN4V1hqU3E4eHZ0T2pLcVY5aER0a2k2b3Zwbm1XRDNVaWFLOFUtSndNb0p5M0ltTm5IVWNnZFBBVWM2NjV1SE9HSkdnQlVzT2Z1UFBBWnpGUTdX?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Diário do Transporte: CBTU rescinde contrato de empresa responsável por fornecer 27 motoristas ao sistema de trens do Recife",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcHFfWU1yeWFLSDFtR1hsV2RTOENJNzZGOXl0ckNjU05VNGVUSE9jeVZaWU9qSzBncXE3V0JiUnBIakhpWGlGYi1OQzdlSXhLOTNPVzdkLXo2bC15ZTJwdjJ0NjNRM01ucEdPdFFKTFp6bTdZOXRVWWNDWnc2dG5EclVjcDNtYXRTZzZ5dDB5cUNmanJLWVAxb2VWM3hfaGg3YWNWanMtTFItZ1hYcXJoQ1NmazZvX0sxa3MzMnBmWHdFNWRJMmtjV0ZXRjdnTXVWU0Q3M1VpUjZhM3Joc093eG5BQTRSWVXSAecBQVVfeXFMTnBxX1lNcnlhS0gxbUdYbFdkUzhDSTc2Rjl5dHJDY1NOVTRlVEhPY3lWWllPakswZ3FxN1dCYlJwSGpIaVhpRmItTkM3ZUl4SzkzT1c3ZC16NmwteWUycHYydDYzUTNNbnBHT3RRSkxaem03WTl0VVljQ1p3NnRuRHJVY3AzbWF0U2c2eXQweXFDZmpyS1lQMW9lVjN4X2hoN2FjVmpzLUxSLWdYWHFyaENTZms2b19LMWtzMzJwZlh3RTVkSTJrY1dGV0Y3Z011VlNENzNVaVI2YTNyaHNPd3huQUE0UllV?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Carlos Britto: TRE-PE envia ofícios a entidades sobre gratuidade no transporte público para 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUtFU0hsQmprMC1QQ3VDOXN3el9HTVR2Wl8yRmtmMzR1V2xDNk5CQlZCbDhnUldYN1hPWHlrc0ZpZnlCckc1dENrNnZOeFBwX3g4MEtocjRWbDV0ZHoydzRuSG9UVXgwRVZlLXhDYm16N21yZjVmWGJfUmNCNThxcW9xRUNMSXlmaTZkbXlPaVBjb2hERml2SzEwY0QzTFZiMzNOVS1jN2FDZUNFWF9raEVncEFTdw?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Instagram: O Governo da Bahia transfere o feriado do Dia do Servidor Público Estadual, celebrado em 28 de outubro, para dia 30, uma sexta-feira. A mudança foi publicada no Diário Oficial do Estado (DOE) deste sábado (17) e anunciada pelo governado Jerônimo Rod",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FdVBtRXRYN3BrVHg1c203cUxqdFRHUFF4MVdoNG5JaUhMeTZjTFNGMVdKTTZnUXBONkJVTGpocUl0dWh0SHNGUzhnRjZuRDlSLUJQYnd3?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog de Assis Ramalho: No Recife, Governo de Pernambuco investe mais de R$ 16,7 milhões em obras de contenção de encostas para proteger 1,5 mil moradores de Coqueiral",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlFEQm51NjlNcnhiVjNLbnFMMFZ4OUNLOHBEOENtVW9XNUJtcFhXXzA3VVlpTDdTMU8tWkt3dzQteE1DdWlVR0RNci11bzBPcFNQdkxONTE0ejNxZ2pjOHJ0YkJHOUZseVEwbkdUb2hJZkNFcmVpSDhrNjBvS25GbEt2a1NXQzJkSXZhRA?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Atos",
-      "razao_aumento": 111.1,
+      "termo": "fazem ato",
+      "razao_aumento": 115.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Band",
-        "hora": "2026-10-17T20:45:00Z",
-        "titulo": "Atos pró-Flávio Bolsonaro têm carreata e discursos em Curitiba",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVU1pYnRqS3FHRG8ta0w2T090cTF4QTdyYkt6UGJUMzlrNzFBN29rWUQ5VUxCUTNMeE9PNHYzMTB6aEczT0JfaDBlTGpVTEJKQVRVcEE2LU9RbkIzNnhEZ0ZIRFo2YWF3WWo3aWxPQURIWEVkcmEyNDlDeDVWVEJCY3JBVWhSSm92cTFaR3c4WEVLTHZSc2ZXRV82dnE0M3RGWDRyMThsRQ?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-17T22:44:10Z",
+        "titulo": "Manifestantes fazem ato pró-Lula em BH",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNnk0SG9QczdOSnZjNFRJTDNpRnJtZVdNQXdWQVRXUTlTOEhPMjVseUZkeEdNQTRmaFNjUHF0dzlsNXJId1JFU3RycXhxMlNHWjh0XzZnZzZxa09qY0F5WHRnNWwtMkE2cUdkR3RTeFBIamI3WWIzc0pLX1hYX1BXUU9hWURnWjRiZlBrRzdlMC1YdFFQcXczWkhyS3U2XzhPVWfSAbABQVVfeXFMTUE3Y3B5Nk9CcDhtaGg0Yk54UWlibkxQNVpjb0luNFVZb0NyNlV0ZC1XQWpzLUZaMnVtN1hManNCQ2lqMzgzQi1kSWRkMkdJY0Q4ZWR1RVg2eFpOYnh2cmlRbExrc3IySTRhYVh6MXpnVHROU0l3RHpZV2hUVHFPVnBNdUFuMFJuWlpEQWNzcGMtb09aUUIwRmFpS3ZGVW5IZV9xX1pRTzczQ1hneG5XS04?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "reconstruir o PSB",
-      "razao_aumento": 76.9,
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -275,20 +233,8 @@
       }
     },
     {
-      "termo": "ex ministros",
-      "razao_aumento": 76.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Poder360",
-        "hora": "2026-10-17T19:26:31Z",
-        "titulo": "Ex-ministros de FHC e intelectuais fazem carta em apoio a Lula",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT290VFpCbmNFTXhlaWExUTVSYnd1U2tzc0tHa2xONzRZVHhtWWRlNE8zVnB4WkppUE1NUmZ6U0txUkR3emQza19mVlFkR0xidVV4ZGZkdGRGUjY0TDRSelAwOGNaMHE1RlpEYlpSV0VTTUZ1a1VjOWZiU1RvZXB0enlqQV81eGNiYUg0b0p2dVA1T0V1WDRZVTlGWkU2cldWSjhoaGNnd1RXeUM5S1FQbQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
       "termo": "Escolas",
-      "razao_aumento": 76.9,
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Secretaria de Educação e Esportes de Pernambuco",
@@ -300,7 +246,7 @@
     },
     {
       "termo": "Técnicas",
-      "razao_aumento": 76.9,
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Secretaria de Educação e Esportes de Pernambuco",
@@ -312,7 +258,7 @@
     },
     {
       "termo": "Estaduais",
-      "razao_aumento": 76.9,
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Secretaria de Educação e Esportes de Pernambuco",
@@ -324,7 +270,7 @@
     },
     {
       "termo": "Escolas Técnicas",
-      "razao_aumento": 76.9,
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Secretaria de Educação e Esportes de Pernambuco",
@@ -336,7 +282,19 @@
     },
     {
       "termo": "Técnicas Estaduais",
-      "razao_aumento": 76.9,
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Secretaria de Educação e Esportes de Pernambuco",
+        "hora": "2026-10-17T20:39:51Z",
+        "titulo": "Pernambuco amplia rede de Escolas Técnicas Estaduais com 15 novas unidades a partir de 2027",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk1MZVJPbG1weWFxeHVoaVlrSGdJZ1hZSmFPQS03c29UOW5odnRvc3NfX3F2ekpPUllBZ1hWWGIyWENGWFBBMi1iWnc4RExUS0xDQlFkenAwcUtuZk1rMVRBYy1wU1BUUUI5bFJyd3hob0NWVkd4Si1fajhxbjVnWVZnWFRnWFVpTVlrWGN2aEhINlBMdXdPQ0x4d0hBcWhMSHBSbHZsLWk3WjVTQXh4VHo2RXFmOC15WkQzVFpQTEZWYTM5?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Escolas Técnicas Estaduais",
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Secretaria de Educação e Esportes de Pernambuco",
@@ -349,274 +307,274 @@
   ],
   "nuvem": [
     {
-      "termo": "Lula",
+      "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 23.57,
-      "fontes_distintas": 18
+      "fatia_pct": 23.42,
+      "fontes_distintas": 16
     },
     {
-      "termo": "Flávio",
-      "peso_relativo": 99.2,
-      "fatia_pct": 23.38,
-      "fontes_distintas": 18
+      "termo": "Lula",
+      "peso_relativo": 90.8,
+      "fatia_pct": 21.28,
+      "fontes_distintas": 16
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 67.6,
-      "fatia_pct": 15.92,
-      "fontes_distintas": 15
+      "peso_relativo": 71.6,
+      "fatia_pct": 16.78,
+      "fontes_distintas": 13
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 64.9,
-      "fatia_pct": 15.29,
-      "fontes_distintas": 15
+      "peso_relativo": 65.9,
+      "fatia_pct": 15.44,
+      "fontes_distintas": 12
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 24.3,
-      "fatia_pct": 5.73,
-      "fontes_distintas": 8
+      "peso_relativo": 28.7,
+      "fatia_pct": 6.71,
+      "fontes_distintas": 10
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 24.3,
-      "fatia_pct": 5.73,
-      "fontes_distintas": 8
+      "peso_relativo": 28.7,
+      "fatia_pct": 6.71,
+      "fontes_distintas": 10
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 24.3,
-      "fatia_pct": 5.73,
-      "fontes_distintas": 8
+      "peso_relativo": 28.7,
+      "fatia_pct": 6.71,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "Roberta",
+      "peso_relativo": 19.5,
+      "fatia_pct": 4.56,
+      "fontes_distintas": 3
     },
     {
       "termo": "Luchsinger",
-      "peso_relativo": 16.8,
-      "fatia_pct": 3.95,
-      "fontes_distintas": 2
+      "peso_relativo": 19.5,
+      "fatia_pct": 4.56,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Roberta Luchsinger",
+      "peso_relativo": 19.5,
+      "fatia_pct": 4.56,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Lula13",
+      "peso_relativo": 17.2,
+      "fatia_pct": 4.03,
+      "fontes_distintas": 1
     },
     {
       "termo": "OMaior",
-      "peso_relativo": 16.2,
-      "fatia_pct": 3.82,
+      "peso_relativo": 16.3,
+      "fatia_pct": 3.83,
       "fontes_distintas": 1
     },
     {
       "termo": "Exercito",
-      "peso_relativo": 16.2,
-      "fatia_pct": 3.82,
+      "peso_relativo": 16.3,
+      "fatia_pct": 3.83,
       "fontes_distintas": 1
     },
     {
       "termo": "Mundo",
-      "peso_relativo": 16.2,
-      "fatia_pct": 3.82,
+      "peso_relativo": 16.3,
+      "fatia_pct": 3.83,
       "fontes_distintas": 1
     },
     {
       "termo": "OMaior Exercito",
-      "peso_relativo": 16.2,
-      "fatia_pct": 3.82,
+      "peso_relativo": 16.3,
+      "fatia_pct": 3.83,
       "fontes_distintas": 1
     },
     {
       "termo": "Exercito Do Mundo",
-      "peso_relativo": 16.2,
-      "fatia_pct": 3.82,
+      "peso_relativo": 16.3,
+      "fatia_pct": 3.83,
       "fontes_distintas": 1
     },
     {
-      "termo": "Desbloqueia",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.63,
+      "termo": "Dominou",
+      "peso_relativo": 15.5,
+      "fatia_pct": 3.62,
       "fontes_distintas": 1
     },
     {
-      "termo": "OJanones",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.63,
+      "termo": "Lula Dominou",
+      "peso_relativo": 15.5,
+      "fatia_pct": 3.62,
       "fontes_distintas": 1
     },
     {
-      "termo": "Desbloqueia OJanones",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "OJanones Flavio",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Desbloqueia OJanones Flavio",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Somos5Milhoes",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Ja",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Ja Somos5Milhoes",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Ja Somos5Milhoes",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Roberta",
-      "peso_relativo": 14.1,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Roberta Luchsinger",
-      "peso_relativo": 14.1,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Espera",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.25,
+      "termo": "Exercito Do Lula",
+      "peso_relativo": 15.5,
+      "fatia_pct": 3.62,
       "fontes_distintas": 1
     },
     {
       "termo": "Exercito Te",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.25,
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.42,
       "fontes_distintas": 1
     },
     {
-      "termo": "Te Espera",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.25,
+      "termo": "Te Ama",
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.42,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula Seu Exercito",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.25,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Exercito Te Espera",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.25,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Krause",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.18,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Salvador",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.18,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Te Ama",
-      "peso_relativo": 13.0,
-      "fatia_pct": 3.06,
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.42,
       "fontes_distintas": 1
     },
     {
       "termo": "Exercito Te Ama",
-      "peso_relativo": 13.0,
-      "fatia_pct": 3.06,
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.42,
       "fontes_distintas": 1
     },
     {
-      "termo": "BATEU",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
+      "termo": "Krause",
+      "peso_relativo": 14.3,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 5
     },
     {
-      "termo": "DESESPERO",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "BATEU O DESESPERO",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lulinha",
-      "peso_relativo": 11.6,
-      "fatia_pct": 2.74,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "moradias reformadas",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.55,
+      "termo": "Salvador",
+      "peso_relativo": 14.3,
+      "fatia_pct": 3.36,
       "fontes_distintas": 4
     },
     {
-      "termo": "Campos",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.55,
+      "termo": "Lulinha",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.09,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Somos5Milhoes",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lula Ja",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ja Somos5Milhoes",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lula Ja Somos5Milhoes",
+      "peso_relativo": 12.9,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ACABOU",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.82,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ACABOU LULA",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.82,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "moradias reformadas",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.68,
       "fontes_distintas": 4
     },
     {
       "termo": "Priscila",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.55,
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.68,
       "fontes_distintas": 4
     },
     {
       "termo": "Priscila Krause",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.55,
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.68,
       "fontes_distintas": 4
     },
     {
-      "termo": "reeleição de Lula",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.55,
-      "fontes_distintas": 3
-    },
-    {
       "termo": "Meta",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.55,
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.68,
       "fontes_distintas": 4
     },
     {
       "termo": "Richarlison",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.55,
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.68,
       "fontes_distintas": 4
     },
     {
-      "termo": "MENTIRA",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.29,
+      "termo": "ALIADO",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.62,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "FLAVIO ALIADO",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ALIADO DO CV",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BATEU",
+      "peso_relativo": 9.5,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "DESESPERO",
+      "peso_relativo": 9.5,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BATEU O DESESPERO",
+      "peso_relativo": 9.5,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "obras de contenção",
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.01,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Programa",
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.01,
+      "fontes_distintas": 2
     }
   ]
 }
