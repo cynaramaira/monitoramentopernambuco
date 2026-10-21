@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-21T00:59:22Z",
-  "total_analisado": 136,
+  "atualizado_em": "2026-10-21T06:00:33Z",
+  "total_analisado": 141,
   "x_recife": [
     {
-      "termo": "#NordestinosComLula",
+      "termo": "Juazeiro",
       "posicao": 1,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Juazeiro",
+      "ruido": false
+    },
+    {
+      "termo": "Donzelo",
+      "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23NordestinosComLula",
+      "url": "https://x.com/search?q=Donzelo",
+      "ruido": false
+    },
+    {
+      "termo": "Maracanã",
+      "posicao": 3,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Maracan%C3%A3",
+      "ruido": false
+    },
+    {
+      "termo": "Léo Jardim",
+      "posicao": 4,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=L%C3%A9o%20Jardim",
+      "ruido": false
+    },
+    {
+      "termo": "#RoçaAFazenda",
+      "posicao": 5,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23Ro%C3%A7aAFazenda",
+      "ruido": false
+    },
+    {
+      "termo": "Tina",
+      "posicao": 6,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Tina",
+      "ruido": false
+    },
+    {
+      "termo": "O Vasco",
+      "posicao": 7,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=O%20Vasco",
+      "ruido": true
+    },
+    {
+      "termo": "Thiago Mendes",
+      "posicao": 8,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Thiago%20Mendes",
+      "ruido": false
+    },
+    {
+      "termo": "#MasterChefBR",
+      "posicao": 9,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23MasterChefBR",
+      "ruido": false
+    },
+    {
+      "termo": "Paredes",
+      "posicao": 10,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Paredes",
+      "ruido": false
+    },
+    {
+      "termo": "#6MilhoesDeSoldadosDoLula",
+      "posicao": 11,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%236MilhoesDeSoldadosDoLula",
+      "ruido": false
+    },
+    {
+      "termo": "FLÁVIO DONO DE BET",
+      "posicao": 12,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=FL%C3%81VIO%20DONO%20DE%20BET",
+      "ruido": false
+    },
+    {
+      "termo": "Mariana",
+      "posicao": 13,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Mariana",
       "ruido": false
     },
     {
       "termo": "Egito",
-      "posicao": 2,
-      "variacao": "+3",
+      "posicao": 14,
+      "variacao": "+2",
       "direcao": "sobe",
       "url": "https://x.com/search?q=Egito",
       "ruido": false
     },
     {
-      "termo": "BOLSONARO MANDOU MATAR LULA",
-      "posicao": 3,
+      "termo": "Adson",
+      "posicao": 15,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Adson",
+      "ruido": false
+    },
+    {
+      "termo": "Boca Juniors",
+      "posicao": 16,
       "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=BOLSONARO%20MANDOU%20MATAR%20LULA",
+      "url": "https://x.com/search?q=Boca%20Juniors",
+      "ruido": false
+    },
+    {
+      "termo": "Irina",
+      "posicao": 17,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Irina",
       "ruido": false
     },
     {
       "termo": "EXÉRCITO DO LULA",
-      "posicao": 4,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 18,
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=EX%C3%89RCITO%20DO%20LULA",
       "ruido": false
     },
     {
-      "termo": "#LulaEmJuazeiro",
-      "posicao": 5,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaEmJuazeiro",
+      "termo": "Saldivia",
+      "posicao": 19,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Saldivia",
       "ruido": false
     },
     {
-      "termo": "#PowerpointDoFlavio",
-      "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23PowerpointDoFlavio",
-      "ruido": false
-    },
-    {
-      "termo": "#CorridaDasBlogueiras8",
-      "posicao": 7,
+      "termo": "Sosa",
+      "posicao": 20,
       "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=%23CorridaDasBlogueiras8",
-      "ruido": false
-    },
-    {
-      "termo": "Google",
-      "posicao": 8,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Google",
-      "ruido": false
-    },
-    {
-      "termo": "Rubel",
-      "posicao": 9,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Rubel",
-      "ruido": false
-    },
-    {
-      "termo": "Malévola",
-      "posicao": 10,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Mal%C3%A9vola",
-      "ruido": false
-    },
-    {
-      "termo": "Marcelo Paz",
-      "posicao": 11,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Marcelo%20Paz",
-      "ruido": false
-    },
-    {
-      "termo": "#6MilhoesDeSoldadosDoLula",
-      "posicao": 12,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%236MilhoesDeSoldadosDoLula",
-      "ruido": false
-    },
-    {
-      "termo": "QUARTETO POP BR COM LULA",
-      "posicao": 13,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=QUARTETO%20POP%20BR%20COM%20LULA",
-      "ruido": false
-    },
-    {
-      "termo": "MALIPE CASAL DO ANO",
-      "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=MALIPE%20CASAL%20DO%20ANO",
-      "ruido": false
-    },
-    {
-      "termo": "Barcelona",
-      "posicao": 15,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Barcelona",
-      "ruido": false
-    },
-    {
-      "termo": "Nikolas",
-      "posicao": 16,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Nikolas",
-      "ruido": false
-    },
-    {
-      "termo": "PROTEJAM O SUS",
-      "posicao": 17,
-      "variacao": "+19",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=PROTEJAM%20O%20SUS",
-      "ruido": false
-    },
-    {
-      "termo": "Churrasco",
-      "posicao": 18,
-      "variacao": "+8",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Churrasco",
-      "ruido": false
-    },
-    {
-      "termo": "Gordon",
-      "posicao": 19,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Gordon",
-      "ruido": false
-    },
-    {
-      "termo": "Gritar",
-      "posicao": 20,
-      "variacao": "+9",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Gritar",
+      "url": "https://x.com/search?q=Sosa",
       "ruido": false
     }
   ],
@@ -180,37 +180,25 @@
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
       "manchete": "Assembleia Legislativa do Estado de Pernambuco: Plenário: crise hídrica no Agreste e Sertão motiva cobrança por ações emergenciais",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pOXFzOXJNMFZGV0ZNakhwR0IzUnBoZnAzaTlJR1dxR2pUWkREdE9oQTVtY0dzei12TUQwbGdFNWxFbDJxdDhYM1FZdEJmcHF2d0FjZnVLSlhBaVhkNHJZUzZYZlVURXFkQm5pVEt3dkZRTTN2cnlnVw?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Justiça Militar decreta prisão preventiva de soldado do Exército que sumiu de quartel com fuzil",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzZLMGdHYlkzZHNqYjNLTDBqUGtpd3p2U1ZzeE1zX20tWm1GdXAwM2pvOTFnUDhwSzBTNmctSDJwcFNiNDhtYjBYWDhpeE5GNW01aGdUekVsd2tkZFpiTTZhTnJoWDI2SHhMc1pYc1BQeW5xZEQzZlpQQkotRXdpRmFCTGk1SkgtbEdUeVBObzdTUTFibWY3ck9pbTQxNFlEX3BxaEJraFZnSkFyTTB6MdIBvwFBVV95cUxOSlY3aUFBdUZGY1BsRUEtb3BpaV9hdE1UU2U3Q0VHT0pVdVY0YXkyQnJrRURHZWdQQVFMeWxLSlZvY3JBQlpRNXBxb2JFVEllT20weVowV0dGX3FPcDd5N0ZZQnBBSmxwWnd2Z0RyR0VKQmw3eFJEcFB6ZE5JYjVPbm41ck84Z2FJNWdEN3RhWm1POGpRYlloLUFIeW16Y2JDeVNSejRFbnY4ajZrZm40MF95OEQyVVBXdzc2R0ZlWQ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): Estudantes-atletas de Pernambuco participam da abertura dos Jogos da Juventude 2026",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXhtQTM0dHM2dVNGTlRYSzBOMUxkU08zYkIwQ2Y1Zkp5QUlYTjVGWG1PNGtSNEJnSVo1OEVhQy1vU2Z1YTR3YXU1Zm1kWXVkZ2RZNGVLc180VnJ3aGxfV0I4MWpZaG92U0tobGRrN2paS1ZxMEh1RHpVQ3J2YTVONGp4LWZSakZzZTVKUWpmUjBTOUhIOHlTU1lJZjB0Y2p6WVZsY2VmSUMyQ25HNjhLZDdjQmJFdFF2MHNGZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZZ3ptSXB6UVFrNjlZX2Y4U2QtcmV0a0JkTlFTTDVRb1Y4cEV6UG5IVnVlajVveFA4SEhmQlVOaC1BS2V6QUJoVHN3NVJ5QmRVVUkza0l2di00Y3JSanJuTTlxb3plOXpxbElhWERfbkItYjhYbXNn?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "IFPE: Programa de Incentivo ao Esporte | Divulgada relação de bolsistas selecionados do IFPE Recife",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFNpT2N3V284UDV4Y01HWW1EOTNrMnBxTEdtMDdLRGEwc1JsTlB3STZhOXgzQlQxTHBubmswV3NoZXllaVRoY1hOVHJVMGUwNnZpZ2Rza0ItWlBHVE9JbGl1b0Z1ZTNxdjUtOEttQjYtMFlsR2NGNkJXaGx2RG5mRml2QTRhZHVqZnpLV0tLeFk2ZHVzREpGV3UtNmJkZ01VdDJ2S19QUWwwNlZxZExLVVFfQzZfYXhHdmFXZHV5S09RY0VsUkk3c1BQQVp4Wmh2Z2d5OUF3RTJManI3dXhv?oc=5"
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVnRHaW9HYzBnQTI3Um50bXdNM1R5bnRlczJSMGx6b1ZjS01QcTdfVWJ0NzNQcE1zbkJmWTNCUUM4dmItT1NCa0VPU3dETUI2b1p1QlRaZDVQV2hwQUpieVJlSnRlNWlqZ0NjdTZzRWZweTBuc0NheGZCcjZ3SDNIWXB2YVpqVnZuVXhPcmJDU0ZzQ0VzQi1pTGxQZ0JoeFZEcEE5QnNIc0p0bEw5NWxMUE1GeXRraDdXYkl6ekJwdFAxRXVtYnNlRjVhLTNPQXdlZDkzMWg3QXFZNG40X3dnVS1mNEZOTzFaNXdhdGc0NldMMFVXaFdlZUstSktOTE9JdmFwLXM5aVptSkhwQ2Z0YWRJX01lV1cxdU51bVNtUkdWdW9YWVg3SNIBtwJBVV95cUxQdHZSSzE2XzdhTnl4MFlUNGVHeGZyZTRXLU1QWkJDelk3MVhSb1pDc19wR19IeXhid01iY3VwakNEUkN2cHBLNXNYRHRvOEFtOVhmZ2pnWmFPekRxS3ZQRzRCQmNCRkozaWViTUs1Tkdpcm1QaC1kNi1RbUNVRnllTUsweUo5cS1qOUljanpZaWlVek80SmxWQ2xKZk40aU1OdGVWWHRJQ0RmVEFRR2FIZU1mRENXZ09UaGg5SVVSci1FcUx3c3o0XzZobl9wQWpMaWphamRSVzFuRjdKYlpLa0xBelJSbUt2aTRxd2JNWGoyOHVUcHFpallnOHlid2Y0VkhHb0NrNW0wVlVJQjZyQ0FkMmZRNU1UclhMRS1PMktNQk1INTZ3WklkLWFGQXhFZGdBNTBzOA?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Melhores Destinos: Voos Recife-Curitiba a partir de R$ 236 ou 17 mil pontos Azul o trecho mais taxas",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uWk5Bcnl5bGpOTnFmS01sVlkxQ1B0WThJc3ZNQmVxNWl0Tk90bUFxeGdVWWRUeVRUcW5FS1B6TWNsc294T3ZtMlQzRGszZTFpUW9HT2pvZEVxQ2o1SUctVm5GQmxkLXdRZzdtT2tSZGRlSXJP?oc=5"
+      "manchete": "CidadeMarketing: Netshoes Run reúne mais de 4 mil corredores e pinta Recife de roxo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGVsWjdfelZkQ0EyOEFzZ0x1clFWUEpPTDFxWVZteU45di1wN3ZCRFZJbWIxV2ttODVteklTSFd1OVBhaWpFQVc3YXJDNXF6TDlDRjlYdWpLcXlob1doaUFCazBpcDFPTmZ5N1dUaW1kYzV2MTcyaDR2bTVUUG4yRkpETHV3LXBRQzdTYmxTc2ZTd3czcWdmNkE3T0NTdEVIa0pqbFZsQmppUW11bmFNbGlmT29GNk5mOHI0MzQ4bHXSAcYBQVVfeXFMUGJYUm14NnBieUlxTmlhUWhwYW5sR3FJRmtib2xMWm43amNqOC11NmdYTDY3cVZDenAwdjdISllacGVKam5CbFhCeFhRcGt6am01Q200S0UwaGxXUENmdWs1MVJ2anVSdXhtRVBaa3VLcGZSNG5PLWRmakdQbFFZNnBaVjBPTEhCNEZtY2VxdHFRSENLcTZTQjc5MnRpVDU1anZkeTVibGFlM0FObURXWV9lZ0ZLbVBxZVhzYUlzRWl4SExoQ1Jn?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "CBN Recife: 136 creches do Recife irão abrir no domingo, dia da eleição",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelN6LTZhbGxoSVlOV3hISWk3RGlZUVl1UlQ1bFhRQV9JUVh6eVVRcTJ5bFVVTEE3d2UyRGtCaGxQcjFraGlFUWFzUEhWMmp5M2VyTHg5dHJxcDcxWFQ4ZXprMXh2eVZhRE9URUFOaU5DQUJ6VHVjNjl3WmNvZlhJWkFId3B3bGkzdGF3alkxZnNxcG4tWWpDQ2dERkxsTzllQXJ1b1lrMzFENmVTVmRSUQ?oc=5"
+      "manchete": "Folha PE: Ônibus é incendiado no Ibura, Zona Sul do Recife; não há registro de feridos",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0g4LXlZbmMxVk9FX3hQVVZDQVFCYkRqYTFieEtnTXpHVnZEc2w1ejhuREQta3llb0toeEVNT2haeDJoTVlTcmhpdnhSTmJTeWVMdENDcnF5S2VoMXp5REJ5TmRLZnI5Q0kwT2k0d3M1VFBhVkxibi1JeThRN1ZHU0E4U183aUNaOU13eWFRUU1mTmU4QXfSAZoBQVVfeXFMTldZUEl2ejJvbEZJdmFuZkhTU0p1d2xFLXhmREFfdlIzRndzcmRrZVNKR24wQnhqNC1TcG1xYVVJcm9LQVlDdWRlM0NnVEZnbkxELXBHaVViYl9KOUxoUUwtXy1SbzE2WjJjZmR0NDBSS1JPZE1seGd1TkhrOEhrQlItQ3B1aEthWk9HaVREaDNTRm9wQkRHX3pRdw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -219,40 +207,16 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjZ4REhjODkteXZ0dXBFMWhtd0k1cVlyMnIycHhZUllPdjNIWHhxR2UzcnQza2NHUWZ5ajlsc0tyMVpJd1VhRTB4V05mSk00b21FUGxkUzY0TS1SMEZfQVBuVkV3U1FGX25vYlpBTXI4WXlNM0l6aG5LdS1nTDg4LXZiSjBhNWJ1dlJkeGFkejNXNlp1Q2RNUG9lb0ZCQWxvNV9tRXpsR2FMT1ZueEdWY252Uzd1am_SAbcBQVVfeXFMT0Y2eERIYzg5LXl2dHVwRTFobXdJNXFZcjJyMnB4WVJZT3YzSFh4cUdlM3J0M2tjR1FmeWo5bHNLcjFaSXdVYUUweFdOZkpNNG9tRVBsZFM2NE0tUjBGX0FQblZFd1NRRl9ub2JaQU1yOFl5TTNJemhuS3UtZ0w4OC12YkowYTVidXZSZHhhZHozVzZadUNkTVBvZW9GQkFsbzVfbUV6bEdhTE9WbnhHVmNudlM3dWpv?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Após pedido do PT, TRE-PE cobra do Governo de Pernambuco transporte gratuito em todo o estado no segundo turno",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkpOWVJsbWZSb1JSMnZvOGhkZHlaMUU3OGdHT04xa09JdVZVNmc0WV9XSFJCNHdhWGVoZ3dMZ0Y2MnR3cHczVVNuWWlQa0haLXQ1UGRlMXRxQTd5RFBSUmxCNnJzMm81aW9KbFpKYUI0UTh2eG5VT1BoMGZBYW1QcTlqaE5uWU5IYkFmMXU4UG1Db1pTTktvQ1g3TDNzWUJSLV8wMndTTUZTUC12aFFnTG5mN2UyWjNQTkgxUm4yakdRLVA1emQxaFVBV3hLcHJ2S1E?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Protesto bloqueia trânsito após ônibus ser incendiado no Ibura, no Recife",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOHdNSjFybzdDcThoT0pFQXFHRUcxQkl6bmVFR0swZ0w3eEs1aElrV0UyRlVSbTgwQWN4dTh4ZjhKRW9RdFpTU1loUGZHYi1hVWFuaXMtZDI5c1BPU1EwOTFDRnFkNE54WHoxUi1EaW5PY0FtaFFyU0t1UU02aWN4dV9SVnRGRHp0Y2ppQTJZNzhjdVBHWHhscVdPTVZBS0JKM193SlZzWmxIOGkyMkExaHVka2Y2eWhZbFNpUTY4V1ZiYnM2bDdiMWtTbHFJQ2t5VXp1cmF5WTU1WjY1?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "ANF - Agência de Notícias das Favelas: Formação gratuita em Olinda abre 20 vagas para agentes culturais das periferias - ANF",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcE9ncE1XdjhBbE1VU1U0MTBZUUduU2dTNFZ0bmlpbmlyMnpPcjU2ZU0xVDBzMFNkT3BrMUJLMDUxZjVwR3VBUUhyX2FmeHZxMzlsOUhxblVtWkRvM2FGVUtPR1lSb0VzTG5YUV9jWmduc0lpMF9SLWdnYlRTc1JvZWFpakRCOW94UTVobGRpVDZXMm5UcFFSVFBZdThQSzczN0ZiMmFR?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Assista ao vivo à reunião plenária desta terça (20)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6bDdzeHhRaXRDLU44S083ZGR2NWJzazJtc3Z6RlBVa1FxZnZqVmxKLUlEYlNvU0Y1YnlENUU3cVc5RXlMb1E5Qk90V0REQjI1d2ZJY05FZDJqNWh6dEVjQzRB?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Alerta sobre crise hídrica que afeta o Sertão e o Agreste marca Plenário",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUUdXdHhaaTd4bDVvSHd4dXJGTjBvLWMzS3dQYk55cFQwa1ZXRzZYaGc2OGYzVmliekZWU2pHazM0b2tNZzdDWXYzbVhnMGZEa2xZR0Q4SGNxd1l5dGp2R0Q2VTJnYjN0dXdmSFJOcGpVVU9xM0tpdHh2T0gzYlFMRGpzczdBbVhVUTdmV21jeEh3NUdCSDBfNi1HZjBPQnllbFVxeHZ2N3BCSk1uOEtMbzRn?oc=5"
-    },
-    {
       "termo": "Alepe",
       "volume": "Últimas 12h",
       "manchete": "- Blog Dellas: Antônio Moraes recebe na Alepe o presidente do Tribunal de Justiça de Pernambuco -",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHQ3SUxZQTNLenpSUnVGQTJuT0cxWHVmcXBtcU1EMFBQMHAxQ3d3ejYwc2h0VVlZN1RxdmlMcFFtWUNzQklRdTlOcV85U3VnYlFvOXRnVFE4dEN0Y1dYOXBDRW9PaFF6bWVOSGU1X1lWMUdSek5hblM5SHN4V0tpd2tEZ1ZHejRzLThMc3I2Q0oxczNUT2UyYjlQczhPZ0RFV2ZTZ003R1VtTmc?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "- Blog Dellas: Giro Político: Bancada evangélica perde espaço para o bolsonarismo e encolhe na Alepe -",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUpkRVE4dDBpYXMzcTVsLTQwM2I3UnJZMWZxREc4Sy1QTGQyRjVRRk1iRmpKVHpLU29CdTNPYmk1OEVhd0t5TnJTelBVZHZaekpQV3BZMmMxNGJTUzhHd01lTzJkQ2ZPcm9MeEh1bUdHZ0ZjZno3N1AyX0pZT05ISXZyV1pacXhULUFiSFFiMy1RbUljSXd1V1dxQVQ4VzhmSnFkYlNmZXVHYXlnVVZCbQ?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -263,104 +227,104 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Consed: Delegação pernambucana embarca para os Jogos da Juventude 2026",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFV6TzF3Yy1yX1Y5RDFkbzlXQjNyd0picFNyNzdzSVhTZzFPSHpUTDN6ZlhZb1l6QWZxQWE3R2F4ZW1jNGtPckg4bkx6NW8waW9zelFPbXcwUnNlZ0hraW5nZG8wbVZmaVVPRkNDeFF3SFhwMU9mUFAxQ3JMSExiOU9MMktjZ2htaUN2ZDdYU2lsUTMwdW8yN1dLako?oc=5"
+      "manchete": "Revista Continente: Oficinas literárias gratuitas em oito municípios de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHFXUTNZMVlrcTNoU0FJemktZ3d3OEhHMmNmV2pjVzlrQWcxb3AtLUttcTR2R05ra0Y3MDIwazluRWpFZkZ5OWZyYWlURmkwSU1OYUJiQnlmUW1URnpJemt4YXhHd2Y4aGhlZXdPNFdsMDhrYl9qeWF0WUJLRjBBVjl4SXc0cllsMnYtVzRxLWJmR2pVTk5BVTNfZFRUcnA0cFBGaHVNWmMwanJMejZjQlhXTHpxQ2JlSEl2aGl5dWRwaS1Lb2psWXA4dUtxdw?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "amplia capacidade",
-      "razao_aumento": 111.1,
+      "termo": "Dona",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Jamildo",
+        "hora": "2026-10-20T12:28:00Z",
+        "titulo": "Thiago Medina apresenta projeto para renomear Parque Dona Lindu com nome da mãe de Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWExIYS1zckdzUDRYZVF5Z1NMT3pwWURGcnNtOWttV2JBRnBiLWpDNmE1QlVCMTlOeHVFVzlqM2JCUGJ3Y0VEUzR6QW0zSXBqVVQwM1EwOXhBa1ptQlIxTlNkcmZuVzh2TGFEd2VORnMtd2Y1RzUxSVRhTDJhSTh3Z09EZ19hY3RhbWMxTjR4VHRlMWlYUGJmMml2dlF4N1ROQlo1cVJWYVpibER2SU45cENuSlk1ZnoxeFQ0NUZwQS0wVWNBZFV6LTByNNIB0AFBVV95cUxPa1YtQ043S3IxaHhpUnladFpGd216eGx4LWdKanNPRnFzdjZnWDVraDB1Zi1PczhUbFFKbEg0SGphT3VZeWNBY3lMVE5jakY1Nl9NRnFaZHZOSDBBNzZiVTA2bEg3Vy1lX25uM0ZaR2RDVldlbEQ2eFRxWGVaNW9HaTVTZGVDT0xaLTNyLTZ2ckpCYmgzZl9DTTlQbm9TY3g3d1pmclphLXVFM3ZzbVRJRzFPSFNqaWI5UnBDZmhmeWlSM01CWWRhT3Y1Qk9fM1Mt?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Lindu",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Jamildo",
+        "hora": "2026-10-20T12:28:00Z",
+        "titulo": "Thiago Medina apresenta projeto para renomear Parque Dona Lindu com nome da mãe de Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWExIYS1zckdzUDRYZVF5Z1NMT3pwWURGcnNtOWttV2JBRnBiLWpDNmE1QlVCMTlOeHVFVzlqM2JCUGJ3Y0VEUzR6QW0zSXBqVVQwM1EwOXhBa1ptQlIxTlNkcmZuVzh2TGFEd2VORnMtd2Y1RzUxSVRhTDJhSTh3Z09EZ19hY3RhbWMxTjR4VHRlMWlYUGJmMml2dlF4N1ROQlo1cVJWYVpibER2SU45cENuSlk1ZnoxeFQ0NUZwQS0wVWNBZFV6LTByNNIB0AFBVV95cUxPa1YtQ043S3IxaHhpUnladFpGd216eGx4LWdKanNPRnFzdjZnWDVraDB1Zi1PczhUbFFKbEg0SGphT3VZeWNBY3lMVE5jakY1Nl9NRnFaZHZOSDBBNzZiVTA2bEg3Vy1lX25uM0ZaR2RDVldlbEQ2eFRxWGVaNW9HaTVTZGVDT0xaLTNyLTZ2ckpCYmgzZl9DTTlQbm9TY3g3d1pmclphLXVFM3ZzbVRJRzFPSFNqaWI5UnBDZmhmeWlSM01CWWRhT3Y1Qk9fM1Mt?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Parque Dona",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Jamildo",
+        "hora": "2026-10-20T12:28:00Z",
+        "titulo": "Thiago Medina apresenta projeto para renomear Parque Dona Lindu com nome da mãe de Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWExIYS1zckdzUDRYZVF5Z1NMT3pwWURGcnNtOWttV2JBRnBiLWpDNmE1QlVCMTlOeHVFVzlqM2JCUGJ3Y0VEUzR6QW0zSXBqVVQwM1EwOXhBa1ptQlIxTlNkcmZuVzh2TGFEd2VORnMtd2Y1RzUxSVRhTDJhSTh3Z09EZ19hY3RhbWMxTjR4VHRlMWlYUGJmMml2dlF4N1ROQlo1cVJWYVpibER2SU45cENuSlk1ZnoxeFQ0NUZwQS0wVWNBZFV6LTByNNIB0AFBVV95cUxPa1YtQ043S3IxaHhpUnladFpGd216eGx4LWdKanNPRnFzdjZnWDVraDB1Zi1PczhUbFFKbEg0SGphT3VZeWNBY3lMVE5jakY1Nl9NRnFaZHZOSDBBNzZiVTA2bEg3Vy1lX25uM0ZaR2RDVldlbEQ2eFRxWGVaNW9HaTVTZGVDT0xaLTNyLTZ2ckpCYmgzZl9DTTlQbm9TY3g3d1pmclphLXVFM3ZzbVRJRzFPSFNqaWI5UnBDZmhmeWlSM01CWWRhT3Y1Qk9fM1Mt?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Dona Lindu",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Jamildo",
+        "hora": "2026-10-20T12:28:00Z",
+        "titulo": "Thiago Medina apresenta projeto para renomear Parque Dona Lindu com nome da mãe de Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWExIYS1zckdzUDRYZVF5Z1NMT3pwWURGcnNtOWttV2JBRnBiLWpDNmE1QlVCMTlOeHVFVzlqM2JCUGJ3Y0VEUzR6QW0zSXBqVVQwM1EwOXhBa1ptQlIxTlNkcmZuVzh2TGFEd2VORnMtd2Y1RzUxSVRhTDJhSTh3Z09EZ19hY3RhbWMxTjR4VHRlMWlYUGJmMml2dlF4N1ROQlo1cVJWYVpibER2SU45cENuSlk1ZnoxeFQ0NUZwQS0wVWNBZFV6LTByNNIB0AFBVV95cUxPa1YtQ043S3IxaHhpUnladFpGd216eGx4LWdKanNPRnFzdjZnWDVraDB1Zi1PczhUbFFKbEg0SGphT3VZeWNBY3lMVE5jakY1Nl9NRnFaZHZOSDBBNzZiVTA2bEg3Vy1lX25uM0ZaR2RDVldlbEQ2eFRxWGVaNW9HaTVTZGVDT0xaLTNyLTZ2ckpCYmgzZl9DTTlQbm9TY3g3d1pmclphLXVFM3ZzbVRJRzFPSFNqaWI5UnBDZmhmeWlSM01CWWRhT3Y1Qk9fM1Mt?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Parque Dona Lindu",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Jamildo",
+        "hora": "2026-10-20T12:28:00Z",
+        "titulo": "Thiago Medina apresenta projeto para renomear Parque Dona Lindu com nome da mãe de Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWExIYS1zckdzUDRYZVF5Z1NMT3pwWURGcnNtOWttV2JBRnBiLWpDNmE1QlVCMTlOeHVFVzlqM2JCUGJ3Y0VEUzR6QW0zSXBqVVQwM1EwOXhBa1ptQlIxTlNkcmZuVzh2TGFEd2VORnMtd2Y1RzUxSVRhTDJhSTh3Z09EZ19hY3RhbWMxTjR4VHRlMWlYUGJmMml2dlF4N1ROQlo1cVJWYVpibER2SU45cENuSlk1ZnoxeFQ0NUZwQS0wVWNBZFV6LTByNNIB0AFBVV95cUxPa1YtQ043S3IxaHhpUnladFpGd216eGx4LWdKanNPRnFzdjZnWDVraDB1Zi1PczhUbFFKbEg0SGphT3VZeWNBY3lMVE5jakY1Nl9NRnFaZHZOSDBBNzZiVTA2bEg3Vy1lX25uM0ZaR2RDVldlbEQ2eFRxWGVaNW9HaTVTZGVDT0xaLTNyLTZ2ckpCYmgzZl9DTTlQbm9TY3g3d1pmclphLXVFM3ZzbVRJRzFPSFNqaWI5UnBDZmhmeWlSM01CWWRhT3Y1Qk9fM1Mt?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "quarta feira",
+      "razao_aumento": 93.8,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog de Assis Ramalho",
+        "hora": "2026-10-20T19:52:00Z",
+        "titulo": "Governo de Pernambuco oferece mais de 1200 vagas de emprego nesta quarta-feira (21), com destaque para o Emprega PE em Caruaru",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFVEUjI3TnpETHI4NDFUZ29KcFRPOTBEemloVXVycWZYQlgza1hINmZGX0lwV2U3MFJ5RFljV3pNU3BVTmFRY3h5MmNwVXRGdXZZQU5KT0x6WEJrUHFXLUtzOXJJX0ZyaWVWYzJONGV0SENHb1IybldYUWxuZi03QjdKdE9hS3pLYmc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "nesta quarta",
+      "razao_aumento": 89.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha PE",
-        "hora": "2026-10-20T12:21:00Z",
-        "titulo": "Hospital da Mulher do Recife amplia capacidade de atendimento com novo mamógrafo digital 3D",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZxaUhDelU3VGVYZ1JPb0xhMVRiZmtpZFl3dE04MjNfZTNRb0dKNnp2aF9iSUJsR1dpZlFlbDJGWVg2SXgxdllveGVhcFpiYk56c0kwRVdyZFYxVTZubHpnbThOZXdETXpkOGVoN3FJcmwzLVh1Nk5yQ0V3NF9pQVFtaXUyMGFrR3haQ1BIUFltcUxub0hFMWlXclZvenlyUnI2WVVMdDdrd0lzOEhicDgzaTLSAbgBQVVfeXFMT1pqLW02UWZMWXh2enVOZEp1dEJzeGZOdHZBd2VyWnlGcG5CSmxmZUdDQVYyUkVkTXhIRTRyeExJSVEwbHhDbjhoajEtVzdYb0RDUjJ0Y2FmbE13eG9MYTVGU2J6aEdOR0M1aXZvSTZyRWphOWw4aHJoMldnRUxzanRxUXRwbjdZOXlnaDdRdGs2eWtsQUNJQWsxSzdIcGlSV09icV9POU11QnVyajhyMmtrV2JLWnFIUg?oc=5",
+        "hora": "2026-10-20T14:03:00Z",
+        "titulo": "Câmara do Recife elege nova Mesa Diretora para biênio 2027-2028 nesta quarta",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3pTUGhfcVJyOHRvR2pZbU5ySnJoVmJ0ejFoVmxVWEZYSjJNWkowUzhjbFNYczQ5ZWEtVXJrazhvUl82cEdSMzFGX0JSWFY0UWEwWm1sZGNjZ1czdllWR2R5d1FhNlU5QjZKSjl5QVpuRG5pSm9QVkI3TFdsaDhHU0VVS3hRUVZMR19jcnRhR0NxNXNwVEZTam9HZWJiVFVXWmM4bXVUb1IwVjQ5VUJqWnV6UDk5M1FCVi1fTHpCN2F5MWwyRDdLMzRQcktwdw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Recife amplia capacidade",
-      "razao_aumento": 111.1,
+      "termo": "quebra de sigilo",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-20T12:21:00Z",
-        "titulo": "Hospital da Mulher do Recife amplia capacidade de atendimento com novo mamógrafo digital 3D",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZxaUhDelU3VGVYZ1JPb0xhMVRiZmtpZFl3dE04MjNfZTNRb0dKNnp2aF9iSUJsR1dpZlFlbDJGWVg2SXgxdllveGVhcFpiYk56c0kwRVdyZFYxVTZubHpnbThOZXdETXpkOGVoN3FJcmwzLVh1Nk5yQ0V3NF9pQVFtaXUyMGFrR3haQ1BIUFltcUxub0hFMWlXclZvenlyUnI2WVVMdDdrd0lzOEhicDgzaTLSAbgBQVVfeXFMT1pqLW02UWZMWXh2enVOZEp1dEJzeGZOdHZBd2VyWnlGcG5CSmxmZUdDQVYyUkVkTXhIRTRyeExJSVEwbHhDbjhoajEtVzdYb0RDUjJ0Y2FmbE13eG9MYTVGU2J6aEdOR0M1aXZvSTZyRWphOWw4aHJoMldnRUxzanRxUXRwbjdZOXlnaDdRdGs2eWtsQUNJQWsxSzdIcGlSV09icV9POU11QnVyajhyMmtrV2JLWnFIUg?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "capacidade de atendimento",
-      "razao_aumento": 111.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-20T12:21:00Z",
-        "titulo": "Hospital da Mulher do Recife amplia capacidade de atendimento com novo mamógrafo digital 3D",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZxaUhDelU3VGVYZ1JPb0xhMVRiZmtpZFl3dE04MjNfZTNRb0dKNnp2aF9iSUJsR1dpZlFlbDJGWVg2SXgxdllveGVhcFpiYk56c0kwRVdyZFYxVTZubHpnbThOZXdETXpkOGVoN3FJcmwzLVh1Nk5yQ0V3NF9pQVFtaXUyMGFrR3haQ1BIUFltcUxub0hFMWlXclZvenlyUnI2WVVMdDdrd0lzOEhicDgzaTLSAbgBQVVfeXFMT1pqLW02UWZMWXh2enVOZEp1dEJzeGZOdHZBd2VyWnlGcG5CSmxmZUdDQVYyUkVkTXhIRTRyeExJSVEwbHhDbjhoajEtVzdYb0RDUjJ0Y2FmbE13eG9MYTVGU2J6aEdOR0M1aXZvSTZyRWphOWw4aHJoMldnRUxzanRxUXRwbjdZOXlnaDdRdGs2eWtsQUNJQWsxSzdIcGlSV09icV9POU11QnVyajhyMmtrV2JLWnFIUg?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "mamógrafo digital",
-      "razao_aumento": 99.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "TV Guararapes",
-        "hora": "2026-10-20T11:38:00Z",
-        "titulo": "Hospital da Mulher do Recife ganha mamógrafo digital",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkJ3UTN4S3hUUFh5YnBnN1Qwd1QySEFMZ0w5U0FmdGZ4aU1fMjE5NWdRVXFhV1Y3RGpYR0ZRTG5aOWl5RjAzdXZ3VWxTZUVtQVk0OXl1LWlTYVdzSWUxYkVOS3RuVk9WWkNFZ1RMaGoxQ1FHa2JXcmtacFpTOXlfOVlpRnZXNWNOWXBWeEJLUW9SeEcyWjFkOUMxYXBFMm02eEtUSUVLVHVlZw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Hospital",
-      "razao_aumento": 99.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "TV Guararapes",
-        "hora": "2026-10-20T11:38:00Z",
-        "titulo": "Hospital da Mulher do Recife ganha mamógrafo digital",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkJ3UTN4S3hUUFh5YnBnN1Qwd1QySEFMZ0w5U0FmdGZ4aU1fMjE5NWdRVXFhV1Y3RGpYR0ZRTG5aOWl5RjAzdXZ3VWxTZUVtQVk0OXl1LWlTYVdzSWUxYkVOS3RuVk9WWkNFZ1RMaGoxQ1FHa2JXcmtacFpTOXlfOVlpRnZXNWNOWXBWeEJLUW9SeEcyWjFkOUMxYXBFMm02eEtUSUVLVHVlZw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Mulher",
-      "razao_aumento": 99.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "TV Guararapes",
-        "hora": "2026-10-20T11:38:00Z",
-        "titulo": "Hospital da Mulher do Recife ganha mamógrafo digital",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkJ3UTN4S3hUUFh5YnBnN1Qwd1QySEFMZ0w5U0FmdGZ4aU1fMjE5NWdRVXFhV1Y3RGpYR0ZRTG5aOWl5RjAzdXZ3VWxTZUVtQVk0OXl1LWlTYVdzSWUxYkVOS3RuVk9WWkNFZ1RMaGoxQ1FHa2JXcmtacFpTOXlfOVlpRnZXNWNOWXBWeEJLUW9SeEcyWjFkOUMxYXBFMm02eEtUSUVLVHVlZw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Hospital da Mulher",
-      "razao_aumento": 99.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "TV Guararapes",
-        "hora": "2026-10-20T11:38:00Z",
-        "titulo": "Hospital da Mulher do Recife ganha mamógrafo digital",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkJ3UTN4S3hUUFh5YnBnN1Qwd1QySEFMZ0w5U0FmdGZ4aU1fMjE5NWdRVXFhV1Y3RGpYR0ZRTG5aOWl5RjAzdXZ3VWxTZUVtQVk0OXl1LWlTYVdzSWUxYkVOS3RuVk9WWkNFZ1RMaGoxQ1FHa2JXcmtacFpTOXlfOVlpRnZXNWNOWXBWeEJLUW9SeEcyWjFkOUMxYXBFMm02eEtUSUVLVHVlZw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Mulher do Recife",
-      "razao_aumento": 99.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "TV Guararapes",
-        "hora": "2026-10-20T11:38:00Z",
-        "titulo": "Hospital da Mulher do Recife ganha mamógrafo digital",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkJ3UTN4S3hUUFh5YnBnN1Qwd1QySEFMZ0w5U0FmdGZ4aU1fMjE5NWdRVXFhV1Y3RGpYR0ZRTG5aOWl5RjAzdXZ3VWxTZUVtQVk0OXl1LWlTYVdzSWUxYkVOS3RuVk9WWkNFZ1RMaGoxQ1FHa2JXcmtacFpTOXlfOVlpRnZXNWNOWXBWeEJLUW9SeEcyWjFkOUMxYXBFMm02eEtUSUVLVHVlZw?oc=5",
+        "fonte": "EBC - Empresa Brasil de Comunicação",
+        "hora": "2026-10-20T16:44:00Z",
+        "titulo": "TSE: Lula autoriza quebra de sigilo bancário se Flávio fizer o mesmo - EBC",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEV4cEkxeUcwTmk0UWFDaW9BWW92WDBISjhjd1pQRHBSMmNhbFRkcFRncjBnd1dGd0xQRzZhakxIQmN3bFQ5bS1lcy1JcW9JanEyczlqdkJFSmstVTdFQVM4bXhucEF3Tkl6VUtaSnpEQmRLOVhhYnZZVWVDUFVvbk5QczZpVUNkaWliX0xMWjhjRGp4Z0tscmgwZ1NmSXdEdDk0djY2bkNGb3VzeG1WS21ENmt0eFJjWUtKLXZKRlZsNDQ?oc=5",
         "peso": 1.0
       }
     }
@@ -369,272 +333,272 @@
     {
       "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 26.54,
-      "fontes_distintas": 29
+      "fatia_pct": 25.83,
+      "fontes_distintas": 30
     },
     {
       "termo": "Lula",
-      "peso_relativo": 82.1,
-      "fatia_pct": 21.79,
-      "fontes_distintas": 23
+      "peso_relativo": 83.5,
+      "fatia_pct": 21.57,
+      "fontes_distintas": 24
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 74.5,
-      "fatia_pct": 19.78,
-      "fontes_distintas": 23
+      "peso_relativo": 68.5,
+      "fatia_pct": 17.7,
+      "fontes_distintas": 22
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 63.2,
-      "fatia_pct": 16.76,
+      "peso_relativo": 66.4,
+      "fatia_pct": 17.15,
       "fontes_distintas": 22
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 40.0,
-      "fatia_pct": 10.61,
+      "peso_relativo": 36.4,
+      "fatia_pct": 9.4,
       "fontes_distintas": 14
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 31.6,
-      "fatia_pct": 8.38,
+      "peso_relativo": 32.1,
+      "fatia_pct": 8.3,
       "fontes_distintas": 12
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 31.6,
-      "fatia_pct": 8.38,
+      "peso_relativo": 32.1,
+      "fatia_pct": 8.3,
       "fontes_distintas": 12
     },
     {
-      "termo": "Exército",
-      "peso_relativo": 14.9,
-      "fatia_pct": 3.97,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Exército do Lula",
-      "peso_relativo": 14.9,
-      "fatia_pct": 3.97,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Nordestinos",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.35,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Nordestinos Com Lula",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.35,
-      "fontes_distintas": 1
-    },
-    {
       "termo": "Juazeiro",
-      "peso_relativo": 12.2,
-      "fatia_pct": 3.24,
+      "peso_relativo": 15.0,
+      "fatia_pct": 3.87,
       "fontes_distintas": 2
     },
     {
-      "termo": "Egito",
-      "peso_relativo": 12.0,
-      "fatia_pct": 3.18,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MANDOU",
-      "peso_relativo": 11.4,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MATAR",
-      "peso_relativo": 11.4,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "BOLSONARO MANDOU",
-      "peso_relativo": 11.4,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MANDOU MATAR",
-      "peso_relativo": 11.4,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MATAR LULA",
-      "peso_relativo": 11.4,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "BOLSONARO MANDOU MATAR",
-      "peso_relativo": 11.4,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MANDOU MATAR LULA",
-      "peso_relativo": 11.4,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "TRE PE",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 5
+      "termo": "Jardim",
+      "peso_relativo": 13.1,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 2
     },
     {
       "termo": "PT",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.79,
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.32,
       "fontes_distintas": 5
     },
     {
       "termo": "João",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 5
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.32,
+      "fontes_distintas": 6
     },
     {
-      "termo": "Recife abre",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.79,
+      "termo": "nesta quarta",
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.32,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Câmara",
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.32,
       "fontes_distintas": 5
     },
     {
       "termo": "abre inscrições",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.79,
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.32,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Donzelo",
+      "peso_relativo": 12.2,
+      "fatia_pct": 3.15,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Maracanã",
+      "peso_relativo": 11.6,
+      "fatia_pct": 2.99,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Léo Jardim",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.82,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "TRE PE",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.77,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Câmara do Recife",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.77,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Recife abre",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.77,
       "fontes_distintas": 5
     },
     {
       "termo": "Recife abre inscrições",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.79,
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.77,
       "fontes_distintas": 5
     },
     {
-      "termo": "Lula Em Juazeiro",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.68,
+      "termo": "Thiago",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.71,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Roça",
+      "peso_relativo": 10.3,
+      "fatia_pct": 2.65,
       "fontes_distintas": 1
     },
     {
-      "termo": "Powerpoint",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.51,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Powerpoint Do Flavio",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.51,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Corrida",
-      "peso_relativo": 8.8,
-      "fatia_pct": 2.35,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Blogueiras8",
-      "peso_relativo": 8.8,
-      "fatia_pct": 2.35,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Corrida Das Blogueiras8",
-      "peso_relativo": 8.8,
-      "fatia_pct": 2.35,
+      "termo": "Tina",
+      "peso_relativo": 9.6,
+      "fatia_pct": 2.49,
       "fontes_distintas": 1
     },
     {
       "termo": "Bolsonaro promete",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.21,
       "fontes_distintas": 4
     },
     {
       "termo": "Flávio Bolsonaro promete",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.21,
       "fontes_distintas": 4
     },
     {
       "termo": "Anderson",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.21,
       "fontes_distintas": 3
+    },
+    {
+      "termo": "quarta feira",
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
     },
     {
       "termo": "transporte gratuito",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.21,
       "fontes_distintas": 4
     },
     {
-      "termo": "Campos",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
+      "termo": "quebra de sigilo",
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.21,
       "fontes_distintas": 4
     },
     {
-      "termo": "João Campos",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Câmara",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
+      "termo": "Alepe",
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.21,
       "fontes_distintas": 3
     },
     {
-      "termo": "Filho",
+      "termo": "Exército",
       "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
+      "fatia_pct": 2.16,
       "fontes_distintas": 4
     },
     {
-      "termo": "Hospital",
+      "termo": "Mendes",
       "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
+      "fatia_pct": 2.16,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Mulher",
+      "termo": "Thiago Mendes",
       "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
+      "fatia_pct": 2.16,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Hospital da Mulher",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
+      "termo": "Master",
+      "peso_relativo": 7.7,
+      "fatia_pct": 1.99,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Mulher do Recife",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 4
+      "termo": "Chef",
+      "peso_relativo": 7.7,
+      "fatia_pct": 1.99,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Master Chef",
+      "peso_relativo": 7.7,
+      "fatia_pct": 1.99,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Chef BR",
+      "peso_relativo": 7.7,
+      "fatia_pct": 1.99,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Master Chef BR",
+      "peso_relativo": 7.7,
+      "fatia_pct": 1.99,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Paredes",
+      "peso_relativo": 7.1,
+      "fatia_pct": 1.83,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Correia",
+      "peso_relativo": 6.4,
+      "fatia_pct": 1.66,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Programa",
+      "peso_relativo": 6.4,
+      "fatia_pct": 1.66,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Anderson Correia",
+      "peso_relativo": 6.4,
+      "fatia_pct": 1.66,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 6.4,
+      "fatia_pct": 1.66,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "PE cobra",
+      "peso_relativo": 6.4,
+      "fatia_pct": 1.66,
+      "fontes_distintas": 3
     }
   ]
 }
