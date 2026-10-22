@@ -1,18 +1,26 @@
 {
-  "atualizado_em": "2026-10-21T23:37:47Z",
-  "total_analisado": 127,
+  "atualizado_em": "2026-10-22T01:52:03Z",
+  "total_analisado": 135,
   "x_recife": [
     {
-      "termo": "Marçal",
+      "termo": "#LiveDoLulaComSeuExercito",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Mar%C3%A7al",
+      "url": "https://x.com/search?q=%23LiveDoLulaComSeuExercito",
+      "ruido": false
+    },
+    {
+      "termo": "#10MilhoesDeSoldadosDoLula",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%2310MilhoesDeSoldadosDoLula",
       "ruido": false
     },
     {
       "termo": "E AGORA FLÁVIO",
-      "posicao": 2,
+      "posicao": 3,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=E%20AGORA%20FL%C3%81VIO",
@@ -20,150 +28,160 @@
     },
     {
       "termo": "LULA GRANDÃO FLÁVIO ARREGÃO",
-      "posicao": 3,
-      "variacao": "+5",
-      "direcao": "sobe",
+      "posicao": 4,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=LULA%20GRAND%C3%83O%20FL%C3%81VIO%20ARREG%C3%83O",
       "ruido": false
     },
     {
-      "termo": "#QuemEMarianaFlavio",
-      "posicao": 4,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23QuemEMarianaFlavio",
+      "termo": "DEIXEM OS INDÍGENAS VOTAREM",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=DEIXEM%20OS%20IND%C3%8DGENAS%20VOTAREM",
       "ruido": false
     },
     {
-      "termo": "#FlavecioNeves",
-      "posicao": 5,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23FlavecioNeves",
+      "termo": "Lyanco",
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Lyanco",
+      "ruido": false
+    },
+    {
+      "termo": "Arana",
+      "posicao": 7,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Arana",
       "ruido": false
     },
     {
       "termo": "FLÁVIO ESQUEMA PANDEMIA",
-      "posicao": 6,
-      "variacao": "-1",
-      "direcao": "cai",
+      "posicao": 8,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=FL%C3%81VIO%20ESQUEMA%20PANDEMIA",
       "ruido": false
     },
     {
-      "termo": "Angélica",
-      "posicao": 7,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Ang%C3%A9lica",
-      "ruido": false
-    },
-    {
-      "termo": "Gabriel Delfim",
-      "posicao": 8,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Gabriel%20Delfim",
-      "ruido": false
-    },
-    {
-      "termo": "FLAVIO E COMANDO VERMELHO",
+      "termo": "HOLD ME TIGHT",
       "posicao": 9,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=FLAVIO%20E%20COMANDO%20VERMELHO",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=HOLD%20ME%20TIGHT",
       "ruido": false
     },
     {
-      "termo": "#MetaCensura",
+      "termo": "Alan Franco",
       "posicao": 10,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23MetaCensura",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Alan%20Franco",
       "ruido": false
     },
     {
-      "termo": "BioWare",
+      "termo": "Canobbio",
       "posicao": 11,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=BioWare",
+      "url": "https://x.com/search?q=Canobbio",
       "ruido": false
     },
     {
-      "termo": "Marcola",
+      "termo": "Evangelista",
       "posicao": 12,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Marcola",
+      "url": "https://x.com/search?q=Evangelista",
+      "ruido": false
+    },
+    {
+      "termo": "#FlavecioNeves",
+      "posicao": 13,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23FlavecioNeves",
+      "ruido": false
+    },
+    {
+      "termo": "Serna",
+      "posicao": 14,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Serna",
+      "ruido": false
+    },
+    {
+      "termo": "#QuemEMarianaFlavio",
+      "posicao": 15,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23QuemEMarianaFlavio",
+      "ruido": false
+    },
+    {
+      "termo": "Barba",
+      "posicao": 16,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Barba",
+      "ruido": false
+    },
+    {
+      "termo": "Hilux",
+      "posicao": 17,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Hilux",
+      "ruido": false
+    },
+    {
+      "termo": "Savarino",
+      "posicao": 18,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Savarino",
+      "ruido": false
+    },
+    {
+      "termo": "#FlavioComandoVermelho",
+      "posicao": 19,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23FlavioComandoVermelho",
       "ruido": false
     },
     {
       "termo": "soobin",
-      "posicao": 13,
-      "variacao": "+6",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=soobin",
-      "ruido": false
-    },
-    {
-      "termo": "#LulaEmBH",
-      "posicao": 14,
-      "variacao": "+9",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23LulaEmBH",
-      "ruido": false
-    },
-    {
-      "termo": "Diomande",
-      "posicao": 15,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Diomande",
-      "ruido": false
-    },
-    {
-      "termo": "Aceitou",
-      "posicao": 16,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Aceitou",
-      "ruido": false
-    },
-    {
-      "termo": "#FlavioDonoDeBet",
-      "posicao": 17,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23FlavioDonoDeBet",
-      "ruido": false
-    },
-    {
-      "termo": "Glee",
-      "posicao": 18,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Glee",
-      "ruido": false
-    },
-    {
-      "termo": "Arsenal",
-      "posicao": 19,
-      "variacao": "-8",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Arsenal",
-      "ruido": false
-    },
-    {
-      "termo": "VAI ARREGAR",
       "posicao": 20,
-      "variacao": "+5",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=VAI%20ARREGAR",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=soobin",
       "ruido": false
     }
   ],
   "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "ba.gov.br: Karateca baiano disputa etapa final do Campeonato Brasileiro em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb1JQWnJNSGNVVXAycC01SUNLWlV5MXJUU2p1b0hheFVKZ1V1M1JGZzNpTzB6SjdaR3JEMTJzVXNDY0VFZzZldC01dzg5SHJCaU02S0Y1bGMwYzJSLS1kQnFqeVJvSmFLalh2ejBrdFZDN1pfMlVuYkVtZUxfdnFxMDd0amFJYlUwYVRDQXhvM3FQUnFrVVI0TG50d25IS29tZkktT1FBajRfMU1YdlJkQXlLQUZTR1lwNUkzWmx3VVpzV1BTNGJBV3FvT0Y?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Ministério Publico de Pernambuco: MPPE recomenda medidas para reforçar controle tributário do CABOPREV",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVZDamdHMzJZUVo0NG1KYnlESE1IMEJ2SG13LWh4b1dpekd2QlYtMm1QanYyYjJ0MXhrM3U5cTRGaXpKUlVwRV92bHFyT3JHYjBKdy1QaEg0WVVjQll0dzBKcnlOZWZhSzhBSGZiMHZudDFCTVFUcjdITG52SUZWYzVrbXRqOGZlcXNucmw2UEN1SXNwQTYycE9TOVc?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "CNN Brasil: Pernambuco registra seis mortes por dengue em 2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGtQWHg3U1hQd0d3U09kZ1JzdlI4VjNwaEZ0cVlRazFiRHFoQzFzNzdHd082Q1hScnhuMFBCWndUczlJZEhDSnJBbDFGOGZwWUM4NXFkakVBNWQxY2hJQXBEV1ktSUJRYkZyQ0pneU1FZGx4Umh0Qy1rWG1nbjA2UE00LTZ1dFl5RnhpUmJEek9uaUtULXQtVTZ3WDdNMG5pREgw?oc=5"
+    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -175,24 +193,6 @@
       "volume": "Últimas 12h",
       "manchete": "Prefeitura do Paulista: Em visita a Paulista, Presidente nacional do CIEE destaca crescimento de cumprimento das cotas de aprendizagem superior ao de Pernambuco",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV0IyQnJzZWlER25NOFJtZ0RLYTV5OUQ4VlExUVJfblBObDdOTHhfODV0NmVQTXFfTkdPYVlNLVNIcmxJVEwxNTlrU2h5aFk0T2MzSGpWa01TX2V4enFIYWJ0QkxJVkpiWFVTbkpSbDRCZmRvTWVHdm9lMjk1dl9GVkRiRjJIdDZSc0YwOWl6UmxNcVVSdEZUeXBKaGswLWZiZFYyME1IZ21OTUo3ZXZNenFNMmE3ZGZQbDdab2J4eG1MVFk?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Pernambuco tem o 2º maior crescimento econômico do Brasil e lidera o Nordeste em 2026",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXFnRmpoWHhQbWNtR2pZVjRBLTlFNzYwQVVJcTMyTUtXSVNjVmRxQURaLWFaU01acjcwcy0ycVhMTC02eW5ZUWpQOFlxempySTZqUHdwbEFyZERsOWNkUUdYcDEyWkpINjYyX1ZldmZvVEp6WDBxMFV2aTVPU2J3Sm9WdERlWmNsZFlDQTZJbk1iWDljLVZDZ2VSSjVxaUFIbnRMRW1halhFSG9pMjRrcEVUU2Zud9IBtgFBVV95cUxOeXFnRmpoWHhQbWNtR2pZVjRBLTlFNzYwQVVJcTMyTUtXSVNjVmRxQURaLWFaU01acjcwcy0ycVhMTC02eW5ZUWpQOFlxempySTZqUHdwbEFyZERsOWNkUUdYcDEyWkpINjYyX1ZldmZvVEp6WDBxMFV2aTVPU2J3Sm9WdERlWmNsZFlDQTZJbk1iWDljLVZDZ2VSSjVxaUFIbnRMRW1halhFSG9pMjRrcEVUU2Zudw?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Tribunal de Contas do Estado de Pernambuco: A pedido do MPC-PE, TCE determina instauração de Auditoria Especial para apurar desapropriação de imóvel em Recife",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZjZSdGRMZ2tyeFRCbzlwT3JxZXR6dTRTNF80cVE5eWpBQlBORld0VXFpcG9VWE56WGk4TDVfVlFsUHZGS2ZEYklZNTdSSXJoUXN4QjZhY0pzUm0zV1RmMm9GbGxtOExmNlJCdkp6Qlk1UlJwZmtoOG9kUUdmR3JIRGNwVkp1NVA5VzRtZTlYMFBBZk96azdwMDQyd1F4N2NaSkd3UVlPelBjYjlMNlFlckZ2aDM5Rl82RmtybEUyamk3RUFSZ3dPUXZRU2RNMTRoYktxZQ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Neoenergia: Neoenergia Pernambuco conclui substituição de 15 transformadores após fortes chuvas em Petrolina",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3RLRzVCaElSSFZpU1JLOWd0eGRmbEUtOWJyR0k3dG5iOFRjRGJtMFotMHh5d3g0WDd6R1gwNE1lemo2NjhsOEZfWWpDR1V1OURTUmhOMV9IbTEwN3lxMVR0c1h6RzhDNHdmV3JfTWtIaEQ2U3JRNV9KU01UaThCUGVZX3NNS2phLWU2dWZKRTRpUFhXYTJ3YVQ0SnBVc0JXRVhHekdkbkxWejIzLVE?oc=5"
     },
     {
       "termo": "Recife",
@@ -209,14 +209,20 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Recife sedia encontro sobre gestão e segurança de TI com inscrições gratuitas abertas",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2dvV3kyenAyMVVkNHNuZXlXb1hKMWN6TTJWN0oxSFBfQ1lfTWFTUDRSbFNFdi1ha2dGMl8wVGlmbkE1SWRhLXROdWNTUy1XZTZWU2I0TGxhdDkweC03R2NDeG8xT0w4bjB5T1pQM3JtcjNHZW96ZEZWczlVNWJMeXlsRnktekpuNVM4TS0xb0ptR0szdHhEUGZZQkRJZnA0N2tMX3BaTy01VjM4VUtBQm1QQ1pyeFHSAbcBQVVfeXFMT1dnb1d5MnpwMjFVZDRzbmV5V29YSjFjek0yVjdKMUhQX0NZX01hU1A0UmxTRXYtYWtnRjJfMFRpZm5BNUlkYS10TnVjU1MtV2U2VlNiNExsYXQ5MHgtN0djQ3hvMU9MOG4weU9aUDNybXIzR2VvemRGVnM5VTViTHl5bEZ5LXpKbjVTOE0tMW9KbUdLM3R4RFBmWUJESWZwNDdrTF9wWk8tNVYzOFVLQUJtUENacnhR?oc=5"
+      "manchete": "CBN Recife: Samuel Salazar é eleito por unanimidade presidente da Camara do Recife",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXNObDFTOGR4S2xvWEdUNWI0V0sybGJZSW5TUHFpZEEwTVpSYmRPc3pTLUZOSjFTZXB3OGRDblZSOHNSeWhMUDNLVGxWT3ZMVnIzdXcwbmt1R2Z5dnVPcFdLMFlnUmxEcktmSXowMHJVeTJjdXFwUlpoTzJ1dXcxQTFYZ2sySWNGREs3TDlKM3R6clpjNWs4ZEdjbWRvSGhheHZkcVN2NW9ValNIYzZMTzJZWjVfZmNtWXlDNzRMd2Q?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Recife Restaurant Week",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckxLLWMyR0JGUy04ZnEwWDdCMFdKeFo0ckV6UnJBMUNQNkhNemNaNUVZMGpRRlM2R3hDLWdvLVdFZndkeVZmWFU4MzFhd0RsakE4aHFTdEx4OFdhb0JHM0ZwMk53c2pKZUV3NlhuVDEwRFJ5R2VtZTFRUW5hVzhudUw2N3UySDltOXFNdktTNGhGWjR3elB2NjYwejkwQmlI?oc=5"
+      "manchete": "Vero Notícias: Eduardo Moura e Dani Portela ambicionam a prefeitura de Recife em 2028",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSnFCYm91ZmF3M3lMb2pmQXUtNGFVUlRpQ3Y5cEpRZ1FhWmFackJXaFVNQXJ5bGtXNUZrc1BhWnFtQUw1VzRXNWVtNXF0YUFIS2g5VjBpR1NPdGowSnRVWkw5QjFITEUxMW0yY0N1RW1nMm9EMEdiUUl5bEJNWktVY2EtQk5pM1kybWhXazlNdnNidUVWRWNMZ095alE0QlJpTzVCRGtQM0NWbS1ObjBEMU9TZ1hsQUNYOWVj?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Elvis: Governo de Pernambuco garante ônibus intermunicipais gratuitos no segundo turno das eleições",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQampxRUZvMHZXOXVyQ1gwZEFwWUhaZjUyRlJuV01xNzg1UkhmNkRwdlFZSG1sd0ZETHRveXRmN2tQa2loS2lBVkpaVUZDcWNqcnV6aFpVVHVuVVpnVDR5bXQ3Y0JNa1ZwNzRIQkJsOVFwWkR6R3RvLThnMGxMOVdXZFo2dDQ5QXl3QzVPbGFncTB2bG05OW9DMVlqQmF3NHI2NVVZNlJjYWNTSUFYdF9SNDZzVnMyTmlacEMtX19aMVMwdmo1Ujh5UGFNTXozUXJteGdr?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -227,20 +233,26 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Alberto Alves: Governo de Pernambuco garante ônibus intermunicipais gratuitos no segundo turno das eleições pela primeira vez na história",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMjFGd0FRNTNwZkw0RTJCUGxjakNxRUVWLUtlWGZkUk90OWx2RmhSSW10UHFtTEZBcm9rLW9USlhqVUwwcmduTlZJd05ObFV2aEVFczA0LUpCTW4zRG1VUkJZcVlNbm9UcTYyenlhWVE4OWJDaTVtVzd6OEd6cnlGenFPTUZwUHRzalIyVWR4ZjBWRzg2Y3ZEMHBtVDlPTVVmZW5xUVVocU9seEhFNkRhYlBYX1NuQUlkeUNCZDk1SzNERXlWMHVpWl9sTnNjZER1M3lxZGc5NG5jeUllX0JzZVBSWDZlMmhKMkR2ZGQ0T3g?oc=5"
+      "manchete": "TNH1: Soldado do Exército que desapareceu com arma é preso em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlkzY0wwRUtqQ2QxLU8tVDM5U2lXam5JcjlOVm54Vmg0Vy1qOVdTaU5nZDBVYnpsQ0VuTjY2SkxKVndQM2dpN3BzWHJ1dE01UEZpaVpjUVhKT3V6YXJKZllrX0ZQX0k5VjJDa2lmcjl5TE1EX2UwejJnUFZQbXVpalRhMS1uekRkbnBaWEhSYTVuQ1RUaFBDV0tQb0t4em1HOVZ1c1N30gGgAUFVX3lxTE42X2dadnZ6c01XLUhWcGFocWdXMDduQjQwVW5jeEFXcDU3WEFNQmhJVGdHVE53Z18ycHpUbEVWVWU3VWdJSHVURWtaaHhUaXNORFR1RlpmOUVSUVZLVk90QlkwN0VjMjkwNFZxdGd3SnJ4RE1VRzBpMlMza0VtTGk5TWx0WXZCSDdESDNLTFVBRllwMHBMWWpYaGRBZjlLZXQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Info Newss: Soldado que desapareceu com armamento no Recife é preso após se apresentar à polícia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWpXVWIzQXVZWXhEV0xKLXZqZUl6TWx0QUhIamRDS0VIX2oxc2l6VldBdW5IbDZNdjRDby1nTmhmOExma2hQU2dpbVAzRlVDZU9MdU5wRHNaLXRxNDBLdEcyTzVPbkFwaV9UdngxbUY0czNfam5qZ2MxRkhvbF8xR3ZPZTViTWxISllyWmlIbldOM1RPYTRyX2pqLWE5SGZzRThTSEIteVZCVE0?oc=5"
+      "manchete": "Portal Agora Tocantins: Soldado do Exército é preso após fugir com fuzil e munição",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlhrZ2taVVhtR1RpcE9pa1RhSkJRSFhfTXI4bkhYVnJTR21lWXhEZk1VbGxTQXFzQXY2dy15bzRMR19aMC11LUllUHpndm1KQnJULTBHY01FNHF5WndZRGowS2txb3BFY0pzNkU2WDBCcnVWN05OaUl4alVNSzJSRDRKMXJsQzdZX1NV?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
       "manchete": "Assembleia Legislativa do Estado de Pernambuco: Deputados debatem desenvolvimento econômico do Nordeste",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnFWYjNfOUtieDJhdTk2YnhfVXRrV0F1MXgtbHRRcXNiMVNKSmdTNDdmYlA4UWFmaV9GSWw1QmhXUnVGVmlrRkpPeU5LdzB3MGJObXhfd2VHd0FhZlJKR2hybVB4RUtZb1VCanVwMlRUUDMwX1dGLXYybjM4bVB2SXVfZ0wxamxzRld6emZuQ2NST3ROeTBmaWozYw?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Embate político-eleitoral com o Nordeste no foco movimenta a reunião Plenária",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDlpNlRxOGhSdGFkWlZxR3R3ZHk0RlJnYVU1bEJ4NFJEYUxWVGY1dU9lTE5qVjhtQVY3WThGNE5EQmRJTEx0T2dENzhNM1NZWXVaY1EyNnotYWRKb21oR1JYSUdkcU5tV1NYeUpxZTZyWlFYT1hwekVOaUw0bUMzTFctUFFhWlZzSElQODhwcFNpaV9DQkpNOEw4Y2ZPSlNkUWRlZTFGY3lSbWEtRVkydXNFUVF0MUx0?oc=5"
     },
     {
       "termo": "Alepe",
@@ -269,20 +281,26 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "G1: Governo confirma transporte gratuito no 2º turno após denúncia sobre falta de linhas intermunicipais e frota insuficiente de ônibus no 1º",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnNrQTJWZlVvekRlV1FnRGxHMU4wbnRqcjVXOHZRYkgwdXJaNUVOWXhXcDVRb2pvZkMxaUNLb1ZWYzVTZmxOX09ubHYya0ZmeUg4VzJRaUVxU0lZUHNQUmQydHRCcVM4eDhGYU4tYUtKY0xlNlZVbHA1Q1Vid0ZjZlMyRFlwYzhiUzVEQWR4M0txY3ZIeFg5c29uVVlGZGI1NmhiLXJuaHVXVDNFMzRxQ3hnZUJ4Z0JfZDVkd0NudnpreDFfMEHSAdQBQVVfeXFMUEhVY20ySDVMa1BQMlJqd1c1MXg0TkZ1QWU1QTBnLUVKT2Z4NTcyaWFOQmJMOHNSRHB0ekpNQzJ5dUJLalhneDA1eUFfZlpLbUJIWGlYSG5MY3NDdWlaZTJsc0J1RUFqVC1nRXNiNjBXREg4dlRQMjRmZVlYc09rUGh0WjJxSW0zN1RqTEFrYUhXQjh3bzhKaTkzREx4SmRUdm1nTGR1d1JBX2xQNGFVbm8yeGxYcWJhQ05FQ2V2MGQ1TlVrRE9DMGpxRzJhYzZVRUtXekI?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Jamildo: Raquel Lyra confirma transporte intermunicipal gratuito no domingo de eleição em Pernambuco",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSEJ3clNicEwzYlVaZ2ZOekN5UUFqN1FoSEJBLUFtamp2UDRUYi1KRGpyOWpZdDJRLWFDVnljcDRKdGY5UXdEUHRqRFpUNVRRWERwSkQzTXZYbVRxZDBVNlFJM3hoOUk0a09UaW41ZllhMnJFeFAzcWs3RUd3Ul9FME9xMFlKWlZuU2p4QjNtUHc3Zm5YcTFpSTNrSGpWZjg1SHRpMHM5LUZJVEh2UU9lUUFrcVJqa0VVcHNabEs2QU8yU2fSAcgBQVVfeXFMTW9OU2RIczRGZW1WcXRXUkFZUmU1TkhaelZRckc0bmlNMHZqQnZOOElLZDJqWHVOQUZUWXFRXzB2eC0wOFp3NDhCcjEzczdjWGpHbXdwR0JxeTRxbDNJajVkc2pkQzdMeEVhaERkNDBkckdrY1l6amtZOEg1REpNSHdDck03aDQ2ZlVHVExWVzZScVhKVnp3MUxuTUk1Y1dGaTd6VlFOT3prWnd6eWFDQW45aGF0WlRZSHd0U2RCRUFLN1MtSy1QcnQ?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "cnf.net.br: Governo de Pernambuco realizará leilão de veículos com lances a partir de R$ 2 mil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ29fZ2RlOVQ1MVpCNHFkVW92ckdQNjJob2tycFBHRzFxYzItR3BValZDY3hnSjdxTkdISWtoU0VvZ0c3NjZmb0MwTGhxY0Z4MTRqUE8waDRDMzBicXlhVEtHREg4cEFvOGg0eWFxbDl3b3lnWkVkWUpqOFNwejdBLW1LV29VWkswVTc0Ny1HcW0tUE9SUDBFYnFaNUxVX2g2dGpZWEtGRE16cWJBYVdrRl93?oc=5"
+      "manchete": "JC: Pernambuco terá ônibus intermunicipais gratuitos no segundo turno das eleições",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlV6Zmhkd1Jta1kxMGtpdnliaUNlWDU3dXoxU0pSWGVfWVN2VElkQ0lxV2hkS1Y1alJfSUVwanY5aVhpLVdYbzBNODlvel8zcUhhODl4YTVkR1JqTVltLWt0bklYdmR0Q21KT0dXRzlCakFhbjA5eVhwY2lZOEFpWUtDS2lGUU41bmt4Ti16S25QTUhGUy1LWkF6eWRQWFVOREtjeFhrVDFDQms2QW5XRDZzcGRoejRwZmhzTEpFWjAwdkdIV0dqbDhrTWhNR2dK?oc=5"
     }
   ],
   "picos": [
     {
       "termo": "nesta sexta",
-      "razao_aumento": 111.1,
+      "razao_aumento": 101.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha PE",
@@ -294,7 +312,7 @@
     },
     {
       "termo": "nesta sexta feira",
-      "razao_aumento": 111.1,
+      "razao_aumento": 101.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha PE",
@@ -305,68 +323,32 @@
       }
     },
     {
-      "termo": "sexta feira",
-      "razao_aumento": 88.9,
+      "termo": "destruir provas",
+      "razao_aumento": 75.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-21T13:20:00Z",
-        "titulo": "Secretaria de Administração realiza leilão de automóveis e motocicletas nesta sexta-feira (30)",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlhZRk1PY1lyTUpnQ0dmV2wxT2RqU1BKNUljMVVCNV9ZdUdZN3ZGdV9HWFpaNWNPV29ZSm1PdHdmcnp1aFBJMDFkZ19VN252aUhnMEcxNDJ3QjViN3ZxNW5kSUp4S3VxLS1BbDVUYjlTVmJtdGFRYnp4dWFSSm9fbkw3UlE1VzhvZ296UmpvWW9GRG5uOHNhYXB3MUFzUUN1d1R0RndtN2nSAagBQVVfeXFMTVpYWUZNT2NZck1KZ0NHZldsMU9kalNQSjVJYzFVQjVfWXVHWTd2RnVfR1haWjVjT1dvWUptT3R3ZnJ6dWhQSTAxZGdfVTdudmlIZzBHMTQyd0I1Yjd2cTVuZElKeEt1cS0tQWw1VGI5U1ZibXRhUWJ6eHVhUkpvX25MN1JRNVc4b2dvelJqb1lvRkRubjhzYWFwdzFBc1FDdXdUdEZ3bTdp?oc=5",
+        "fonte": "Metrópoles",
+        "hora": "2026-10-21T19:14:00Z",
+        "titulo": "Suspeitos de destruir provas sobre corrupção em prefeitura são alvos da PF",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjhPNXRZdGlOMFhNb25MeFBrZElCeGpBS3k3TjhTOEdONWh4M3BNbzJQVjhITVZHMmlWWkJteUFFOUswcXRzQnJVZXprYm1kLTdxQl9nb0NzLVIxVzRsWVFPVkNvd1lMLU5aVUFDMkxnaDEteE9aTHRSR3ZFZTlpOFRzS0pmSWpGNmFQN19HWkRlaHN0TmppNTdhNnJiSW8yaHh5ZVBjc0dzeDFPSHhwTUJaeDBCT0hyWUVfVnI1b01UWkhf?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "desafio de Lula",
-      "razao_aumento": 83.3,
+      "termo": "suspeitos de destruir",
+      "razao_aumento": 75.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-21T17:18:27Z",
-        "titulo": "Em resposta a 'desafio' de Lula, Flávio impõe condições ao petista para liberar sigilos",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWI3SnhDeEtQT0hyc2VIVEt1anpsaEx6RkJwdGRlZy1aaDZxNUMteTFmTWRya25raG10dnhoRk1pbzNSU2dtX05DTzhidDlmSlpjSmkycF9NNG5OdElGZmYxYTZuWEtMTlVyX3RzV2laODhIZEU1cE9KeDZSdjJ6QXNjNXZfVDl1TlpWWUROZkZzRTBnbGNTSkhjcFQ1UXY2a0Nsc2FVMnQzZEhYWG5aUEJDRk9SVmxZQ2RQOG1hSlh2ODNOcGptQzFXQ0xYWDJ5MVVpMGFFU05zTmI0VThVb1pWSGdaajl60gH3AUFVX3lxTFAyR2xPS1RRRV9LTFlkcUR6NnZOeW1MSHRTRGw4X2FXQlVsT0ZxLXU0MlNnSFhEdVg4ZFlUTzdsR2JWa3JxQk5mX0xaQlFpS1doMllLV1Q4bU5ueVZYaWhreTF4VkNzOE9NY1J4cmVWTUVuYnhtbFlHb0VGeW93cFl2SUV4alotRExraUtJel9mX0lIUnRIaVFEWlRVcGwwSVk3WEp2RHE0WEZYUl9idkNSWWJ4S1YyY2g4V3M0bEVWa3pjcVduSVVTQlp1aE9sWmRaSTZwenhIRjNiWngwU3U2ZjVscXRqaVV5RHRKTkV1Y1JtVVM5QkU?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "impõe condições",
-      "razao_aumento": 83.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-21T17:18:27Z",
-        "titulo": "Em resposta a 'desafio' de Lula, Flávio impõe condições ao petista para liberar sigilos",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWI3SnhDeEtQT0hyc2VIVEt1anpsaEx6RkJwdGRlZy1aaDZxNUMteTFmTWRya25raG10dnhoRk1pbzNSU2dtX05DTzhidDlmSlpjSmkycF9NNG5OdElGZmYxYTZuWEtMTlVyX3RzV2laODhIZEU1cE9KeDZSdjJ6QXNjNXZfVDl1TlpWWUROZkZzRTBnbGNTSkhjcFQ1UXY2a0Nsc2FVMnQzZEhYWG5aUEJDRk9SVmxZQ2RQOG1hSlh2ODNOcGptQzFXQ0xYWDJ5MVVpMGFFU05zTmI0VThVb1pWSGdaajl60gH3AUFVX3lxTFAyR2xPS1RRRV9LTFlkcUR6NnZOeW1MSHRTRGw4X2FXQlVsT0ZxLXU0MlNnSFhEdVg4ZFlUTzdsR2JWa3JxQk5mX0xaQlFpS1doMllLV1Q4bU5ueVZYaWhreTF4VkNzOE9NY1J4cmVWTUVuYnhtbFlHb0VGeW93cFl2SUV4alotRExraUtJel9mX0lIUnRIaVFEWlRVcGwwSVk3WEp2RHE0WEZYUl9idkNSWWJ4S1YyY2g4V3M0bEVWa3pjcVduSVVTQlp1aE9sWmRaSTZwenhIRjNiWngwU3U2ZjVscXRqaVV5RHRKTkV1Y1JtVVM5QkU?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "abrir sigilos",
-      "razao_aumento": 55.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Estadão",
-        "hora": "2026-10-21T18:16:00Z",
-        "titulo": "Flávio Bolsonaro diz que aceita desafio de Lula para abrir sigilos, mas impõe condições",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckJHSi1RcEZtNjh0aVRySkpreGVpWlRpTVNvMnd1NHNTdXNwWFVjLVhuS0cxZjdLdVNKS0tXRUtZbi1tU0ZGZnpkZjQtX1BvekltWWpib3R2SjVGaW9sNXhyT2V2MDhEd2Q1NE13Zko4R2ktRUJEeFh2X1FtdFVJdWF1TnE2NFZ3ako2dnJZSEFPeXQ3ZktkZnE3T0pxejZFZGdQWEFKTUdUQzRRYzAxM2pFTlJJbFB3Wmw1UVpScVYwZmR5TW56M3lkYm3SAdIBQVVfeXFMTm5CSklKR09uUkpmcHlRNG5CUGphM1FDOGREcXc3bFBtb1Z6aklvaHdZVEdiR2I5Q2h4QzhDekRrS01wcllHczdoT1VvU3JIS2F0dUNpbmNJdjFaM0otUXh6aTMtZHJsNXRRXzY4dTNGZ2FWSW1Zb1FYd2NIUjhUXy0xV0hTbUxYMGNrNFhLZE9GVXpuaDEyYTlqRHAtZ1R4Zl9BaEl6cUlWQlVvRm1vV3lZLW5mQk5QenhkYzhKcTBEalJOR3VCSzQwNVhKR3pqZmJn?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "abre sigilo",
-      "razao_aumento": 55.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-21T18:09:22Z",
-        "titulo": "Flávio Bolsonaro diz que abre sigilo se ex-assessor de Lula fizer o mesmo: 'Vou levar até as últimas consequências'",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2RhdmRPdzhLTHBZQlhvLURkTHEybkVNZEtFWUVNbnFJSkZxdVloTTVzU3RHNkU4VlRiZEtOcUhrbTlPV3h5cllWbU1nRDVEVkNZcnEzT2labDc2ZmpKLU5OdVEwYmV4anpZRVJ2WDctUHpuMllIWWxPSVpOd2JxNWljLWU0V1JOWDBoZXZORkxQYUUyX1h5emtwb1HSAasBQVVfeXFMT2tUV3F2alpRbFRvVEhXUUsxTWJ1R0lSWWxsT1I2RzNDLXZDT2JPSHlkeGVGZ3BTQUwtZ3BrbXJOd2FmQ291WW52dk1XOUVaUzc3NFdJM3FxLVJPelNFUFFReHJBMjVxVEN3d1ZyM0hwa2dQUmpteUtzLXVJd0w0QVVXLVVjMjFCVXRidFgwcmp0Z0p0NWJWQk4wT3Y3Ym1QUkU1R09xY1ExUndF?oc=5",
+        "fonte": "Metrópoles",
+        "hora": "2026-10-21T19:14:00Z",
+        "titulo": "Suspeitos de destruir provas sobre corrupção em prefeitura são alvos da PF",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjhPNXRZdGlOMFhNb25MeFBrZElCeGpBS3k3TjhTOEdONWh4M3BNbzJQVjhITVZHMmlWWkJteUFFOUswcXRzQnJVZXprYm1kLTdxQl9nb0NzLVIxVzRsWVFPVkNvd1lMLU5aVUFDMkxnaDEteE9aTHRSR3ZFZTlpOFRzS0pmSWpGNmFQN19HWkRlaHN0TmppNTdhNnJiSW8yaHh5ZVBjc0dzeDFPSHhwTUJaeDBCT0hyWUVfVnI1b01UWkhf?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "leilão de veículos",
-      "razao_aumento": 55.6,
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "CBN Recife",
@@ -375,277 +357,313 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGdjZDFuWTRubzlKdlFyc3hab0tqSlo5XzgtWDVVQjJ6OW9aVHNIeDRKZ19UUjd2QURDdmVueHI4QzBCdUVGVzdsZ0F1cllCTkh0ZjBybjd2RGVWUlFHbVVlQlVNY3F1aTZmNlBkMEtUTzNoTHBQRkFBLVBRdmw2blAtSFBMTkszRGcxMVIxSHVGX0kzbDZienhrMDY4emdfNUs3WVJLUUxOWlN0YkdUR1d5MEFsUjZvSFpJZg?oc=5",
         "peso": 1.0
       }
+    },
+    {
+      "termo": "lances a partir",
+      "razao_aumento": 71.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "CBN Recife",
+        "hora": "2026-10-21T17:33:24Z",
+        "titulo": "Pernambuco realiza leilão de veículos e outros bens com lances a partir de R$ 2 mil",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGdjZDFuWTRubzlKdlFyc3hab0tqSlo5XzgtWDVVQjJ6OW9aVHNIeDRKZ19UUjd2QURDdmVueHI4QzBCdUVGVzdsZ0F1cllCTkh0ZjBybjd2RGVWUlFHbVVlQlVNY3F1aTZmNlBkMEtUTzNoTHBQRkFBLVBRdmw2blAtSFBMTkszRGcxMVIxSHVGX0kzbDZienhrMDY4emdfNUs3WVJLUUxOWlN0YkdUR1d5MEFsUjZvSFpJZg?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "partir de R",
+      "razao_aumento": 71.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "CBN Recife",
+        "hora": "2026-10-21T17:33:24Z",
+        "titulo": "Pernambuco realiza leilão de veículos e outros bens com lances a partir de R$ 2 mil",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGdjZDFuWTRubzlKdlFyc3hab0tqSlo5XzgtWDVVQjJ6OW9aVHNIeDRKZ19UUjd2QURDdmVueHI4QzBCdUVGVzdsZ0F1cllCTkh0ZjBybjd2RGVWUlFHbVVlQlVNY3F1aTZmNlBkMEtUTzNoTHBQRkFBLVBRdmw2blAtSFBMTkszRGcxMVIxSHVGX0kzbDZienhrMDY4emdfNUs3WVJLUUxOWlN0YkdUR1d5MEFsUjZvSFpJZg?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "sexta feira",
+      "razao_aumento": 68.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha PE",
+        "hora": "2026-10-21T13:20:00Z",
+        "titulo": "Secretaria de Administração realiza leilão de automóveis e motocicletas nesta sexta-feira (30)",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlhZRk1PY1lyTUpnQ0dmV2wxT2RqU1BKNUljMVVCNV9ZdUdZN3ZGdV9HWFpaNWNPV29ZSm1PdHdmcnp1aFBJMDFkZ19VN252aUhnMEcxNDJ3QjViN3ZxNW5kSUp4S3VxLS1BbDVUYjlTVmJtdGFRYnp4dWFSSm9fbkw3UlE1VzhvZ296UmpvWW9GRG5uOHNhYXB3MUFzUUN1d1R0RndtN2nSAagBQVVfeXFMTVpYWUZNT2NZck1KZ0NHZldsMU9kalNQSjVJYzFVQjVfWXVHWTd2RnVfR1haWjVjT1dvWUptT3R3ZnJ6dWhQSTAxZGdfVTdudmlIZzBHMTQyd0I1Yjd2cTVuZElKeEt1cS0tQWw1VGI5U1ZibXRhUWJ6eHVhUkpvX25MN1JRNVc4b2dvelJqb1lvRkRubjhzYWFwdzFBc1FDdXdUdEZ3bTdp?oc=5",
+        "peso": 1.0
+      }
     }
   ],
   "nuvem": [
     {
       "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 23.35,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 81.6,
-      "fatia_pct": 19.06,
+      "fatia_pct": 21.01,
       "fontes_distintas": 17
     },
     {
+      "termo": "Lula",
+      "peso_relativo": 96.3,
+      "fatia_pct": 20.22,
+      "fontes_distintas": 16
+    },
+    {
       "termo": "Bolsonaro",
-      "peso_relativo": 65.5,
-      "fatia_pct": 15.29,
+      "peso_relativo": 66.8,
+      "fatia_pct": 14.04,
       "fontes_distintas": 14
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 63.0,
-      "fatia_pct": 14.71,
-      "fontes_distintas": 13
+      "peso_relativo": 61.5,
+      "fatia_pct": 12.92,
+      "fontes_distintas": 12
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 42.8,
-      "fatia_pct": 10.0,
-      "fontes_distintas": 14
+      "peso_relativo": 45.5,
+      "fatia_pct": 9.55,
+      "fontes_distintas": 15
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 40.3,
-      "fatia_pct": 9.41,
-      "fontes_distintas": 13
+      "peso_relativo": 42.8,
+      "fatia_pct": 8.99,
+      "fontes_distintas": 14
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 40.3,
-      "fatia_pct": 9.41,
-      "fontes_distintas": 13
+      "peso_relativo": 42.8,
+      "fatia_pct": 8.99,
+      "fontes_distintas": 14
+    },
+    {
+      "termo": "Exército",
+      "peso_relativo": 18.7,
+      "fatia_pct": 3.93,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Campanha",
+      "peso_relativo": 16.0,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Campanha de Lula",
+      "peso_relativo": 16.0,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 5
     },
     {
       "termo": "Alepe",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.53,
+      "peso_relativo": 16.0,
+      "fatia_pct": 3.37,
       "fontes_distintas": 6
     },
     {
-      "termo": "nesta quarta",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.53,
-      "fontes_distintas": 5
+      "termo": "Live",
+      "peso_relativo": 16.0,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 1
     },
     {
-      "termo": "quarta feira",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.53,
-      "fontes_distintas": 5
+      "termo": "Live Do Lula",
+      "peso_relativo": 16.0,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 1
     },
     {
-      "termo": "nesta quarta feira",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.53,
-      "fontes_distintas": 5
+      "termo": "Soldados",
+      "peso_relativo": 15.2,
+      "fatia_pct": 3.2,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Marçal",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.53,
+      "termo": "10Milhoes De Soldados",
+      "peso_relativo": 15.2,
+      "fatia_pct": 3.2,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Soldados Do Lula",
+      "peso_relativo": 15.2,
+      "fatia_pct": 3.2,
       "fontes_distintas": 1
     },
     {
       "termo": "GRANDÃO",
       "peso_relativo": 13.6,
-      "fatia_pct": 3.18,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
       "termo": "ARREGÃO",
       "peso_relativo": 13.6,
-      "fatia_pct": 3.18,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
       "termo": "LULA GRANDÃO",
       "peso_relativo": 13.6,
-      "fatia_pct": 3.18,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
       "termo": "GRANDÃO FLÁVIO",
       "peso_relativo": 13.6,
-      "fatia_pct": 3.18,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
       "termo": "FLÁVIO ARREGÃO",
       "peso_relativo": 13.6,
-      "fatia_pct": 3.18,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
       "termo": "LULA GRANDÃO FLÁVIO",
       "peso_relativo": 13.6,
-      "fatia_pct": 3.18,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
       "termo": "GRANDÃO FLÁVIO ARREGÃO",
       "peso_relativo": 13.6,
-      "fatia_pct": 3.18,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EMariana",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EMariana Flavio",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.0,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
       "termo": "transporte intermunicipal",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.94,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Campanha",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.94,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Câmara",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.94,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "quebra de sigilo",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.94,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "desafio de Lula",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.94,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Flavecio",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.82,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Neves",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.82,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Flavecio Neves",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.82,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Marcola",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.76,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "ESQUEMA",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.65,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "PANDEMIA",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.65,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FLÁVIO ESQUEMA",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.65,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ESQUEMA PANDEMIA",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.65,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FLÁVIO ESQUEMA PANDEMIA",
-      "peso_relativo": 11.3,
-      "fatia_pct": 2.65,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Angélica",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Campanha de Lula",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.35,
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
       "fontes_distintas": 4
     },
     {
       "termo": "João",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.35,
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
       "fontes_distintas": 3
     },
     {
       "termo": "Campos",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.35,
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
       "fontes_distintas": 3
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.35,
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
       "fontes_distintas": 3
     },
     {
-      "termo": "impõe condições",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.35,
+      "termo": "Lula aceita",
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
       "fontes_distintas": 4
     },
     {
-      "termo": "abrir sigilo",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.35,
+      "termo": "quebra de sigilo",
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
       "fontes_distintas": 4
     },
     {
-      "termo": "Gabriel",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.29,
+      "termo": "nesta quarta",
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "quarta feira",
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "nesta quarta feira",
+      "peso_relativo": 13.4,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "DEIXEM",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.7,
       "fontes_distintas": 1
     },
     {
-      "termo": "Delfim",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.29,
+      "termo": "INDÍGENAS",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.7,
       "fontes_distintas": 1
     },
     {
-      "termo": "Gabriel Delfim",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.29,
+      "termo": "VOTAREM",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "INDÍGENAS VOTAREM",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "DEIXEM OS INDÍGENAS",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lyanco",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.53,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Arana",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.36,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "turno das eleições",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Câmara",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "TSE",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "abrir sigilos",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "ESQUEMA",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.19,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "PANDEMIA",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.19,
       "fontes_distintas": 1
     }
   ]
