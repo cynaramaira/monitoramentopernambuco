@@ -1,26 +1,10 @@
 {
-  "atualizado_em": "2026-10-23T04:50:28Z",
-  "total_analisado": 126,
+  "atualizado_em": "2026-10-23T10:01:14Z",
+  "total_analisado": 122,
   "x_recife": [
     {
-      "termo": "guilherme cortez",
-      "posicao": 1,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=guilherme%20cortez",
-      "ruido": false
-    },
-    {
-      "termo": "Boa Viagem",
-      "posicao": 2,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Boa%20Viagem",
-      "ruido": false
-    },
-    {
       "termo": "Flamengo",
-      "posicao": 3,
+      "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=Flamengo",
@@ -28,26 +12,42 @@
     },
     {
       "termo": "#DesculpaLula",
-      "posicao": 4,
+      "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=%23DesculpaLula",
       "ruido": false
     },
     {
-      "termo": "Muslera",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Muslera",
-      "ruido": false
-    },
-    {
       "termo": "Estudiantes",
-      "posicao": 6,
+      "posicao": 3,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=Estudiantes",
+      "ruido": false
+    },
+    {
+      "termo": "#AtomBirthdaySlayDown",
+      "posicao": 4,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23AtomBirthdaySlayDown",
+      "ruido": false
+    },
+    {
+      "termo": "ATOM SLAY DOWN BD PARTY 2026",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=ATOM%20SLAY%20DOWN%20BD%20PARTY%202026",
+      "ruido": false
+    },
+    {
+      "termo": "#LulaVaiVirar",
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23LulaVaiVirar",
       "ruido": false
     },
     {
@@ -59,11 +59,11 @@
       "ruido": false
     },
     {
-      "termo": "#LulaVaiVirar",
+      "termo": "Muslera",
       "posicao": 8,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23LulaVaiVirar",
+      "url": "https://x.com/search?q=Muslera",
       "ruido": false
     },
     {
@@ -83,83 +83,83 @@
       "ruido": false
     },
     {
-      "termo": "#EliminaçãoAFazenda",
+      "termo": "Bruno Henrique",
       "posicao": 11,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
+      "url": "https://x.com/search?q=Bruno%20Henrique",
       "ruido": false
     },
     {
-      "termo": "Carrascal",
+      "termo": "Lisa",
       "posicao": 12,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Carrascal",
-      "ruido": false
-    },
-    {
-      "termo": "Maracanã",
-      "posicao": 13,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Maracan%C3%A3",
-      "ruido": false
-    },
-    {
-      "termo": "#FLAxEST",
-      "posicao": 14,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23FLAxEST",
+      "url": "https://x.com/search?q=Lisa",
       "ruido": false
     },
     {
       "termo": "Filipe Luis",
-      "posicao": 15,
+      "posicao": 13,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=Filipe%20Luis",
       "ruido": false
     },
     {
-      "termo": "Royal",
-      "posicao": 16,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Royal",
+      "termo": "Carrascal",
+      "posicao": 14,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Carrascal",
       "ruido": false
     },
     {
-      "termo": "Ayrton Lucas",
+      "termo": "#AtomPariya",
+      "posicao": 15,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23AtomPariya",
+      "ruido": false
+    },
+    {
+      "termo": "#EliminaçãoAFazenda",
+      "posicao": 16,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
+      "ruido": false
+    },
+    {
+      "termo": "Diana",
       "posicao": 17,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Ayrton%20Lucas",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Diana",
       "ruido": false
     },
     {
       "termo": "Plata",
       "posicao": 18,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Plata",
       "ruido": false
     },
     {
-      "termo": "#LISA_PRESSPLAY",
+      "termo": "Ayrton Lucas",
       "posicao": 19,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23LISA_PRESSPLAY",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Ayrton%20Lucas",
       "ruido": false
     },
     {
-      "termo": "PRESS PLAY OUT NOW",
+      "termo": "Royal",
       "posicao": 20,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=PRESS%20PLAY%20OUT%20NOW",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Royal",
       "ruido": false
     }
   ],
@@ -173,32 +173,14 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Tribunal Regional Eleitoral de Pernambuco: Confira como será a gratuidade no transporte público no 2º turno em PE",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb010NU9qakVCUmVxclFSN1FsSHBjM3RUYWdhQU5KOU84ZTUwRUZ1dVg1cV9DbElqc01Rd09zUzFSVWJkMWdZM1huRVBGX3NHYXBHdnI1OUpBUGZ5Wk5XOEh3SERxV2VoeFNwOWI4U1IyRGgwd0pKOUdyZ1ZoOGVrR1VHUXZVOTJjMlA0cXk4c1lCWHo5YnJTbVJMN0FUOE04UWNDcHg2YWlGay1ySjJ4cDJXaUNZaXU1RGlNS0dLUVJIVFAwaXFZRjlR?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Brasilturis: Pernambuco reforça promoção do interior e aposta na alta temporada",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUFwaGU5Zk1uUFItS2tzMVdOMy1yRFhQUnZwZm9FSmU1OXlsXzM2LUtiSlFSSTBveUdISmRHV1o5SXFmTXBOMC1ZUUNoT2tCSVhDYVk3VHdlckxEYXgtX09xMERqa1VyWFQ5bnRuX0dpTC1BWjlJbnNGWEZOdkY3QmhDWXl4aHBhT21vTWNOVkctaGt4bnFHNTU5SkxlRU1LZVl6WnJuSDc?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Casa do Celular inaugura no RioMar Recife",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXU3ckZYSmF2MVhKQnMxOXRwYVlSV2VlUFRYX3ZTRHY1UjRIdmhqWmp5MTE1bk5wdDdBZDQ2YmZ2Zm5LQzZNNWZKTmZ3TGVKYmdCX3E1YlQyVERtM21WektYNk1HY0F4ejVHTkstSU8wVGtzYUpmQVNoTDg5eHdvQWxPT19XZw?oc=5"
+      "manchete": "Rádio Cidade 99.7 FM: Aqua Pernambuco assume distribuição de água e esgotamento sanitário no estado a partir desta segunda-feira (26)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHZmZVRGcVAxX2dOdVYzdVpmcm5mNTFSRURHLUNGMC1kUk9HQU5zMi01cHpHYUtKaXctR2JOVVZ5aXBpMzRlNk0xVXY4cUtSOXIzSVhicnVUc3JZNXlJSVFKUXNxQjR6S3J2RmVXYzFwWDBVdTIzS21GU1pVUlFnZHkwWVRfelB2RkFQN05fdklTWDRvcm10R2tib2xmd1lRb0VGZ05kTi1GY1lWWV8ySXRIQ0NadTdLMl9JNEdaS0UybGltNEQ4QTlBcWZpYU5f?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
       "manchete": "Folha de S.Paulo: Apoiadores de Flávio Bolsonaro promovem atos em Maceió e no Recife",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHlwZGxhLTZwS3diczNqOERfMGpkUFJ2ajFBdUN2a1dCSmtnTVdEQzkwdkdXMnhCcnJReEpYSklkcTdsQ3ZkQjZuUFNFWG5kdFUyWEtSS1lBYWlHUEVNUFdCTTBGRElYeEFSbnZFYnFuOVpfYXlYbTkxdDk4YzNmSV9wNDV6TnR2OW1JOGotXzNFbUZFdWN4c1NZVFZHRmxzVkpSM0JVeGhSczdDMXV2SjJKcnpZUnc?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "JC: Defensoria Pública pede ao STF transporte gratuito no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOUd2NEdtS2FmVHc0SUtWdUUzd3BaeDJIV1JXMVZuSEhuMmhNaW45WTdqeDlUSGQwSHVKY2VtUEhFRVJHMlpXdnR6TktNZ0tWSko5aklCY3FuTnhQQUw3NWxpN3puN2ptb0lrQW9DZm9YYm1SRFZFYUQ0VXNKOFRjMV9wQ2hudVhtNkR0UXgzTVhQWFl6QUdtYTgxQVpGWUJoTUhRSHQ1N0JPbVFhQzdSbXF5Z2M0SXR0T2c?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -211,36 +193,24 @@
       "volume": "Últimas 12h",
       "manchete": "- Blog Dellas: Giro Político: Decidido a pleitear a presidência da Alepe, PSD começa processo de definições dentro da legenda -",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVBBZFFqMUdsbEJYczRyaWg5OWFmQXhwcXNBQkFLSVNoY0w3c0NlUDRRZDlFcFlUSW0xY3hpdUpCRzh5a3lEREVGUjZYcUFQaHNIRVNCUUw5OS1iUUxvWEZrMndOajZQNDRIVFdiQmJyQ2QtVDZLQTI4UzhZcFpyamh2OXBMelNOM3lrc0Y0b0M4clRJN2Z0RlU1WHdQTy1GaUFnSWtkdC11dWJMRzNDQ3pLblBwYVhDVWdLS2M0cHFNNjhrZ0dLa3NpOFMyZWpC?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "PSD - Partido Social Democrático: Raquel Lyra entrega 480 apartamentos em Caruaru - PSD",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd1pFY0dMQ0M4a0c5TmNqNk5MV1B2aEdSOVZzamdHMHhrcURpMVk1Sm13ZHhFYUZscjhjTkJBVmEwNGJCNTA0a0VyWDhtd3o1Nmo1a3JyS2h0YkVUWE00M29KNlhpWTEzZ1dnV3ZwenJvYURNaXJOeHFzejd2Skh2R19n?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Em Caruaru, governadora Raquel Lyra entrega 480 apartamentos dos residenciais Novo Baraúna Sul 1 e 2 em parceria com o Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONWd5dzJaaU5XYXJoelBrMWU1R0Z4RlE4M0EzYzloMy00Z0dFUFdNaFc3Ym1aQ2djdVk0eldUcmJaaEdzXzEwNXBvM0t0by05Vm5ocnpNb052TDZkNmxjS0tsT1RQZW1jVm1qT0hjRzdtbWZfRGc3M2RFR21KZ1ZVVW5ncW0zNnNDUDZEU2xNQl9nenJubjh3d01vQ0lqSVBCSkVEMklEVzFEdEhrbXA4ZjdGNkVCc2xyTmJISjNQbF9IZTN4dmdHUUc2TUdVYXU0bHgyTjZwRlk5Q0dqSUM3bTZia2dONWlhUnp5MzJjNkxpdw?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Após pressão",
-      "razao_aumento": 76.9,
+      "termo": "Vox Brasil",
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-10-22T16:23:00Z",
-        "titulo": "Painel: Após pressão, governadora de PE edita decreto que garante transporte de graça no dia da eleição",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR3FvU0QyNDY5aVJ1NklLb21EMFpUMUVQYUVnVnVlY2VzRGJtcmk3a1NkUVZRZndWbGo0dzFzNDUyb2RGRlRVZ2xXelZHdjlheW1VYklvZUN5SEtvYXhocHNCbVh2MkhYWE5TNkFULTJEZUtDSGNtM2t6V1hiQ3VoSU5QcHRSQUY2MDIzWXdacjdWSWxGaUF5aGJIb3hqNmlEUlFMYVZzTFV6dUhZOWFRRU1sZnBQckFEOVBvSzNXVUhQS2Z3a2MyMlplNmpMMDRTLWM0dE9EbTQySXlYcFlYT1JFNFlneEYt?oc=5",
+        "fonte": "JOTA Info",
+        "hora": "2026-10-23T03:00:23Z",
+        "titulo": "Lula tem 50,6% dos votos válidos contra 49,4% de Flávio Bolsonaro, diz pesquisa Vox Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPencwczVxUWtFMUJhNFFZaklYaDk3SFVVRWJoNUQxSGZ6Nkk0LTBNeGZfbXkzb3lucVIzNzRSMDYzaFNudFlDWXJTaE5XcmJVTHYwZDFJaFZFVXZnX0pzUFJ6ZV9hQ0FRUmtLb2FoaFlXZERYMGhiaGVRa1UwMnBqN2I4MklCRmc5NFl3UW90U3FLenFCT0loNXhUUzM0VFBMaDlWNlotVEZhQy1ONTNfZ2EtYkN2UkZkZ1M0M2E4ckRYZHVQUTZSSTFR?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "nega pedido",
-      "razao_aumento": 76.9,
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -252,7 +222,7 @@
     },
     {
       "termo": "suspender mensagens",
-      "razao_aumento": 76.9,
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -264,7 +234,7 @@
     },
     {
       "termo": "Bolsonaro para suspender",
-      "razao_aumento": 76.9,
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -276,7 +246,7 @@
     },
     {
       "termo": "mensagens do governo",
-      "razao_aumento": 76.9,
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -287,312 +257,312 @@
       }
     },
     {
-      "termo": "Governo Federal",
-      "razao_aumento": 71.4,
+      "termo": "Bolsonaro cancela",
+      "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Tribunal Superior Eleitoral",
-        "hora": "2026-10-22T18:45:00Z",
-        "titulo": "CGE nega pedido do candidato Flávio Bolsonaro para suspender mensagens do governo federal",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdnVxWDBxdlhjcDV0SmItX0hxT2h6MTRBcnJFLXlsb1hGS2k3a1VnMm9lMWhVWkhqWnNMMklXMTk5ZUhWNXR4S2FkUXpEM1I0Uml2ZktOLW42Snh1YlMzZENrVEt1TzJscnNYWENET2NGVHpvQkoxUnM0amxwaWcyQUE0U2JuR0NmMExhWjk2V3FFYzdfVzdCSk43MFZ0Y3FZeXo2VmZVbFBXb0s1TThtLUk5OUR6SktYWWRpWkdjYVQ1TTJHR1l6dEtJN2ZBSDNHN2pWSTJ0QWwzUmV1bGhR?oc=5",
+        "fonte": "Valor Econômico",
+        "hora": "2026-10-22T23:34:01Z",
+        "titulo": "Flávio Bolsonaro cancela 'live' desta quinta-feira",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQlBlU3BtUXM1TkxZZzFTV1pKV0w4YUtSMmFIMjRzdUVINE5mbXR3cmRpUTh0dTJpajU2eXpUdTdZUzMyN2ROYmhqODFhVHNEeGlBb2pBdkZCSGFmX2p2X2tWQWpzMkNVYS05aVRSN1ZrZDhhLWtGTnV4dW1GemJ3X1QyTnJyQnJ4Mjl2cU1RQ2NMbTV1WjQxcnQ4ZkMxdllPSzRF0gGyAUFVX3lxTE1ubzB4dE5LdE9ySzhIOFo1eHgzNHNob1ZzR2R0S0lIY3lGVFhKLTZxeW5zeDFxQnpEOTY2LUxyREg1Z3h1bTc3WlFNbHVVXzNUVFZpTmtBRUhtRTlfdng0QnQ2X21HZXRETEVGTEdIWGZoMXZnMUs1QUFidVZhSGs0M0U1MndTYkhpWXMzQ0ttZkNZdlJQTXB4a3J4aFdzTlFxSkVlbmxHWmUxUnlvdzA5Y0E?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Vox Brasil",
-      "razao_aumento": 71.4,
+      "termo": "cancela live",
+      "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JOTA Info",
-        "hora": "2026-10-23T03:00:23Z",
-        "titulo": "Lula tem 50,6% dos votos válidos contra 49,4% de Flávio Bolsonaro, diz pesquisa Vox Brasil",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPencwczVxUWtFMUJhNFFZaklYaDk3SFVVRWJoNUQxSGZ6Nkk0LTBNeGZfbXkzb3lucVIzNzRSMDYzaFNudFlDWXJTaE5XcmJVTHYwZDFJaFZFVXZnX0pzUFJ6ZV9hQ0FRUmtLb2FoaFlXZERYMGhiaGVRa1UwMnBqN2I4MklCRmc5NFl3UW90U3FLenFCT0loNXhUUzM0VFBMaDlWNlotVEZhQy1ONTNfZ2EtYkN2UkZkZ1M0M2E4ckRYZHVQUTZSSTFR?oc=5",
+        "fonte": "Valor Econômico",
+        "hora": "2026-10-22T23:34:01Z",
+        "titulo": "Flávio Bolsonaro cancela 'live' desta quinta-feira",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQlBlU3BtUXM1TkxZZzFTV1pKV0w4YUtSMmFIMjRzdUVINE5mbXR3cmRpUTh0dTJpajU2eXpUdTdZUzMyN2ROYmhqODFhVHNEeGlBb2pBdkZCSGFmX2p2X2tWQWpzMkNVYS05aVRSN1ZrZDhhLWtGTnV4dW1GemJ3X1QyTnJyQnJ4Mjl2cU1RQ2NMbTV1WjQxcnQ4ZkMxdllPSzRF0gGyAUFVX3lxTE1ubzB4dE5LdE9ySzhIOFo1eHgzNHNob1ZzR2R0S0lIY3lGVFhKLTZxeW5zeDFxQnpEOTY2LUxyREg1Z3h1bTc3WlFNbHVVXzNUVFZpTmtBRUhtRTlfdng0QnQ2X21HZXRETEVGTEdIWGZoMXZnMUs1QUFidVZhSGs0M0U1MndTYkhpWXMzQ0ttZkNZdlJQTXB4a3J4aFdzTlFxSkVlbmxHWmUxUnlvdzA5Y0E?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "histórico de preços",
-      "razao_aumento": 71.4,
+      "termo": "Flávio Bolsonaro cancela",
+      "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Assembleia Legislativa do Estado de Pernambuco",
-        "hora": "2026-10-22T15:24:00Z",
-        "titulo": "Enquete: lojas devem divulgar histórico de preços antes de promoções?",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTdMQWRDY0RZSy1TV0drZUtScWJTYXFiRWVJTm1XS2dOcGNJcmdFZlczUTFtTFVtZnNFTDNqM1gzRENnQWRhSFo4SkRaLWk5Ql9NMGc0dkZQYWFJTDJwUEx2clNhbkNLR050QUhlYzZDR0lNZ1E5ZmZyaGFpS3dSc2JfVXdhcFVZSlZoU2xpb3phNkYtYkNyVkg3VDRIWTBLb3R2QVZWRWJxZw?oc=5",
+        "fonte": "Valor Econômico",
+        "hora": "2026-10-22T23:34:01Z",
+        "titulo": "Flávio Bolsonaro cancela 'live' desta quinta-feira",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQlBlU3BtUXM1TkxZZzFTV1pKV0w4YUtSMmFIMjRzdUVINE5mbXR3cmRpUTh0dTJpajU2eXpUdTdZUzMyN2ROYmhqODFhVHNEeGlBb2pBdkZCSGFmX2p2X2tWQWpzMkNVYS05aVRSN1ZrZDhhLWtGTnV4dW1GemJ3X1QyTnJyQnJ4Mjl2cU1RQ2NMbTV1WjQxcnQ4ZkMxdllPSzRF0gGyAUFVX3lxTE1ubzB4dE5LdE9ySzhIOFo1eHgzNHNob1ZzR2R0S0lIY3lGVFhKLTZxeW5zeDFxQnpEOTY2LUxyREg1Z3h1bTc3WlFNbHVVXzNUVFZpTmtBRUhtRTlfdng0QnQ2X21HZXRETEVGTEdIWGZoMXZnMUs1QUFidVZhSGs0M0U1MndTYkhpWXMzQ0ttZkNZdlJQTXB4a3J4aFdzTlFxSkVlbmxHWmUxUnlvdzA5Y0E?oc=5",
         "peso": 1.0
       }
     }
   ],
   "nuvem": [
     {
-      "termo": "Lula",
+      "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 20.72,
-      "fontes_distintas": 15
+      "fatia_pct": 23.23,
+      "fontes_distintas": 19
     },
     {
-      "termo": "Flávio",
-      "peso_relativo": 99.7,
-      "fatia_pct": 20.66,
-      "fontes_distintas": 19
+      "termo": "Lula",
+      "peso_relativo": 90.8,
+      "fatia_pct": 21.1,
+      "fontes_distintas": 16
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 79.2,
-      "fatia_pct": 16.4,
-      "fontes_distintas": 16
+      "peso_relativo": 69.4,
+      "fatia_pct": 16.13,
+      "fontes_distintas": 15
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 79.2,
-      "fatia_pct": 16.4,
-      "fontes_distintas": 16
+      "peso_relativo": 69.4,
+      "fatia_pct": 16.13,
+      "fontes_distintas": 15
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 67.4,
-      "fatia_pct": 13.97,
-      "fontes_distintas": 19
+      "peso_relativo": 55.6,
+      "fatia_pct": 12.9,
+      "fontes_distintas": 17
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 61.6,
-      "fatia_pct": 12.76,
-      "fontes_distintas": 17
+      "peso_relativo": 52.8,
+      "fatia_pct": 12.26,
+      "fontes_distintas": 16
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 61.6,
-      "fatia_pct": 12.76,
-      "fontes_distintas": 17
+      "peso_relativo": 52.8,
+      "fatia_pct": 12.26,
+      "fontes_distintas": 16
     },
     {
       "termo": "Caruaru",
-      "peso_relativo": 32.3,
-      "fatia_pct": 6.68,
+      "peso_relativo": 30.6,
+      "fatia_pct": 7.1,
       "fontes_distintas": 10
     },
     {
-      "termo": "Datafolha",
-      "peso_relativo": 26.4,
-      "fatia_pct": 5.47,
-      "fontes_distintas": 7
-    },
-    {
       "termo": "Lula e Flávio",
-      "peso_relativo": 20.5,
-      "fatia_pct": 4.25,
-      "fontes_distintas": 6
+      "peso_relativo": 19.4,
+      "fatia_pct": 4.52,
+      "fontes_distintas": 5
     },
     {
       "termo": "Lyra entrega",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.65,
+      "peso_relativo": 16.7,
+      "fatia_pct": 3.87,
       "fontes_distintas": 6
     },
     {
       "termo": "Raquel Lyra entrega",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.65,
+      "peso_relativo": 16.7,
+      "fatia_pct": 3.87,
       "fontes_distintas": 6
     },
     {
-      "termo": "Alepe",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.65,
+      "termo": "Datafolha",
+      "peso_relativo": 16.7,
+      "fatia_pct": 3.87,
       "fontes_distintas": 6
-    },
-    {
-      "termo": "guilherme cortez",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.65,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Viagem",
-      "peso_relativo": 16.7,
-      "fatia_pct": 3.46,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Boa Viagem",
-      "peso_relativo": 16.7,
-      "fatia_pct": 3.46,
-      "fontes_distintas": 1
     },
     {
       "termo": "Desculpa",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.1,
+      "peso_relativo": 15.8,
+      "fatia_pct": 3.68,
       "fontes_distintas": 1
     },
     {
       "termo": "Desculpa Lula",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.1,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "governadora Raquel",
-      "peso_relativo": 14.7,
-      "fatia_pct": 3.04,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "governadora Raquel Lyra",
-      "peso_relativo": 14.7,
-      "fatia_pct": 3.04,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "intermunicipal gratuito",
-      "peso_relativo": 14.7,
-      "fatia_pct": 3.04,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Muslera",
-      "peso_relativo": 14.1,
-      "fatia_pct": 2.92,
+      "peso_relativo": 15.8,
+      "fatia_pct": 3.68,
       "fontes_distintas": 1
     },
     {
       "termo": "Estudiantes",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.73,
+      "peso_relativo": 15.0,
+      "fatia_pct": 3.48,
       "fontes_distintas": 1
     },
     {
-      "termo": "Paquetá",
-      "peso_relativo": 12.3,
-      "fatia_pct": 2.55,
+      "termo": "Atom",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
       "fontes_distintas": 1
     },
     {
-      "termo": "João",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 4
+      "termo": "Birthday",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
     },
     {
-      "termo": "transporte intermunicipal",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 4
+      "termo": "Slay",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
     },
     {
-      "termo": "transporte intermunicipal gratuito",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 4
+      "termo": "Down",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
     },
     {
-      "termo": "votos válidos",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 3
+      "termo": "Atom Birthday",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Globo",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 3
+      "termo": "Birthday Slay",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Bolsonaro e Lula",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 4
+      "termo": "Slay Down",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Atom Birthday Slay",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Birthday Slay Down",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "governadora Raquel",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.23,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "governadora Raquel Lyra",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.23,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Alepe",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.23,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "PARTY",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ATOM SLAY",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "DOWN BD",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BD PARTY",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "PARTY 2026",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ATOM SLAY DOWN",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "SLAY DOWN BD",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "DOWN BD PARTY",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BD PARTY 2026",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 1
     },
     {
       "termo": "Virar",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.37,
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.9,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula Vai Virar",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.37,
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Paquetá",
+      "peso_relativo": 11.7,
+      "fatia_pct": 2.71,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Globo",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Bolsonaro e Lula",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Muslera",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.52,
       "fontes_distintas": 1
     },
     {
       "termo": "Leonardo",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.19,
+      "peso_relativo": 10.0,
+      "fatia_pct": 2.32,
       "fontes_distintas": 1
     },
     {
       "termo": "Jardim",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.19,
+      "peso_relativo": 10.0,
+      "fatia_pct": 2.32,
       "fontes_distintas": 1
     },
     {
       "termo": "Leonardo Jardim",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.19,
+      "peso_relativo": 10.0,
+      "fatia_pct": 2.32,
       "fontes_distintas": 1
-    },
-    {
-      "termo": "Rossi",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Campos",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Casa",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Vida",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Espanha",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Priscila",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Krause",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Priscila Krause",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Agreste",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.82,
-      "fontes_distintas": 3
     }
   ]
 }
