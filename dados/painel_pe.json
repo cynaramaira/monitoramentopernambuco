@@ -1,169 +1,175 @@
 {
-  "atualizado_em": "2026-10-23T15:02:03Z",
-  "total_analisado": 121,
+  "atualizado_em": "2026-10-23T19:10:45Z",
+  "total_analisado": 134,
   "x_recife": [
     {
       "termo": "#CensuraNaoTSE",
       "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=%23CensuraNaoTSE",
       "ruido": false
     },
     {
-      "termo": "QUEREM NOS CALAR",
+      "termo": "#AposentadoriaEmRisco",
       "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=QUEREM%20NOS%20CALAR",
+      "variacao": "+40",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23AposentadoriaEmRisco",
       "ruido": false
     },
     {
-      "termo": "#KassioGolpista",
+      "termo": "#TSEGolpista",
       "posicao": 3,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23KassioGolpista",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23TSEGolpista",
       "ruido": false
     },
     {
-      "termo": "Madonna",
+      "termo": "#BolsonaroMandouMatarJoice",
       "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Madonna",
-      "ruido": false
-    },
-    {
-      "termo": "NÃO VÃO NOS CALAR",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=N%C3%83O%20V%C3%83O%20NOS%20CALAR",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23BolsonaroMandouMatarJoice",
       "ruido": false
     },
     {
       "termo": "#TSENaoVaiNosCalar",
-      "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 5,
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=%23TSENaoVaiNosCalar",
       "ruido": false
     },
     {
-      "termo": "#LulaVaiVirar",
-      "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23LulaVaiVirar",
+      "termo": "VAI PRO DEBATE LEANDRA",
+      "posicao": 6,
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=VAI%20PRO%20DEBATE%20LEANDRA",
       "ruido": false
     },
     {
-      "termo": "#PlsLoveรักได้ไหมEP7",
-      "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23PlsLove%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1EP7",
+      "termo": "NÃO VÃO NOS CALAR",
+      "posicao": 7,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=N%C3%83O%20V%C3%83O%20NOS%20CALAR",
       "ruido": false
+    },
+    {
+      "termo": "QUEREM NOS CALAR",
+      "posicao": 8,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=QUEREM%20NOS%20CALAR",
+      "ruido": false
+    },
+    {
+      "termo": "Amoedo",
+      "posicao": 9,
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Amoedo",
+      "ruido": false
+    },
+    {
+      "termo": "NINGUÉM PODE MAIS NOS PARAR",
+      "posicao": 10,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=NINGU%C3%89M%20PODE%20MAIS%20NOS%20PARAR",
+      "ruido": false
+    },
+    {
+      "termo": "WhatsApp",
+      "posicao": 11,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=WhatsApp",
+      "ruido": false
+    },
+    {
+      "termo": "Madonna",
+      "posicao": 12,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Madonna",
+      "ruido": false
+    },
+    {
+      "termo": "9 MILHÕES",
+      "posicao": 13,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=9%20MILH%C3%95ES",
+      "ruido": false
+    },
+    {
+      "termo": "LULA VAI VIRAR",
+      "posicao": 14,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=LULA%20VAI%20VIRAR",
+      "ruido": false
+    },
+    {
+      "termo": "Neymar",
+      "posicao": 15,
+      "variacao": "-14",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Neymar",
+      "ruido": true
     },
     {
       "termo": "LENAMIU PLS LOVE EP7",
-      "posicao": 9,
+      "posicao": 16,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=LENAMIU%20PLS%20LOVE%20EP7",
       "ruido": false
     },
     {
-      "termo": "Yuka",
-      "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Yuka",
+      "termo": "Pulso Político",
+      "posicao": 17,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Pulso%20Pol%C3%ADtico",
       "ruido": false
     },
     {
       "termo": "Plano B",
-      "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 18,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Plano%20B",
       "ruido": false
     },
     {
-      "termo": "THE REFLEXION BEGINS",
-      "posicao": 12,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=THE%20REFLEXION%20BEGINS",
-      "ruido": false
-    },
-    {
-      "termo": "ENTREM NO CANAL DO LULA",
-      "posicao": 13,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=ENTREM%20NO%20CANAL%20DO%20LULA",
-      "ruido": false
-    },
-    {
-      "termo": "Rappa",
-      "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Rappa",
-      "ruido": false
-    },
-    {
-      "termo": "Raiden",
-      "posicao": 15,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Raiden",
-      "ruido": false
-    },
-    {
-      "termo": "CL EFW2026 ICONSIAM",
-      "posicao": 16,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=CL%20EFW2026%20ICONSIAM",
-      "ruido": false
-    },
-    {
-      "termo": "Linnea",
-      "posicao": 17,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Linnea",
-      "ruido": false
-    },
-    {
-      "termo": "Vox Brasil",
-      "posicao": 18,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Vox%20Brasil",
-      "ruido": false
-    },
-    {
-      "termo": "Faltam 2",
+      "termo": "10 MILHÕES",
       "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Faltam%202",
+      "variacao": "+6",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=10%20MILH%C3%95ES",
       "ruido": false
     },
     {
-      "termo": "FAYE TANDT EFW26",
+      "termo": "Suposto",
       "posicao": 20,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=FAYE%20TANDT%20EFW26",
+      "url": "https://x.com/search?q=Suposto",
       "ruido": false
     }
   ],
   "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "VEJA: Eleições 2026: Apuração Estadual em tempo real - Pernambuco - 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXA5R3pTWmF6UTFjekVxTi1na2VrNTJCQi12S2dGdnBJVW9Xd0xNZjdMalNmMDRjM2hGeTZ1aFdaM2JoY1FOYmV3R1o3aFhwUzRfZnUyd2dWZjVTQ3pYdkdueVM3SFZzSV9nTlF0d1MwQXhkN1FibU5oN0x4VmNyOXV5MU0?oc=5"
+    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -173,26 +179,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "Mercado e Eventos: Pernambuco capacita 3,6 mil profissionais em 18 cidades e aposta na cultura para vender o destino",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzNRWmVkVFN0R3B5R2NIZVJKX0hjd2w4SnRIVFBzU2pnTVdRUWNSOHpqRlVPOTg5SnloOGYtNmJFNDY1eDAwd25HSnhhYjZEVndRY2pjLUxlMTZOV3dfRHp5eWx0RmJ1OEFRRXMzSExvZDgtVXhNUUFQUTJucTBScGUtN2twZUtQWmZfSWY4cnNPR0dkOGtTTkZwVjZFNXdPdGpvaUh6ZzJBMDFETHlsTDhvUkVDT0lZQThUNFg5MGZHb21icmNHU0pqcDBKdGc4anpaUEVB?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Ministério Publico de Pernambuco: MPPE lança o Clube do Livro do Júri",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ta3NRY2FheVA1SUdSd09TMjdkcjBhcGFpZkY5cG45eUxJdHlmU0xsNkpfSUh6LVJDMmdmU3ptMkJMa0FJdXRYVDA1aVJ6X2ZVNkNNa3BhNy1hcmRYajlaMlNYcVFmRVc5TksxMGtVTFYzc1gwd2VBdmtEd3VPQQ?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): Pernambuco conquista primeiro ouro no taekwondo por equipes mistas e faz história nos Jogos da Juventude 2026",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcllXU2ZhZVpRODFJOEVJWkNKZGxlR2VqX3FIQnVrRC1OSEdXVTkzbks1SDR5OGdBS0cwb1NaaG5EOFBTdTI5RDJZYzRkM2NnejRPVndiUzRBQlk1ZHI2TDNGdUwxTTI5dTg0RDNuM1RLdVQzUnVjRzVEdUFqSGlNYVFmbEIzTXg2ZVY1eUV2MnVUUE9SYVZ6Z0tzNXBJc3dLR3lVUW9UZTJ5TUZ4YlZFUVdlZ2l2Vk1TRzRMdVdiLXdIeGxJZ1hYWWZwbHpMMFI2MWZpT1FkX0pFTzNU?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Lei estadual busca ampliar acesso a plantas medicinais",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXpWb3ZWZ2dQOUtEaEZHRWh5YUE0dFNubHRORzVrQ3AtZkdRc0FmX3FrOHNYZWtfU085ZEVxX1JhQTNuZDJpSU9ydlZ1N1k3enJlWW5fM1ZkTnZMZ2FEaW9uV2NBVXlSNi1FNUNSeFdkMkJhRGwxU1BEaXFrVnFXQWRqOExBTHJiUmZ2SFVvOTZ4dmc0TEJ1bg?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Pernambuco mobiliza mais de 12 mil profissionais de segurança para segundo turno das eleições",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaEdTenlSUE1JZ2JkSHlQcTdZeW14SjVuSHlObEhqeGI0MllfM0dBaUg3dHROb0xmY0ZxRkZXXzI5Ny1wVUJsYTJwS05sVTdwQXRVY0NBX3d2a3lYLWF2VHAwQkFndHVYME84UnpMcEs1UkVISjBIQXgyanNUR290RVY5Y21vM08tQ3NRMWFZVmJBZ21fOG01LUw4dnBKVm5PX3BTb0FyVWV5TWtfWDlZVXY3MjlmY3ZjQmhLUWZjNTJFaWlxWjctRU1pVWp6azAtUmdIZGd2OVMxU1h1QjhiRzY5bHAzOVBKVlpURjR2N3Z2aWhOU1llcDJCd9IBigJBVV95cUxNd0ZzdFl4SkZfSldrSkxpUmxJbS10S05FNFRlYTU5WEZjSXROVzJqN0lLUGY3cVNDV0ZFX052NnZTaFcwMkhRQklGYU93cm0wQVh1UFlDX2pLVC1uekd4RW1fVzJOdzhzZzh1UXhVWGdONEs1VVdmMEw0cTQ5cUtBbjJBU0ZZcVhCVmhKamhxaEZtU2xaMHE1cXliT1ExUVcxZFNHczhEWkVDU2pBY01zbWVXMmlTckl1d0dtcEhVQnZNakV1RzBnMEFrekhrMVR6Zk9xMjQ5VUJuVlI4STJPRVl4TzNuNFJKN2Zuc2VSZHFfc0prN1A5ejIwelJVbjNBMlJtVWlYRXhoZw?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "CBN Caruaru: Pernambuco lidera crescimento econômico do Nordeste em 2026",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0JJVElLT1BFb0NUc2JOV0xUY1RWUWtJN0NaVEJCWmE3SWxoN1dSc0xXOTRFQ1hrLThLTGZKY09QMzdFc25BTFJSbURTcUtXb2N5UWhKT1dXS0dpTjdvZFBJOE0yeno1MVgzX1NDbkFjWk9Vek1YcUpzcVdPS1dUR2c5S3NPaWFCeXVnZEdGRjk4V0FIZ0U4V0dB?oc=5"
     },
     {
       "termo": "Recife",
@@ -203,44 +203,50 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Brasil 61: Recife recebe R$ 12,3 milhões do FPM no segundo decêndio de outubro",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3MzUTRCTTBjeTl2cm15YVBTUDcyZl9JN0RrX3pZMUVQLTZlVXVyYVBFTVhrWnc5R2ZWY2NOcnFoMC1IRmpfZ0k5ZHBQdVFhaHJxTW5ZczctUXFLcXhBZm42OUFQTW1ITHZsT0loNWJPcWc2WXZEM3ZETlhFVHpfNWpibk0xY3cyeHVGWldyM1pwQ2lnUUNZeVF6dkh6eWtGTEHSAacBQVVfeXFMT2o3MjBEeUxRNnRQMkdsNjl1S0tMeFhuUElZVVpCZk1KX1Qya2x2czdDZ1RDME4yS3JzaWJmZnJUTHEzVFh3NWZlTk1DenVBRVlXdWNoWEx1YnlqUHVfdmw0a01SUTNxU0s2M2pXSjJ2VGtjMWx3TnU1Z290cjBnQlNnakJjZF9VUHFJZGtIVmRsc2w1UzBWRXdyVzVSOGVPaG1jRlgzMlE?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
       "manchete": "VEJA: Nikolas leva seu ‘bloquinho’ a Recife, mas diz não saber o que é o Galo da Madrugada",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0pGeUhrNzBIVE1LQi1rS0RPWWpkM0dZVVZveEdxd213MUllbmdORGxJQWFCMjhoei10b2FlOENaUDAwaTdDYlVSc0pXd0xyWGRGU1pINC1yMlRxRGI3cEtZS3lSQTNNTm5mblhrbndsT3czc3FFaTRNLXNlX3N6d1JWdktublhYT3RfcnNXRk12dl9ubGNPR2ZCSm9IeHBBcHpzVzZmb1o3N3N3WGlYMDZrX2VQdTlq?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Márcio Didier: Raquel viaja à Europa para discutir saneamento e transporte público",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LUlRTc2JRa0Zkemk0R0l6NGcycEJhWlM1dFpqeUlqdTJuRlI1TWNFVm9oVkhHdTg1STl6aHBwbWp0OXFfZnVQaVpHeEhPVmVpNkhEQUFyYW5oZXFSN1ZNYnhHQ2dSN3hPamo2RDlvSGhNQQ?oc=5"
+      "manchete": "SBT News: Recife vai abrir 34 creches domingo para pais poderem votar",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1hZU1AtM2hpbHF5MUlCYjRQR0pqOTJGX2d6aE1LS1BFeDN5dXhlZUh5N1pyRm5wcUhVUmNBWGxfd2cyZFZiRDRHMjdycEhpZ0JsOERzWmxNUkZ5VjE2Wmt4T0RQMExiVUJCWG5wYTFzTGhidGYyYUlFaHZSc0c3WFlUYXFBWUh2Y1Y4N05ReEJSb0Zkc3A1emkwUS0tV19Na2l4VWhB?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Brasil de Fato: Pedalada no Recife e porta a porta no Sítio Histórico de Olinda são realizados na reta final da campanha por Lula",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2xDWWFiTWZreDRZdUE3X3puc1BGMHgyNUJ1aFRCYk1FNTJQVFZEQ3pxRGZNejUycDhoLU16UVJPN1htWUQtRVNOTmdoTjBFbjZ4RDBBMnhoTU5udUw4dlVJV19WM1R5THhCcE9UTlZGemJ0RERNVjB6elFmWjIzZXcxR25nSzI4MWlaWV80Ty1MbmpQSjNCalpna01IdHVaaVcyMlV2eFBIYnEwX2ZfWUw0SjVwOEk2QWJKRldzM2Jja0w4WkdrN1ItTWlRMEVscEMyOUZJVFNaOHRJOUFka05oTVAyWTNjRVdPQ1dn?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "JC: Raquel Lyra entrega mais 50 ônibus e cita queda de 85% nos roubos a coletivos",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdTl6OGhLMVJFUlJJbHhJZWdZNzk0QW5rS3pWOFhPR2dhU0xjRzFia2FWOU85QnhWZHVYR3ZKNkZHbzBqMnNrQ3lIOWN2c3NYWUhIa3dYU3J6ZzNtb2Z3MzN2aU1KZTRPQ1pJM0gySDN0bGx0dUswN1BDWTNLS2RBS3RESjctYW5BOXBlSXY2OVl6ZGZZUjlHc2VRNHk1Tm95bjlrVmwwTEUybVVyZ0t2R1hMeTJqMVhiMmFndWhNYWFucDYydHNCcmU3NGxoUQ?oc=5"
+      "manchete": "Tribuna Online: Pernambuco entrega 100 novos ônibus climatizados na Região Metropolitana do Recife",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmZVZUgzYi1HODVVUFZYZ2lXbGt0Sk9JUGYyc0w3dDhZNzAyTTRvUEwzQjY2aDZXbVViNlFpcENkOWdxaHE0TXotZ0xveEdFQTU0YV9PY2tKWGtRNFZPamtoOUtHSnBzc0F3dnZjWnc5VnIxa25yQndqVkZwWHpWaGdldTFGZkJEWVRzUEJDd3FUZ1dEa2VjYmRKVXkzSUNKaHZkZnpoR2pZX3RXdFBjVnhoZ0VWVG5CZVp5N2o2WTZEN0dlX0M5bVE2cEhFajZWdUpZ0gHbAUFVX3lxTE5GQnFZRm5iRDJuM0hDaDI5LUM1M2hrVGszS3VTNy1xUmdZSEtHcW9CY2dTMTZZSWM1bHlhQjJYeDFYRElkVS1jMlNlUTZfX19Nb1ZaTGkxU1FKalZWVzVuT0J1a0pYQk5TbXh3eGFyQ3c5R3hGbGdLODVNNjRhSC02T2hXX0pvVFNIX1NtYmI3bHdybmxIdEdhTlRVUWlocmdjTklTLW1wZy1Oc0ozS0VGY1BOUWdFYWpFTDJVS1lsbmNWeDUxemdwSWdWMlZuQjFQdHBpVWZ5MzZGOA?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Terra: APAC divulga previsão do tempo para o fim de semana do segundo turno das eleições em Pernambuco; confira",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcm1PaWZuTkw1Y3NpSkVCdnRmY2dUbUN6WXY3VzA4Qm1JZWdKbFlVc1RET2lTVTNwMlJfT1FwMzRDbkVPeXpJN3c1T3ZJTGhuNlhxV2pWUkxCUUpzSDVHaUsxcUNING9wNEhYdzlCR2NKTlhpZWZJSUtkUTAtNFBLZ0VfS2haVmxCT0dtTGJSUmcySFB4X2xKbGdtSVJaMFR4Y2pQMXBrREV4TloxY2JmOVlJSFBMWUUzdUpnN05GVWVJWU1pMHRGRHVsaXZRaklndjRWNF85bnJWSTdORFdEUWs1RHpJalBObjdNT0hjOHBwbDJEY0t4TnRWWjNISlRRM3YtOFo2S2hTdHJha3NYQWpVMEJhRnhxa3lXUGJGMHlKUk1N?oc=5"
+      "manchete": "LeiaJá: Governo faz entrega de 100 novos ônibus para a RMR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYm1BcUtYaVFWTnBhTllXWlc1N253amdEYUhqRzZ0c3FRS0EyUTVEbHFZUWZuMnRGazRITmloYW5WWXNHQ2lOb2FCLTVwMC01dHl0LUJ4eXNoaWw0WDY5WXZ3cFFZczRJUXprWm15YWpaOTdZNFVGRENJMFZ2ZmVFd1R0d1RWVnFYWXJnTVZ4WWpNZ01pRXZEN2VGQUo5aVZrVG9YWUpuWUVFV2pCeXBUcGNweGJ0ZXBxbVk2V3d3?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Jamildo: Lombadas eletrônicas serão desativadas na BR-232 durante o segundo turno das eleições",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDVyNVJKaWNHMHYtTlhHX01RLTJ2RUY4VHlUSm1xQVEwR3VfU3VOV3d6N2U2VWRoejZXWTRYTVdhbHdqTW1rTDYtVTJlSzNaUDQyTnRTMk9CQ1ZHMERVVUpOZWhjNkpkTlY5bXY3UlpzUF9jd2dza2gtWlc1QWd5T0R0a2tuUnQ3aHNfZ3UxNnl0VEVRUWFZTlJtWGxwSU5OaExMOENjaFdnYlNESHFjMkY3bnVkNEZWa2fSAb8BQVVfeXFMTTV6TUMtOGNMazFOcFZZTGNhUkFaNnpyTzBKSU5CWGlXUWc5c2FxVWlPVGhFcXBBSllEc04yMEE4amFsclloYUo2ektQeUNSOEhkR3FpUnlISHI1bkpqa2xyTGdvSzNhS2FuRW1WYjNnOE9tQkJrTlRSc1RZVjUzdWdSVklZX2Q2SFg5U2wxdWtBYzdqaXFSSC04ZkVsN3VqU1p5STdqc3VJR0s2eFlFTFppTVltVEhNb3pHOGlMUWc?oc=5"
+      "manchete": "Blog do Mário Flávio: Raquel Lyra entrega 100 ônibus climatizados para a Região Metropolitana do Recife",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcktuR2ZJTGJqd3ZMN3U5dnB6WWdDREdTa2xpSUNPXzJHVmphcmRNaEJ5cXNDOTNHemQwQllhb3ptMWRiR05SZDY5N0tlREZ0Q0d3cVhQamZBWkFRMVFIcmt2TlR3b2lvZnF5RThOVVFreERDTEd3SXNUMTl4Uk1sNTdNdFpJYW40MExqZFJlSkdJNFhfZlRYWXFueEJwcmdUMzVtTEd2WkJkQjRBYlE5cFBUYWV0UQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Francês News: Chuva perde força em PE e previsão no final de semana indica tempo seco no Agreste e no Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOTlneXBvR1M0R3lRd2daV3ZzcWpndEZJYklVNkNzY3BldW5FMnJpMjZMdTNDazBscUU2Tl95d3hIY185UGZrQ1RMZHRreUpzSGw4c0sxOTFVU24yc29UTWhkTnpYZW9JcGF4c0pmdGhmQ3BlRE1xYkk0dHczSWw3bkwtek5ibEd2blVOUWFtdFlRa0hDN1RIQjZNXzdIbGgtdTAwdVhzNzRkNmJja1E1cE43T1o0VEpuTUxCeVEyLS12WVpnNEFUZ2JySDBad0RzRURWWXpVOTliUFk?oc=5"
+      "manchete": "Diario de Pernambuco: Raquel Lyra entrega nova frota de ônibus com ar-condicionado para o Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnMxc19HUmliclZYS004UDVTTHdTQ0VadkZmREh5b3pXcFNNSUFtQV9aRDlfN1dsYnRydzJnT1RZU3lWMFRodlJibGpVTHBXX0h2RzM4LWRSRTZNYlV5MHJ1OFlEeXVxallBQ0xacUdjUG1MRnBZZ3pTM1g0dU16MkJvUDdjWlE1aUZ6czJkVEZZdFFMQlVBdXN3T2gtOVNtekxWT0NVOGFhRFhjeFp0Qy1YYTM3UjNHMXBYdm9QcXBiT0xXR2JKRVUwQUp2SmVpZ3dVXzdtekVSSFpRMWpTQWJwTUpnLS1a?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Lei estadual busca ampliar acesso a plantas medicinais",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXpWb3ZWZ2dQOUtEaEZHRWh5YUE0dFNubHRORzVrQ3AtZkdRc0FmX3FrOHNYZWtfU085ZEVxX1JhQTNuZDJpSU9ydlZ1N1k3enJlWW5fM1ZkTnZMZ2FEaW9uV2NBVXlSNi1FNUNSeFdkMkJhRGwxU1BEaXFrVnFXQWRqOExBTHJiUmZ2SFVvOTZ4dmc0TEJ1bg?oc=5"
     },
     {
       "termo": "Alepe",
@@ -251,390 +257,396 @@
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "- Blog Dellas: Giro Político: Decidido a pleitear a presidência da Alepe, PSD começa processo de definições dentro da legenda -",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVBBZFFqMUdsbEJYczRyaWg5OWFmQXhwcXNBQkFLSVNoY0w3c0NlUDRRZDlFcFlUSW0xY3hpdUpCRzh5a3lEREVGUjZYcUFQaHNIRVNCUUw5OS1iUUxvWEZrMndOajZQNDRIVFdiQmJyQ2QtVDZLQTI4UzhZcFpyamh2OXBMelNOM3lrc0Y0b0M4clRJN2Z0RlU1WHdQTy1GaUFnSWtkdC11dWJMRzNDQ3pLblBwYVhDVWdLS2M0cHFNNjhrZ0dLa3NpOFMyZWpC?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
       "manchete": "Blog do Mário Flávio: PSD quer comandar a Alepe e deve escolher candidato à presidência nos próximos dias",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckw1NHBDM1RUU05YZ0FhRkY0T1dGRHVSV0JiZWNjN3NhSU5iZFc2YVUxcllOSFJtQ0lLZkt1bktNTGRDSkNVRmNpb0tWMllnZTBMUkFMVy1aeXhCcEJXRE9yYUtzbVd3aXlzOTY2NkN3QUd5cXFZR1NETTZkZ3ZmT05ha3JoeW90clk1UXBYQmdGTWh6N3JtbC1HenRRb1hMUmZ3OUgxZjJ4S3JvOFRlaWdIdExFZ3RL?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "Blog Cenário: Governo de Pernambuco entrega 100 ônibus climatizados para a RMR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONldTOXhsdzdEeTZpb19Xa0trUXhVUEh1UFBIRmpiY1NlbUFzWjY3blZTY1B2NDhDT0hRZ3EzU1pvT2tRMHF0SGs5SzZtRjhXT01EQ015Vi03U2Q5aWR5bXU2ZVA2Xzlkc0N4aVRkN3VWODYwUW5Fb2NmdDVfRG5LWE5YZnJGbTJZTXFRWDRqekQ1MjdyZDlIbVNmTnF0djJKbUxxSg?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "PÁGINA DE POLÍCIA: Governo de Pernambuco investe cerca de R$ 30 milhões em obras do Hospital Regional José Fernandes Salsa, em Limoeiro",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeU1wVUUzck9GX0VZVzR5QjhqT3JEXy03Wk02R2JpbXY0dlNSWHUwMWVlS1pQeFlzbjIzN0dBbTIweHJqOGNhX0tZbVM0NDIwVmxTT0ZlWGlPYTh6cmFCa0ZJcVJJazc3QURBTnFTSlI3YlA1YVI5Q0VVd1FvVUxuV1h6TmNUS3ZPOFhCcjhMMnhfSGpBbktfc2REMWZZWURQU0lzeklOZEhBelRUOE5xYXFGem01WDR6MWM2eFRNSWRoN2JKdE5VdlhJYThjdVJQcFRaOFp5Q3BRekVPanMzaUtTbFFmWXVmby1aWHFqMkV0Y2JnbDBWengyRTM?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Raquel Lyra embarca para a Espanha no próximo domingo (25) em missão voltada ao setor energético",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWV9oWDBvOUl2NjBCTnEwMkFIby1hSDhDbVlSeHZtWmFMT1FDTV9vbkVucWZsNmM1WFhUWWFVWDhMUnZyeU5mNVpMcEFROF8xQ3hPRGtpb19FTGFNS1JZZzQtNVpFdm90X2dSVjd2bEhMd2o0QXc0ZE5GbS1tYmJkY0NKNEdjUUhvWnBwVWFIamkzQk9xcDhNdDk1dElUcXFqYmhCMUkySURvLUFENFRhdnpodWMxQmZDT3VtSW5iT1dmTUN2WGVfQlpJdUIwLWV3OE1pMUlMZ1pPR3Ezd0NrZnJORnZJUXFsZ0hYM1ZkUVZ1N3hsbVE?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Real",
-      "razao_aumento": 107.1,
+      "termo": "Debate da Globo",
+      "razao_aumento": 48.1,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-10-23T10:00:21Z",
-        "titulo": "Real Time: Flávio tem 52% dos votos válidos no 2º turno; Lula, 48%",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1FJOFVWRndwbUhfaGN3Q1ctcVpuYmx1NXFidEx4cFA4anpqZ2RwOTQ4WXdueEdNNXVzSnhucHpFNFpfSGpwTHF1M2ZzQlFBVGR6VkFidWF1cmhRM1RXTWJpanNjQ1VkbndmNVlabHlfMFVhM3lJaHE3dXRvZXVra1NZaGlGOHBxaG5CLXNBbkdfa09sR3VuZHBIaEViRVF5c0E?oc=5",
+        "fonte": "O GLOBO",
+        "hora": "2026-10-23T09:13:00Z",
+        "titulo": "Debate da Globo: veja horário, onde assistir e regras do último embate entre Flávio Bolsonaro e Lula",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUU4tRy1fVm0xWnhXTUJCQ1N5RjBNQ3RrRU5uWGh6Z0o5bjNvdmRWSHdNTkZYYlg0OEZyVGxIZXJ5b1F1ODhUTmpLeEtiX2ZDTXdtUy1zVG5Ob3dRTDZzV2FZX0wwZDR6RF9lT1N6UGNkSEtWM1BQQXkxWkl1c1NNYTcyWWM2TFlPcUxjNXhhcUVZelpIRmVfWHU2VWNaQTBEYnhjbEJGSlFaLWxLRlN4Q0FNY0NZY2JzUnllT0Z6SDAtVUVic2trZWdZN1J6em1FWFhEZE11YXp5MEp6SDZ3QXJUMHBKaVlXMEV4WXhmX1hQQ1VLRGM3ck5UckNLQmYw0gGPAkFVX3lxTE9fNndMbGFEd25LUVlQWDBhSFhuMlNuQ1ZXRHE5ckw0VzlFbjBxZ0dfV3B2cUlnS1pBWjJobTJfbV84UUIxdXZkUlFTc19DbHg4RWNIbVRjZ2RkUFJFX19mX2hBNUdZdWVJbE9jb2xtTmpwSEpBUDV2eW42NG9JV202SENscmFOdU1rS2N6d0Q5cTZsNDQ5M0ZMcWt3M0Q2VTBSMU4tWU1FaE1JRXNoS0tfMFRhVm85Z19pdm1GZ1Nsb2Z5R3ZBMW54TU12bWlNR3o4SGZoWUYyVl9yVTJEQUk3RWJHak9Dazk1TUxWdmNHN3dEcDZEU2ZPaTdwbFVJYXVZT0l0N2pQenRlc0k4c3M?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Time",
-      "razao_aumento": 107.1,
+      "termo": "abre creches",
+      "razao_aumento": 43.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-10-23T10:00:21Z",
-        "titulo": "Real Time: Flávio tem 52% dos votos válidos no 2º turno; Lula, 48%",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1FJOFVWRndwbUhfaGN3Q1ctcVpuYmx1NXFidEx4cFA4anpqZ2RwOTQ4WXdueEdNNXVzSnhucHpFNFpfSGpwTHF1M2ZzQlFBVGR6VkFidWF1cmhRM1RXTWJpanNjQ1VkbndmNVlabHlfMFVhM3lJaHE3dXRvZXVra1NZaGlGOHBxaG5CLXNBbkdfa09sR3VuZHBIaEViRVF5c0E?oc=5",
+        "fonte": "Taís Paranhos",
+        "hora": "2026-10-23T12:45:00Z",
+        "titulo": "Cuidado e Cidadania: Prefeitura do Recife abre creches e mobiliza servidores voluntários para acolher crianças no 2º Turno",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1F0dmZpUXM0eEotdzQyV2s5QllZUFY4OHpSRFVZa2ZaNXNfdkV1RUN6RENkcUlZVUx2WnZ1MFJxWTllZ1BieTdfTmZ1V0ZzSFFQbVdiQlRNbkV5bl9uVHJDbm5VeEswTnhmWnZoUWRXUXo5SGhOSkV3bzZPX1JrTEk1U2c?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Real Time",
-      "razao_aumento": 107.1,
+      "termo": "Ipespe",
+      "razao_aumento": 43.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-10-23T10:00:21Z",
-        "titulo": "Real Time: Flávio tem 52% dos votos válidos no 2º turno; Lula, 48%",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1FJOFVWRndwbUhfaGN3Q1ctcVpuYmx1NXFidEx4cFA4anpqZ2RwOTQ4WXdueEdNNXVzSnhucHpFNFpfSGpwTHF1M2ZzQlFBVGR6VkFidWF1cmhRM1RXTWJpanNjQ1VkbndmNVlabHlfMFVhM3lJaHE3dXRvZXVra1NZaGlGOHBxaG5CLXNBbkdfa09sR3VuZHBIaEViRVF5c0E?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-23T13:00:00Z",
+        "titulo": "Ipespe/Abrapel: Flávio Bolsonaro tem 50,5% dos votos válidos no 2º turno, e Lula, 49,5%",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHdfNnJuNFhJUUl0S2IyQkZDcUFUQnlLbEhKbUF0cHRnY1NZSGliQWNwQjk3aWQ2Ml8xbTM1T19DeElET2tBMWZVeXJUMW1XWDVmbnFsNnJQTkVnQkQteEtuX0NGRXh6MUhycC1idkVRTlBUVG13S3lBRnFtRzBTSlVHVnJJdjR2ZW5pcXJwai02VkdfUk10azlVSHRuVkxuWnVkazlMTEgtWjJjbC1GMGFhR1paaEZlRjVBMk9tUEVIWmhJOHVPYg?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "garante ônibus",
-      "razao_aumento": 76.9,
+      "termo": "Abrapel",
+      "razao_aumento": 43.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Erbi",
-        "hora": "2026-10-22T17:32:10Z",
-        "titulo": "Governo de Pernambuco garante ônibus intermunicipais gratuitos no segundo turno das eleições pela primeira vez na história",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNakI4cFhhRzU4bEtkdlF5ai1ZVUp5Z3VzUFVNcVlpTFowZ3RjRkZIUkdsdkc5UUdYZndKTjJPOUREZHoxdTZXejFKM0lqZkpIWlRQTXNBLVg5cFJLR0RYZUY0ZUQwdUhUNE9WY1FqZ0FHX09xYk9qOS0teGVQX0VFMGVYQU9ZemtMVDdjNllVTGl3QXZWVENKYUZkcW1hdWgxcXlrbG5abG5RYWZtS1JhRUdGQTJ6MVVfc2RWTHMxZFEzV2c3MFhpa0VkaUNacng5dmRMNUNzbk9XMTVVMTZsUXZsNA?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-23T13:00:00Z",
+        "titulo": "Ipespe/Abrapel: Flávio Bolsonaro tem 50,5% dos votos válidos no 2º turno, e Lula, 49,5%",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHdfNnJuNFhJUUl0S2IyQkZDcUFUQnlLbEhKbUF0cHRnY1NZSGliQWNwQjk3aWQ2Ml8xbTM1T19DeElET2tBMWZVeXJUMW1XWDVmbnFsNnJQTkVnQkQteEtuX0NGRXh6MUhycC1idkVRTlBUVG13S3lBRnFtRzBTSlVHVnJJdjR2ZW5pcXJwai02VkdfUk10azlVSHRuVkxuWnVkazlMTEgtWjJjbC1GMGFhR1paaEZlRjVBMk9tUEVIWmhJOHVPYg?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "garante ônibus intermunicipais",
-      "razao_aumento": 76.9,
+      "termo": "Ipespe Abrapel",
+      "razao_aumento": 43.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Erbi",
-        "hora": "2026-10-22T17:32:10Z",
-        "titulo": "Governo de Pernambuco garante ônibus intermunicipais gratuitos no segundo turno das eleições pela primeira vez na história",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNakI4cFhhRzU4bEtkdlF5ai1ZVUp5Z3VzUFVNcVlpTFowZ3RjRkZIUkdsdkc5UUdYZndKTjJPOUREZHoxdTZXejFKM0lqZkpIWlRQTXNBLVg5cFJLR0RYZUY0ZUQwdUhUNE9WY1FqZ0FHX09xYk9qOS0teGVQX0VFMGVYQU9ZemtMVDdjNllVTGl3QXZWVENKYUZkcW1hdWgxcXlrbG5abG5RYWZtS1JhRUdGQTJ6MVVfc2RWTHMxZFEzV2c3MFhpa0VkaUNacng5dmRMNUNzbk9XMTVVMTZsUXZsNA?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-23T13:00:00Z",
+        "titulo": "Ipespe/Abrapel: Flávio Bolsonaro tem 50,5% dos votos válidos no 2º turno, e Lula, 49,5%",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHdfNnJuNFhJUUl0S2IyQkZDcUFUQnlLbEhKbUF0cHRnY1NZSGliQWNwQjk3aWQ2Ml8xbTM1T19DeElET2tBMWZVeXJUMW1XWDVmbnFsNnJQTkVnQkQteEtuX0NGRXh6MUhycC1idkVRTlBUVG13S3lBRnFtRzBTSlVHVnJJdjR2ZW5pcXJwai02VkdfUk10azlVSHRuVkxuWnVkazlMTEgtWjJjbC1GMGFhR1paaEZlRjVBMk9tUEVIWmhJOHVPYg?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Pesquisa Real",
-      "razao_aumento": 71.4,
+      "termo": "Alfa",
+      "razao_aumento": 43.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CartaCapital",
-        "hora": "2026-10-23T10:37:00Z",
-        "titulo": "A nova pesquisa Real Time para a presidência, a dois dias da votação em segundo turno",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlBrV2FHQW5aTmM1XzRkTVZ5THVGTHdlRW9kQWR0X2hMQ1JnYXR5bFFQdVFYZWY1WVhlUzdvWFpYUHRKQ2Q0czJKR2twSk9fbFpJMFJkT1FUNzQxNVl6RTh0bzl3NTRWamY3bUdwUWY1MmwwaC0tRWdyX2swajJzTEx5TkhBY3hqUWtHa0RLdlR0X3daVlg5emV4a0duYlJfeDRsTkRQck40bm0zejFNMi0yeUJkeDVtZG9GMjNJMWxIUmlzX0dmYWNaNHZvZDQ?oc=5",
+        "fonte": "JOTA Info",
+        "hora": "2026-10-23T12:57:44Z",
+        "titulo": "Flávio Bolsonaro tem 52% dos votos válidos, ante 48% de Lula, diz Alfa Inteligência",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON1BCNE82dWQ1TUtfQUZzRVoxdkRscFA3ZERYdzlzWlJ5MFZZTDVKa09iYnJZM05kOGtIY09ITUJQWUUyOE5Yb2ZSRkNfQW9SdU8zT2hIOHFuYWtfNVRRcWgzRGFHbTcxT0VaRmtwSUo4RVUtOEpXS0wwd0hkUlN4ekpaQWJnbFR0RHUySHNPWWlxZEJhZ25vay1UM2tuX0VlUzZlNVlkYWdqNjRkWVh4MzlIMFJoUU5Ib3lZUHFYMDJEdw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Pesquisa Real Time",
-      "razao_aumento": 71.4,
+      "termo": "servidores voluntários",
+      "razao_aumento": 43.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CartaCapital",
-        "hora": "2026-10-23T10:37:00Z",
-        "titulo": "A nova pesquisa Real Time para a presidência, a dois dias da votação em segundo turno",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlBrV2FHQW5aTmM1XzRkTVZ5THVGTHdlRW9kQWR0X2hMQ1JnYXR5bFFQdVFYZWY1WVhlUzdvWFpYUHRKQ2Q0czJKR2twSk9fbFpJMFJkT1FUNzQxNVl6RTh0bzl3NTRWamY3bUdwUWY1MmwwaC0tRWdyX2swajJzTEx5TkhBY3hqUWtHa0RLdlR0X3daVlg5emV4a0duYlJfeDRsTkRQck40bm0zejFNMi0yeUJkeDVtZG9GMjNJMWxIUmlzX0dmYWNaNHZvZDQ?oc=5",
+        "fonte": "Taís Paranhos",
+        "hora": "2026-10-23T12:45:00Z",
+        "titulo": "Cuidado e Cidadania: Prefeitura do Recife abre creches e mobiliza servidores voluntários para acolher crianças no 2º Turno",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1F0dmZpUXM0eEotdzQyV2s5QllZUFY4OHpSRFVZa2ZaNXNfdkV1RUN6RENkcUlZVUx2WnZ1MFJxWTllZ1BieTdfTmZ1V0ZzSFFQbVdiQlRNbkV5bl9uVHJDbm5VeEswTnhmWnZoUWRXUXo5SGhOSkV3bzZPX1JrTEk1U2c?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Governo Federal",
-      "razao_aumento": 66.0,
+      "termo": "acolher crianças",
+      "razao_aumento": 41.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "FalaPE",
-        "hora": "2026-10-22T19:39:31Z",
-        "titulo": "Em Caruaru, governadora Raquel Lyra entrega 480 apartamentos dos residenciais Novo Baraúna Sul 1 e 2 em parceria com o Governo Federal",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORVEwMm0ySjBfU2NObWpUZmEzbWJtMk9WVGdTazZ2MklOYXNxaEpUWDJwbVNLV3N2dkFyS0JhMGY1djJrRGMxZllUNzFiZFVkNUFiM0hGV0ZwZEQ3aGZPRHVuSE5mSEFqUEtRaHBaT0xobHBsSXVmb3k0em5VMVJUc2NuMWdxSmRPVnpSR3pHOHFXSTVfMnBFQzVNMHFsbFFuUURzdDBxQVctVEZyU2k2UXpwcW1lVGNpRkJaVmQ0US1aMzRIVTlQaTZ0T01TWWZSei00aDdBZ2xjVFg1LTBLU1lCb2RxZ09x?oc=5",
+        "fonte": "Taís Paranhos",
+        "hora": "2026-10-23T12:45:00Z",
+        "titulo": "Cuidado e Cidadania: Prefeitura do Recife abre creches e mobiliza servidores voluntários para acolher crianças no 2º Turno",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1F0dmZpUXM0eEotdzQyV2s5QllZUFY4OHpSRFVZa2ZaNXNfdkV1RUN6RENkcUlZVUx2WnZ1MFJxWTllZ1BieTdfTmZ1V0ZzSFFQbVdiQlRNbkV5bl9uVHJDbm5VeEswTnhmWnZoUWRXUXo5SGhOSkV3bzZPX1JrTEk1U2c?oc=5",
         "peso": 1.0
       }
     }
   ],
   "nuvem": [
     {
-      "termo": "Flávio",
+      "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 23.42,
+      "fatia_pct": 19.46,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Flávio",
+      "peso_relativo": 96.8,
+      "fatia_pct": 18.84,
       "fontes_distintas": 19
     },
     {
       "termo": "Lula",
-      "peso_relativo": 97.8,
-      "fatia_pct": 22.91,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Bolsonaro",
-      "peso_relativo": 67.6,
-      "fatia_pct": 15.82,
-      "fontes_distintas": 12
+      "peso_relativo": 88.3,
+      "fatia_pct": 17.18,
+      "fontes_distintas": 15
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 67.6,
-      "fatia_pct": 15.82,
-      "fontes_distintas": 12
+      "peso_relativo": 85.0,
+      "fatia_pct": 16.55,
+      "fontes_distintas": 17
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 56.8,
-      "fatia_pct": 13.29,
+      "peso_relativo": 64.5,
+      "fatia_pct": 12.56,
       "fontes_distintas": 18
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 48.6,
-      "fatia_pct": 11.39,
-      "fontes_distintas": 16
+      "peso_relativo": 55.7,
+      "fatia_pct": 10.84,
+      "fontes_distintas": 17
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 48.6,
-      "fatia_pct": 11.39,
-      "fontes_distintas": 16
+      "peso_relativo": 55.7,
+      "fatia_pct": 10.84,
+      "fontes_distintas": 17
     },
     {
-      "termo": "Caruaru",
-      "peso_relativo": 35.1,
-      "fatia_pct": 8.23,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 24.3,
-      "fatia_pct": 5.7,
+      "termo": "TSE",
+      "peso_relativo": 38.1,
+      "fatia_pct": 7.42,
       "fontes_distintas": 7
     },
     {
       "termo": "Lyra entrega",
-      "peso_relativo": 21.6,
-      "fatia_pct": 5.06,
-      "fontes_distintas": 8
+      "peso_relativo": 29.3,
+      "fatia_pct": 5.71,
+      "fontes_distintas": 10
     },
     {
       "termo": "Raquel Lyra entrega",
-      "peso_relativo": 21.6,
-      "fatia_pct": 5.06,
-      "fontes_distintas": 8
+      "peso_relativo": 29.3,
+      "fatia_pct": 5.71,
+      "fontes_distintas": 10
     },
     {
-      "termo": "TSE",
-      "peso_relativo": 21.6,
-      "fatia_pct": 5.06,
+      "termo": "Caruaru",
+      "peso_relativo": 26.4,
+      "fatia_pct": 5.14,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Exército",
+      "peso_relativo": 20.5,
+      "fatia_pct": 4.0,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Exército do Lula",
+      "peso_relativo": 20.5,
+      "fatia_pct": 4.0,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Debate",
+      "peso_relativo": 19.1,
+      "fatia_pct": 3.71,
       "fontes_distintas": 3
-    },
-    {
-      "termo": "Madonna",
-      "peso_relativo": 19.2,
-      "fatia_pct": 4.49,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "votos válidos",
-      "peso_relativo": 18.9,
-      "fatia_pct": 4.43,
-      "fontes_distintas": 5
     },
     {
       "termo": "Censura",
-      "peso_relativo": 16.2,
-      "fatia_pct": 3.8,
+      "peso_relativo": 17.6,
+      "fatia_pct": 3.42,
       "fontes_distintas": 1
     },
     {
       "termo": "Censura Nao TSE",
-      "peso_relativo": 16.2,
-      "fatia_pct": 3.8,
+      "peso_relativo": 17.6,
+      "fatia_pct": 3.42,
       "fontes_distintas": 1
     },
     {
-      "termo": "Brasil",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.73,
+      "termo": "Aposentadoria",
+      "peso_relativo": 16.7,
+      "fatia_pct": 3.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Risco",
+      "peso_relativo": 16.7,
+      "fatia_pct": 3.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Aposentadoria Em Risco",
+      "peso_relativo": 16.7,
+      "fatia_pct": 3.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Amoêdo",
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.2,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "TSEGolpista",
+      "peso_relativo": 15.8,
+      "fatia_pct": 3.08,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mandou",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Matar",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Joice",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonaro Mandou",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mandou Matar",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Matar Joice",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonaro Mandou Matar",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mandou Matar Joice",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ônibus climatizados",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.85,
       "fontes_distintas": 5
     },
     {
-      "termo": "QUEREM",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.61,
+      "termo": "Pernambuco entrega",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.85,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Ministro",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.85,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Ministro do TSE",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.85,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Lula e Flávio",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.85,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "WhatsApp",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.85,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.85,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "TSENao",
+      "peso_relativo": 14.1,
+      "fatia_pct": 2.74,
       "fontes_distintas": 1
     },
     {
       "termo": "CALAR",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.61,
+      "peso_relativo": 14.1,
+      "fatia_pct": 2.74,
       "fontes_distintas": 1
     },
     {
-      "termo": "QUEREM NOS CALAR",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.61,
+      "termo": "LEANDRA",
+      "peso_relativo": 13.2,
+      "fatia_pct": 2.57,
       "fontes_distintas": 1
     },
     {
-      "termo": "Kassio",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.42,
+      "termo": "DEBATE LEANDRA",
+      "peso_relativo": 13.2,
+      "fatia_pct": 2.57,
       "fontes_distintas": 1
-    },
-    {
-      "termo": "Golpista",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.42,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Kassio Golpista",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.42,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Alepe",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.16,
-      "fontes_distintas": 5
     },
     {
       "termo": "VÃO NOS CALAR",
-      "peso_relativo": 13.0,
-      "fatia_pct": 3.04,
+      "peso_relativo": 12.3,
+      "fatia_pct": 2.4,
       "fontes_distintas": 1
     },
     {
-      "termo": "TSENao",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.85,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Virar",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.66,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Vai Virar",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.66,
-      "fontes_distintas": 1
+      "termo": "PT",
+      "peso_relativo": 11.7,
+      "fatia_pct": 2.28,
+      "fontes_distintas": 4
     },
     {
       "termo": "governadora Raquel",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.53,
+      "peso_relativo": 11.7,
+      "fatia_pct": 2.28,
       "fontes_distintas": 4
     },
     {
       "termo": "governadora Raquel Lyra",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.53,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Casa",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.53,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Vida",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.53,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Globo",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.53,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Real",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.53,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Time",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.53,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Real Time",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.53,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Love",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Pls Love",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Love EP7",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Pls Love EP7",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "LENAMIU",
-      "peso_relativo": 9.7,
+      "peso_relativo": 11.7,
       "fatia_pct": 2.28,
-      "fontes_distintas": 1
+      "fontes_distintas": 4
     },
     {
-      "termo": "LENAMIU PLS",
-      "peso_relativo": 9.7,
+      "termo": "Região",
+      "peso_relativo": 11.7,
       "fatia_pct": 2.28,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "LENAMIU PLS LOVE",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Yuka",
-      "peso_relativo": 8.9,
-      "fatia_pct": 2.09,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ônibus intermunicipais",
-      "peso_relativo": 8.1,
-      "fatia_pct": 1.9,
-      "fontes_distintas": 3
+      "fontes_distintas": 4
     }
   ]
 }
