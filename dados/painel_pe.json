@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-24T10:53:51Z",
-  "total_analisado": 145,
+  "atualizado_em": "2026-10-24T14:29:50Z",
+  "total_analisado": 137,
   "x_recife": [
     {
-      "termo": "#SoMaisUmVotoProLula",
+      "termo": "#LulaEmCopacabana",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
+      "url": "https://x.com/search?q=%23LulaEmCopacabana",
+      "ruido": false
+    },
+    {
+      "termo": "#LiveDaVirada",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23LiveDaVirada",
+      "ruido": false
+    },
+    {
+      "termo": "#RJComLula",
+      "posicao": 3,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23RJComLula",
+      "ruido": false
+    },
+    {
+      "termo": "#SoMaisUmVotoProLula",
+      "posicao": 4,
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=%23SoMaisUmVotoProLula",
       "ruido": false
     },
     {
-      "termo": "#ViroteDoExercito",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23ViroteDoExercito",
-      "ruido": false
-    },
-    {
-      "termo": "#FlavioSurubinha",
-      "posicao": 3,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23FlavioSurubinha",
+      "termo": "#Live24HorasDoExercitoDoLula",
+      "posicao": 5,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23Live24HorasDoExercitoDoLula",
       "ruido": false
     },
     {
       "termo": "Belém",
-      "posicao": 4,
-      "variacao": "+2",
-      "direcao": "sobe",
+      "posicao": 6,
+      "variacao": "-3",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Bel%C3%A9m",
       "ruido": false
     },
     {
-      "termo": "#DebateNaGlobo",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23DebateNaGlobo",
+      "termo": "Rebeca Andrade",
+      "posicao": 7,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Rebeca%20Andrade",
+      "ruido": false
+    },
+    {
+      "termo": "APASRA NICHP EFW26",
+      "posicao": 8,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=APASRA%20NICHP%20EFW26",
       "ruido": false
     },
     {
       "termo": "FAYE 1410 STATIC BD PARTY",
-      "posicao": 6,
-      "variacao": "+2",
-      "direcao": "sobe",
+      "posicao": 9,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=FAYE%201410%20STATIC%20BD%20PARTY",
       "ruido": false
     },
     {
-      "termo": "#JanonesVaiNevar",
-      "posicao": 7,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23JanonesVaiNevar",
-      "ruido": false
-    },
-    {
-      "termo": "Ana Clara",
-      "posicao": 8,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Ana%20Clara",
+      "termo": "marina sena",
+      "posicao": 10,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=marina%20sena",
       "ruido": false
     },
     {
       "termo": "Gugo",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 11,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Gugo",
       "ruido": false
     },
     {
-      "termo": "Jisoo",
-      "posicao": 10,
-      "variacao": "+2",
+      "termo": "Chico Pinheiro",
+      "posicao": 12,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Chico%20Pinheiro",
+      "ruido": false
+    },
+    {
+      "termo": "AMANHÃ É 13",
+      "posicao": 13,
+      "variacao": "+14",
       "direcao": "sobe",
+      "url": "https://x.com/search?q=AMANH%C3%83%20%C3%89%2013",
+      "ruido": false
+    },
+    {
+      "termo": "Nicolas Jackson",
+      "posicao": 14,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Nicolas%20Jackson",
+      "ruido": false
+    },
+    {
+      "termo": "Marechal Silva",
+      "posicao": 15,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Marechal%20Silva",
+      "ruido": false
+    },
+    {
+      "termo": "Donnarumma",
+      "posicao": 16,
+      "variacao": "-5",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Donnarumma",
+      "ruido": false
+    },
+    {
+      "termo": "Sadi",
+      "posicao": 17,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Sadi",
+      "ruido": false
+    },
+    {
+      "termo": "Greta",
+      "posicao": 18,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Greta",
+      "ruido": false
+    },
+    {
+      "termo": "Jisoo",
+      "posicao": 19,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Jisoo",
       "ruido": false
     },
     {
-      "termo": "Polícia",
-      "posicao": 11,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Pol%C3%ADcia",
-      "ruido": false
-    },
-    {
-      "termo": "Biden",
-      "posicao": 12,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Biden",
-      "ruido": false
-    },
-    {
-      "termo": "Gugu",
-      "posicao": 13,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Gugu",
-      "ruido": false
-    },
-    {
-      "termo": "hailey bieber",
-      "posicao": 14,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=hailey%20bieber",
-      "ruido": false
-    },
-    {
-      "termo": "Ifood",
-      "posicao": 15,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Ifood",
-      "ruido": false
-    },
-    {
-      "termo": "gaga",
-      "posicao": 16,
-      "variacao": "+7",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=gaga",
-      "ruido": false
-    },
-    {
-      "termo": "Freixo",
-      "posicao": 17,
-      "variacao": "+13",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Freixo",
-      "ruido": false
-    },
-    {
-      "termo": "Impressão",
-      "posicao": 18,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Impress%C3%A3o",
-      "ruido": false
-    },
-    {
-      "termo": "Cristiane",
-      "posicao": 19,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Cristiane",
-      "ruido": false
-    },
-    {
-      "termo": "Adnet",
+      "termo": "Aston Villa",
       "posicao": 20,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Adnet",
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Aston%20Villa",
       "ruido": false
     }
   ],
@@ -173,8 +173,26 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Movimento Econômico: Sindienergia articula reforço da rede elétrica para atrair negócios a Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdl9wSVQxakhPS3o1Um5TS19uWC1CdVNEcnlzY1g2b2d4Vm1RUjZPSmpPOTJDRlpuQ1ZMZ0huU2pzSzhlanFTSjlrN0RqTGtZOVhlc3hUT0RsWm1SQko2cGQ4bGxoYTNxYnpKZnFBWWZ2Njg2MjQxdlBxTUV1TWtYZC1sUksyQzEwZDVMSllhSGFHMC1DMzBDNl9NaFZqNlh0dzhSNWhsbGs1bjNlTmdybVFQenRKUUV3bnRsTW5FVmExUlVjY05Pc1A1eDIwVkhCTnZsRVRMSXM2MDNMRDhYMQ?oc=5"
+      "manchete": "- Blog Dellas: Debate da Globo: O que Lula e Flávio Bolsonaro falaram sobre Pernambuco -",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUmlNMmo4N2VEUi15Sk9PalZmNDFQcjFBcDNrWGVrMTNacHZURkpualRMNUtCZDUxNGg1OElkemo3UTRqMS1uSmo1SXFJWURuMFhBYjZCcmwyYkpGdUJ1ZXB1Ukx3ckRHWVBfSDdyYWhka19qRWJaWEp2Z3JsNW5RdTAzR18zOFZOS2ZJZThwdFZyTTFBVjZOOFAzbXJpUQ?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Transmissão Política: O que se espera da indústria no Semiárido de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzg0U2xmUXdjb2JGXzBDMkoxZFJDZzdTMlNrQmN4U1dwakZZeXJYZFIzSm5ET2NtdTl0Y3JRMlJtWkdUaUZQNWhhaEpHSXF5R1RGU2hpSHN2UG9IRzNuZFpEREhBcmhndGVDc1RDeFAtVXdWb3AwOFRLeTRlZkkxMmRpb1ZtbkNmU2FBTQ?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Voto abestalhado, aqui não tem disso não.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUmJFX1dKWEVmRF9xMVdGckliNkx2QmRTYVNnSHFrUDRFbEFnc2RBTXZTTDVrSUtTUUFoeUpSbUo2dE9QWkVWTDg4OXVfVHdPR1dQaS1tU3ZPd09oclFZODQ2LVFmLWNfNldsUzJSLUdFb1FLRUdlQ2l0T2VYYWdtZThob3lfMk1ZVGpuRFZzT3ZUNVFtX1p1eEZOZGpWYzVPQ0M1dWxiVDBpd2JfcDZCanNYVkFSUQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "RioMar Recife: Minimark BT21 está disponível na Cinemark do RioMar Recife",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0gwOWloUWVHZDVkdlk2MlNXTWZST3l6bGhiMjRaeVVaSWdLNFMyUjVCc19ScjFsSlhYLW9rRlJyTWhhcDBSZTFSZ1JNajFSWk1vam1hb0pWX3Y4czd5ZjAxU3JMdTItVDZIV0hJQVRtZk1KSnlDcDhGMnFTUG5qMkdVTlI5OEtGcHZpalkwOGl3TENHYVZOdzMzTW0?oc=5"
     },
     {
       "termo": "Recife",
@@ -185,104 +203,122 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOUmw2YWE1MFBTdUwyR3Fwd3FwM0hIYjJ2aGtkSl9PVk9jRGZUTkN0ejQtcTJPZTFpcUtPMU5hVGFLa1prRmlpVjFQcEJOaVpUa3dBRGVIckVXSEcyV0pFSjRfUGV3UmhqazlsM0g0czZReUVCbFAxTENpYTN0VzRrZmdsOXVZNmhLVGJvX0lGd3VYNTZIOTh1QXlwVEllUmZ2SXBSazgwUTFpYU1QeEx5RXJMb2RQbUQ3NVdRbzMtZkxPZUFLc2gzcmJ5azk0UDBlVE1vY2ttOXZYbWVKY1RZZkxjM2g0SkhsblItUWFzOXV3WFRRU1JmSnZNaTF0djZzWEQwQkVJbmhqbkE4Mkk0QVEzR1B1NF9GMnJocTA4UEtpMzJvSF9sZQ?oc=5"
+      "manchete": "Clima ao vivo: Clima ao Vivo em Recife | Câmera do tempo - veja agora - Clima ao Vivo",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QVk01b05lbHMxdzJqT0hsWHN4emlLZzVuX0QwbmIta1FHVWRMQUx1N3RLUE5lQm91bEpBYWNuYnRvR294Uk9UbVdjNzVVMHZUSXlnZHBMdVh4MjkyT2x1Ty10YWdwVXpqXzlOeHVDdVl1alM5VFRRWTNxX1I?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Blog Cenário: Recife ganha megamural de 25 metros em homenagem a Chico Science",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT1hrVlI4d1BCOGZvQ09rN1VVMmVtSnVFWE9SWUNrdHB6N3ktbURwV01DbzFNRmVmcmdrazV2ZFFCWHRoVDVIdEV3MlZqYlR6aG5pNGxHTFlMU3J2QXZsekZRS1Q2cm0yUXg3NDF2NE1xcWMwVExUQVNKQUhhSF9VMDZmaUZjazFMOTg3SHB5NkRoQ0o1NnBRamlKQnc0SktLZXdTTw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Francês News: Raquel Lyra entrega 100 ônibus com ar-condicionado para renovar transporte no Grande Recife",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTGdhSHo4bHlFb2MweDJKX2M3NUlkYzZ6aHN0LXdmRWVDbUlFaTRURU1XQnZaSkd2RVMtc3lIR0R2NEpuNWJqRjNVMGZ2N3p0OUwzMUU3T2xDWUFzVVVzUk9uZVJXclZ3YVAyTU1BLTNaRC04NXY5bXRsbGRIMVIwNlNYSEhKeHZTR0x1WmVkOFVqSnNLVWUtak9HT193V3lnSW5LbTJIZXZSOTJjcjJ0UzM3SXJIb2R5YUFGc3RKd291eExYMnZZOEc2NUVDU0U2cV9lQWFoYw?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Veja como vai ser a previsão do tempo para este fim de semana em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTXNDSjZYcWVZQnFTRzNvV1RWNlNMem56ckppS2hLTVBvY1RRT3FNS1I1elhpQ2Z6NFd5WDQ4aDhXRTZiLXkxRnh3bUJFRUFJLS1fYkdONERjb01yZzlyR3RyRGhLZHNicmdabnNZZ2NjZVRjM3lmb1pocW5QS3pTUGlvd0hCdjRRNGN1UDlwbE9IUW5xM2pFeE4tWndaQVZWQzJEUWoyUFpiQ0kyU3RMYkdzVWFKMXMxMkpsbDV4WGl0SEdHOG9nclRGUGIzLVluS3BHQU9pVE1rSmVRRE41cA?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "PE Notícias: Governo de Pernambuco oferta 530 bolsas de mestrado e doutorado para 2027",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLTBZQUpCSzUwb0M5NnZWTzVBc1FuckQtVmVYNm5JTDY3R0FjSnJMR2ZoVTZZMzJRSm50VzNvM0NweVJkRjRhaWxzak9TaTlUWGNTcU83X2M0MkpGY21Cd1d0Z3lONzQ4RlI3X1VnYlB4MXRKNUhhblRmWWp2NDRvbE5HMGxHT05SX1lELVNZT0tMczNjVmVlYkEzNng1TTJuX2xud2thd0o?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "trocam acusações",
-      "razao_aumento": 100.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-24T03:06:18Z",
-        "titulo": "Debate na Globo: Lula e Flávio Bolsonaro trocam acusações em bloco com tema livre; VÍDEO",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWlN0UzJzY2xJUXlQZVU1M0FRVHJxeF9OYkFoNGRIMEhSRzI3VkVTYWhuazB6aWpHNkFKWmxQYVFQUmlnOWc3RHIxWGplUjJoQ2ltRzc4NFJQelNFQUgyUGJBUXB2TXJVdExjdGhaY3ZVNFgwQVFaWDNqcVZ0V2dPRFIxbU85YW5jUXpxMDFTYWpKMk1jTVFBeHR2cm1MQTJuMHlsUFVzMlJhSTVJRUsyRmVlbkcyTGVLWDRGTXd4eVJlcVBDczJFTWdHemtZMEZlWXF3eWpNeWh0N2YtMU81NENkcWdaRzdGZGdj0gH6AUFVX3lxTE9nNDFOOUxTSnR6QzR0XzdORjlDOEtCaTB3U2JwQmZHSy1FSTZkQ09scVFWRW9sSVE3TTdVa1diSlNaN0dMU2J4cW01WW9EV3R1eDM0Y2RIT2RDM2JiNnlvT3pLZUUxUzFaTjhrak9HekpULTZIb1Z1ZGZ0V0FZaFZQdG1wek5xN0tSMUREUUxORVh5RkpWVjhrczhHVHdoY2lLeTUwUzNOc1lheHNhQWRlekQ5cUJCOU5vTTdRbXpsWDFVS3ZnZ201RG9GVkxKTHBtYXRjQlg3WVI5WUEtTmVIN2JhZXd3NTJkel82X3J5a0tEQjdHTjh0Q3c?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Candidatos trocam",
-      "razao_aumento": 100.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Agência Brasil",
-        "hora": "2026-10-24T05:20:00Z",
-        "titulo": "Candidatos trocam acusações e defendem propostas em debate na Globo",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUVNCekpwT0Nxbk5VRUxTUDZqc2Z1TjM3a3ZVb21mZ1RYQXlPZUJuQUpzaENYQ0ZRZXl6TUZEZk42UU1xYXZLQlY1eGdNblpNUFB6RjNwbGJ5Nmh1ODVHcXNFbW1zOUtsSHhZVmE3LVVJSXE4WDk5Zkl6M3hvWDktbjFyazgxMi1SS2RQNnduc18zZjZUeE1hMFhoRHlkVTVnZElTVTR6Z2RrYWJnS19lWlYzeWlzaEhiV291N1dNRy1Eekk?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Candidatos trocam acusações",
-      "razao_aumento": 100.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Agência Brasil",
-        "hora": "2026-10-24T05:20:00Z",
-        "titulo": "Candidatos trocam acusações e defendem propostas em debate na Globo",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUVNCekpwT0Nxbk5VRUxTUDZqc2Z1TjM3a3ZVb21mZ1RYQXlPZUJuQUpzaENYQ0ZRZXl6TUZEZk42UU1xYXZLQlY1eGdNblpNUFB6RjNwbGJ5Nmh1ODVHcXNFbW1zOUtsSHhZVmE3LVVJSXE4WDk5Zkl6M3hvWDktbjFyazgxMi1SS2RQNnduc18zZjZUeE1hMFhoRHlkVTVnZElTVTR6Z2RrYWJnS19lWlYzeWlzaEhiV291N1dNRy1Eekk?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "TV Globo",
+      "termo": "debate entre Lula",
       "razao_aumento": 90.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Ricardo Antunes",
-        "hora": "2026-10-24T02:01:12Z",
-        "titulo": "Flávio acena para Raquel Lyra ao falar do Nordeste no debate da TV Globo",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMG1vYy1saHNpYzVUczJSbVppOEs3aTZXUVRhdGVEbGlDRFdoX041UGp1Z2hPUl9qR2JBRGxjblZqMXRQR0RpcDh6MXhIWl9SZUp1Ym5HNkZmbjVtN2pNamdIdGx6X1RmUmFiMld3ejBZQkQzVlFYU2ozeVpiRkYwNWp5Q1o5eVVHQ0xCUUxzQlZ2cFdITXhjaTRTWVV2aE00MGc?oc=5",
+        "fonte": "BBC",
+        "hora": "2026-10-24T06:17:59Z",
+        "titulo": "Os principais momentos do debate entre Lula e Flávio na Globo",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xNjQ1WG5Pdkx5RlZFQ1V0bzVhc041WGllcXYxZFZYQWhlQjY1aUgxcHU0RmdBU0dhZGRncXE3ZGk5MkgyQWZZM2wwRTl4MU9lM2RyQVBYWG1DV2VYSmdqd3pQUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "servidores voluntários",
-      "razao_aumento": 71.9,
+      "termo": "Nove dedos",
+      "razao_aumento": 90.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Taís Paranhos",
-        "hora": "2026-10-23T12:45:00Z",
-        "titulo": "Cuidado e Cidadania: Prefeitura do Recife abre creches e mobiliza servidores voluntários para acolher crianças no 2º Turno",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1F0dmZpUXM0eEotdzQyV2s5QllZUFY4OHpSRFVZa2ZaNXNfdkV1RUN6RENkcUlZVUx2WnZ1MFJxWTllZ1BieTdfTmZ1V0ZzSFFQbVdiQlRNbkV5bl9uVHJDbm5VeEswTnhmWnZoUWRXUXo5SGhOSkV3bzZPX1JrTEk1U2c?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-24T06:11:42Z",
+        "titulo": "Debate da Globo: segundo bloco tem discussão sobre políticas sociais, reação de Lula a 'nove dedos' e pedido de desculpas de Flávio Bolsonaro; reveja",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWl5MnYyMnNmSjNBUEtWRHlXaks0TU5ZUEZhNHEyT05GWjBhSlM0MWFRTGIxemF2cThCSkRIVzFrQjhkUzRpZTc0Qi1hVGQxZzA4QjNadmQ3djVuNk5EN1JRM2NpYVJfQjZscFBtNy1Qc19aZDU2b1ZmZUJIU1BLeXc2ck50cUJIWFpENHRDVk9Mb25VSFVXYmxVNTFrQjjSAa4BQVVfeXFMTngtci1GSEVoaTRrSDhVS1M1U052Z2Q2a3ZNcXdTcW1TMEdGUXRpc1N5cHdBNWpwUy1wYkt5ZWhLejRoeUpfd0JCRUJXMW9wbnBRS3BmRnBSZ2t6V2RCdE02b2ZTLXhZZXdEeG9jTHZvTkhvQ2Vocnk3U3hTZzJwdjVYWXJncEdCU0VBT3diampSWHlOcy1vQTRFVEpJdlVZR2ZsWC13WmtKeWt6aHhn?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "acolher crianças",
-      "razao_aumento": 71.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Taís Paranhos",
-        "hora": "2026-10-23T12:45:00Z",
-        "titulo": "Cuidado e Cidadania: Prefeitura do Recife abre creches e mobiliza servidores voluntários para acolher crianças no 2º Turno",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1F0dmZpUXM0eEotdzQyV2s5QllZUFY4OHpSRFVZa2ZaNXNfdkV1RUN6RENkcUlZVUx2WnZ1MFJxWTllZ1BieTdfTmZ1V0ZzSFFQbVdiQlRNbkV5bl9uVHJDbm5VeEswTnhmWnZoUWRXUXo5SGhOSkV3bzZPX1JrTEk1U2c?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "debate presidencial",
+      "termo": "último debate",
       "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JOTA Info",
-        "hora": "2026-10-23T22:13:00Z",
-        "titulo": "AO VIVO Debate da Globo - Lula e Flávio Bolsonaro fazem último debate presidencial das eleições 2026",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVFJtYXhPUFFHT3FMWDVrZ3ZrSEdNc25pZDNCT3ltR1QwZzlHY204cGNUVndIV1ozMUxRUXdYOHM4OUZ3MlVVVGg2d0ZSamxYUHFwQWZHR1VnUHdvZDlncGhvNUVEWE1FLThfUU9ZclBYaG15NlF3TWU5YURRdFNLam5oeUJGZTNmSkFaMkJCWjZfTXlEQjhZeHZlcE95X3A5NXM4ZjRXcWcwT2sxaXBYVFJ4aHdvQzljM0Fua1BaUTBWNWt4ckRyVjhYaW9vVTk1bk1lTXFHdm1SV0E?oc=5",
+        "hora": "2026-10-24T01:18:45Z",
+        "titulo": "AO VIVO Debate da Globo - o que Lula e Flávio Bolsonaro estão dizendo no último debate das eleições 2026",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONjk4dXBGNWJJUEtZZzBEZ1plcW5pTnBBaEgxaXI4VnZJWjFTYTFIZG5sclZPVUcxQUdsYURfWU52UE85RnBpRWJEaFdOM25nY2dxdEtfSTRfZjh4YzFqMkJwZXFmMlByYXFIeVY4dWMzNnU3S3kweVQwaFliX1NJekd1QXJqbDFtMUpoR2NJeEdmckt0R251aWdkMTUzRm5sRWY5dWdtTFNLWF80U252UFgteE1oRVhISWx1Mzc1VXFVdmJwVzNGR2tiS01NLU5WcVhzd1lycndYbkYwZXdKeDJOaHhjWmF3LW1qVEJXSQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Jogos",
+      "razao_aumento": 65.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Alberto Alves",
+        "hora": "2026-10-23T21:24:55Z",
+        "titulo": "Pernambuco encerra primeiro bloco dos Jogos da Juventude 2026 com 10 medalhas",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUhoNU1CYjNkVlFhTHVuaDE3RWhfZExidDlaU3E4TlBvZEgwb3B0aUhvcFU0NDFRVkZmMnBXeUhIdU9pWDJvRWZ0bVJLS1hrQV9pWkJQcFIxTER4cnZTVklZM2lpLTdaQnV0R1gxZ1p4eUtZY0VNM0dWVy1XX2VhYkFSdWRnMWtIUFpnNWFfazI3SmNXbDF1Vlc0Sjd4WHNVcmZ1VVhPemtMWUVTRHJmNUJKU2U?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Juventude",
+      "razao_aumento": 65.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Alberto Alves",
+        "hora": "2026-10-23T21:24:55Z",
+        "titulo": "Pernambuco encerra primeiro bloco dos Jogos da Juventude 2026 com 10 medalhas",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUhoNU1CYjNkVlFhTHVuaDE3RWhfZExidDlaU3E4TlBvZEgwb3B0aUhvcFU0NDFRVkZmMnBXeUhIdU9pWDJvRWZ0bVJLS1hrQV9pWkJQcFIxTER4cnZTVklZM2lpLTdaQnV0R1gxZ1p4eUtZY0VNM0dWVy1XX2VhYkFSdWRnMWtIUFpnNWFfazI3SmNXbDF1Vlc0Sjd4WHNVcmZ1VVhPemtMWUVTRHJmNUJKU2U?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "bloco dos Jogos",
+      "razao_aumento": 65.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Alberto Alves",
+        "hora": "2026-10-23T21:24:55Z",
+        "titulo": "Pernambuco encerra primeiro bloco dos Jogos da Juventude 2026 com 10 medalhas",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUhoNU1CYjNkVlFhTHVuaDE3RWhfZExidDlaU3E4TlBvZEgwb3B0aUhvcFU0NDFRVkZmMnBXeUhIdU9pWDJvRWZ0bVJLS1hrQV9pWkJQcFIxTER4cnZTVklZM2lpLTdaQnV0R1gxZ1p4eUtZY0VNM0dWVy1XX2VhYkFSdWRnMWtIUFpnNWFfazI3SmNXbDF1Vlc0Sjd4WHNVcmZ1VVhPemtMWUVTRHJmNUJKU2U?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Jogos da Juventude",
+      "razao_aumento": 65.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Alberto Alves",
+        "hora": "2026-10-23T21:24:55Z",
+        "titulo": "Pernambuco encerra primeiro bloco dos Jogos da Juventude 2026 com 10 medalhas",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUhoNU1CYjNkVlFhTHVuaDE3RWhfZExidDlaU3E4TlBvZEgwb3B0aUhvcFU0NDFRVkZmMnBXeUhIdU9pWDJvRWZ0bVJLS1hrQV9pWkJQcFIxTER4cnZTVklZM2lpLTdaQnV0R1gxZ1p4eUtZY0VNM0dWVy1XX2VhYkFSdWRnMWtIUFpnNWFfazI3SmNXbDF1Vlc0Sjd4WHNVcmZ1VVhPemtMWUVTRHJmNUJKU2U?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Roadshow de Pernambuco",
-      "razao_aumento": 71.4,
+      "razao_aumento": 65.4,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Brasilturis",
@@ -295,273 +331,273 @@
   ],
   "nuvem": [
     {
-      "termo": "Flávio",
+      "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 23.09,
+      "fatia_pct": 22.78,
       "fontes_distintas": 20
     },
     {
-      "termo": "Lula",
-      "peso_relativo": 87.6,
-      "fatia_pct": 20.21,
-      "fontes_distintas": 17
+      "termo": "Flávio",
+      "peso_relativo": 92.7,
+      "fatia_pct": 21.11,
+      "fontes_distintas": 20
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 69.1,
-      "fatia_pct": 15.96,
-      "fontes_distintas": 15
+      "peso_relativo": 73.2,
+      "fatia_pct": 16.67,
+      "fontes_distintas": 16
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 69.1,
-      "fatia_pct": 15.96,
-      "fontes_distintas": 15
-    },
-    {
-      "termo": "Globo",
-      "peso_relativo": 57.1,
-      "fatia_pct": 13.19,
-      "fontes_distintas": 11
+      "peso_relativo": 70.7,
+      "fatia_pct": 16.11,
+      "fontes_distintas": 16
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 53.0,
-      "fatia_pct": 12.23,
-      "fontes_distintas": 18
+      "peso_relativo": 56.1,
+      "fatia_pct": 12.78,
+      "fontes_distintas": 16
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 50.7,
-      "fatia_pct": 11.7,
-      "fontes_distintas": 18
+      "peso_relativo": 53.7,
+      "fatia_pct": 12.22,
+      "fontes_distintas": 16
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 50.7,
-      "fatia_pct": 11.7,
-      "fontes_distintas": 18
+      "peso_relativo": 53.7,
+      "fatia_pct": 12.22,
+      "fontes_distintas": 16
     },
     {
-      "termo": "Nordeste",
-      "peso_relativo": 27.6,
-      "fatia_pct": 6.38,
-      "fontes_distintas": 12
+      "termo": "Globo",
+      "peso_relativo": 51.2,
+      "fatia_pct": 11.67,
+      "fontes_distintas": 13
     },
     {
       "termo": "João",
-      "peso_relativo": 25.3,
-      "fatia_pct": 5.85,
+      "peso_relativo": 26.8,
+      "fatia_pct": 6.11,
       "fontes_distintas": 10
     },
     {
       "termo": "Campos",
-      "peso_relativo": 25.3,
-      "fatia_pct": 5.85,
+      "peso_relativo": 26.8,
+      "fatia_pct": 6.11,
       "fontes_distintas": 10
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 25.3,
-      "fatia_pct": 5.85,
+      "peso_relativo": 26.8,
+      "fatia_pct": 6.11,
       "fontes_distintas": 10
     },
     {
-      "termo": "Debate",
-      "peso_relativo": 24.9,
-      "fatia_pct": 5.74,
-      "fontes_distintas": 3
+      "termo": "Lula e Flávio",
+      "peso_relativo": 26.8,
+      "fatia_pct": 6.11,
+      "fontes_distintas": 8
     },
     {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 23.0,
-      "fatia_pct": 5.32,
-      "fontes_distintas": 5
+      "termo": "Nordeste",
+      "peso_relativo": 24.4,
+      "fatia_pct": 5.56,
+      "fontes_distintas": 10
     },
     {
       "termo": "Nikolas",
-      "peso_relativo": 20.7,
-      "fatia_pct": 4.79,
+      "peso_relativo": 22.0,
+      "fatia_pct": 5.0,
       "fontes_distintas": 9
     },
     {
       "termo": "debate da Globo",
-      "peso_relativo": 20.7,
-      "fatia_pct": 4.79,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Debate na Globo",
-      "peso_relativo": 20.3,
-      "fatia_pct": 4.68,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Lyra entrega",
-      "peso_relativo": 16.1,
-      "fatia_pct": 3.72,
+      "peso_relativo": 22.0,
+      "fatia_pct": 5.0,
       "fontes_distintas": 7
     },
     {
-      "termo": "Raquel Lyra entrega",
-      "peso_relativo": 16.1,
-      "fatia_pct": 3.72,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Exército",
-      "peso_relativo": 15.4,
-      "fatia_pct": 3.56,
+      "termo": "Copacabana",
+      "peso_relativo": 17.1,
+      "fatia_pct": 3.89,
       "fontes_distintas": 2
     },
     {
-      "termo": "eleições 2026",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.19,
-      "fontes_distintas": 3
+      "termo": "Lyra entrega",
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.33,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Raquel Lyra entrega",
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.33,
+      "fontes_distintas": 5
     },
     {
       "termo": "Campos rebate",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.19,
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.33,
       "fontes_distintas": 6
     },
     {
       "termo": "João Campos rebate",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.19,
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.33,
       "fontes_distintas": 6
     },
     {
+      "termo": "Lula Em Copacabana",
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.33,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Live",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Virada",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Live Da Virada",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "RJCom",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "RJCom Lula",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 1
+    },
+    {
       "termo": "Voto",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.19,
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.83,
       "fontes_distintas": 1
     },
     {
       "termo": "Voto Pro Lula",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.19,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Clara",
-      "peso_relativo": 13.6,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Ana Clara",
-      "peso_relativo": 13.6,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Virote",
-      "peso_relativo": 13.1,
-      "fatia_pct": 3.03,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Virote Do Exercito",
-      "peso_relativo": 13.1,
-      "fatia_pct": 3.03,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Surubinha",
       "peso_relativo": 12.4,
-      "fatia_pct": 2.87,
+      "fatia_pct": 2.83,
       "fontes_distintas": 1
     },
     {
-      "termo": "Flavio Surubinha",
-      "peso_relativo": 12.4,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
+      "termo": "ar condicionado",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.78,
+      "fontes_distintas": 5
     },
     {
-      "termo": "Belém",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.71,
-      "fontes_distintas": 1
+      "termo": "TV Globo",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.78,
+      "fontes_distintas": 4
     },
     {
       "termo": "Ferreira",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.66,
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.78,
       "fontes_distintas": 5
     },
     {
       "termo": "rebate Nikolas",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.66,
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.78,
       "fontes_distintas": 5
     },
     {
       "termo": "Nikolas Ferreira",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.66,
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.78,
       "fontes_distintas": 5
     },
     {
       "termo": "Campos rebate Nikolas",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.66,
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.78,
       "fontes_distintas": 5
     },
     {
+      "termo": "Debate",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.78,
+      "fontes_distintas": 3
+    },
+    {
       "termo": "Bolsonaro e Lula",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.78,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Live24Horas",
+      "peso_relativo": 11.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Exercito",
+      "peso_relativo": 11.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Live24Horas Do Exercito",
+      "peso_relativo": 11.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Exercito Do Lula",
+      "peso_relativo": 11.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Chico",
       "peso_relativo": 11.5,
-      "fatia_pct": 2.66,
+      "fatia_pct": 2.61,
       "fontes_distintas": 3
     },
     {
-      "termo": "turno das eleições",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.66,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "FAYE",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.39,
+      "termo": "Belém",
+      "peso_relativo": 11.0,
+      "fatia_pct": 2.5,
       "fontes_distintas": 1
     },
     {
-      "termo": "STATIC",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.39,
+      "termo": "Rebeca",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.33,
       "fontes_distintas": 1
     },
     {
-      "termo": "PARTY",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.39,
+      "termo": "Andrade",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.33,
       "fontes_distintas": 1
     },
     {
-      "termo": "FAYE 1410",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.39,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "1410 STATIC",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.39,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "STATIC BD",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.39,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "BD PARTY",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.39,
+      "termo": "Rebeca Andrade",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.33,
       "fontes_distintas": 1
     }
   ]
