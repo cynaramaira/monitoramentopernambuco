@@ -1,174 +1,174 @@
 {
-  "atualizado_em": "2026-10-24T05:48:20Z",
-  "total_analisado": 137,
+  "atualizado_em": "2026-10-24T10:53:51Z",
+  "total_analisado": 145,
   "x_recife": [
     {
-      "termo": "Barletta",
+      "termo": "#SoMaisUmVotoProLula",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Barletta",
-      "ruido": false
-    },
-    {
-      "termo": "Raquel Lyra",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Raquel%20Lyra",
-      "ruido": false
-    },
-    {
-      "termo": "Norte",
-      "posicao": 3,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Norte",
-      "ruido": false
-    },
-    {
-      "termo": "Milei",
-      "posicao": 4,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Milei",
-      "ruido": false
-    },
-    {
-      "termo": "#FlavioSurubinha",
-      "posicao": 5,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23FlavioSurubinha",
-      "ruido": false
-    },
-    {
-      "termo": "#DebateNaGlobo",
-      "posicao": 6,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23DebateNaGlobo",
+      "url": "https://x.com/search?q=%23SoMaisUmVotoProLula",
       "ruido": false
     },
     {
       "termo": "#ViroteDoExercito",
-      "posicao": 7,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23ViroteDoExercito",
       "ruido": false
     },
     {
-      "termo": "#JanonesVaiNevar",
-      "posicao": 8,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23JanonesVaiNevar",
-      "ruido": false
-    },
-    {
-      "termo": "#LulaNaGlobo",
-      "posicao": 9,
+      "termo": "#FlavioSurubinha",
+      "posicao": 3,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23LulaNaGlobo",
+      "url": "https://x.com/search?q=%23FlavioSurubinha",
       "ruido": false
     },
     {
       "termo": "Belém",
-      "posicao": 10,
-      "variacao": "+3",
+      "posicao": 4,
+      "variacao": "+2",
       "direcao": "sobe",
       "url": "https://x.com/search?q=Bel%C3%A9m",
       "ruido": false
     },
     {
-      "termo": "Live da Virada",
-      "posicao": 11,
-      "variacao": "+3",
+      "termo": "#DebateNaGlobo",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23DebateNaGlobo",
+      "ruido": false
+    },
+    {
+      "termo": "FAYE 1410 STATIC BD PARTY",
+      "posicao": 6,
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Live%20da%20Virada",
+      "url": "https://x.com/search?q=FAYE%201410%20STATIC%20BD%20PARTY",
+      "ruido": false
+    },
+    {
+      "termo": "#JanonesVaiNevar",
+      "posicao": 7,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23JanonesVaiNevar",
+      "ruido": false
+    },
+    {
+      "termo": "Ana Clara",
+      "posicao": 8,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Ana%20Clara",
       "ruido": false
     },
     {
       "termo": "Gugo",
-      "posicao": 12,
-      "variacao": "+3",
-      "direcao": "sobe",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Gugo",
       "ruido": false
     },
     {
-      "termo": "Tralli",
-      "posicao": 13,
-      "variacao": "+3",
+      "termo": "Jisoo",
+      "posicao": 10,
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Tralli",
-      "ruido": false
-    },
-    {
-      "termo": "hailey bieber",
-      "posicao": 14,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=hailey%20bieber",
-      "ruido": false
-    },
-    {
-      "termo": "Biden",
-      "posicao": 15,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Biden",
-      "ruido": false
-    },
-    {
-      "termo": "Impressão",
-      "posicao": 16,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Impress%C3%A3o",
-      "ruido": false
-    },
-    {
-      "termo": "Cracolândia",
-      "posicao": 17,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Cracol%C3%A2ndia",
+      "url": "https://x.com/search?q=Jisoo",
       "ruido": false
     },
     {
       "termo": "Polícia",
-      "posicao": 18,
-      "variacao": "+3",
+      "posicao": 11,
+      "variacao": "+2",
       "direcao": "sobe",
       "url": "https://x.com/search?q=Pol%C3%ADcia",
       "ruido": false
     },
     {
-      "termo": "Pai Nosso",
-      "posicao": 19,
-      "variacao": "+5",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Pai%20Nosso",
+      "termo": "Biden",
+      "posicao": 12,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Biden",
       "ruido": false
     },
     {
-      "termo": "Richarlison",
-      "posicao": 20,
+      "termo": "Gugu",
+      "posicao": 13,
       "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Richarlison",
+      "url": "https://x.com/search?q=Gugu",
+      "ruido": false
+    },
+    {
+      "termo": "hailey bieber",
+      "posicao": 14,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=hailey%20bieber",
+      "ruido": false
+    },
+    {
+      "termo": "Ifood",
+      "posicao": 15,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Ifood",
+      "ruido": false
+    },
+    {
+      "termo": "gaga",
+      "posicao": 16,
+      "variacao": "+7",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=gaga",
+      "ruido": false
+    },
+    {
+      "termo": "Freixo",
+      "posicao": 17,
+      "variacao": "+13",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Freixo",
+      "ruido": false
+    },
+    {
+      "termo": "Impressão",
+      "posicao": 18,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Impress%C3%A3o",
+      "ruido": false
+    },
+    {
+      "termo": "Cristiane",
+      "posicao": 19,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Cristiane",
+      "ruido": false
+    },
+    {
+      "termo": "Adnet",
+      "posicao": 20,
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Adnet",
       "ruido": false
     }
   ],
   "google_trends": [
     {
-      "termo": "galo da madrugada",
-      "volume": "▲ 200+",
-      "manchete": "Apoiadores de Lula e Flávio Bolsonaro fazem atos no Recife; VÍDEO",
-      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/22/apoiadores-de-lula-e-flavio-bolsonaro-fazem-atos-no-recife-video.ghtml"
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Brasil de Fato: Confira quais são as doze seções eleitorais em Pernambuco que mudaram de local para o 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblRtSHAtWXFFLW1BWTJ3c01rT2JtMzZkVWhvYm5IVFA5VlJieXN4Z0ctWnBaVk5tQUM4b0N1WDVjc1hlRk9jQkVsXzRpdlRSdDhZOElOUGltdUdzODJZNE13Xzd0bjBKa0VkTDN2Zm5hRzR6UUk3RG5BS09ObGhnd0N3b09hZUNER3VjcGRmRng4S3VMX2hQRGFoOUlkallxUl9nZGNCcXB0Qnl4OXpKbkxZRzBYTkdjR0E2aUZEVVlQd1oyeERTRmRzMS1ySll1LTlyZA?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -177,124 +177,88 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdl9wSVQxakhPS3o1Um5TS19uWC1CdVNEcnlzY1g2b2d4Vm1RUjZPSmpPOTJDRlpuQ1ZMZ0huU2pzSzhlanFTSjlrN0RqTGtZOVhlc3hUT0RsWm1SQko2cGQ4bGxoYTNxYnpKZnFBWWZ2Njg2MjQxdlBxTUV1TWtYZC1sUksyQzEwZDVMSllhSGFHMC1DMzBDNl9NaFZqNlh0dzhSNWhsbGs1bjNlTmdybVFQenRKUUV3bnRsTW5FVmExUlVjY05Pc1A1eDIwVkhCTnZsRVRMSXM2MDNMRDhYMQ?oc=5"
     },
     {
-      "termo": "Pernambuco",
+      "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Governo notifica empresas de ônibus que negam emissão de passagens gratuitas para eleição",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2ViSVRoWnFsRHJHZ2xrcTI0bEpyOXJBNnVZcWl5aWpTRU9MRm5PdFc4eWxFQ3RCZVFKdHpsNGFCdzJQaFBld2ZRM19sMy1iYm4tRk9iY3ZrbHVYV1NkbkF0MW5xazhYa0JfZy1rQm1iTXFSOGRQTjZEVkFlRWtGbmhiRXpJRmF6eWdLMHlaMWRUTVV2cGlVT0hDNDlXM2kyZ1NiU2xpSkRnNG1MRThCbndZTDBlcTAtRXdzOG9ES3QyUVV20gHTAUFVX3lxTE9SdXByUVpXVW0yWnJ2OWU3OHVoV0xzR1h5TS05Q3NldWhpTzNlNmxmYUo0bzB2QUZObzRxZVZqT0tybHRLbGxFY00zbVBkZ2NkMTJ4aERoR1N1V0hFRm9VUlNhMW15T1M2TGd5amZpNTJEUWpYVndHWjJpT3FraTNRYnhIUEJvdFRJRlh2cWtaMFlsN2RaMXdRQURmUXg3VlZ1WndySlU2ekQ3RXdXOWVrVEJmSHNhOWduVnVVcGRWd0t5dDNPMExKMFNVLUZXcm1tVVE?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Pernambuco conquista 10 medalhas no primeiro bloco dos Jogos da Juventude",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHNIMUo2V1pBdmtqalpHLVJlZHpSZmpxUERTZGpYbEJ2N2ttOFU4clN2cmdzckZqbEEzTGZZcVAwODR5U2FTN2xDT1E4a0ZCeHZhZG4wZVg1MFZHemdRWlh1dzVBUzdoZndXcWF1NVlvVVFpVGNnREcxcElDNmZUM1c5MUJZM3FBbWxIaVQzeGwzZVZkZWQ4N1ppaDFpMXdlYmhubHUzWGNPRUJTaHhn0gGvAUFVX3lxTE1Ec0gxSjZXWkF2a2pqWkctUmVkelJmanFQRFNkalhsQnY3a204VThyU3ZyZ3NyRmpsQTNMZllxUDA4NHlTYVM3bENPUThrRkJ4dmFkbjBlWDUwVkd6Z1FaWHV3NUFTN2hmd1dxYXU1WW9VUWlUY2dERzFwSUM2ZlQzVzkxQlkzcUFtbEhpVDN4bDNlVmRlZDg3WmloMWkxd2ViaG5sdTNYY09FQlNoeGc?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Em Pernambuco, passageiros denunciam que transportadora Progresso não está emitindo passagens gratuitas para eleitores",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbEliYlpKWWlLZHU3RTZTaEFNV2ZqSng1SENnZldqcGtfcHhLOUM0WlVxRlB3TlBINWI4SzhMQTNybDZDdHIybTZGTzhjWmJDQ21fS0xrUGRDaFNWbzRidXlOTjdSaGJNZlQ3U2VWeElGUEJEOFNCeVFLb256TEktT2Q4dzJmdEhpOXZOYTZUbGlkNFI0a1VySzJfX3lCOE1wWmlwYWlSd2hEcnhfR1hlSmg2cFUweDA4enJCME5uT0Jla2UwQ1F5NkpvSDh3THNxMENnSDI5bHk1ZnBhLXRkcldST09XbW1URUJkamZ5LU01U2s?oc=5"
+      "manchete": "OpiniãoCE: Recife abre 34 creches neste domingo (25) para acolher filhos de eleitores durante votação",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWkNfSXZNMzZnX2FESlZpTU84bURxWGpPZE9kZ0cxcW0yRndpc3hjblVSZkZ5ZDJWc3B6cXBiTzBFSmh2ZEZiOG5nU0g1WTRJc2I5Z19ud1Z4NVphQlY4SHp5WGx6b0RIbTM3NGo5TUkwRk1jVXJzdVphT0ZxYl9fQTIxWUdGRzMyRi1SNG1WYTN5ZjBmX19RNEsya09jaDMxdXIyVTFXMEs4akpMeG04ZTl1M3VDMnhMNHdaaFBVMlhtWWRhQ2hKcXBnVWhIUmRJT0d5ZQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
       "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOUmw2YWE1MFBTdUwyR3Fwd3FwM0hIYjJ2aGtkSl9PVk9jRGZUTkN0ejQtcTJPZTFpcUtPMU5hVGFLa1prRmlpVjFQcEJOaVpUa3dBRGVIckVXSEcyV0pFSjRfUGV3UmhqazlsM0g0czZReUVCbFAxTENpYTN0VzRrZmdsOXVZNmhLVGJvX0lGd3VYNTZIOTh1QXlwVEllUmZ2SXBSazgwUTFpYU1QeEx5RXJMb2RQbUQ3NVdRbzMtZkxPZUFLc2gzcmJ5azk0UDBlVE1vY2ttOXZYbWVKY1RZZkxjM2g0SkhsblItUWFzOXV3WFRRU1JmSnZNaTF0djZzWEQwQkVJbmhqbkE4Mkk0QVEzR1B1NF9GMnJocTA4UEtpMzJvSF9sZdIBtwJBVV95cUxQcmlRdmI0eHhZRlo1TXk1WDVrd3Y2NEpuZkNCbm9VRm9hREM1ZlB6TFg2NjI3NjdyV3ZLN0dGZHE1QTQteWxxRlZaNGd0eXdNY2NKdlNwbXRQMWhJREpjMU5EUU96OEpwaGVYTHpWN1hiUkNOLUFzZTE2NFdsSXZ4aTFRZFVhcGk1UGljXzNfZjk0SWtZdnhMeC1qdEZ4QncwN0tUdGR4cFViXzgwYlZnbjVXVzVvYzk2bkVTSm0xXzZVa0V2RmdjRjRUc2xrT0JFRVc3YlFNTXZUZXR0a3hISVFVRWNTQi1NX19pQTdCV0NaY2o0Y2NyM0VKaXI2M3VnM0VEeW1RZjRONlJLYUhrRWdZV3dRenBKczZrdkEweXBBZzNDME5PZjRNZEdxVE9mSlljZUUzWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOUmw2YWE1MFBTdUwyR3Fwd3FwM0hIYjJ2aGtkSl9PVk9jRGZUTkN0ejQtcTJPZTFpcUtPMU5hVGFLa1prRmlpVjFQcEJOaVpUa3dBRGVIckVXSEcyV0pFSjRfUGV3UmhqazlsM0g0czZReUVCbFAxTENpYTN0VzRrZmdsOXVZNmhLVGJvX0lGd3VYNTZIOTh1QXlwVEllUmZ2SXBSazgwUTFpYU1QeEx5RXJMb2RQbUQ3NVdRbzMtZkxPZUFLc2gzcmJ5azk0UDBlVE1vY2ttOXZYbWVKY1RZZkxjM2g0SkhsblItUWFzOXV3WFRRU1JmSnZNaTF0djZzWEQwQkVJbmhqbkE4Mkk0QVEzR1B1NF9GMnJocTA4UEtpMzJvSF9sZQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Mário Flávio: Raquel Lyra entrega 100 ônibus climatizados para a Região Metropolitana do Recife",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcktuR2ZJTGJqd3ZMN3U5dnB6WWdDREdTa2xpSUNPXzJHVmphcmRNaEJ5cXNDOTNHemQwQllhb3ptMWRiR05SZDY5N0tlREZ0Q0d3cVhQamZBWkFRMVFIcmt2TlR3b2lvZnF5RThOVVFreERDTEd3SXNUMTl4Uk1sNTdNdFpJYW40MExqZFJlSkdJNFhfZlRYWXFueEJwcmdUMzVtTEd2WkJkQjRBYlE5cFBUYWV0UQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "cnf.net.br: Governadora Raquel Lyra entrega 100 ônibus novos com ar-condicionado para Região Metropolitana do Recife",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQald4VW1KUndzNzc0LVp6c1RtalQtaG9jUUgtV2cxQy0xX1g1ZlJCOW5xRlYwX0otNVp2aHVxdTduVVN0MXlMcnk3aE1HVEdGUklpU25DSDh1Q1B1THRQNHkzOWNPLWQ3LWtmVm55NG1KcmhoR3hJUGRESTY3ZmZ3c2k3ZFVJVW0yS0o5WlBRNXdoSEExX3d3TFYzVnlaWUI3czUzZnBIbVhJQ1RaME55Q2dvbnFOYTRXZ1JXb3dHbURBc3hiNnVhd1dpNV9kckdtOWRj?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Olinda e Recife anunciam suspensão das ciclofaixas neste domingo (25), devido ao segundo turno",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjZLVlNjMkViTFhZZG95MkVYc21LRzFDaU1xZy0zYTh5WTdDNEQ0UEtQeWFHd29PNTdGZ01vNGJVbkd4N3ZMMTlvZVpIbU9LaGlzVnEtWWVIYXY4YkplR3U3UHVUcXBjWExVeExkeTJNZjlmekRRSXBCa2tpUHlrNFRyODJYaWVGbDYyLUFUZ1FsN3pMbDN2bFZIb1o5cllpMXVTZVVoRjV5Nm9nWnVzdFEtT1jSAbQBQVVfeXFMT1I2S1ZTYzJFYkxYWWRveTJFWHNtS0cxQ2lNcWctM2E4eVk3QzRENFBLUHlhR3dvTzU3RmdNbzRiVW5HeDd2TDE5b2VaSG1PS2hpc1ZxLVllSGF2OGJKZUd1N1B1VHFwY1hMVXhMZHkyTWY5ZnpEUUlwQmtraVB5azRUcjgyWGllRmw2Mi1BVGdRbDd6TGwzdmxWSG9aOXJZaTF1U2VVaEY1eTZvZ1p1c3RRLU9Y?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Governo de Pernambuco divulga resultado preliminar de edital que destina R$ 6 milhões a projetos voltados às pessoas com deficiência",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkdqTjh6RGJFck9aR3luVHZUa3c4SlE1bnRfS1I4SXFEYlVNVWhuTUlTZWUxcEpPQ2hiYUpTWURoWmJ2a3pGb1FxNEFTcUowTXFuS2VZM2dlYTlQMG1sME1kWV85QVJmTW5ncXduVkpRVWV4Ukc4VzN1QU9pSENkWGhVSmZWeHNYdVJkM0dfcXZwNU5YMUdZYllHWFBPNkxWNkJWNkdvbUVGb2NCS3Rub1FSaVp2UUhYaVFqT3lsdDZDM21MeXZ2TlE5VFpLdmlBdXF6bmNhbEZIdTM0aW9sazd0YkxFaVgybWJEcGtuZw?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Governo de Pernambuco anuncia ônibus de graça no segundo turno das eleições",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON24wLTNvcGJFb2l4U216QlFDSFZNUmduWG11d0lXMVpqZk44TUtzSnV1TUttcVB0SHlTQUx2ZVdrN1hlUjlzRmpaSzAwN3pld2J5dS14RGY3N3VGV3VLTlBEV0pVSjdZZUJTYXNhWkRCZW5oNG53T3NyaFhBdUJxY1Y0QnhUS1RuR3JYUWZtdmFGS2Zxd0ExMXJGdi1VVHY5R0RrYWNFSUc0YVRBajlBNGNyaUZZbEMxNlNWRVZRZjdReV80LV9SbC1xdGZud3V6MUNITHotblRJN3Eyc1Fz0gHfAUFVX3lxTE43bjAtM29wYkVvaXhTbXpCUUNIVk1SZ25YbXV3SVcxWmpmTjhNS3NKdXVNS21xUHRIeVNBTHZlV2s3WGVSOXNGalpLMDA3emV3Ynl1LXhEZjc3dUZXdUtOUERXSlVKN1llQlNhc2FaREJlbmg0bndPc3JoWEF1QnFjVjRCeFRLVG5HclhRZm12YUZLZnF3QTExckZ2LVVUdjlHRGthY0VJRzRhVEFqOUE0Y3JpRllsQzE2U1ZFVlFmN1F5XzQtX1JsLXF0Zm53dXoxQ0hMei1uVEk3cTJzUXM?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Jamildo: Transporte intermunicipal gratuito nas eleições gera novas cobranças ao Governo de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa1Jrc1lqYUxQTGNZeXlCSklZNGJWN0dMaGxHU1A3c1U5Rmo4NTZVUHU2LTh2SklpQnhJRkdmNHlrN1RvY1NUT3pHTTRVUU1Nb1ZHLW95VFhQYThQRS03ZUl3Tm5fbVlMSlB0QkhSakV4dklZWENSSmNKZ1Y1UUpuNU9pYXhHUklpbDVSV1pLMGwtdjVPd0htV2VJejhCc0RSWGVVVDhFYnk1MEV1dlBfbjNxUFBuY3c4c0RLNUN6M0E5UTlTOGc?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Governo de Pernambuco entrega 100 ônibus novos com ar-condicionado para a RMR",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVng3RDNsUEkwS0tnUFdJVy15MUFGWEtvcHY2bUtWdDVlbUJoUnNNS2paYUpRRzhiQk1aejFJb2NCRU10cDlhUDhnUEhjZlAteURYREJqZ3NZZVppZTB5eFJTNFpiQ2xUSHJOSXVZTVcycEtoOGdDT0pLSTRTZDlpemlwQk84NXJwcGt0MEhuSXZzTGZVRU9ZUGhPTlpsX3JMSnltNHJGRGp5ZkpaT0dORFUyYXBxQQ?oc=5"
+      "manchete": "Francês News: Raquel Lyra entrega 100 ônibus com ar-condicionado para renovar transporte no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTGdhSHo4bHlFb2MweDJKX2M3NUlkYzZ6aHN0LXdmRWVDbUlFaTRURU1XQnZaSkd2RVMtc3lIR0R2NEpuNWJqRjNVMGZ2N3p0OUwzMUU3T2xDWUFzVVVzUk9uZVJXclZ3YVAyTU1BLTNaRC04NXY5bXRsbGRIMVIwNlNYSEhKeHZTR0x1WmVkOFVqSnNLVWUtak9HT193V3lnSW5LbTJIZXZSOTJjcjJ0UzM3SXJIb2R5YUFGc3RKd291eExYMnZZOEc2NUVDU0U2cV9lQWFoYw?oc=5"
     }
   ],
   "picos": [
     {
+      "termo": "trocam acusações",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-24T03:06:18Z",
+        "titulo": "Debate na Globo: Lula e Flávio Bolsonaro trocam acusações em bloco com tema livre; VÍDEO",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWlN0UzJzY2xJUXlQZVU1M0FRVHJxeF9OYkFoNGRIMEhSRzI3VkVTYWhuazB6aWpHNkFKWmxQYVFQUmlnOWc3RHIxWGplUjJoQ2ltRzc4NFJQelNFQUgyUGJBUXB2TXJVdExjdGhaY3ZVNFgwQVFaWDNqcVZ0V2dPRFIxbU85YW5jUXpxMDFTYWpKMk1jTVFBeHR2cm1MQTJuMHlsUFVzMlJhSTVJRUsyRmVlbkcyTGVLWDRGTXd4eVJlcVBDczJFTWdHemtZMEZlWXF3eWpNeWh0N2YtMU81NENkcWdaRzdGZGdj0gH6AUFVX3lxTE9nNDFOOUxTSnR6QzR0XzdORjlDOEtCaTB3U2JwQmZHSy1FSTZkQ09scVFWRW9sSVE3TTdVa1diSlNaN0dMU2J4cW01WW9EV3R1eDM0Y2RIT2RDM2JiNnlvT3pLZUUxUzFaTjhrak9HekpULTZIb1Z1ZGZ0V0FZaFZQdG1wek5xN0tSMUREUUxORVh5RkpWVjhrczhHVHdoY2lLeTUwUzNOc1lheHNhQWRlekQ5cUJCOU5vTTdRbXpsWDFVS3ZnZ201RG9GVkxKTHBtYXRjQlg3WVI5WUEtTmVIN2JhZXd3NTJkel82X3J5a0tEQjdHTjh0Q3c?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Candidatos trocam",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Agência Brasil",
+        "hora": "2026-10-24T05:20:00Z",
+        "titulo": "Candidatos trocam acusações e defendem propostas em debate na Globo",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUVNCekpwT0Nxbk5VRUxTUDZqc2Z1TjM3a3ZVb21mZ1RYQXlPZUJuQUpzaENYQ0ZRZXl6TUZEZk42UU1xYXZLQlY1eGdNblpNUFB6RjNwbGJ5Nmh1ODVHcXNFbW1zOUtsSHhZVmE3LVVJSXE4WDk5Zkl6M3hvWDktbjFyazgxMi1SS2RQNnduc18zZjZUeE1hMFhoRHlkVTVnZElTVTR6Z2RrYWJnS19lWlYzeWlzaEhiV291N1dNRy1Eekk?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Candidatos trocam acusações",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Agência Brasil",
+        "hora": "2026-10-24T05:20:00Z",
+        "titulo": "Candidatos trocam acusações e defendem propostas em debate na Globo",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUVNCekpwT0Nxbk5VRUxTUDZqc2Z1TjM3a3ZVb21mZ1RYQXlPZUJuQUpzaENYQ0ZRZXl6TUZEZk42UU1xYXZLQlY1eGdNblpNUFB6RjNwbGJ5Nmh1ODVHcXNFbW1zOUtsSHhZVmE3LVVJSXE4WDk5Zkl6M3hvWDktbjFyazgxMi1SS2RQNnduc18zZjZUeE1hMFhoRHlkVTVnZElTVTR6Z2RrYWJnS19lWlYzeWlzaEhiV291N1dNRy1Eekk?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "TV Globo",
+      "razao_aumento": 90.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-10-24T02:01:12Z",
+        "titulo": "Flávio acena para Raquel Lyra ao falar do Nordeste no debate da TV Globo",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMG1vYy1saHNpYzVUczJSbVppOEs3aTZXUVRhdGVEbGlDRFdoX041UGp1Z2hPUl9qR2JBRGxjblZqMXRQR0RpcDh6MXhIWl9SZUp1Ym5HNkZmbjVtN2pNamdIdGx6X1RmUmFiMld3ejBZQkQzVlFYU2ozeVpiRkYwNWp5Q1o5eVVHQ0xCUUxzQlZ2cFdITXhjaTRTWVV2aE00MGc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
       "termo": "servidores voluntários",
-      "razao_aumento": 95.8,
+      "razao_aumento": 71.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Taís Paranhos",
         "hora": "2026-10-23T12:45:00Z",
         "titulo": "Cuidado e Cidadania: Prefeitura do Recife abre creches e mobiliza servidores voluntários para acolher crianças no 2º Turno",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1F0dmZpUXM0eEotdzQyV2s5QllZUFY4OHpSRFVZa2ZaNXNfdkV1RUN6RENkcUlZVUx2WnZ1MFJxWTllZ1BieTdfTmZ1V0ZzSFFQbVdiQlRNbkV5bl9uVHJDbm5VeEswTnhmWnZoUWRXUXo5SGhOSkV3bzZPX1JrTEk1U2c?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Pernambuco capacita",
-      "razao_aumento": 88.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Brasilturis",
-        "hora": "2026-10-23T16:43:57Z",
-        "titulo": "Roadshow de Pernambuco capacita 3,6 mil profissionais do turismo em 18 cidades",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHVXWWRtakJjTC1XR25KaVNiNjFmVThIZ2ZGdm5YY2FNeXZ3dEpmd1ZNQ3JYbktBRC03Q3M5dWlEX0hxckpESjkxUUlhd1dKeC1RSEtKemVsN29vU213ODBlYmZteDZ6QVVSYVFaYktBZ3NGTklTQ09mMk9OcFlKRWhLQmZEQWV3U0Z1NlJ6cGFwZGNsNlRfZ0dneVJiUlFIZmlURDdlMU9VSlFmRXlYU1JrQXg0NW8?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "mil profissionais",
-      "razao_aumento": 88.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Brasilturis",
-        "hora": "2026-10-23T16:43:57Z",
-        "titulo": "Roadshow de Pernambuco capacita 3,6 mil profissionais do turismo em 18 cidades",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHVXWWRtakJjTC1XR25KaVNiNjFmVThIZ2ZGdm5YY2FNeXZ3dEpmd1ZNQ3JYbktBRC03Q3M5dWlEX0hxckpESjkxUUlhd1dKeC1RSEtKemVsN29vU213ODBlYmZteDZ6QVVSYVFaYktBZ3NGTklTQ09mMk9OcFlKRWhLQmZEQWV3U0Z1NlJ6cGFwZGNsNlRfZ0dneVJiUlFIZmlURDdlMU9VSlFmRXlYU1JrQXg0NW8?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "nove dedos",
-      "razao_aumento": 76.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-24T00:39:27Z",
-        "titulo": "Debate da Globo: Lula e Flávio Bolsonaro discutem dívidas dos brasileiros, salário mínimo e SUS e trocam ofensas e ataques com 'nove dedos' e 'miliciano'",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzJMVjg5Z0xLeWN3T0xqNzZYeGhPV00yNmRsNm53UVpRRUtkeUVGdUlDczJSVk5Ebkk4T0NCWk9uSFNmMlpKLWx5RVdYUFJQb3BQRjh0R09QNnlmaUVuaTMyMGtHVFlzWVZaUnhoWUpFUHAwa21mLUtvWnA3VE5KOXZhMGN5SUc0VzNBUNIBmwFBVV95cUxNUUhPNnRicDEtRk13dVBJYk1tNVVCX0U2Z3gwXzZYaEZYZ2gzamFuVDhSUy1TS1BLSG13SjZWUkZHMXBORnU0enI0RXVEc2x2a24ya0ZjMDJKNG1xN0ZTVzBYUDJCVHhuenJfWEVZM0ZhWmNubWZneENWaXhSZjVzeVZzMnNESXVfUDVvYi1FT3VOUGFTd09tdG5wcw?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "acolher crianças",
-      "razao_aumento": 71.8,
+      "razao_aumento": 71.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Taís Paranhos",
@@ -305,31 +269,19 @@
       }
     },
     {
-      "termo": "Roadshow",
+      "termo": "debate presidencial",
       "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Brasilturis",
-        "hora": "2026-10-23T16:43:57Z",
-        "titulo": "Roadshow de Pernambuco capacita 3,6 mil profissionais do turismo em 18 cidades",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHVXWWRtakJjTC1XR25KaVNiNjFmVThIZ2ZGdm5YY2FNeXZ3dEpmd1ZNQ3JYbktBRC03Q3M5dWlEX0hxckpESjkxUUlhd1dKeC1RSEtKemVsN29vU213ODBlYmZteDZ6QVVSYVFaYktBZ3NGTklTQ09mMk9OcFlKRWhLQmZEQWV3U0Z1NlJ6cGFwZGNsNlRfZ0dneVJiUlFIZmlURDdlMU9VSlFmRXlYU1JrQXg0NW8?oc=5",
+        "fonte": "JOTA Info",
+        "hora": "2026-10-23T22:13:00Z",
+        "titulo": "AO VIVO Debate da Globo - Lula e Flávio Bolsonaro fazem último debate presidencial das eleições 2026",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVFJtYXhPUFFHT3FMWDVrZ3ZrSEdNc25pZDNCT3ltR1QwZzlHY204cGNUVndIV1ozMUxRUXdYOHM4OUZ3MlVVVGg2d0ZSamxYUHFwQWZHR1VnUHdvZDlncGhvNUVEWE1FLThfUU9ZclBYaG15NlF3TWU5YURRdFNLam5oeUJGZTNmSkFaMkJCWjZfTXlEQjhZeHZlcE95X3A5NXM4ZjRXcWcwT2sxaXBYVFJ4aHdvQzljM0Fua1BaUTBWNWt4ckRyVjhYaW9vVTk1bk1lTXFHdm1SV0E?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Roadshow de Pernambuco",
-      "razao_aumento": 71.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Brasilturis",
-        "hora": "2026-10-23T16:43:57Z",
-        "titulo": "Roadshow de Pernambuco capacita 3,6 mil profissionais do turismo em 18 cidades",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHVXWWRtakJjTC1XR25KaVNiNjFmVThIZ2ZGdm5YY2FNeXZ3dEpmd1ZNQ3JYbktBRC03Q3M5dWlEX0hxckpESjkxUUlhd1dKeC1RSEtKemVsN29vU213ODBlYmZteDZ6QVVSYVFaYktBZ3NGTklTQ09mMk9OcFlKRWhLQmZEQWV3U0Z1NlJ6cGFwZGNsNlRfZ0dneVJiUlFIZmlURDdlMU9VSlFmRXlYU1JrQXg0NW8?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "profissionais do turismo",
       "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
@@ -345,272 +297,272 @@
     {
       "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 18.78,
-      "fontes_distintas": 18
+      "fatia_pct": 23.09,
+      "fontes_distintas": 20
     },
     {
       "termo": "Lula",
-      "peso_relativo": 90.5,
-      "fatia_pct": 17.0,
-      "fontes_distintas": 15
-    },
-    {
-      "termo": "Raquel",
-      "peso_relativo": 87.9,
-      "fatia_pct": 16.5,
-      "fontes_distintas": 20
-    },
-    {
-      "termo": "Lyra",
-      "peso_relativo": 84.9,
-      "fatia_pct": 15.94,
-      "fontes_distintas": 20
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 84.9,
-      "fatia_pct": 15.94,
-      "fontes_distintas": 20
+      "peso_relativo": 87.6,
+      "fatia_pct": 20.21,
+      "fontes_distintas": 17
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 74.0,
-      "fatia_pct": 13.89,
+      "peso_relativo": 69.1,
+      "fatia_pct": 15.96,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 69.1,
+      "fatia_pct": 15.96,
       "fontes_distintas": 15
     },
     {
       "termo": "Globo",
-      "peso_relativo": 69.5,
-      "fatia_pct": 13.06,
+      "peso_relativo": 57.1,
+      "fatia_pct": 13.19,
       "fontes_distintas": 11
     },
     {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 68.0,
-      "fatia_pct": 12.78,
-      "fontes_distintas": 14
+      "termo": "Raquel",
+      "peso_relativo": 53.0,
+      "fatia_pct": 12.23,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 50.7,
+      "fatia_pct": 11.7,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 50.7,
+      "fatia_pct": 11.7,
+      "fontes_distintas": 18
     },
     {
       "termo": "Nordeste",
-      "peso_relativo": 35.5,
-      "fatia_pct": 6.67,
+      "peso_relativo": 27.6,
+      "fatia_pct": 6.38,
       "fontes_distintas": 12
     },
     {
-      "termo": "Debate",
-      "peso_relativo": 34.0,
-      "fatia_pct": 6.39,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "debate da Globo",
-      "peso_relativo": 32.5,
-      "fatia_pct": 6.11,
-      "fontes_distintas": 6
-    },
-    {
       "termo": "João",
-      "peso_relativo": 26.6,
-      "fatia_pct": 5.0,
-      "fontes_distintas": 9
+      "peso_relativo": 25.3,
+      "fatia_pct": 5.85,
+      "fontes_distintas": 10
     },
     {
       "termo": "Campos",
-      "peso_relativo": 26.6,
-      "fatia_pct": 5.0,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "Nikolas",
-      "peso_relativo": 26.6,
-      "fatia_pct": 5.0,
-      "fontes_distintas": 9
+      "peso_relativo": 25.3,
+      "fatia_pct": 5.85,
+      "fontes_distintas": 10
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 26.6,
-      "fatia_pct": 5.0,
-      "fontes_distintas": 9
+      "peso_relativo": 25.3,
+      "fatia_pct": 5.85,
+      "fontes_distintas": 10
     },
     {
-      "termo": "Debate na Globo",
-      "peso_relativo": 22.2,
-      "fatia_pct": 4.17,
+      "termo": "Debate",
+      "peso_relativo": 24.9,
+      "fatia_pct": 5.74,
       "fontes_distintas": 3
     },
     {
-      "termo": "Lyra entrega",
+      "termo": "Lula e Flávio",
+      "peso_relativo": 23.0,
+      "fatia_pct": 5.32,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Nikolas",
       "peso_relativo": 20.7,
-      "fatia_pct": 3.89,
+      "fatia_pct": 4.79,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "debate da Globo",
+      "peso_relativo": 20.7,
+      "fatia_pct": 4.79,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Debate na Globo",
+      "peso_relativo": 20.3,
+      "fatia_pct": 4.68,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Lyra entrega",
+      "peso_relativo": 16.1,
+      "fatia_pct": 3.72,
       "fontes_distintas": 7
     },
     {
       "termo": "Raquel Lyra entrega",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.89,
+      "peso_relativo": 16.1,
+      "fatia_pct": 3.72,
       "fontes_distintas": 7
-    },
-    {
-      "termo": "Campos rebate",
-      "peso_relativo": 17.8,
-      "fatia_pct": 3.33,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "João Campos rebate",
-      "peso_relativo": 17.8,
-      "fatia_pct": 3.33,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 17.8,
-      "fatia_pct": 3.33,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Barletta",
-      "peso_relativo": 17.8,
-      "fatia_pct": 3.33,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Norte",
-      "peso_relativo": 16.0,
-      "fatia_pct": 3.0,
-      "fontes_distintas": 1
     },
     {
       "termo": "Exército",
       "peso_relativo": 15.4,
-      "fatia_pct": 2.89,
+      "fatia_pct": 3.56,
       "fontes_distintas": 2
     },
     {
-      "termo": "Milei",
-      "peso_relativo": 15.1,
-      "fatia_pct": 2.83,
-      "fontes_distintas": 1
-    },
-    {
       "termo": "eleições 2026",
-      "peso_relativo": 14.8,
-      "fatia_pct": 2.78,
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.19,
       "fontes_distintas": 3
     },
     {
-      "termo": "Ferreira",
-      "peso_relativo": 14.8,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 5
+      "termo": "Campos rebate",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.19,
+      "fontes_distintas": 6
     },
     {
-      "termo": "rebate Nikolas",
-      "peso_relativo": 14.8,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 5
+      "termo": "João Campos rebate",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.19,
+      "fontes_distintas": 6
     },
     {
-      "termo": "Nikolas Ferreira",
-      "peso_relativo": 14.8,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Campos rebate Nikolas",
-      "peso_relativo": 14.8,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "nove dedos",
-      "peso_relativo": 14.8,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Surubinha",
-      "peso_relativo": 14.2,
-      "fatia_pct": 2.67,
+      "termo": "Voto",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.19,
       "fontes_distintas": 1
     },
     {
-      "termo": "Flavio Surubinha",
-      "peso_relativo": 14.2,
-      "fatia_pct": 2.67,
+      "termo": "Voto Pro Lula",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.19,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "Clara",
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.14,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Ana Clara",
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.14,
+      "fontes_distintas": 3
     },
     {
       "termo": "Virote",
-      "peso_relativo": 12.4,
-      "fatia_pct": 2.33,
+      "peso_relativo": 13.1,
+      "fatia_pct": 3.03,
       "fontes_distintas": 1
     },
     {
       "termo": "Virote Do Exercito",
+      "peso_relativo": 13.1,
+      "fatia_pct": 3.03,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Surubinha",
       "peso_relativo": 12.4,
-      "fatia_pct": 2.33,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
-      "termo": "TV Globo",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "ar condicionado",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "rebate Nikolas Ferreira",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Janones",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Nevar",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Janones Vai Nevar",
-      "peso_relativo": 11.5,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Na Globo",
-      "peso_relativo": 10.7,
-      "fatia_pct": 2.0,
+      "termo": "Flavio Surubinha",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
       "termo": "Belém",
-      "peso_relativo": 9.8,
-      "fatia_pct": 1.83,
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.71,
       "fontes_distintas": 1
     },
     {
-      "termo": "governadora Raquel",
-      "peso_relativo": 8.9,
-      "fatia_pct": 1.67,
+      "termo": "Ferreira",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.66,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "rebate Nikolas",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.66,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Nikolas Ferreira",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.66,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Campos rebate Nikolas",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.66,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Bolsonaro e Lula",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.66,
       "fontes_distintas": 3
     },
     {
-      "termo": "governadora Raquel Lyra",
-      "peso_relativo": 8.9,
-      "fatia_pct": 1.67,
+      "termo": "turno das eleições",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.66,
       "fontes_distintas": 3
+    },
+    {
+      "termo": "FAYE",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.39,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "STATIC",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.39,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "PARTY",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.39,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FAYE 1410",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.39,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "1410 STATIC",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.39,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "STATIC BD",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.39,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BD PARTY",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.39,
+      "fontes_distintas": 1
     }
   ]
 }
