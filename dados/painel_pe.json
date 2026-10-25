@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-25T17:51:24Z",
-  "total_analisado": 114,
+  "atualizado_em": "2026-10-25T20:47:49Z",
+  "total_analisado": 121,
   "x_recife": [
     {
-      "termo": "#HojeEuVotoLula",
+      "termo": "#EuVotoFazendoL",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23HojeEuVotoLula",
-      "ruido": false
-    },
-    {
-      "termo": "#DeixemONordesteVotar",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23DeixemONordesteVotar",
-      "ruido": false
-    },
-    {
-      "termo": "Salvador",
-      "posicao": 3,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Salvador",
-      "ruido": false
-    },
-    {
-      "termo": "#LulaPelaDemocracia",
-      "posicao": 4,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23LulaPelaDemocracia",
-      "ruido": false
-    },
-    {
-      "termo": "#DeixemABahiaVotar",
-      "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23DeixemABahiaVotar",
-      "ruido": false
-    },
-    {
-      "termo": "Bruno Reis",
-      "posicao": 6,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Bruno%20Reis",
-      "ruido": false
-    },
-    {
-      "termo": "LULA REELEITO",
-      "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=LULA%20REELEITO",
-      "ruido": false
-    },
-    {
-      "termo": "#EuVotoFazendoL",
-      "posicao": 8,
-      "variacao": "-3",
-      "direcao": "cai",
       "url": "https://x.com/search?q=%23EuVotoFazendoL",
       "ruido": false
     },
     {
-      "termo": "Japão",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Jap%C3%A3o",
+      "termo": "É 13",
+      "posicao": 2,
+      "variacao": "+42",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%C3%89%2013",
       "ruido": false
     },
     {
-      "termo": "Apertei o 13",
+      "termo": "#LulaVaiVencer1️⃣3️⃣",
+      "posicao": 3,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23LulaVaiVencer1%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3",
+      "ruido": false
+    },
+    {
+      "termo": "#VotacaoAte19Horas",
+      "posicao": 4,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23VotacaoAte19Horas",
+      "ruido": false
+    },
+    {
+      "termo": "#VotacaoAte19Horas",
+      "posicao": 5,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23VotacaoAte19Horas",
+      "ruido": false
+    },
+    {
+      "termo": "#DeixemONordesteVotar",
+      "posicao": 6,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23DeixemONordesteVotar",
+      "ruido": false
+    },
+    {
+      "termo": "Ricardo Nunes",
+      "posicao": 7,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Ricardo%20Nunes",
+      "ruido": false
+    },
+    {
+      "termo": "Zanin",
+      "posicao": 8,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Zanin",
+      "ruido": false
+    },
+    {
+      "termo": "Golpe",
+      "posicao": 9,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Golpe",
+      "ruido": false
+    },
+    {
+      "termo": "CRIME ELEITORAL",
       "posicao": 10,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Apertei%20o%2013",
+      "url": "https://x.com/search?q=CRIME%20ELEITORAL",
       "ruido": false
     },
     {
-      "termo": "Fiz o L",
+      "termo": "Bruno Reis",
       "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Fiz%20o%20L",
+      "variacao": "-5",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Bruno%20Reis",
       "ruido": false
     },
     {
-      "termo": "Tenho 21",
+      "termo": "TSE APARELHADO",
       "posicao": 12,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Tenho%2021",
-      "ruido": false
-    },
-    {
-      "termo": "Luiz Inácio Lula da Silva",
-      "posicao": 13,
-      "variacao": "+4",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Luiz%20In%C3%A1cio%20Lula%20da%20Silva",
+      "url": "https://x.com/search?q=TSE%20APARELHADO",
       "ruido": false
     },
     {
-      "termo": "Carrick",
+      "termo": "LULA REELEITO",
+      "posicao": 13,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=LULA%20REELEITO",
+      "ruido": false
+    },
+    {
+      "termo": "Prorrogou",
       "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Carrick",
-      "ruido": false
-    },
-    {
-      "termo": "Pablo Souza",
-      "posicao": 15,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Pablo%20Souza",
+      "url": "https://x.com/search?q=Prorrogou",
       "ruido": false
     },
     {
-      "termo": "Eliana",
+      "termo": "ELEIÇÕES MANIPULADAS",
+      "posicao": 15,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=ELEI%C3%87%C3%95ES%20MANIPULADAS",
+      "ruido": false
+    },
+    {
+      "termo": "Ônibus",
       "posicao": 16,
-      "variacao": "+5",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Eliana",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%C3%94nibus",
       "ruido": false
     },
     {
-      "termo": "Manchester United",
+      "termo": "Exigimos",
       "posicao": 17,
-      "variacao": "-2",
+      "variacao": "-4",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Manchester%20United",
+      "url": "https://x.com/search?q=Exigimos",
       "ruido": false
     },
     {
-      "termo": "SEREMOS TETRA",
+      "termo": "AINDA DÁ TEMPO",
       "posicao": 18,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=SEREMOS%20TETRA",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=AINDA%20D%C3%81%20TEMPO",
       "ruido": false
     },
     {
-      "termo": "mesária",
+      "termo": "Brasil - Assine",
       "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=mes%C3%A1ria",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Brasil%20-%20Assine",
       "ruido": false
     },
     {
-      "termo": "VÃO VOTAR",
+      "termo": "Real Madrid",
       "posicao": 20,
-      "variacao": "+7",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=V%C3%83O%20VOTAR",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Real%20Madrid",
       "ruido": false
     }
   ],
@@ -167,14 +167,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Tribunal Regional Eleitoral de Pernambuco: Eleições 2026: apenas 40 urnas precisaram ser substituídas até as 11h deste domingo em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTGhaZlN0ZWlVbU14VjN5SFJDNW9nQjI1RVJ6QWs5MFEyd204aTFpdHplaG1fSExGekRyeTZyNXRWVzNoTE5ua3lGTkFOYkhLM09QazB3YV8wQlltSWZmb0VFcXlsTE93aUdWT0FMNmM0Yjg2SUpCOVVCaWM1TXBocWpSZkRZZm8yN1VBcWJYdmtEazQyRUFqZUR2Q3pEbkZ4VmlXQnVLdWdZX01CTDJxNjc3S25UaTRVNXMtdFJDNGVIM1NHR0d3M2xLWm04d0tSdHdvOXBPMEg4bG9ZNXdyVi1LQVR4bUEwM2lfYg?oc=5"
+      "manchete": "Exame: Apuração do 2º turno em Pernambuco: veja o resultado para presidente em tempo real",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0pzc203ZmFDYkF3bkdBakNLMWRzNHNjOWlYWmJKYlRZRjloWFI4b2NTdnNydUxGRFhkenVGdmJOc0padDEzRzgzU3MzUmhYcDVzdElMVGRCTTRnQ2dSUTM3bmNxc3FnRTBzLXotRlhpd25TTjZLTVNCXzRyUndfWjJmaHJTSlRaR3RLc3htMmI0LTNNdFg1QVQwQnF3Zm5FUzZzcUQyMUNubGs?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Nailson Vieira leva maracatu rural e ciranda de Pernambuco para turnê no Japão",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3VWRFUxN1lySXhDWml2ZFVrcXlvWnpUQWZLc3BYYnkwdG1qU19iWENWSTl5akI2N1ZlN29ub2RHYVZWNVFReHZ4dS1OMXJtUjVsTjQtUk4wcUwzRVg2djVLRy04ejdPaWtUYWpzZmh5SEg2VUk0enZhcDhOTERiR1FNdE9fTkY0N0M5OWVXSzVzWnJ1UzZiT0l3UVM3VGxyU0lOSHJOZGxBVzdkRllvVTNWdnVGQ2RVTHh4UTZBaw?oc=5"
+      "manchete": "Diario de Pernambuco: PT pede ao TSE extensão do horário de votação em Pernambuco e mais nove estados",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUTRPdTJkTHB2N3dKUHRBRlZHNGRyWW9DWHJQcmpRRDczVlhoQ04zbWM2ak1jaF9mN3pNVkh2a09pNzRnTFpqcmpwekdJQ1BHZVl5Q2M5andYTUFTeVluTVZYQUNCZVdnNkRTWkpvcldSNXJqSTc1aXpHQWlObXU2Tk42bnVfYmUyQTFqRlktVFpibFZFQ1hIYlBCdHhvT1o4RHZyQ2FBOUdBMEpwSExudFV6Uk9YbjZzald3TU5ubGptTW16VXRoemk5WHFUeWo0RFhZNHpndVM?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Tribunal Regional Eleitoral de Pernambuco: Eleições 2026: apenas 40 urnas precisaram ser substituídas até as 11h deste domingo em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTGhaZlN0ZWlVbU14VjN5SFJDNW9nQjI1RVJ6QWs5MFEyd204aTFpdHplaG1fSExGekRyeTZyNXRWVzNoTE5ua3lGTkFOYkhLM09QazB3YV8wQlltSWZmb0VFcXlsTE93aUdWT0FMNmM0Yjg2SUpCOVVCaWM1TXBocWpSZkRZZm8yN1VBcWJYdmtEazQyRUFqZUR2Q3pEbkZ4VmlXQnVLdWdZX01CTDJxNjc3S25UaTRVNXMtdFJDNGVIM1NHR0d3M2xLWm04d0tSdHdvOXBPMEg4bG9ZNXdyVi1LQVR4bUEwM2lfYg?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -185,8 +191,14 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "JC: BDE 2026: bônus da Educação será pago a mais de 39 mil vínculos em Pernambuco; veja como consultar",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSVZKU2NMUEV3YkNvektBRDBQakhNNmFUOFYxMjV2WllNZm5jb3dHNU1raGY3aFlmeTNDOTd4NFZyR1BBTFAwV0VBSWZ4TG9JeTEwYkVmZzF6U25BQzdsYlI0VVBBMFctYVNZR01CMkRlU01zd2ZmQzlVb0JEeXNjR25QTjYyNGNLMUU2UFVrUEF1azU1aEYxYjRhc0c1UmtPSVV3cXdGMjhBc2VhVTJWLThxZUdDcURINU5oWW1Vc01NWjk2a1phS3ltTHdzYmxqZTdibEtpeENOd1JUc2hjN1F3NldUVHBCRGtjcEZsWQ?oc=5"
+      "manchete": "UOL Notícias: Apuração em Pernambuco (PE) para presidente: veja resultado de Lula e Flávio nas eleições",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlZNQjcxVi1LUnNobnAwV3BXUmF3WW4xNE9Bd2R6dTh1RmRsRU92WnVuMElETkxILXY0VXRLYkhpQ1Fabi16UE9kM0NWcWdNaE5MUmptdTh0c0d0ZWxlOWpOWTN2TmZ5R0VFak1DVm1KUmRvNHNkWFR5WG1NNjM3NXZpMkpmVzJ0U0pmYTNDdG80VzRjYzdod3ltZkNlU3FCcUxiTDhKTk1KOHZUc2hWbmwtQ3BOVGRxZVpiNEJXVm1jNVNuaXZCdTFYakx2Vm5rdUtaYVl3?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Exame: Apuração do 2º turno em Recife: veja o resultado para presidente em tempo real",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEg5SnRMYlRvUEhNeUNDam9hNTFONTJUUXBYV2wwc1d2amNyclI1b04zMDBCU2RkbnpuX1FFV0o0NDBtWUlqd3BMd2FubEptZW9aX2x2NmxWUWlhZjMzbnM5eW5kb0FLLU9CalhjWndYYlBCaGFEYTNqcXpvX1oyallyOVlObGMwRTAzNXp3c25tV0NSek1nd1J4OVhrUjhPYTVkY29n?oc=5"
     },
     {
       "termo": "Recife",
@@ -197,8 +209,8 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Diário do Nordeste: Voos para Brasília, Maceió e Recife são cancelados neste fim de semana de 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNHAwY25xX05nc0l4S2x5Q1NTSzFWMFVsTHM1YzlGSURvT3paV2FBQ0hjQ1JoNjhrN0tsQ09meWE3QmpVcjlhVlVKd09Eb3lHaUNtMWJRdjNjeFQ4QTFYTW81RmJBby1jaGp4OEVpZV9vTlNOdHhfT3g1V09KaUpEM1ptTkJOb01tanpqOFQ3WFVkZzlpcDZMazFPX3lENU1LbkFjOTBqSVA3aVVFbVZIUVZudG45Z1M4RGFzT2FFVG1yRUNtYml3YzlZTkkwLTF3bGUyaXFreXMtT2xYSWc?oc=5"
+      "manchete": "Omelete: XVII Janela de Cinema de Recife anuncia seleção com Tudo Pode Ser Visto, Club Kid e mais",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnV5SzJ1Z1ZJTE94VGtSS25oeVdCMWUxMkFKaURQTEZGdVlRSnAwS2FxV0cxNk95clFNX2lEd0JZMmFYdzMtTDdJRGNBVWRyWWxjbUtIRDJYb05ISWZ2N0lpYTZoTlJVNXQwSm8wMl9maDViamdDb1ZobXlYb0dwVG5tbnhFM29sRlpoQ29uNFQwMHBSaFVfMUhDSlV2emxXRlBZUkhLU3RjQlJmVFE?oc=5"
     },
     {
       "termo": "Recife",
@@ -207,10 +219,22 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ2pRX0ZVMGxpOHlKa2NEdXZfeUc5SjNNWmI4dTNMV1ZxbmpxbXJqeHdmYTZjVmcxUFBnc1BpbzZqUXRYUy1uMGFQNlZYSVZ4UXgzM2hiTHl4bkNlbTlMWmJSNTNrMVdkdGRHRnAtZ2J1ZWRXckotZnVZb1ZVa1B5OExYZWUteVpGVHgtYlAxLTVLRXhCeTdwQ1ZUUGZxVnpCakt5TjE2VnFTVGFvZURITzUyNldDUmZJd0tKdUpEU3U3VjhJY1d3MGp5Q0QzQ0tIdF9tZl82TWNqb1ZuYm5YdkVUOFFSZUxSMk1LbkI2SUQ?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: Victor Marques vota no Recife e destaca importância da democracia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEFOaEZKVEU1UDZVUFZ1WVlrdThWVzluUmtsV0ZveTdkVFhqTGZyRW0yT2RhTzJ5emUyUmZ1eS1fSFFBaHZ5ZGVTMmUxM0FYcUZ4U01WUGhBTnZvYnJfY05WOXVsNGJTcHh1NElvQzJWUHpoQ0Q4RklJUFowa0tQTHduSUlDM3YzM0JnNEVrRnEwZE4wM3luLXNWS21IRUMyMDYtdVh3?oc=5"
+      "manchete": "CBN Recife: TRE-PE determina normalização imediata dos ônibus e gratuidade do Metrô do Recife",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM01CWXFRd2R0ZC0wclN6QV9CclhmNWZVZDZUbGF4WjBZVHlnYXR5bXhVZmV6d2tXVUlhN095NkZ4eWt6NGJuSkdWR21iZkJ6ODMyQjN6MExyUjZsZ0FRR0RHbDdLVHN1MGJBZEx5YTdLLThFM0JSdFI0YVQtUTBfVEV0c1ZWMHhIYy1HSElZVFlnUWNpMUphczU0WlNuajV4X0VvNlI5QVRuN0JNM2M4alBpcEtaSVh3T0RB?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "TV Guararapes: Ônibus, metrô e urnas: o mapa da falta de transporte no segundo turno",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlMzcGw1Qkh0MXNDaV9fMzdydzZabFpSWEZya3ExT0NTTkNLbVVsT1hZaDVXb20zT2paeDFuN2JmWThlZ0h5VHpPZEZuZzVDcW1OX3d6YlotYlg1T1RkdTJZRzRYSUxKVDJVb3VndVk3TXJHSVFmb1lZb01QMWpEMG1Dd2FjTTN3VlN2ZG9UT3B2NUJzQkVWeFVST2FlMjNDWGNXOEFIVElXNEtsZnpfX01VUWhLdw?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Blog Nossa Voz: TRE-PE determina retomada da frota de ônibus e funcionamento regular do metrô no Recife",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oa0xzUUxxc1paSFBBaHlaNTRHS09rSjA3bnJIQUoyQUFRSUJST09HQW5RNnZnaUNnZi0tM1AtbG9NZ2ZHRU1UUTA4bFd2Rzk2aUp4Mw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -221,26 +245,8 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Eleitores denunciam dificuldade para conseguir passagem gratuita no 2º turno em Caruaru",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPU1ZEMnFjb0pjRExTLUpaSFJWS3hWcUhLR2NzbDdQZVhKQ1RsN3Rra0YzQ2dVUmdVcXNpT0RqcldZZ3pMU0JIaUVDUzVGUEI5SXJuRWJ3eWFMRzRkeGIteUlFWnNFSVBwM0h5T2t4NDlqZG9sNmlYS3lNTXNyd1BpTXp0MXo0X0VfcFJrZTBJNEtzOFZGQUNrVlZpT1dYZWE3d0Fmb0FJalJPXzQyZ2RFUTNvRUpzOUVUUHM4TUF3Ny1QdEZfUGI5VFpXdl9ybDZwUkxLTENFNG5WemNRLWRxX3lpNjc5WXI5dkt5V1p0cTF5QWM5TzdRQ0VhZ1YxU1VjbFVTSjdEMNIBhwJBVV95cUxPU1ZEMnFjb0pjRExTLUpaSFJWS3hWcUhLR2NzbDdQZVhKQ1RsN3Rra0YzQ2dVUmdVcXNpT0RqcldZZ3pMU0JIaUVDUzVGUEI5SXJuRWJ3eWFMRzRkeGIteUlFWnNFSVBwM0h5T2t4NDlqZG9sNmlYS3lNTXNyd1BpTXp0MXo0X0VfcFJrZTBJNEtzOFZGQUNrVlZpT1dYZWE3d0Fmb0FJalJPXzQyZ2RFUTNvRUpzOUVUUHM4TUF3Ny1QdEZfUGI5VFpXdl9ybDZwUkxLTENFNG5WemNRLWRxX3lpNjc5WXI5dkt5V1p0cTF5QWM5TzdRQ0VhZ1YxU1VjbFVTSjdEMA?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Raquel Lyra afirma que empresas que não adotarem gratuitidade no transporte público serão multadas",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT21HWC1Ub0F3Y3FMQnlpMGkybnNNWUZkWEFKdGhZVHFOU2dSYnlWb0dhTHBEcFVJYkFZOGhGdlpURVMwdUdEWFdDNFItSW1ubmZYVHBWa2UyMTZoYmNMRE1leWFoX29NYWo4QjJfZ3J2aG1va3hXdVpvVFdmQWozZFhOOU5JbHM4ZkpKclo2djhCem4zai05cmh6NzdiZnhfckR3dnVEYXRaWGJBSGpWQ2twT0xPdTRSLVRGcXJtWnItU3pHM1BzQzd5dmtaV0Y4Mm9LcFVpTm1jZ2ZhRVBLa3cwNFhUZUdTRGpZ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "LeiaJá: Morre Irmã Babate, vice-prefeita de Jaboatão dos Guararapes",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnBPVktyREZzaUZ0YzV3UkJ1SzJ0LVhwWkRtalU4aENjU3d3eGlKYXNJOUZCZGlZR0lEaUpPNTJRNnZIbjBKNmx6SkpQRXAwRGRkVkFIMVp6VlM5c3BWMU9hMEFNYjB2REhKcmVfSTJqTFViakxiUUtVWnRZZkxLbnVCb2dJcTBkSFA4Q0E2ZU9jRUtkQXZsc1RBTUZUb3VqazhWLQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Morre a vice-prefeita de Jaboatão, irmã Babate",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZmRfa0hLTGNtYTU5cUhtajc4cGh4NlVmM2JWckl2MVZ5MER6Zy1iSHkxVWVpZHJXdFg2V2VmQ0wzT0lmVnBZUEsxQ3RKMm9EV1MwUmJTZHZwYlJycjNVTzhlaHl3ekZrdGdRdjN2VExBN3I2Z1p4b2RfYVo3UQ?oc=5"
+      "manchete": "JC: TRE-PE determina restabelecer frota de ônibus e metrô no Recife sob multa de R$ 1 mi",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXgzSl9TUXJLNW9IMU9ITFFxUTJaNzUwd01RUmdKaldPTVJiSENqZ1FBUmRTTGFxVXB6SXFDS084cFZGd3pMaVFfYUg3bVJxeVdab2pyS2locHBsb2o2MUpVc3ZPNU5QVU40cnhxTV9lWG9sb0FuZkVwN01MVXM2ZG9FVHktQXJQRmFtUXpIRGsyVEVkRndUVXE3VnNra3FNNnFLbDJZV0xFOS1nOTY3ZzQ2cjI5MWppQ1IyZjZXYmZpNlZ1ZTZtQ0NCaw?oc=5"
     },
     {
       "termo": "Alepe",
@@ -269,98 +275,98 @@
   ],
   "picos": [
     {
-      "termo": "China",
-      "razao_aumento": 53.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Brasil de Fato",
-        "hora": "2026-10-25T09:32:00Z",
-        "titulo": "Lula volta a vencer na China e amplia vantagem sobre Flávio Bolsonaro no segundo turno",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlFYNW5tUDZCeFA5ZEpCUk9TVnEwcGRERjhtQWZacE1qNlQ0d0NmV25yREp4SDZmd1FJSGNjQ2JlSVg1aHpCeEVjTzdoRVhDSUl0WUtGSk5BWGVCNC1rdUp6NzFwOGlnUTdKdE9NT1FvcFFoWE1Ha25vcGR1MVZsdm1ycmJXRWRIVVQ5eG9LR19LM3ZrcTZ1ZW1FdnFURWppek96N1dBbmJocS11WW5vZ3JESzZOMkRHVGcyUmF3RFdnVGZ3YVlVNS13?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
       "termo": "neste domingo",
-      "razao_aumento": 45.5,
+      "razao_aumento": 89.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Pernambuco Notícias",
-        "hora": "2026-10-25T13:20:53Z",
-        "titulo": "Eleições 2026: eleitores de Pernambuco votam apenas para presidente neste domingo (25)",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaDRwbXd6WndUM0RaRnRuLWhibDc0ckVXRExnamJJVjFLeWJlSDZhVWtyS1VreGlQbXl4RmhHY2JRNi1KQ3pHVUhVYUNhYzd2SUV0cmdCblVEbFV1aEJvaUVHcVY4U01DWWdWMWN4aTFkMEJ5QXpkVzhZbTdrUktHT1FHNTlsY3ltdm9HNFRYMjNTUzUyWm4zVm8xYnNBZUV3QmxKYTdXa1E2VWhNRUdGakk4U3lNQzFrNmc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "mudança de verdade",
-      "razao_aumento": 45.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-25T11:19:46Z",
-        "titulo": "‘Chegou a hora da mudança de verdade’, diz Flávio Bolsonaro após votar na Zona Norte do Rio",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY0k5TmNLb0hFREJ5RWhSeWx5anhsX29vbWxUS3RMWlRaVFA4Ny0teEV1M0xpcWZlbFdYNlliTkNzdmhjekJxRzlrWUJzRjR0YkZxekxzZGRHcGpqbXF1aWdsNUxvV0t2amVWRnh5TTFsWThVLVRXX2JnQjZnYUN4ZjBBWEJDdHZzdThCWUpjVUlZQ21UTjE3LWxvUlpZU2cycGhjVVJrZ0NPM3BUdXN4bFJ1Q2JVZTQyaC1RdNIBywFBVV95cUxNRXhpcEZyWThORFc3MHFlMEZMaDJUSmJrLUpYVHk0aU9BMlh0dE1zVDdXM1pCSHNQTDNpTl9UUnQ5RU1OWVRQU2VtYzZoWjhVenlLR0pDdlhhNkEySENNQ0hkQ1BsUmFBWWx4OGJZa0Iyc1N1RENpZnNYLTQxVjFKZXpvQlpRckJlSWU5a0hpSkUwWmZlc1k5ekVnQm9DVnFlY3QwaW9VRkJUM2dUbXRxMktVUVhrX1BxSEJIMFZ0UE9sdjJoSzBfVkxtTQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Rio acompanhado",
-      "razao_aumento": 45.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Brasil de Fato",
-        "hora": "2026-10-25T12:27:00Z",
-        "titulo": "Após revelação de festa em lancha, Flávio Bolsonaro vota no Rio acompanhado da esposa e da mãe",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS3JJcm1uNXFKOE1uZHJXcEVnbHZOdDB3ZUR5R21teFdWSmp2d3dYb01mUmpyOFdyNHNkeUVrRldqLXJPQWNNaFZwU3JWd3ViLWUzTjdHWjR6Sk16ZGxmdmxveUhiM2lCOHRZZVFRT2lQY0s1dERtMzdLMU93Y21JdHBGNmREazFDa0lBLVZMQ00xR3NOS1NHc1hwTzg0ZWJKZW8xOEJ4Vm5uTXZNcnFoNjJ4NGlEd3pnYldPRUVOa3J5Y0tHbUs4akVLZGhLbnhuV3FV?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "acompanhado da esposa",
-      "razao_aumento": 45.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Brasil de Fato",
-        "hora": "2026-10-25T12:27:00Z",
-        "titulo": "Após revelação de festa em lancha, Flávio Bolsonaro vota no Rio acompanhado da esposa e da mãe",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS3JJcm1uNXFKOE1uZHJXcEVnbHZOdDB3ZUR5R21teFdWSmp2d3dYb01mUmpyOFdyNHNkeUVrRldqLXJPQWNNaFZwU3JWd3ViLWUzTjdHWjR6Sk16ZGxmdmxveUhiM2lCOHRZZVFRT2lQY0s1dERtMzdLMU93Y21JdHBGNmREazFDa0lBLVZMQ00xR3NOS1NHc1hwTzg0ZWJKZW8xOEJ4Vm5uTXZNcnFoNjJ4NGlEd3pnYldPRUVOa3J5Y0tHbUs4akVLZGhLbnhuV3FV?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "nunca vi",
-      "razao_aumento": 35.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-25T12:12:15Z",
-        "titulo": "'Tenho 50 anos de vida política e nunca vi isso', diz Lula sobre mobilização de apoiadores após votar em SP",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOal9fcFl0VTY5U21iSmpMcUM0YjlEQVcyZUh0bmo1VjhDcVUzYjduT2l0R0cwcVBBM2hOT255RHItZ0RfaV9veHVma2dveUd0XzdQYU9fRXIwLTg4cTNtSTB5STdjRExVUDlGbU5hREJPZXp4TjNINFZnVzdVMjFvcDFlVkhHZDEtMzE1WU4wVnZfT3fSAaIBQVVfeXFMTXNhM04tdGVLbXZ5X3VOYlJYWWc5RFVOQUxaZEZSaElDUUxzeV9vZHpuOTVNTVpCOXJPQ2ZQaC1LV09VNFVIeVFGNi1xRk1qUHJrY0ROSThJN28tZU9pZ3UwQ3R4dzhDbHNhbFNHWDh1dEpZMmwtQkkwWkQ1SG90RjBudTRsa0piUTg0RnV1cTI3dE5qUDB5cHcwVzFuQ20xblp3?oc=5",
+        "fonte": "Só Notícia Boa",
+        "hora": "2026-10-25T12:00:00Z",
+        "titulo": "Recife abre 34 creches neste domingo para pais deixarem os filhos enquanto votam",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56SzA1NU9uMHdDemFMNGE4SVRqenB3Xy1lYlFJM2t0RVl6aTZtOW4ydEVYMHVuWmdNenVPRTdmTUwyemQ4WGpzYkFKbkoyVGZXTHdhLWZ2M0R3UUN3bnppUXNxeTRTaUpOalJHR251X3hzanNSVVBQQXJpbXFvdw?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "avalia crescimento",
-      "razao_aumento": 35.7,
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha PE",
         "hora": "2026-10-25T14:36:00Z",
-        "titulo": "João Campos avalia crescimento da campanha de Lula no 2º turno: “A gente venceu nas redes e ruas”",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzU2ZlFJQVdaYjRyc0phWmVXSE9nNDVWSUNzeHZvOUNldzlEbTZLLXJmX3o3SWRrR2FjWkJKN1VzT1dJSU5TV0NZRVh1a3g1MGJNeFpGZ2drcVlmQlhVUVkxZnBwRUhycXRTTG9BcXlVQWNCaGVCUU5YYno5VlpMa2J2ZmgwLUg3UHJQYXdNZzZjb2gyY0FSVGliazJtYU1QTUtlbXNxX182U0xWVEpIRE1YWDg2LXF0VUFzOUdLd25hSjc2WjlaZllNWjNIbHdKT1kyM2V2V0xVeGg1UWZZSTExZlhTQQ?oc=5",
+        "titulo": "Depois de votar, João Campos avalia crescimento da campanha de Lula no segundo turno",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeWNPTlhwRGNlcHp6ZDZLNFduNTZWT01jU3UtQVo1Q1pBMHRhbmR6MklfSlNCdWgtWHBKcE5ZX1RVeDZ3ZXFNZjJ3YXhNQ05oSWxJWUlhamhKZlhxTEw1SWlfTHBLR29MZHBYa0Njd2hFbW1BLTd4Q2NZdWFydVVZbERMMHc5NDNwcldoMDl2WVhpaVRkNEcyWW9kY2REcWNIWTM5RHFlb2FXRXN3WGg3LU9KTWs2QUVnNEl4SXJWMnZXenBTUGJqNWNaVGRGdjlqTDR5eEJ1bw?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "crescimento da campanha",
-      "razao_aumento": 35.7,
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha PE",
         "hora": "2026-10-25T14:36:00Z",
-        "titulo": "João Campos avalia crescimento da campanha de Lula no 2º turno: “A gente venceu nas redes e ruas”",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzU2ZlFJQVdaYjRyc0phWmVXSE9nNDVWSUNzeHZvOUNldzlEbTZLLXJmX3o3SWRrR2FjWkJKN1VzT1dJSU5TV0NZRVh1a3g1MGJNeFpGZ2drcVlmQlhVUVkxZnBwRUhycXRTTG9BcXlVQWNCaGVCUU5YYno5VlpMa2J2ZmgwLUg3UHJQYXdNZzZjb2gyY0FSVGliazJtYU1QTUtlbXNxX182U0xWVEpIRE1YWDg2LXF0VUFzOUdLd25hSjc2WjlaZllNWjNIbHdKT1kyM2V2V0xVeGg1UWZZSTExZlhTQQ?oc=5",
+        "titulo": "Depois de votar, João Campos avalia crescimento da campanha de Lula no segundo turno",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeWNPTlhwRGNlcHp6ZDZLNFduNTZWT01jU3UtQVo1Q1pBMHRhbmR6MklfSlNCdWgtWHBKcE5ZX1RVeDZ3ZXFNZjJ3YXhNQ05oSWxJWUlhamhKZlhxTEw1SWlfTHBLR29MZHBYa0Njd2hFbW1BLTd4Q2NZdWFydVVZbERMMHc5NDNwcldoMDl2WVhpaVRkNEcyWW9kY2REcWNIWTM5RHFlb2FXRXN3WGg3LU9KTWs2QUVnNEl4SXJWMnZXenBTUGJqNWNaVGRGdjlqTDR5eEJ1bw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "mobilização popular",
+      "razao_aumento": 55.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-25T12:20:08Z",
+        "titulo": "Lula destaca mobilização popular, e Flávio Bolsonaro defende mudança; candidatos votaram pela manhã",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUW55akd1ZU1BM0VNa2ctTTd4ZkphRklwZkNjdnAtNmpyV0VSaWEzWlA3SDR0emxjbDN4NnNDSFlhbGlZNlFlLUFPVl9KdVFwVlduSG1qVE4wY3pXSUVDbEdqRUdoRkJrMnFjcFh1eTdyb09YTi05dHBMakNfMmFMRzdPSHpCUjI5QVVYNXAtOU5ZWGF4Tll3VnM1Q2pYSmVIdndSV0owbklIdlREVnpFaFRJaGxMNjlFUXlTMks0R1MtTkRkaFg2aWE2Q2RHNWxYbUFIMmIwZUhSM01DNFgtVTFfSWp3QTFhSWfSAfgBQVVfeXFMTk9VbEpyVVp3VE53eEktRzVRaXMtWnExODI0MmdDUlBvSDdIZGcyMWpFelYzZlB0TnFKS29WQW91ZmZ5RFFaOWIydzhVWHNlTDJJdW1WUm1fOTBDTzlKTjFnaE93aEVLMjQ4NkVKNFU4OHBJMTR4bXJCeXNoU1JVcHJzREIyaW1fcURnZGxlTmFLMzM2cG5nZEVKQlUtN3NRZVZGc05Wb1pGMEFROEJjMHZmUktrVUtWR0RCc19MM3cxTWlmVnlzVjl6cnExQlhidWFPVnlHN0s2ZVVSd2lOeUUzRkpRYnVzV0dQZXJiUFlhWFlnVVFQMVo?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Israel",
+      "razao_aumento": 45.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-25T17:56:00Z",
+        "titulo": "Lula vence em Berlim, Milão e na Palestina, e Flávio, em Israel no voto do exterior",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzZ6ZWVibHM5cV9TbFAzVkFBVjdBX1N4UHpMeWpyMkRaLTd6MVJjblRoQ29VdTYwYk91YlJUbTR2RlYtVjJnTFI3aUtZcXdmY1BYazZUYTlxcExWaWVaQUIxZDB6QXB1Rl9HZnRVdTRiVTJQQ3RhamhDbjBmNm5wUUUzUGN0NDlxTTZWTWViQ2hqaVFSRFphSzV2U1BwNHlFd01zY2UtVk8tZ1k5cjBKLUdoVnQ0TlQ3VFFyOWVPcUlYMTlwcnJtckFR?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Palestina",
+      "razao_aumento": 45.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-25T17:56:00Z",
+        "titulo": "Lula vence em Berlim, Milão e na Palestina, e Flávio, em Israel no voto do exterior",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzZ6ZWVibHM5cV9TbFAzVkFBVjdBX1N4UHpMeWpyMkRaLTd6MVJjblRoQ29VdTYwYk91YlJUbTR2RlYtVjJnTFI3aUtZcXdmY1BYazZUYTlxcExWaWVaQUIxZDB6QXB1Rl9HZnRVdTRiVTJQQ3RhamhDbjBmNm5wUUUzUGN0NDlxTTZWTWViQ2hqaVFSRFphSzV2U1BwNHlFd01zY2UtVk8tZ1k5cjBKLUdoVnQ0TlQ3VFFyOWVPcUlYMTlwcnJtckFR?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "destaca importância",
+      "razao_aumento": 34.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Rádio Cidade 99.7 FM",
+        "hora": "2026-10-25T17:03:00Z",
+        "titulo": "Raquel Lyra destaca importância das eleições durante voto em Caruaru",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUQ0TjgxX1RXYkZiWDFEQkZYQ3Nrd1dIbjNqVnV1YTB0czdhbi1yYW91VUtzY2pHRi1qUHl1WjF6NnpaTGZ2Z1ZJTEhSNHRKNTQ1bUZpQ2NEME9GTTdTcUdIcFJOSGtlMkxpM1otR0FqVFBLdWN5cFJBU1hOeTFhNDQxMFlmQm05bmFIRmFfODNGcnhQVmNTUnM5WlJ2c1k?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "votar em Caruaru",
+      "razao_aumento": 34.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Nill Junior",
+        "hora": "2026-10-25T18:21:34Z",
+        "titulo": "Após votar em Caruaru, Raquel Lyra diz que seguirá contando com o governo federal no segundo mandato",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU05ka1hCYkZfakJncnhMRkhFR1lzTnVpOFBrbHRsWFhmMnNINDQ2d1E4SHdBeEtTdEJYVF83aTNLd3JBTUNpamQ2cHVtTzAySTlPOGVwYTlZSV9uT0NWQXJKcTJkZ0VoLUo4TE1BZDB4RGlVaFozR05LRzNuME1LSkYyNWIxd19HN1k5YVNsYkZlNU92YVJsZ0ViZWRZWW02ZFVXUy10QXIydTNPXzNKT1BRUHAyaGZWUTBuZ240c0tPd0F1?oc=5",
         "peso": 1.0
       }
     }
@@ -369,272 +375,272 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 26.11,
-      "fontes_distintas": 23
+      "fatia_pct": 25.24,
+      "fontes_distintas": 21
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 82.9,
-      "fatia_pct": 21.66,
-      "fontes_distintas": 20
+      "peso_relativo": 79.7,
+      "fatia_pct": 20.12,
+      "fontes_distintas": 17
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 70.7,
-      "fatia_pct": 18.47,
-      "fontes_distintas": 18
+      "peso_relativo": 72.5,
+      "fatia_pct": 18.29,
+      "fontes_distintas": 15
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 65.9,
-      "fatia_pct": 17.2,
-      "fontes_distintas": 17
+      "peso_relativo": 67.6,
+      "fatia_pct": 17.07,
+      "fontes_distintas": 15
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 43.9,
-      "fatia_pct": 11.46,
-      "fontes_distintas": 17
+      "peso_relativo": 53.1,
+      "fatia_pct": 13.41,
+      "fontes_distintas": 20
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 39.0,
-      "fatia_pct": 10.19,
-      "fontes_distintas": 15
+      "peso_relativo": 45.9,
+      "fatia_pct": 11.59,
+      "fontes_distintas": 17
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 39.0,
-      "fatia_pct": 10.19,
-      "fontes_distintas": 15
+      "peso_relativo": 45.9,
+      "fatia_pct": 11.59,
+      "fontes_distintas": 17
     },
     {
       "termo": "Caruaru",
-      "peso_relativo": 22.0,
-      "fatia_pct": 5.73,
-      "fontes_distintas": 9
+      "peso_relativo": 31.4,
+      "fatia_pct": 7.93,
+      "fontes_distintas": 13
     },
     {
       "termo": "João",
-      "peso_relativo": 22.0,
-      "fatia_pct": 5.73,
+      "peso_relativo": 21.7,
+      "fatia_pct": 5.49,
       "fontes_distintas": 8
     },
     {
       "termo": "Campos",
-      "peso_relativo": 22.0,
-      "fatia_pct": 5.73,
+      "peso_relativo": 21.7,
+      "fatia_pct": 5.49,
       "fontes_distintas": 8
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 22.0,
-      "fatia_pct": 5.73,
+      "peso_relativo": 21.7,
+      "fatia_pct": 5.49,
       "fontes_distintas": 8
     },
     {
+      "termo": "Eleições 2026",
+      "peso_relativo": 19.3,
+      "fatia_pct": 4.88,
+      "fontes_distintas": 6
+    },
+    {
       "termo": "turno das eleições",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.82,
-      "fontes_distintas": 4
+      "peso_relativo": 16.9,
+      "fatia_pct": 4.27,
+      "fontes_distintas": 5
     },
     {
       "termo": "Voto",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.82,
+      "peso_relativo": 16.9,
+      "fatia_pct": 4.27,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Fazendo",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.66,
       "fontes_distintas": 1
     },
     {
       "termo": "Eu Voto",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.82,
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.66,
       "fontes_distintas": 1
     },
     {
-      "termo": "Voto Lula",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.82,
+      "termo": "Voto Fazendo",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.66,
       "fontes_distintas": 1
     },
     {
-      "termo": "Eu Voto Lula",
-      "peso_relativo": 14.6,
-      "fatia_pct": 3.82,
+      "termo": "Fazendo L",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.66,
       "fontes_distintas": 1
     },
     {
-      "termo": "Deixem",
-      "peso_relativo": 13.9,
-      "fatia_pct": 3.63,
+      "termo": "Eu Voto Fazendo",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.66,
       "fontes_distintas": 1
     },
     {
-      "termo": "ONordeste",
-      "peso_relativo": 13.9,
-      "fatia_pct": 3.63,
+      "termo": "Voto Fazendo L",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.66,
       "fontes_distintas": 1
     },
     {
-      "termo": "Votar",
-      "peso_relativo": 13.9,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 1
+      "termo": "Eleições",
+      "peso_relativo": 14.0,
+      "fatia_pct": 3.54,
+      "fontes_distintas": 5
     },
     {
-      "termo": "Deixem ONordeste",
-      "peso_relativo": 13.9,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ONordeste Votar",
-      "peso_relativo": 13.9,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Deixem ONordeste Votar",
-      "peso_relativo": 13.9,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Japão",
-      "peso_relativo": 13.7,
-      "fatia_pct": 3.57,
+      "termo": "TSE",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.48,
       "fontes_distintas": 3
     },
     {
-      "termo": "Salvador",
-      "peso_relativo": 13.2,
-      "fatia_pct": 3.44,
+      "termo": "Vencer1",
+      "peso_relativo": 13.0,
+      "fatia_pct": 3.29,
       "fontes_distintas": 1
     },
     {
-      "termo": "Pela",
-      "peso_relativo": 12.4,
-      "fatia_pct": 3.25,
+      "termo": "Lula Vai Vencer1",
+      "peso_relativo": 13.0,
+      "fatia_pct": 3.29,
       "fontes_distintas": 1
     },
     {
-      "termo": "Democracia",
-      "peso_relativo": 12.4,
-      "fatia_pct": 3.25,
+      "termo": "Nunes",
+      "peso_relativo": 12.6,
+      "fatia_pct": 3.17,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Votacao",
+      "peso_relativo": 12.3,
+      "fatia_pct": 3.11,
       "fontes_distintas": 1
     },
     {
-      "termo": "Lula Pela",
-      "peso_relativo": 12.4,
-      "fatia_pct": 3.25,
+      "termo": "Ate19Horas",
+      "peso_relativo": 12.3,
+      "fatia_pct": 3.11,
       "fontes_distintas": 1
     },
     {
-      "termo": "Pela Democracia",
-      "peso_relativo": 12.4,
-      "fatia_pct": 3.25,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Pela Democracia",
-      "peso_relativo": 12.4,
-      "fatia_pct": 3.25,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Eleições 2026",
-      "peso_relativo": 12.2,
-      "fatia_pct": 3.18,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 12.2,
-      "fatia_pct": 3.18,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "ABahia",
-      "peso_relativo": 11.7,
-      "fatia_pct": 3.06,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Deixem ABahia",
-      "peso_relativo": 11.7,
-      "fatia_pct": 3.06,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ABahia Votar",
-      "peso_relativo": 11.7,
-      "fatia_pct": 3.06,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Deixem ABahia Votar",
-      "peso_relativo": 11.7,
-      "fatia_pct": 3.06,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bruno",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Reis",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bruno Reis",
-      "peso_relativo": 11.0,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Silva",
-      "peso_relativo": 10.7,
-      "fatia_pct": 2.8,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "REELEITO",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.68,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "LULA REELEITO",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.68,
+      "termo": "Votacao Ate19Horas",
+      "peso_relativo": 12.3,
+      "fatia_pct": 3.11,
       "fontes_distintas": 1
     },
     {
       "termo": "governadora Raquel",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.55,
-      "fontes_distintas": 4
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.05,
+      "fontes_distintas": 5
     },
     {
       "termo": "governadora Raquel Lyra",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.55,
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.05,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "neste domingo",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.05,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Deixem",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ONordeste",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Votar",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Deixem ONordeste",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ONordeste Votar",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Deixem ONordeste Votar",
+      "peso_relativo": 10.9,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ricardo",
+      "peso_relativo": 10.1,
+      "fatia_pct": 2.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ricardo Nunes",
+      "peso_relativo": 10.1,
+      "fatia_pct": 2.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Após votar",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.44,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "campanha de Lula",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.44,
       "fontes_distintas": 4
     },
     {
       "termo": "Nordeste",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.55,
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.44,
       "fontes_distintas": 3
     },
     {
-      "termo": "Fazendo",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.48,
-      "fontes_distintas": 1
+      "termo": "Israel",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.44,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Palestina",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.44,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Lula e Flávio",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.44,
+      "fontes_distintas": 3
     }
   ]
 }
