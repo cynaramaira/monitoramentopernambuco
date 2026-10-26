@@ -1,175 +1,169 @@
 {
-  "atualizado_em": "2026-10-26T15:09:48Z",
-  "total_analisado": 139,
+  "atualizado_em": "2026-10-26T20:29:23Z",
+  "total_analisado": 147,
   "x_recife": [
     {
-      "termo": "Vencemos",
+      "termo": "#ExercitoDoLula",
       "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Vencemos",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23ExercitoDoLula",
       "ruido": false
     },
     {
-      "termo": "Norte",
+      "termo": "#BolsonarismoMata",
       "posicao": 2,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23BolsonarismoMata",
+      "ruido": false
+    },
+    {
+      "termo": "#exercitododudu55",
+      "posicao": 3,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Norte",
+      "url": "https://x.com/search?q=%23exercitododudu55",
       "ruido": false
     },
     {
       "termo": "#LulaMaiorDoMundo",
-      "posicao": 3,
+      "posicao": 4,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=%23LulaMaiorDoMundo",
       "ruido": false
     },
     {
-      "termo": "#VitoriaDaDemocracia",
-      "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23VitoriaDaDemocracia",
-      "ruido": false
-    },
-    {
-      "termo": "#DeViradaEMaisGostoso",
+      "termo": "#JusticaPorRioVerde",
       "posicao": 5,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23DeViradaEMaisGostoso",
+      "url": "https://x.com/search?q=%23JusticaPorRioVerde",
       "ruido": false
     },
     {
-      "termo": "#LulaOBrasilTeAma",
+      "termo": "10 MILHÕES SEM UM FUZIL",
       "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23LulaOBrasilTeAma",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=10%20MILH%C3%95ES%20SEM%20UM%20FUZIL",
       "ruido": false
     },
     {
-      "termo": "#BolsonarismoMata",
+      "termo": "Renan Santos",
       "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23BolsonarismoMata",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Renan%20Santos",
       "ruido": false
     },
     {
-      "termo": "OLHA O DIRECT",
+      "termo": "Kane",
       "posicao": 8,
       "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=OLHA%20O%20DIRECT",
+      "url": "https://x.com/search?q=Kane",
       "ruido": false
     },
     {
-      "termo": "Trump",
+      "termo": "Bola de Ouro",
       "posicao": 9,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Trump",
-      "ruido": false
-    },
-    {
-      "termo": "PRECISO FALAR COM VOCÊ",
-      "posicao": 10,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=PRECISO%20FALAR%20COM%20VOC%C3%8A",
-      "ruido": false
-    },
-    {
-      "termo": "BOM DIA BTS",
-      "posicao": 11,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=BOM%20DIA%20BTS",
-      "ruido": false
-    },
-    {
-      "termo": "Tarcísio",
-      "posicao": 12,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Tarc%C3%ADsio",
-      "ruido": false
-    },
-    {
-      "termo": "BOM DIA COM LULA REELEITO",
-      "posicao": 13,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=BOM%20DIA%20COM%20LULA%20REELEITO",
-      "ruido": false
-    },
-    {
-      "termo": "Venezuela",
-      "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Venezuela",
-      "ruido": false
-    },
-    {
-      "termo": "Ibovespa",
-      "posicao": 15,
-      "variacao": "+12",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Ibovespa",
+      "url": "https://x.com/search?q=Bola%20de%20Ouro",
+      "ruido": false
+    },
+    {
+      "termo": "Elias",
+      "posicao": 10,
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Elias",
       "ruido": false
     },
     {
       "termo": "Paraguai",
-      "posicao": 16,
-      "variacao": "+3",
+      "posicao": 11,
+      "variacao": "+1",
       "direcao": "sobe",
       "url": "https://x.com/search?q=Paraguai",
       "ruido": false
     },
     {
-      "termo": "THOMAS COSTA",
-      "posicao": 17,
+      "termo": "OLHA O DIRECT",
+      "posicao": 12,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=OLHA%20O%20DIRECT",
+      "ruido": false
+    },
+    {
+      "termo": "Fabian Ruiz",
+      "posicao": 13,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=THOMAS%20COSTA",
+      "url": "https://x.com/search?q=Fabian%20Ruiz",
       "ruido": false
     },
     {
-      "termo": "Circuit Breaker",
-      "posicao": 18,
-      "variacao": "+3",
+      "termo": "Jones Manoel",
+      "posicao": 14,
+      "variacao": "+6",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Circuit%20Breaker",
+      "url": "https://x.com/search?q=Jones%20Manoel",
       "ruido": false
     },
     {
-      "termo": "BOM DIAAAAA",
-      "posicao": 19,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=BOM%20DIAAAAA",
-      "ruido": false
-    },
-    {
-      "termo": "Daniella",
-      "posicao": 20,
+      "termo": "BLEACH",
+      "posicao": 15,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Daniella",
+      "url": "https://x.com/search?q=BLEACH",
+      "ruido": false
+    },
+    {
+      "termo": "PRECISO FALAR COM VOCÊ",
+      "posicao": 16,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=PRECISO%20FALAR%20COM%20VOC%C3%8A",
+      "ruido": false
+    },
+    {
+      "termo": "Alckmin",
+      "posicao": 17,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Alckmin",
+      "ruido": false
+    },
+    {
+      "termo": "Rio Grande do Sul",
+      "posicao": 18,
+      "variacao": "+9",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Rio%20Grande%20do%20Sul",
+      "ruido": false
+    },
+    {
+      "termo": "Alexia",
+      "posicao": 19,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Alexia",
+      "ruido": false
+    },
+    {
+      "termo": "Ibovespa",
+      "posicao": 20,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Ibovespa",
       "ruido": false
     }
   ],
   "google_trends": [
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Lula vence em todas as cidades do seu estado natal nos dois turnos, com exceção de uma; saiba qual",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdGVFV3Q1VFdlZzgwVWY5NnZ5djgwaUNOek1PbHJiM3NEY0pVcTZ5eTd2b3hNMlBZNWZndnlqVzBPcVRNWjVmeFViOGhvU1F4X1h0TXJ6WlZtc3JTWF93T1UzTzV6RnFwa3hkWFpMWno5amlyRW90aTcxSnctc1llZFZvbkFrMjVtX1UtVkdRamotXy1qeUZjVThpR01hVW1pYTJwZ0draTYtdmJmY2t6akxra0s3dFo3UFJBMlFpTzRNckFzeHFDd2pXaE5VdjNiempRanJ6Z2pMUTBvOVFxRl9QTHAxckpZVl9Bb3lqTmFVM1M5WUxMZXJuMkNPS3fSAY4CQVVfeXFMT3FJZnZ1bF9KSXk2eDA3b1l0SFk3V0RoMy02cHExVzBObHlqeFRBWXNPcHhRVFV5LTZrR0l3ZHNVUUphTnNRWFplQ3JTZVNPRXRpVnI4WTBTNXNvbUdzeTZFalg5bHMyZmgxa204V0dnZjFMWnNUY3pNVE1hMEJaVUJXVlo4ck14WjNkSUR0YmpMSjRMRTZtdXlhRnRnN3BhSW1OTGo1cjJPNHZlOUU1WW5HZUVWOExUckN4amRhTGJFMXAxMlhLMGkxN0xFU0N5aVUtSkRlZUtMdjhzR1NBY0VPaDVxYlpqOHNUQjF0d3NIWklIOTdFVVNhb0t5WG5CeWtjTHhad1oyT1NqM1pB?oc=5"
-    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -179,32 +173,62 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Panrotas: Alagoas e Pernambuco devem ganhar 6 projetos branded residences até 2029",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc0MyRU0zcEVfWVkzdG5hMUs1emVHdDNnSjd0eXkxRnc4bDhqVmlKQ3ZadXRuUDJveUZKZTlaclFtd19xNFg4Mk0waV9qZWVsLV82SEJGb1VDQTF1MmxDaHNlRmNkZFY5VDYzb1YwdDlhVE5WcTE3QWhuVGtuUmxTckViWnBoZHBDdmtiV0xoUkFvMHQycU5Fb0FjcUlzWmgybEo2ZmZ1TlBjRTExcUxoWGtlZUU4UUJPcXhzLWpzQkw1T01oSUFXVHpNTk9vSWpNb0hXUi1RV1dvOVBK?oc=5"
+      "manchete": "G1: Resultado do 2º turno das eleições 2026 em Pernambuco: como foi a votação no seu local de votação",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMWVOZ3VpS293dU9PeUFOUTgyaEUyRlBlbmNOWHFIR0VBR1dxNkhMLTlpdld1c0hWWE1JTzJ0OFJ6LXZ0cDN1UjR5NlZuTW82TEliVm1GQ0RYaXlyd2pJanREdjlKZU1FM3pnR3R2MXE4SmJrSHRiQXZha3NyVjVVMmcxRGNGa0N5Y3Rxc3lKWi1SLUVjQ05uNkhhaTM2M2xjV1lJOE56T0hzT0lDM3hXZUQ1MzRTb19aaThLaURtdUFKZXI0MVFZb29LZmFIRVJXOVEzRHRRWkZYTlhval84MTBydGtHbW5Odkx6ZEJDb3Nack95MkZ3OXVlT2xCSzDSAY4CQVVfeXFMTzlJOEZLYTdqVXF1NllzTWR4VERLdm1La2ZJNGw1UTdhRTRlb1NFVGpoR2g2VHNncFY5bTJuOU1uR1RtOWVjeHFuSnZaOFV2TUNCSi1GZExOOHE2UW1ueUk4aW42djd4cTk2NlZJR0tzYkJ5U3pMR25KSFo5X1BzNFJrdnItbTlRUE55bmRTVlFyeEN4Zk9rNXU2RFhmODgyNU9xd3plSlJkZzJaSUdacWFHcjR4UmY4c3RkTmJIaTRENEtJaEJpR1F6d251S1hZSFkwanRycHNSTnFlWWNPNWF2dlZiRW1xY091dE9ySk5vbzZobXB6eDVBODNfMy1TNE5fdG5IRFZmM2ZRNU5R?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "CNN Brasil: Bahia, Pernambuco e São Paulo lideram queda de abstenções no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVNMTkJLM3JqRnRRWV9yaEkzdm1NaWJhWVI0QU50Tk1BZzhCaHRiUmhNVUVoaFhtNzZNb1F4M0dGMWJIdWltVmMyMGI2WkExUnZCNDQ0a2JwdjVNRkpGdHNZaVpGejJyYl81N3N6cXZoRHJvOTFHQnJVZzIyUmNnY2prejBqaFdyQnZPVW1iTU5hVVFZYWE3dmVoODQ5ZjBuZnpXV3lVLUpObms?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Congresso em Foco: Em Recife (PE), Lula vence com 61,27% dos votos",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1R5a3A4SFAxd3NQR3JKa2loSFB4Ykg5UEExZk5wd0tMQzRsRWV1MlF0VG1ha2pqMkYwd09US3dhemhMUnJIbWxkdHVFRXQwa1VJZkZoNVV6WU9zb2lvRWZEbnRoSXRKVVVFalJMeHRpU0ZwOW1EZjNHR1E3ZDY3cGdBQUtBU0dRejVnZ1paUFpUbzAwaWc3Nw?oc=5"
+      "manchete": "G1: Homem mata companheira a tiros e depois tira própria vida durante festa de apuração das eleições; VÍDEO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODBwcTlxY0ZCaXZ3UUtOM2J3XzhIZHZSd05iWl9JSWlwQXRXNlJ2NHk5Vm43Yi1NWFhScVhDRF9TUWNmSEdDQlNCcU01dW1ZOGhWLXQ0bGRYWHhWQTFLYl9rV2dPOS04X1FsbzliRGpoZWp0VHlydW1EWC1FTVRMUk5ib01fOEhucFFFUm51Q3JJYlBRRG0xaWlXaDdXR0ZKNTZ4dm02V2Q5S3M2S0htUXVaaVRGbVB0S2hyU0ViWVFOZG9tMFHSAdQBQVVfeXFMTkpaYVZlNXB0QXZSY0hQQVlvdHpxNUJYbHRXeUFBV1J0TC1CQXk0UXRaeVJEMTNzMjhyNmVaWUowUGl6Tks5NHZMQjd0eHFaQUlGN1ZTMTNQWjFpSTAzRFNtczMtOEV3OTZDVl9UQW5UUnpxRGZKcE10NkV0aTNpeFdNQW52a0dlRkZJSGh4U29pZlo2ZzluUENhVjNpYXhaSHVYQ05FbGFPV0RNSzV0anZ3ZTFUbkFrLWJVRjVKX2JoenJua2dndlZUckwyYm5acjF2S2Y?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Decoração de Natal: confira opções disponíveis na Camicado",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0VIUGhqc0JRU1hNS0VENGs2WFJ4UWYzSVkxVlBTN2N2VmdrQVcxZ1ZmS29JUWtvanNhOWI0MklsLTB0a0F1ZXd3cEhZZ2VBT2VKdlZoa3phVzNKOHpwdTdnMGpTUXRkc3pZd2hQSXVjYkpxMU5qLVVGbmY1aTJmSHZlNzZxUTcxM0QwSFlvWFBDUlduT2ZxcFVBdVRPeFNn?oc=5"
+      "manchete": "RioMar Recife: L’Occitane au Brésil lança linha inspirada em pudim",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHV0cnRmdGlwTTFXV2dZWFBkcjJjblg3bEdDR3J1QVpIbnctSTdEUEU1dGJaVVExWGVtZTdHZnlmc3MtOXc5ZGpKVlV1MmM0clNSblpuaUVMVnJ4VWlST2NNODRzeVF4cW5OOU5WTkJhd3dDeHV2d0pheERoeWN3TTZWbTh6dHgydE1LNU5sZVRiOFNpZl9r?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Zona Azul segue suspensa no Recife por paralisação em serviços digitais da prefeitura",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGtrS3M5b21aOTJQdjNSbmRUWmNWWmF0YzVPeTBGTkdEczlYcWlQUk1lRS1yeDh1TFBhczQ3YTFVam1mUzZIZFJMaVZaMzZxXzFzMThiWF9YSFk5d0cwT1V6MTVidkxrellmTTRlSnlsNFY5Y0pWNFZCUWJYT1ZRVV9hQ19kbk16SmpBbFQ3dGZnNmVZajU4QUJxZDlETGlpRTN6VlB1MUtPTmxWcnNOOFREWXnSAbgBQVVfeXFMUDVwTXRKRThTSklxaU9pRGo0a1Vma0pnbFkxdV9QdlRVd3JxOExzMEU2Sm1kMzFvZWRnbjduSmRDVzluWHhTb3c1ZldabWNMcnRzcjFXbU1SRmRmTGhoSXZmRzc4RjZKa0lldmI0RlR5N3IwaUluTXJlSDZmNU92YjZBdmp4VmRCVm14RjRoWkJFUEs2MUVEZjdqYV9hVFNZeVoyUHhhUmhxWHJ2MWhUZGtKOVZvWlVPZQ?oc=5"
+      "manchete": "Universidade Atitus: Atitus integra missão ao Porto Digital, em Recife, e busca referências para conectar formação e inovação",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUFvZ1dtWVBuU19oaVFtaGpSUXpGMUhjNm90dUlpaDhjNTBybmhraTNXR0d4NENiSWd3V09BUldpMmdZRnhOdEF1TFBYWlRlZlJzSjBCRWZJbE9OSlBYbklfQzFBY2d5VHNUSGsyUGxzVy1CcmNKQ1ZfazNwWU5zN3VYMllEM0FsS1dSMUZxMlo3ME55SFFOVll5UDdQWG5fOGtQYXJwZTAwTHlnSVk2TXhBa0JlSEY3Mll5N3VRM1R4bEZtNkd6OEFWMElhNUFWUFE?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Tubarões são capturados durante monitoramento no litoral do Recife; ação é da gestão estadual",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEQtSVgzcmRwc0tHMkJmbEZaekVZZVNvSWtTNk92RGk5YWt0dV9NQkpKdmV3QnNCV3JWQTYwWEpRQW41VG5rSmlONWwtVlUwbHFOeFRsc2hYaVhvTzRDQy1pS1ltb3U2aHlGNTlCdUVMcDNnRXctWlRITUxnNTc5cDVfenlDejN6bWMxU2ZpNUZaRlBOMWNpY0Ryc0hKWWEzUHQ2a0ZKemkyXzRLRjBr0gGzAUFVX3lxTE80Q1hXMzNVSThuc0trUVN1Q2lqNXFhNjRyNUR1dTZKSmFPUkxDa25DRkY3eTYyR0c3VnEyVmFjbkFlSGVwdXN2c2E0dlBYRlcwTXNCb0hfOHZKdFl1TXBLMmxCZ2dKOUF0WXBHQlF3OF9qeHJsUVFEUEU0VGpQRTQ1Sm5zN3VzaTI5dndEOGtJQnp1czZ2U3JJWHpZMko2elNZOHFrTzRRQUd5LV9DZnd5T1FF?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "CBN Recife: Monitoramento no litoral do Recife registra captura de mais cinco tubarões",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXF6dFpabE5Ma3FLZE5mU1BlTEhzSUlBV0NBc1VjZi1zazM2c0FJckFPcUlTaU9wc3hjYXcwY2Rvb2NpRzRtd3ZudEJ1NlB1WFdTX0JZcnE1dG5URkFzVUVVakRKUGRKSXNHM1phYmttd0hiX1ZGMjd5V3VmQUVWN1lidENyLVBKR3ZnSFhFMVJxQl9zZmpzeEx1VDVXN1dNQktMTDdqVG93d0V3azE4N1Jn?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Diario de Pernambuco: Pernambuco tem previsão de chuva fraca em três regiões nesta segunda-feira (26)",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1Fjakp5NnNpY2FTM0IyZzNsTHBMT3pKNVFwa3JWODdGSGVhT1AzT0VhVHlLcVlDY1Z5RVVOODV6b05QUU1janJ6bUxvWnRtQnhMV0M3eXozNDRId3FoTllnV1o1QWNNS245QVdCdFRmZjdmd0V0aVNEQnJSLVctQlBtU3VaeEpJRmNMV0IxY0l0WHpjbV91ZU5weklkOFhMbkpBdl9CX3JoT2s2cjVwRU5kMWt4NmhUVVJ2QnduaENCTzBBWHpRTGJuR3Blcm9WOEVYcy10LTN4Rm41N3p2bUQtUlVMRzVp?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Ricardo Antunes: Após eleições, Álvaro Porto se manifesta no STF pela legalidade da remuneração de Raquel Lyra",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY09JQ3ZjMDIyVFpnWlNFMXZabjVxY0U1ckJDdUw5TVNxQ0d1SjJEYVQ4dzlBS2hSMjREeGZPbXRYT3A3Rkhmcm9NbHM4SWdIU2xIRXZzVEVTR1ljdnhTMldHOUFNam9xZ1NpLW5RQV9MemRHX3V6dmEyQkE4emszVnFFWTZZVEVFZmJVb3h4Y19iMEI4N2s3Nkh6Zk8yVVlZWnI1OFJycS1kdHJSNlpVbGpZeDlEcy1ORDRPUw?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Jamildo: Ala jovem do bolsonarismo em Pernambuco lidera reações à derrota de Flávio Bolsonaro",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzVVMGJpZF8yd1N2eHQxUWZrNlJQUzVYcG1OR2NtcFdoOUdzTUdCQ1htX3FSN2xDSlY1czAwa2RlQXBBOHhWLUYzeDg5Szd4dVY3bm9UbTBIRXY2cXhFTFVuNXotV2dBcjRnLWpQeDhWb2dodW9Kd2FZbUt1T3g0YW9HWU05NW5uN1FQSzkxQVFTNDJRckdZZjJ2dVNsVHZkaHFkZmpSSmpQcVBGNEtKelViWWNNRHBETGluR19VVdIBvwFBVV95cUxQZzVVMGJpZF8yd1N2eHQxUWZrNlJQUzVYcG1OR2NtcFdoOUdzTUdCQ1htX3FSN2xDSlY1czAwa2RlQXBBOHhWLUYzeDg5Szd4dVY3bm9UbTBIRXY2cXhFTFVuNXotV2dBcjRnLWpQeDhWb2dodW9Kd2FZbUt1T3g0YW9HWU05NW5uN1FQSzkxQVFTNDJRckdZZjJ2dVNsVHZkaHFkZmpSSmpQcVBGNEtKelViWWNNRHBETGluR19VVQ?oc=5"
     },
     {
       "termo": "Alepe",
@@ -221,6 +245,18 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "BBC: Quem é quem no palanque de Lula durante discurso da vitória",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BMEhTM3F0NWdqZ1lDTDBMNE9nbktqdmtmTDdveGZocmVIaUQwcW9hYU55RHZJd0RjQXhMNU9Sei1uNVItVTh0TWk2VHp1TGp3LWtfWHlzaWZWVHNHLVYwSzJfVQ?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Pernambuco anuncia pagamento do Bônus de Desempenho Educacional para 30 de outubro",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblU1b1FfWDdINC1DQVVMZGtBVjZnSnFrSFFCa2NkZXV6c3d2YWpXck1xdUh1dVdXS05Xa1pMNXhtLWZERy1ETGxFMWNLVHNkZDJWZnV4MWYwWmtWVTBCVER1b04wS0RBRlV6c2JyeUVZUk05b19DNU9mOEkyakpPTWlMYnBuSktUV080NmRiYmhQeHgyOV9LeGQ1TzRPOW1nR3VBbmNWMjRMQUo0WlJLdElFOUp2OTE10gG4AUFVX3lxTE5uVTVvUV9YN0g0LUNBVUxka0FWNmdKcWtIUUJrY2RldXpzd3ZhaldyTXF1SHV1V1dLTldrWkw1eG0tZkRHLURMbEUxY0tUc2RkMlZmdXgxZjBaa1ZVMEJURHVvTjBLREFGVXpzYnJ5RVlSTTlvX0M1T2Y4STJqSk9NaUxicG5KS1RXTzQ2ZGJiaFB4eDI5X0t4ZDVPNE85bWdHdUFuY1YyNExBSjRaUkt0SUU5SnY5MTU?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Blog Edmar Lyra: Raquel Lyra parabeniza Lula pela reeleição e reforça parceria entre Pernambuco e Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDFsUktsZXlrbmtZcGpsa2xXaVNjNEdYQXFucHhYS25HZmxBM3Z0b0tvLWlpeUlUVXYzbnRuVS1UVnFfdmJ1Z2NDYnkwWF82Rmtrb2FkZ3BvS1N0RFpHZkM5YXhIdGVQMmh1V0hja3J0NUFRTTJuT1k1MnBSTUdIN1ByVkl3dkZ0a3FVTmlTUlNVbkRPR25UY0VSOVphOFFicXppdTlBT2JoWGN1THgyMWIzTTVreVNVbzI0VFVRZ1Q?oc=5"
     },
@@ -229,78 +265,12 @@
       "volume": "Últimas 12h",
       "manchete": "Jamildo: Vitória de Lula pode colocar João Campos na Esplanada dos Ministérios; especula-se mesma pasta de Eduardo ...",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1ZMUURXT29WTDRhWWFZeEVvWWZqaFhKSlhJdkNpRmtSZGc0RDZYX0R5enFXNXBUQV9WYUp3bFNQb1NiRnZxZzh4T0RQQWowN0RiQ0x2a00yWXZvMlVHcGxCTlc0amZwLVZ6N3FVNEd3c2czSDc3NkF2Y2RFV2NLcFZmTzcxMVFBbkROcWd4RzZvVGtXZG9HQ2dKWm5TR3dqNjA2NF91OVVJZTFfSjBXVEMzUWhibjkyZDhVTE9zc2RUdE1pZXJxb0J3SWtlbWxta1VFWjhVOTY5bkl0OVHSAeMBQVVfeXFMUDFYeFc5MzhFR3FKZXN6NTVya3RZdkJrUG94OVVjVUowbVNDZFJ5N3c4WXBVX0l2Ym9pRkZZTVVvRkZMc3NZcEJKaTV6MThOSmI1cEZXV0dVNjJocC1MdHQtaVJNd2FKeVlCSnVha1lTNnUtTWdJWWZvaWZYc0NvX0N2cGJKQmNsdmV3NGVtcHEzbUMwTkFuZFpYd1B4eWgwWXJRT0RISDd3TGhzR1JQS190U3pkb2hsUDJNSUxnTDZTMFp3YUlhX2RaZVp4b0l6RjNGQzA0cmNQYWlnQVVrcFYxNzA?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "TV Guararapes: João Campos deve ganhar ministério no novo governo Lula",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWtRM1pJaXhvby02R0xOdXUyRTJnMk9iLUxMRzllS3dNVnVjeHZ6WFd3dUxRUmdBVHZ3Sk5DVzRHSHpQdG4zOVdBNzJXSnVxSUpZZVJNSnh5LU5DZHZEYVUwWGVIZVEwLU93LXl2Ukxral8wUVd2NUJ5Sm0yRVY5eW90M0tWSzl5TlJ0VV92anlGTzV0QVJvaHVKMlg2VUQwZFZ1eWJxQUVxcG1tMUF1RG5n?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Presidente do TSE",
-      "razao_aumento": 90.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Senado",
-        "hora": "2026-10-26T02:31:07Z",
-        "titulo": "Presidente do TSE confirma reeleição de Lula e faz balanço do pleito",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHBBenFNZEdrR0dRZmJBVFBEOVlWY1FUWXo2ZHdKaFpNZUF1VXJyeG1obHpmVWRKRUNNZGp2aDVoM0ZsMVJ0VDZRVDAxSXVGd3ltaVBqZ3JtRVJEOEZVSy1xVk9ra0dXLUk3Umtlc1V3WkpKY1V6MEpEcFptOTdIazQ2MjlYVnJpWFJhdFRNMjZjQ01BSlY2NVVTZ1lGN1VLdzFTcDEyVmY3eF9jdnVIOUxjNXVJVG5KNG5iR2lRSVpzSmc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Lula agradece",
-      "razao_aumento": 90.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Senado",
-        "hora": "2026-10-26T02:00:31Z",
-        "titulo": "Reeleito presidente, Lula agradece apoio do povo e 'sobretudo das mulheres'",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd1JycTZNRW05cDBOZUJ0RmlzQmlCN3NLUHFjWlBrVU5HcjVNX2NyWFcyc0MzWXZTbExnY0M2UHhfYkoyRnRNanV1SW16WWZYaGFidTg1TWlGLVB3djVzNXpaNDZSZnUzRGVWRDFKaUItRUFqWE5DMFhDQ3U2cXlCSjlIQ01rN0tra042dVJlM1JKTVVNQ0tfaXRMQUJIV3ZSZ2NIMHBYOXRicnN1cmY5MTFNMW5pSm90emZheEI3eUg2Zw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "pela reeleição",
-      "razao_aumento": 83.8,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "LeiaJá",
-        "hora": "2026-10-26T01:33:00Z",
-        "titulo": "Raquel Lyra parabeniza Lula pela reeleição e defende parceria entre Pernambuco e governo federal",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzB2MVpyTF9xY3cxQXR6LVh2c21vZGc0eXdtMC1iV2tyUWJzSml0TzI3UUJsbmlIVmgwUnA1V1k5WU5aOEpRaGtRLXFKZktWVDE1WEZHZFp1aVhpUVlIcDNZOXB4eXNtcE5ZS21GVG5pc2ljMy10UDg2LXRxWF9lbUxPTFhSd01aWk03elgwTk5LYm90R3pjY2RMYlJKX09lcWxxdWRsajd4Qmhiek15d0JMMjlJQ3JzdkhwZjRyNTJVdlBNbjhKMkg2cnZOQ1VKN1paazlhUQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "parabeniza Lula pela",
-      "razao_aumento": 80.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Blog do Ricardo Antunes",
-        "hora": "2026-10-26T01:26:40Z",
-        "titulo": "Raquel Lyra parabeniza Lula pela vitória no 2º turno",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVBdDBYdUF6UzNFWjYwLTh2d01JSTVHa0dSZWdfemtQdnJGZ3hCVHBVajFZV1U2andXZG1HcGpuVnRhdDJKYVVadEs0YmZZT2cyMV92RkZTOFN6U1MyMzBIZUk3SG5IV05QVDFmU1p5ZnpjbDAyWXJBVi15RjVRTUtSam9tUGM?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Lula pela reeleição",
-      "razao_aumento": 76.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "LeiaJá",
-        "hora": "2026-10-26T01:33:00Z",
-        "titulo": "Raquel Lyra parabeniza Lula pela reeleição e defende parceria entre Pernambuco e governo federal",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzB2MVpyTF9xY3cxQXR6LVh2c21vZGc0eXdtMC1iV2tyUWJzSml0TzI3UUJsbmlIVmgwUnA1V1k5WU5aOEpRaGtRLXFKZktWVDE1WEZHZFp1aVhpUVlIcDNZOXB4eXNtcE5ZS21GVG5pc2ljMy10UDg2LXRxWF9lbUxPTFhSd01aWk03elgwTk5LYm90R3pjY2RMYlJKX09lcWxxdWRsajd4Qmhiek15d0JMMjlJQ3JzdkhwZjRyNTJVdlBNbjhKMkg2cnZOQ1VKN1paazlhUQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
       "termo": "Krause",
-      "razao_aumento": 71.4,
+      "razao_aumento": 120.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Metropolitana FM Caruaru",
@@ -312,7 +282,7 @@
     },
     {
       "termo": "Priscila Krause",
-      "razao_aumento": 71.4,
+      "razao_aumento": 120.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Metropolitana FM Caruaru",
@@ -323,14 +293,74 @@
       }
     },
     {
-      "termo": "Lyra parabeniza",
-      "razao_aumento": 67.1,
+      "termo": "pela reeleição",
+      "razao_aumento": 77.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Ricardo Antunes",
-        "hora": "2026-10-26T01:26:40Z",
-        "titulo": "Raquel Lyra parabeniza Lula pela vitória no 2º turno",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVBdDBYdUF6UzNFWjYwLTh2d01JSTVHa0dSZWdfemtQdnJGZ3hCVHBVajFZV1U2andXZG1HcGpuVnRhdDJKYVVadEs0YmZZT2cyMV92RkZTOFN6U1MyMzBIZUk3SG5IV05QVDFmU1p5ZnpjbDAyWXJBVi15RjVRTUtSam9tUGM?oc=5",
+        "fonte": "LeiaJá",
+        "hora": "2026-10-26T01:33:00Z",
+        "titulo": "Raquel Lyra parabeniza Lula pela reeleição e defende parceria entre Pernambuco e governo federal",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzB2MVpyTF9xY3cxQXR6LVh2c21vZGc0eXdtMC1iV2tyUWJzSml0TzI3UUJsbmlIVmgwUnA1V1k5WU5aOEpRaGtRLXFKZktWVDE1WEZHZFp1aVhpUVlIcDNZOXB4eXNtcE5ZS21GVG5pc2ljMy10UDg2LXRxWF9lbUxPTFhSd01aWk03elgwTk5LYm90R3pjY2RMYlJKX09lcWxxdWRsajd4Qmhiek15d0JMMjlJQ3JzdkhwZjRyNTJVdlBNbjhKMkg2cnZOQ1VKN1paazlhUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Lula pela reeleição",
+      "razao_aumento": 66.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "LeiaJá",
+        "hora": "2026-10-26T01:33:00Z",
+        "titulo": "Raquel Lyra parabeniza Lula pela reeleição e defende parceria entre Pernambuco e governo federal",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzB2MVpyTF9xY3cxQXR6LVh2c21vZGc0eXdtMC1iV2tyUWJzSml0TzI3UUJsbmlIVmgwUnA1V1k5WU5aOEpRaGtRLXFKZktWVDE1WEZHZFp1aVhpUVlIcDNZOXB4eXNtcE5ZS21GVG5pc2ljMy10UDg2LXRxWF9lbUxPTFhSd01aWk03elgwTk5LYm90R3pjY2RMYlJKX09lcWxxdWRsajd4Qmhiek15d0JMMjlJQ3JzdkhwZjRyNTJVdlBNbjhKMkg2cnZOQ1VKN1paazlhUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "parabeniza Lula pela",
+      "razao_aumento": 64.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "LeiaJá",
+        "hora": "2026-10-26T01:33:00Z",
+        "titulo": "Raquel Lyra parabeniza Lula pela reeleição e defende parceria entre Pernambuco e governo federal",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzB2MVpyTF9xY3cxQXR6LVh2c21vZGc0eXdtMC1iV2tyUWJzSml0TzI3UUJsbmlIVmgwUnA1V1k5WU5aOEpRaGtRLXFKZktWVDE1WEZHZFp1aVhpUVlIcDNZOXB4eXNtcE5ZS21GVG5pc2ljMy10UDg2LXRxWF9lbUxPTFhSd01aWk03elgwTk5LYm90R3pjY2RMYlJKX09lcWxxdWRsajd4Qmhiek15d0JMMjlJQ3JzdkhwZjRyNTJVdlBNbjhKMkg2cnZOQ1VKN1paazlhUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "parabeniza Lula",
+      "razao_aumento": 60.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Márcio Didier",
+        "hora": "2026-10-26T01:30:17Z",
+        "titulo": "Raquel Lyra parabeniza Lula e sinaliza continuidade da parceria",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wN1djLWN0RnlKLWNYdXVrY3JmRWN2Q1hYX3d5NUdGbVU0OUdzMi1ldDh6S3VXTjhZMnJBWnhxbzlwbjNjZXJJWUJlbldQZnoxN2JIajlYLWJtSFZ6QTUxWU9WSVc2N1h5Qk9fY25GeDg2RmlxVVdj?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Lyra parabeniza",
+      "razao_aumento": 58.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Márcio Didier",
+        "hora": "2026-10-26T01:30:17Z",
+        "titulo": "Raquel Lyra parabeniza Lula e sinaliza continuidade da parceria",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wN1djLWN0RnlKLWNYdXVrY3JmRWN2Q1hYX3d5NUdGbVU0OUdzMi1ldDh6S3VXTjhZMnJBWnhxbzlwbjNjZXJJWUJlbldQZnoxN2JIajlYLWJtSFZ6QTUxWU9WSVc2N1h5Qk9fY25GeDg2RmlxVVdj?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Raquel Lyra parabeniza",
+      "razao_aumento": 58.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Márcio Didier",
+        "hora": "2026-10-26T01:30:17Z",
+        "titulo": "Raquel Lyra parabeniza Lula e sinaliza continuidade da parceria",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wN1djLWN0RnlKLWNYdXVrY3JmRWN2Q1hYX3d5NUdGbVU0OUdzMi1ldDh6S3VXTjhZMnJBWnhxbzlwbjNjZXJJWUJlbldQZnoxN2JIajlYLWJtSFZ6QTUxWU9WSVc2N1h5Qk9fY25GeDg2RmlxVVdj?oc=5",
         "peso": 1.0
       }
     }
@@ -339,272 +369,272 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 32.25,
-      "fontes_distintas": 35
+      "fatia_pct": 31.05,
+      "fontes_distintas": 38
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 43.6,
-      "fatia_pct": 14.04,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Raquel",
-      "peso_relativo": 41.8,
-      "fatia_pct": 13.48,
-      "fontes_distintas": 19
+      "peso_relativo": 49.2,
+      "fatia_pct": 15.26,
+      "fontes_distintas": 16
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 40.1,
-      "fatia_pct": 12.92,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Lyra",
-      "peso_relativo": 38.3,
-      "fatia_pct": 12.36,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 38.3,
-      "fatia_pct": 12.36,
-      "fontes_distintas": 19
+      "peso_relativo": 49.2,
+      "fatia_pct": 15.26,
+      "fontes_distintas": 16
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 36.6,
-      "fatia_pct": 11.8,
-      "fontes_distintas": 12
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 27.9,
-      "fatia_pct": 8.99,
+      "peso_relativo": 42.4,
+      "fatia_pct": 13.16,
       "fontes_distintas": 15
     },
     {
+      "termo": "Raquel",
+      "peso_relativo": 35.6,
+      "fatia_pct": 11.05,
+      "fontes_distintas": 19
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 33.9,
+      "fatia_pct": 10.53,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 33.9,
+      "fatia_pct": 10.53,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 25.4,
+      "fatia_pct": 7.89,
+      "fontes_distintas": 14
+    },
+    {
       "termo": "Campos",
-      "peso_relativo": 26.1,
-      "fatia_pct": 8.43,
+      "peso_relativo": 25.4,
+      "fatia_pct": 7.89,
       "fontes_distintas": 14
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 26.1,
-      "fatia_pct": 8.43,
+      "peso_relativo": 25.4,
+      "fatia_pct": 7.89,
       "fontes_distintas": 14
     },
     {
+      "termo": "vitória de Lula",
+      "peso_relativo": 18.6,
+      "fatia_pct": 5.79,
+      "fontes_distintas": 10
+    },
+    {
       "termo": "Lyra parabeniza",
-      "peso_relativo": 19.2,
-      "fatia_pct": 6.18,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "Raquel Lyra parabeniza",
-      "peso_relativo": 19.2,
-      "fatia_pct": 6.18,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "parabeniza Lula",
-      "peso_relativo": 17.4,
-      "fatia_pct": 5.62,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "Lula pela",
-      "peso_relativo": 15.7,
-      "fatia_pct": 5.06,
+      "peso_relativo": 16.9,
+      "fatia_pct": 5.26,
       "fontes_distintas": 9
     },
     {
-      "termo": "Lyra parabeniza Lula",
-      "peso_relativo": 15.7,
-      "fatia_pct": 5.06,
+      "termo": "Raquel Lyra parabeniza",
+      "peso_relativo": 16.9,
+      "fatia_pct": 5.26,
       "fontes_distintas": 9
     },
     {
       "termo": "Brasil",
-      "peso_relativo": 15.7,
-      "fatia_pct": 5.06,
+      "peso_relativo": 16.9,
+      "fatia_pct": 5.26,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "parabeniza Lula",
+      "peso_relativo": 15.3,
+      "fatia_pct": 4.74,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Lyra parabeniza Lula",
+      "peso_relativo": 13.6,
+      "fatia_pct": 4.21,
       "fontes_distintas": 8
     },
     {
-      "termo": "parabeniza Lula pela",
-      "peso_relativo": 13.9,
-      "fatia_pct": 4.49,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Vitória",
-      "peso_relativo": 12.4,
-      "fatia_pct": 3.99,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "pela reeleição",
-      "peso_relativo": 12.2,
-      "fatia_pct": 3.93,
+      "termo": "Priscila",
+      "peso_relativo": 11.9,
+      "fatia_pct": 3.68,
       "fontes_distintas": 7
     },
     {
-      "termo": "vitória de Lula",
-      "peso_relativo": 12.2,
-      "fatia_pct": 3.93,
+      "termo": "Krause",
+      "peso_relativo": 11.9,
+      "fatia_pct": 3.68,
       "fontes_distintas": 7
     },
     {
-      "termo": "Lula pela reeleição",
-      "peso_relativo": 10.5,
-      "fatia_pct": 3.37,
+      "termo": "Priscila Krause",
+      "peso_relativo": 11.9,
+      "fatia_pct": 3.68,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Lula maior",
+      "peso_relativo": 10.3,
+      "fatia_pct": 3.21,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Mundo",
+      "peso_relativo": 10.3,
+      "fatia_pct": 3.21,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Lula pela",
+      "peso_relativo": 10.2,
+      "fatia_pct": 3.16,
       "fontes_distintas": 6
     },
     {
-      "termo": "Vencemos",
-      "peso_relativo": 10.5,
-      "fatia_pct": 3.37,
+      "termo": "parabeniza Lula pela",
+      "peso_relativo": 10.2,
+      "fatia_pct": 3.16,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "pela reeleição",
+      "peso_relativo": 10.2,
+      "fatia_pct": 3.16,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Exercito",
+      "peso_relativo": 10.2,
+      "fatia_pct": 3.16,
       "fontes_distintas": 1
     },
     {
-      "termo": "Norte",
-      "peso_relativo": 9.9,
-      "fatia_pct": 3.2,
+      "termo": "Exercito Do Lula",
+      "peso_relativo": 10.2,
+      "fatia_pct": 3.16,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonarismo",
+      "peso_relativo": 9.7,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mata",
+      "peso_relativo": 9.7,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonarismo Mata",
+      "peso_relativo": 9.7,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
       "termo": "Maior",
-      "peso_relativo": 9.4,
-      "fatia_pct": 3.03,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Mundo",
-      "peso_relativo": 9.4,
-      "fatia_pct": 3.03,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Maior",
-      "peso_relativo": 9.4,
-      "fatia_pct": 3.03,
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.68,
       "fontes_distintas": 1
     },
     {
       "termo": "Maior Do Mundo",
-      "peso_relativo": 9.4,
-      "fatia_pct": 3.03,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Democracia",
-      "peso_relativo": 8.9,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Vitoria Da Democracia",
-      "peso_relativo": 8.9,
-      "fatia_pct": 2.87,
+      "peso_relativo": 8.6,
+      "fatia_pct": 2.68,
       "fontes_distintas": 1
     },
     {
       "termo": "Governo Federal",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.81,
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.63,
       "fontes_distintas": 5
     },
     {
-      "termo": "Virada",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 1
+      "termo": "Lula pela reeleição",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 5
     },
     {
-      "termo": "EMais",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 1
+      "termo": "bicicletas elétricas",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 5
     },
     {
-      "termo": "Gostoso",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Virada EMais",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EMais Gostoso",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Virada EMais Gostoso",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Trump",
-      "peso_relativo": 8.0,
-      "fatia_pct": 2.58,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "OBrasil",
-      "peso_relativo": 7.8,
+      "termo": "Justica",
+      "peso_relativo": 8.1,
       "fatia_pct": 2.53,
       "fontes_distintas": 1
     },
     {
-      "termo": "Lula OBrasil",
-      "peso_relativo": 7.8,
+      "termo": "Verde",
+      "peso_relativo": 8.1,
       "fatia_pct": 2.53,
       "fontes_distintas": 1
     },
     {
-      "termo": "OBrasil Te",
-      "peso_relativo": 7.8,
+      "termo": "Rio Verde",
+      "peso_relativo": 8.1,
       "fatia_pct": 2.53,
       "fontes_distintas": 1
     },
     {
-      "termo": "Te Ama",
-      "peso_relativo": 7.8,
+      "termo": "Justica Por Rio",
+      "peso_relativo": 8.1,
       "fatia_pct": 2.53,
       "fontes_distintas": 1
     },
     {
-      "termo": "Lula OBrasil Te",
-      "peso_relativo": 7.8,
-      "fatia_pct": 2.53,
+      "termo": "MILHÕES",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.37,
       "fontes_distintas": 1
     },
     {
-      "termo": "OBrasil Te Ama",
-      "peso_relativo": 7.8,
-      "fatia_pct": 2.53,
+      "termo": "FUZIL",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.37,
       "fontes_distintas": 1
     },
     {
-      "termo": "Costa",
-      "peso_relativo": 7.3,
-      "fatia_pct": 2.36,
+      "termo": "Renan",
+      "peso_relativo": 7.1,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Santos",
+      "peso_relativo": 7.1,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Renan Santos",
+      "peso_relativo": 7.1,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Eleições 2026",
+      "peso_relativo": 6.8,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
     },
     {
-      "termo": "Bolsonarismo",
-      "peso_relativo": 7.3,
-      "fatia_pct": 2.36,
-      "fontes_distintas": 1
+      "termo": "STF",
+      "peso_relativo": 6.8,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
     }
   ]
 }
