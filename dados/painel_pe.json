@@ -1,164 +1,164 @@
 {
-  "atualizado_em": "2026-10-26T01:42:59Z",
-  "total_analisado": 137,
+  "atualizado_em": "2026-10-26T07:45:22Z",
+  "total_analisado": 144,
   "x_recife": [
     {
-      "termo": "Barcelona",
+      "termo": "Sudeste",
       "posicao": 1,
-      "variacao": "+13",
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Barcelona",
+      "url": "https://x.com/search?q=Sudeste",
       "ruido": false
     },
     {
-      "termo": "Real Madrid",
+      "termo": "Trump",
       "posicao": 2,
-      "variacao": "+16",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Real%20Madrid",
+      "url": "https://x.com/search?q=Trump",
       "ruido": false
     },
     {
-      "termo": "O STF",
+      "termo": "OBRIGADA JANONES",
       "posicao": 3,
-      "variacao": "+22",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=O%20STF",
-      "ruido": false
-    },
-    {
-      "termo": "Bolsonarismo",
-      "posicao": 4,
-      "variacao": "+35",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Bolsonarismo",
-      "ruido": false
-    },
-    {
-      "termo": "Barça",
-      "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Bar%C3%A7a",
-      "ruido": false
-    },
-    {
-      "termo": "Bolsonaristas",
-      "posicao": 6,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Bolsonaristas",
-      "ruido": false
-    },
-    {
-      "termo": "Brazil",
-      "posicao": 7,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Brazil",
-      "ruido": false
-    },
-    {
-      "termo": "Absurdo",
-      "posicao": 8,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Absurdo",
-      "ruido": false
-    },
-    {
-      "termo": "Lula",
-      "posicao": 9,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Lula",
-      "ruido": false
-    },
-    {
-      "termo": "Lula",
-      "posicao": 10,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Lula",
-      "ruido": false
-    },
-    {
-      "termo": "#Eleições2026",
-      "posicao": 11,
-      "variacao": "-8",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23Elei%C3%A7%C3%B5es2026",
-      "ruido": false
-    },
-    {
-      "termo": "VIVA A DEMOCRACIA",
-      "posicao": 12,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=VIVA%20A%20DEMOCRACIA",
-      "ruido": false
-    },
-    {
-      "termo": "Nordeste",
-      "posicao": 13,
-      "variacao": "-9",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Nordeste",
-      "ruido": false
-    },
-    {
-      "termo": "Minas Gerais",
-      "posicao": 14,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Minas%20Gerais",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=OBRIGADA%20JANONES",
       "ruido": false
     },
     {
       "termo": "Vencemos",
-      "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 4,
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Vencemos",
       "ruido": false
     },
     {
-      "termo": "Mais 4",
+      "termo": "Nikolas",
+      "posicao": 5,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Nikolas",
+      "ruido": false
+    },
+    {
+      "termo": "VIVA A DEMOCRACIA",
+      "posicao": 6,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=VIVA%20A%20DEMOCRACIA",
+      "ruido": false
+    },
+    {
+      "termo": "Tarcísio",
+      "posicao": 7,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Tarc%C3%ADsio",
+      "ruido": false
+    },
+    {
+      "termo": "Minas Gerais",
+      "posicao": 8,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Minas%20Gerais",
+      "ruido": false
+    },
+    {
+      "termo": "Venezuela",
+      "posicao": 9,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Venezuela",
+      "ruido": false
+    },
+    {
+      "termo": "#LulaPresidente",
+      "posicao": 10,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23LulaPresidente",
+      "ruido": false
+    },
+    {
+      "termo": "Caiado",
+      "posicao": 11,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Caiado",
+      "ruido": false
+    },
+    {
+      "termo": "Alckmin",
+      "posicao": 12,
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Alckmin",
+      "ruido": false
+    },
+    {
+      "termo": "Brazil",
+      "posicao": 13,
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Brazil",
+      "ruido": false
+    },
+    {
+      "termo": "Zema",
+      "posicao": 14,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Zema",
+      "ruido": false
+    },
+    {
+      "termo": "Aceita",
+      "posicao": 15,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Aceita",
+      "ruido": false
+    },
+    {
+      "termo": "Ana Elisa",
       "posicao": 16,
-      "variacao": "+30",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Mais%204",
+      "url": "https://x.com/search?q=Ana%20Elisa",
       "ruido": false
     },
     {
-      "termo": "DE VIRADA É MAIS GOSTOSO",
+      "termo": "#LulaReeleito",
       "posicao": 17,
-      "variacao": "+16",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=DE%20VIRADA%20%C3%89%20MAIS%20GOSTOSO",
+      "url": "https://x.com/search?q=%23LulaReeleito",
       "ruido": false
     },
     {
-      "termo": "Zanin",
+      "termo": "Nikole",
       "posicao": 18,
-      "variacao": "-13",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Zanin",
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Nikole",
       "ruido": false
     },
     {
-      "termo": "#EleccionesBrasil2026",
+      "termo": "Entrou",
       "posicao": 19,
-      "variacao": "-8",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23EleccionesBrasil2026",
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Entrou",
       "ruido": false
     },
     {
       "termo": "Ganhamos",
       "posicao": 20,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "variacao": "+3",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Ganhamos",
       "ruido": false
     }
@@ -167,20 +167,14 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "G1: Resultado das eleições 2026 em Pernambuco: veja a votação por cidade no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXNxU2Z3NVB4el92T1cxck5jYXpOZkhPS1Q0LXFXSTNPVzJhNlZZU3JsUXJoZGN5OWhhR1YyTGVyeGdjOHR1cmlzMjg5X2VDdWtRaW81SEcwTHI0N05rM3RObV90dmFMcmZMb1UwN216NXl6N09XM2w2eFZoYWswM3pQUmF6bDF5bVpQUVRsS2IzY2lwanVrTXpZaVotcmlZdmt0Y05Qc2hGaXBFWmxGdjFnd3ZhVDQtc3NkbFZBZUNCMVVocVdGREgzRzdqcGRWbDIxcEMta3NIM0xwcUt3X3YwVkQ0VDJT0gH3AUFVX3lxTFB4b194NklOTGIyNUx1WEJrS1JoOTd5bjNpWWxNS2VyUlp6V09laXg1cG9hT09LUVFfVVZWQkQ4S1BvVUpIb0cyeHo0aHZqcDVqYzkxMlNSalNOVHBrclFZa1pNZDJ5TFB5Q002aENzRWIwTU5Xa1BxZDVEckJOaHFHU2gyYnNCSFY3UExlem50RnRlSzN1bmx6czBOT0c4aWJjd0l3V0FHazR1U0NBdEduXzd4ZVN6ZjBMbVpMcnlCbTg2bVhNX21aMU1YU2hoZ3VkSWRSeHltTmVRMmZaWEVaaHMwdlNNYkxUWmlBbjJQTGxwNTRBaFk?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Brasil de Fato: Pernambuco reduz abstenções, brancos e nulos, amplia votos de Lula em mais de 500 mil, chegando a 69,2% na sua terra natal",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTXJDRXdmOVZFekhEb1lzY3AzX1ZHTUM0S21TVU8wNWpvLU8wSllmXzFUVTRYOTQ0RUNCOGdMREtaSVcxTGZOUFhUaURacTg0OUdIeDVYVzJiWTBnaUJReW9Kd1hpWktUcklEOWRCbTZrWC1wV1k1azc2Yy1KS0pnR1c2MjFsclZjakI5dnE1VEJndUVXc0NUdjZIMThTMDB5V2xTLW5WYWZfYVNRTFNMQXFSbEp4REZkNllIZGFlRjZDcDNwQ2t0YmVZaTRKVHJRWFl1ZW9RUDRQN0ZtTnl3bWdaRlE3UzR0REJhbjZTakowa1E?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Lula supera 4 milhões de votos em Pernambuco e bate recorde de votação em seu estado natal",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObWFZUXY3cHlaOGdDZVJfa0pzMGl1dkJSVmY3OXI3RU44V0o1Y2pHbzhmcFppQmtxNzQ0TzJScGQxMUI5b2ZOVDFaQUxyaHV5SkJXUmcwYS1fV1lWVHhjdUpScDEzZW1IU3FtT2xXbzJHVUNmbVNYWWp4YnZMRWI1SEpOWHlRaDIyMEJ1WmFHNGdiRGp5dWpmTTJRQ1o2aHFEYmhteFU3UHlDYUxka2ZzWnF5NWVtcHJCZzV0TVlvcnVBR09VZEUxbDQtWGwxLXMwdHR0SkxvNEpIZWJVN2kwOXpjRV8tMkxmclHSAfgBQVVfeXFMTXlKNm9oc0N3Z25PRjI2TTR6V2NWSmtWdVFHcDhvazBaTFN6aUZtLVpXMjJ4WjBhVEozR3FLcDM4NzJ2TEhMcTlaMV9qM1VXMl8zUUlydkRIcEZ6RXROVU80RnZVblpsanFPZTR4ekVkRHRoM0JueVZSeUdLQ2pEMDlJT0sySXFLalhwN3pSbjZKbS1lWlRFQU1kY1BTa3U1N0RqVG1tNTd4YkpuY3JwY2thbGVfcmM0MzBLLXBvM09STkZsVTJHdzZHUjQ2TFB1a0pieEVQVzRQZXQ3SWFBTElUQkVCMXZTR3VRaGxaWXhRWU1WanFhSFc?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "CNN Brasil: 2º turno em Pernambuco: Lula tem 69,20% contra 30,80% de Flavio Bolsonaro",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnp0T0tPU3VOTmp4U3dEbVNmSTYwZkdLTmhtZVJTQ0k4RHBmWUZIZGNPZ1MyN2EzWWZqSmIzSDhRNFQ0UUJ0dWlFRjIzal9DUG43WGo1c2hVUURDbkgyLUg2TVEta0xIdXRzV3h4MWVEMERadC1yQzE1TlczenRmUzBuTzdLQUJXeENHWk1UbHd0djktUTVWX1BYa0RQYzVoU1oxRmR0NGFaczg?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -191,8 +185,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Tribunal Regional Eleitoral de Pernambuco: O TRE-PE informa que foram substituídas 64 urnas em todo o estado até 14h deste domingo (25)",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR25sRXpodC0xRURPWENfcFJVX1UwTkRsYVItbmRLc3BWQXB5Z2xVY25pSjFxajhEY3ZyVVlhME0xbHNCYXBGUkhULTV5Mlg5SWhzYmt1VGxYTEhhX1dNQThISWtnZlZYaUxTd0M5WUpFQWJCVGp5OC1DUGxjdWxpZ0dXbnEtQy1vWlo4aGdoWW1YbVd1NUJBeXBuSVluQ1dWb25FeHVtWThUa01RVVE3emtTaHBDTDZ2a1VvLUEwUUliQWZpTTVqWkZOdndqcVNxbmljcEk3RjRsM0xpUjVpSXRRS1o?oc=5"
+      "manchete": "CNN Brasil: 2º turno em Pernambuco: Lula tem 69,20% contra 30,80% de Flavio Bolsonaro",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnp0T0tPU3VOTmp4U3dEbVNmSTYwZkdLTmhtZVJTQ0k4RHBmWUZIZGNPZ1MyN2EzWWZqSmIzSDhRNFQ0UUJ0dWlFRjIzal9DUG43WGo1c2hVUURDbkgyLUg2TVEta0xIdXRzV3h4MWVEMERadC1yQzE1TlczenRmUzBuTzdLQUJXeENHWk1UbHd0djktUTVWX1BYa0RQYzVoU1oxRmR0NGFaczg?oc=5"
     },
     {
       "termo": "Recife",
@@ -215,14 +209,14 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Tribunal Regional Eleitoral de Pernambuco: TRE-PE determina restabelecimento da frota de ônibus e funcionamento regular do metrô neste domingo (25)",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdm9vNVlGTHhiZmtkTFQxbUE4V1NnbHUzczQ1Ym1IX3BzWmVEUFNKbnUtaDZWbjdNSlpPQlRPeXlVQ2NtT0pjRmJiZkdQMjI5djJlNlIwRDFnMmFvb3lMNk05aE9qWWg4RHljWE1ZdVdhSDdmaGtYOEV4V2JqNDEzS1hCNDhKdzlfSlY2Tjg1cXJHV0FnRmxJa2hfQXhPRWZWNi1VYUhiZVRfak5XdjhMdG9xdFBGSzAxMWJPY29lUUVtMVN1N0hKTUt1TkdxR1F5elhtOUNnTVFDTUpfS0thQzJBWlotSlVVUllMMTBJM3drOVF1?oc=5"
+      "manchete": "Marco Zero Conteúdo: Decisão do STF chegou depois do fechamento das urnas e confundiu mesários no Recife",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0dSSHZfN2NaZXBJWEdEajhBTzU5c3FqQk00cFJfYVhEMXFRXzFqakF5RmNVc0llQ1JMWVhXR3NJS3pHTmdoSXNhdlQzQlJ0VHhmbVk2eDh0TGViZFpwQlozLWgzQXVoS0ZoczFIa0pvc21aRTh4LXZ3emxzTGJSeGhDeFdsMnRIRGQzalRHZEcwaTNSUkw5Wjk2M0xncUJPbUE3QUhtcUg2UQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Marco Zero Conteúdo: Decisão do STF chegou depois do fechamento das urnas e confundiu mesários no Recife",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0dSSHZfN2NaZXBJWEdEajhBTzU5c3FqQk00cFJfYVhEMXFRXzFqakF5RmNVc0llQ1JMWVhXR3NJS3pHTmdoSXNhdlQzQlJ0VHhmbVk2eDh0TGViZFpwQlozLWgzQXVoS0ZoczFIa0pvc21aRTh4LXZ3emxzTGJSeGhDeFdsMnRIRGQzalRHZEcwaTNSUkw5Wjk2M0xncUJPbUE3QUhtcUg2UQ?oc=5"
+      "manchete": "Diario de Pernambuco: Apoiadores de Lula comemoram reeleição no Centro do Recife",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSDRpcUhKOVYzSk0yUE9oaEtQa1p2WXVESTlZVFZRYVpoRWlZWUdLb0lQdzFaQS1TOFJnYUxBOUxUeEd2MHRyZEc5c0tSSjlDeUx1TGRBZldfUURqczBld0s1aUdaVS1kN05jajdQbzU1NG5fYW1VY2VTY1YyLUlsX0JDamZ1OGNXQVNxeXg4WnBLMFZsU2duSGJfRFJMaVFYR09BbEJSaFBxNWpGZXFmempXR3FGRndhQ3JVdUpGSUFPUnRWNWc?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -233,20 +227,14 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "TV Guararapes: Ônibus, metrô e urnas: o mapa da falta de transporte no segundo turno",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlMzcGw1Qkh0MXNDaV9fMzdydzZabFpSWEZya3ExT0NTTkNLbVVsT1hZaDVXb20zT2paeDFuN2JmWThlZ0h5VHpPZEZuZzVDcW1OX3d6YlotYlg1T1RkdTJZRzRYSUxKVDJVb3VndVk3TXJHSVFmb1lZb01QMWpEMG1Dd2FjTTN3VlN2ZG9UT3B2NUJzQkVWeFVST2FlMjNDWGNXOEFIVElXNEtsZnpfX01VUWhLdw?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
       "manchete": "CBN Recife: TRE-PE determina normalização imediata dos ônibus e gratuidade do Metrô do Recife",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM01CWXFRd2R0ZC0wclN6QV9CclhmNWZVZDZUbGF4WjBZVHlnYXR5bXhVZmV6d2tXVUlhN095NkZ4eWt6NGJuSkdWR21iZkJ6ODMyQjN6MExyUjZsZ0FRR0RHbDdLVHN1MGJBZEx5YTdLLThFM0JSdFI0YVQtUTBfVEV0c1ZWMHhIYy1HSElZVFlnUWNpMUphczU0WlNuajV4X0VvNlI5QVRuN0JNM2M4alBpcEtaSVh3T0RB?oc=5"
     },
     {
-      "termo": "Alepe",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Nossa Voz: Professor Gilmar Santos pede participação dos eleitores e defende democracia no segundo turno",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hcFVyeWRYanVPYkFLaTUyWE1WUGx6QXNabFBEdEtyMnpoZ09ZS2Vsa0ktVjVreWtRVERPSWNzNkZqZTJjUllxLUpWOEFhZ00?oc=5"
+      "manchete": "TV Guararapes: Ônibus, metrô e urnas: o mapa da falta de transporte no segundo turno",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlMzcGw1Qkh0MXNDaV9fMzdydzZabFpSWEZya3ExT0NTTkNLbVVsT1hZaDVXb20zT2paeDFuN2JmWThlZ0h5VHpPZEZuZzVDcW1OX3d6YlotYlg1T1RkdTJZRzRYSUxKVDJVb3VndVk3TXJHSVFmb1lZb01QMWpEMG1Dd2FjTTN3VlN2ZG9UT3B2NUJzQkVWeFVST2FlMjNDWGNXOEFIVElXNEtsZnpfX01VUWhLdw?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -257,110 +245,74 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Eleições 2026: Brasil elege 3 mulheres governadoras",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQUVfTUVpRWl3bDV1NWZoX3I5ajRUd2hWcEk5OFg2SGlVdFFwUVg0V3JWaGd3Z2F4NU4wVUNiWDFqVmNxWFg5OWtWLVBxUzExaU5oMUdmWVVYenJkSHVCaEYxRkJnOFNvQmZTUTNISDgtbUY5WXROYmpuMUFiQUYtUGp5TXZiOEJTSTdBV0xnUFlOSEtLWkRsM3YwbE5Xdzg0cGtoZk9fQzJpbUpGdzZlMWhTUVhWcXRDNjVOM0w5cFNKcVAyOWJadHQyczVKT2sxdE1rYldn?oc=5"
+      "manchete": "Blog do Alberto Alves: Governo de Pernambuco anuncia pagamento do BDE 2026 para 30 de outubro",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMEI0NkNfU3FRZEVDaXBUMk9BQ3JmTmRqS1Rsc09vUE1KQ2JEd2hUdUxQS3ZzSnVaTUxtcDJESEtub19rTi1VMDRIeWJoVkpwdzFWejdvaW9naXl3Z09Zdk90Y1JLNks0UU9RM0lWV3JvbFdaV1phcG90bXBYd3FaSGhxVjFJNG9lMUtZTWZxb0NxU05VclczbTFLZnkyRWFlV2RIVnI5OTA2cE0?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Raquel Lyra parabeniza o presidente Luiz Inácio Lula da Silva pela reeleição",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzhBaEg2cUNDZUJiOXBBMmM4WUNEeS1FMDY0WE1YUFVKSUcyTm1VNXVraEE3RFBoeENOMDIwMGxPQjJ3OXFleEJGazRfZC1OWFI5enh5Y1dIREJyWG5MUUQ5cG9HY1ExYXRQeDlEV2xzTkJkSUMxNFdBSmVtQXkwR0cwUWI3NjVWbFFiT3J4NFlFMWs2OEg5TGN3OElsSXBjMmR4bno1SkgtN3BTNnZyaGRaczBrTXJWSTljZjZUblE?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
       "manchete": "LeiaJá: Raquel Lyra parabeniza Lula pela reeleição e defende parceria entre Pernambuco e governo federal",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzB2MVpyTF9xY3cxQXR6LVh2c21vZGc0eXdtMC1iV2tyUWJzSml0TzI3UUJsbmlIVmgwUnA1V1k5WU5aOEpRaGtRLXFKZktWVDE1WEZHZFp1aVhpUVlIcDNZOXB4eXNtcE5ZS21GVG5pc2ljMy10UDg2LXRxWF9lbUxPTFhSd01aWk03elgwTk5LYm90R3pjY2RMYlJKX09lcWxxdWRsajd4Qmhiek15d0JMMjlJQ3JzdkhwZjRyNTJVdlBNbjhKMkg2cnZOQ1VKN1paazlhUQ?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "VOENEWS: Roadshow de Pernambuco capacita cerca de 3.6 mil profissionais do turismo em 18 cidades de três continentes",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcWR2X05aTzB4YzBUY0RzaWgzRmZfZjViQWE2ZTU2dlFjVWNjWURsMkdHU01xblo0Q2hnLWIyajRkaUM1LXN0SmdqRG9IRUZOMEhSNFp1ajFzN1RTOFZ5M21ZczQ3VWkyWmJ2bC1Ob1R3UVdnUUxFUE84Y2lSVE14MGhVdTR6eWR0TjJ6YWRUSm1EcWVlaHZjNzQ0aUFqbEJQeUNSempIbmRTSTVfTUl3a2p3OHE5OFdPajczRzNvV1dHVDlSa3lyZExLMA?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "gente venceu",
-      "razao_aumento": 100.0,
+      "termo": "Lula é reeleito",
+      "razao_aumento": 84.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-25T14:36:00Z",
-        "titulo": "João Campos avalia crescimento da campanha de Lula no 2º turno: “A gente venceu nas redes e ruas”",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzU2ZlFJQVdaYjRyc0phWmVXSE9nNDVWSUNzeHZvOUNldzlEbTZLLXJmX3o3SWRrR2FjWkJKN1VzT1dJSU5TV0NZRVh1a3g1MGJNeFpGZ2drcVlmQlhVUVkxZnBwRUhycXRTTG9BcXlVQWNCaGVCUU5YYno5VlpMa2J2ZmgwLUg3UHJQYXdNZzZjb2gyY0FSVGliazJtYU1QTUtlbXNxX182U0xWVEpIRE1YWDg2LXF0VUFzOUdLd25hSjc2WjlaZllNWjNIbHdKT1kyM2V2V0xVeGg1UWZZSTExZlhTQQ?oc=5",
+        "fonte": "Brasil de Fato",
+        "hora": "2026-10-25T23:53:00Z",
+        "titulo": "Lula é reeleito e derrota Flávio Bolsonaro em virada histórica",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb2E1MUZSM2VmMUZPSmhzYmJEUUNqQ2ZwQVU4ejFtUDBYVHUtWjUtR3RhN3ZzNkEwT3loakdKdlRzbzFWbzlWTmRtTkNBeXBqWENDNTZjekg5cGgzUE1vUUNIRmNJQU1faDhFcTJfR1hxR3RNaFpqdWtiWHdrRUhyREpkbWNoSDM3N2NjNGhoaHQ2VlphQW1nd0d1dDRTMVV4NzNpV3BXU0ZLRkpyZWNqWUFGXzBsZG5vNUNOQ1Fwc3ptQQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "venceu nas redes",
-      "razao_aumento": 100.0,
+      "termo": "parabeniza Lula",
+      "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-25T14:36:00Z",
-        "titulo": "João Campos avalia crescimento da campanha de Lula no 2º turno: “A gente venceu nas redes e ruas”",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzU2ZlFJQVdaYjRyc0phWmVXSE9nNDVWSUNzeHZvOUNldzlEbTZLLXJmX3o3SWRrR2FjWkJKN1VzT1dJSU5TV0NZRVh1a3g1MGJNeFpGZ2drcVlmQlhVUVkxZnBwRUhycXRTTG9BcXlVQWNCaGVCUU5YYno5VlpMa2J2ZmgwLUg3UHJQYXdNZzZjb2gyY0FSVGliazJtYU1QTUtlbXNxX182U0xWVEpIRE1YWDg2LXF0VUFzOUdLd25hSjc2WjlaZllNWjNIbHdKT1kyM2V2V0xVeGg1UWZZSTExZlhTQQ?oc=5",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-10-26T01:26:40Z",
+        "titulo": "Raquel Lyra parabeniza Lula pela vitória no 2º turno",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVBdDBYdUF6UzNFWjYwLTh2d01JSTVHa0dSZWdfemtQdnJGZ3hCVHBVajFZV1U2andXZG1HcGpuVnRhdDJKYVVadEs0YmZZT2cyMV92RkZTOFN6U1MyMzBIZUk3SG5IV05QVDFmU1p5ZnpjbDAyWXJBVi15RjVRTUtSam9tUGM?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "redes e ruas",
-      "razao_aumento": 100.0,
+      "termo": "Lyra parabeniza",
+      "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-25T14:36:00Z",
-        "titulo": "João Campos avalia crescimento da campanha de Lula no 2º turno: “A gente venceu nas redes e ruas”",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzU2ZlFJQVdaYjRyc0phWmVXSE9nNDVWSUNzeHZvOUNldzlEbTZLLXJmX3o3SWRrR2FjWkJKN1VzT1dJSU5TV0NZRVh1a3g1MGJNeFpGZ2drcVlmQlhVUVkxZnBwRUhycXRTTG9BcXlVQWNCaGVCUU5YYno5VlpMa2J2ZmgwLUg3UHJQYXdNZzZjb2gyY0FSVGliazJtYU1QTUtlbXNxX182U0xWVEpIRE1YWDg2LXF0VUFzOUdLd25hSjc2WjlaZllNWjNIbHdKT1kyM2V2V0xVeGg1UWZZSTExZlhTQQ?oc=5",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-10-26T01:26:40Z",
+        "titulo": "Raquel Lyra parabeniza Lula pela vitória no 2º turno",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVBdDBYdUF6UzNFWjYwLTh2d01JSTVHa0dSZWdfemtQdnJGZ3hCVHBVajFZV1U2andXZG1HcGpuVnRhdDJKYVVadEs0YmZZT2cyMV92RkZTOFN6U1MyMzBIZUk3SG5IV05QVDFmU1p5ZnpjbDAyWXJBVi15RjVRTUtSam9tUGM?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "avalia crescimento",
-      "razao_aumento": 86.0,
+      "termo": "Raquel Lyra parabeniza",
+      "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-25T14:36:00Z",
-        "titulo": "João Campos avalia crescimento da campanha de Lula no 2º turno: “A gente venceu nas redes e ruas”",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzU2ZlFJQVdaYjRyc0phWmVXSE9nNDVWSUNzeHZvOUNldzlEbTZLLXJmX3o3SWRrR2FjWkJKN1VzT1dJSU5TV0NZRVh1a3g1MGJNeFpGZ2drcVlmQlhVUVkxZnBwRUhycXRTTG9BcXlVQWNCaGVCUU5YYno5VlpMa2J2ZmgwLUg3UHJQYXdNZzZjb2gyY0FSVGliazJtYU1QTUtlbXNxX182U0xWVEpIRE1YWDg2LXF0VUFzOUdLd25hSjc2WjlaZllNWjNIbHdKT1kyM2V2V0xVeGg1UWZZSTExZlhTQQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "crescimento da campanha",
-      "razao_aumento": 86.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-25T14:36:00Z",
-        "titulo": "João Campos avalia crescimento da campanha de Lula no 2º turno: “A gente venceu nas redes e ruas”",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzU2ZlFJQVdaYjRyc0phWmVXSE9nNDVWSUNzeHZvOUNldzlEbTZLLXJmX3o3SWRrR2FjWkJKN1VzT1dJSU5TV0NZRVh1a3g1MGJNeFpGZ2drcVlmQlhVUVkxZnBwRUhycXRTTG9BcXlVQWNCaGVCUU5YYno5VlpMa2J2ZmgwLUg3UHJQYXdNZzZjb2gyY0FSVGliazJtYU1QTUtlbXNxX182U0xWVEpIRE1YWDg2LXF0VUFzOUdLd25hSjc2WjlaZllNWjNIbHdKT1kyM2V2V0xVeGg1UWZZSTExZlhTQQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "governo federal",
-      "razao_aumento": 67.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Márcio Didier",
-        "hora": "2026-10-25T17:50:36Z",
-        "titulo": "Raquel vota em Caruaru e reforça parceria com o governo federal",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZbVB0MmltUFFTcF9FNno2R1RwYVJpOGV2YVNtWkFBVmVQY0dTX2ZKNzFCaV85M1ZXb19YcWZIQ0MxTDVZTjVUdnM5R291djlYSExLVDFJdWZrQTdYdkdpMTJ2TDQtRXpnMjk1QU1mOEppRTJ3dFJnNg?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "votar em Caruaru",
-      "razao_aumento": 67.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-25T17:40:52Z",
-        "titulo": "Ao votar em Caruaru, governadora Raquel Lyra afirma que “hoje é um dia muito importante para a democracia”",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGM4cktVOUJSaUJvLWF1UzlNc0FPN2Nsc0lzOTZoZ0hSSlROZzJWeldSb0M3NklKNTluZGNETVM5Zjh6bjdNSnJ0WGtwbUMxb1hIQlR5V2hpd0twYXM0TUoxV0ZKS2xRVzZmcUhkVG9xSjVVUXhKMi1HRHZNNXF5WXhmalBpQTd0aU8zU1Mxc3FBb2VhRmJSbjJYblhycFNGYzdHWVJzZkdSUG95cVM1eUVzd3h3WGFNTmxqaVpaTUlLd3hKeEJOXzR3?oc=5",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-10-26T01:26:40Z",
+        "titulo": "Raquel Lyra parabeniza Lula pela vitória no 2º turno",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVBdDBYdUF6UzNFWjYwLTh2d01JSTVHa0dSZWdfemtQdnJGZ3hCVHBVajFZV1U2andXZG1HcGpuVnRhdDJKYVVadEs0YmZZT2cyMV92RkZTOFN6U1MyMzBIZUk3SG5IV05QVDFmU1p5ZnpjbDAyWXJBVi15RjVRTUtSam9tUGM?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Marília",
-      "razao_aumento": 62.5,
+      "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha PE",
@@ -369,278 +321,314 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeTZzWGI4aTFGdk1jS1NoYnNBMnJaY3J4dlNxbHVsblF4Q3J1d2w2cmVFcFUxWXBBVkxETG5mV0daNEtDY2JHbnhOR28wNVZMZzB4V2pOYmVpVXdTT0ZzWEdHZThJNmZyNVBkV2RvamhBc3pCMGx0NE93NGNsTzZfV3lBQ0hac0tyVlQzVUFIV3FsYVN3RG85N1gya21xYnNDZ1ZaeFBESGlRYmtrMlJ2TXNFWTVUM0ZxMGE4TjIzNWZNVmI1YlVXTEJmdEttWTZXbGJCanBidHFFSk44RW1aeElkZTM?oc=5",
         "peso": 1.0
       }
+    },
+    {
+      "termo": "Arraes",
+      "razao_aumento": 76.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha PE",
+        "hora": "2026-10-25T14:09:00Z",
+        "titulo": "Marília Arraes vota no Recife e segue para acompanhar a apuração ao lado de Lula, em São Paulo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeTZzWGI4aTFGdk1jS1NoYnNBMnJaY3J4dlNxbHVsblF4Q3J1d2w2cmVFcFUxWXBBVkxETG5mV0daNEtDY2JHbnhOR28wNVZMZzB4V2pOYmVpVXdTT0ZzWEdHZThJNmZyNVBkV2RvamhBc3pCMGx0NE93NGNsTzZfV3lBQ0hac0tyVlQzVUFIV3FsYVN3RG85N1gya21xYnNDZ1ZaeFBESGlRYmtrMlJ2TXNFWTVUM0ZxMGE4TjIzNWZNVmI1YlVXTEJmdEttWTZXbGJCanBidHFFSk44RW1aeElkZTM?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Marília Arraes",
+      "razao_aumento": 76.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha PE",
+        "hora": "2026-10-25T14:09:00Z",
+        "titulo": "Marília Arraes vota no Recife e segue para acompanhar a apuração ao lado de Lula, em São Paulo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeTZzWGI4aTFGdk1jS1NoYnNBMnJaY3J4dlNxbHVsblF4Q3J1d2w2cmVFcFUxWXBBVkxETG5mV0daNEtDY2JHbnhOR28wNVZMZzB4V2pOYmVpVXdTT0ZzWEdHZThJNmZyNVBkV2RvamhBc3pCMGx0NE93NGNsTzZfV3lBQ0hac0tyVlQzVUFIV3FsYVN3RG85N1gya21xYnNDZ1ZaeFBESGlRYmtrMlJ2TXNFWTVUM0ZxMGE4TjIzNWZNVmI1YlVXTEJmdEttWTZXbGJCanBidHFFSk44RW1aeElkZTM?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Lyra parabeniza Lula",
+      "razao_aumento": 67.3,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-10-26T01:26:40Z",
+        "titulo": "Raquel Lyra parabeniza Lula pela vitória no 2º turno",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVBdDBYdUF6UzNFWjYwLTh2d01JSTVHa0dSZWdfemtQdnJGZ3hCVHBVajFZV1U2andXZG1HcGpuVnRhdDJKYVVadEs0YmZZT2cyMV92RkZTOFN6U1MyMzBIZUk3SG5IV05QVDFmU1p5ZnpjbDAyWXJBVi15RjVRTUtSam9tUGM?oc=5",
+        "peso": 1.0
+      }
     }
   ],
   "nuvem": [
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 24.78,
-      "fontes_distintas": 32
+      "fatia_pct": 25.83,
+      "fontes_distintas": 30
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 56.1,
-      "fatia_pct": 13.89,
-      "fontes_distintas": 15
+      "peso_relativo": 60.0,
+      "fatia_pct": 15.51,
+      "fontes_distintas": 17
+    },
+    {
+      "termo": "Raquel",
+      "peso_relativo": 47.6,
+      "fatia_pct": 12.3,
+      "fontes_distintas": 19
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 51.6,
-      "fatia_pct": 12.78,
+      "peso_relativo": 47.6,
+      "fatia_pct": 12.3,
       "fontes_distintas": 14
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 51.6,
-      "fatia_pct": 12.78,
+      "peso_relativo": 45.5,
+      "fatia_pct": 11.76,
       "fontes_distintas": 14
     },
     {
-      "termo": "Raquel",
-      "peso_relativo": 42.6,
-      "fatia_pct": 10.56,
-      "fontes_distintas": 15
-    },
-    {
       "termo": "Lyra",
-      "peso_relativo": 38.1,
-      "fatia_pct": 9.44,
-      "fontes_distintas": 15
+      "peso_relativo": 41.4,
+      "fatia_pct": 10.7,
+      "fontes_distintas": 19
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 38.1,
-      "fatia_pct": 9.44,
-      "fontes_distintas": 15
-    },
-    {
-      "termo": "Eleições 2026",
-      "peso_relativo": 24.7,
-      "fatia_pct": 6.11,
-      "fontes_distintas": 11
+      "peso_relativo": 41.4,
+      "fatia_pct": 10.7,
+      "fontes_distintas": 19
     },
     {
       "termo": "João",
-      "peso_relativo": 24.7,
-      "fatia_pct": 6.11,
-      "fontes_distintas": 10
+      "peso_relativo": 24.8,
+      "fatia_pct": 6.42,
+      "fontes_distintas": 11
     },
     {
       "termo": "Campos",
-      "peso_relativo": 24.7,
-      "fatia_pct": 6.11,
-      "fontes_distintas": 10
+      "peso_relativo": 24.8,
+      "fatia_pct": 6.42,
+      "fontes_distintas": 11
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 24.7,
-      "fatia_pct": 6.11,
-      "fontes_distintas": 10
+      "peso_relativo": 24.8,
+      "fatia_pct": 6.42,
+      "fontes_distintas": 11
     },
     {
       "termo": "Brasil",
-      "peso_relativo": 22.4,
-      "fatia_pct": 5.56,
+      "peso_relativo": 20.7,
+      "fatia_pct": 5.35,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "parabeniza Lula",
+      "peso_relativo": 18.6,
+      "fatia_pct": 4.81,
       "fontes_distintas": 9
     },
     {
-      "termo": "Eleições",
-      "peso_relativo": 20.2,
-      "fatia_pct": 5.0,
+      "termo": "Lyra parabeniza",
+      "peso_relativo": 18.6,
+      "fatia_pct": 4.81,
       "fontes_distintas": 9
     },
     {
-      "termo": "Lula é reeleito",
-      "peso_relativo": 17.9,
-      "fatia_pct": 4.44,
+      "termo": "Raquel Lyra parabeniza",
+      "peso_relativo": 18.6,
+      "fatia_pct": 4.81,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Eleições 2026",
+      "peso_relativo": 18.6,
+      "fatia_pct": 4.81,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Lyra parabeniza Lula",
+      "peso_relativo": 16.6,
+      "fatia_pct": 4.28,
       "fontes_distintas": 8
     },
     {
-      "termo": "Caruaru",
-      "peso_relativo": 15.7,
-      "fatia_pct": 3.89,
+      "termo": "Eleições",
+      "peso_relativo": 16.6,
+      "fatia_pct": 4.28,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Presidente",
+      "peso_relativo": 15.1,
+      "fatia_pct": 3.9,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Lula pela",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.74,
       "fontes_distintas": 7
     },
     {
-      "termo": "virada histórica",
-      "peso_relativo": 15.7,
-      "fatia_pct": 3.89,
+      "termo": "vitória de Lula",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.74,
       "fontes_distintas": 7
     },
     {
-      "termo": "Nordeste",
-      "peso_relativo": 14.3,
-      "fatia_pct": 3.56,
-      "fontes_distintas": 4
+      "termo": "pedir anulação",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.74,
+      "fontes_distintas": 6
     },
     {
-      "termo": "quarto mandato",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.33,
+      "termo": "parabeniza Lula pela",
+      "peso_relativo": 12.4,
+      "fatia_pct": 3.21,
       "fontes_distintas": 6
     },
     {
       "termo": "TRE PE",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.33,
+      "peso_relativo": 12.4,
+      "fatia_pct": 3.21,
       "fontes_distintas": 5
     },
     {
-      "termo": "Barcelona",
-      "peso_relativo": 13.5,
-      "fatia_pct": 3.33,
+      "termo": "Sudeste",
+      "peso_relativo": 12.4,
+      "fatia_pct": 3.21,
       "fontes_distintas": 1
     },
     {
-      "termo": "Real",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.17,
+      "termo": "Nikolas",
+      "peso_relativo": 12.0,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Trump",
+      "peso_relativo": 11.8,
+      "fatia_pct": 3.05,
       "fontes_distintas": 1
     },
     {
-      "termo": "Madrid",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.17,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Real Madrid",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.17,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "STF",
-      "peso_relativo": 12.1,
-      "fatia_pct": 3.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bolsonarismo",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.83,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lyra parabeniza",
+      "termo": "OBRIGADA",
       "peso_relativo": 11.2,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "parabeniza Lula",
-      "peso_relativo": 11.2,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Raquel Lyra parabeniza",
-      "peso_relativo": 11.2,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Lyra parabeniza Lula",
-      "peso_relativo": 11.2,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Barça",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.67,
+      "fatia_pct": 2.89,
       "fontes_distintas": 1
     },
     {
-      "termo": "Bolsonaristas",
-      "peso_relativo": 10.1,
-      "fatia_pct": 2.5,
+      "termo": "JANONES",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.89,
       "fontes_distintas": 1
     },
     {
-      "termo": "Brazil",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.33,
+      "termo": "OBRIGADA JANONES",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.89,
       "fontes_distintas": 1
     },
     {
-      "termo": "Lula pela",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "parabeniza Lula pela",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "reeleito presidente",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "presidente do Brasil",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Lula e Flávio",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "neste domingo",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Absurdo",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.17,
+      "termo": "Vencemos",
+      "peso_relativo": 10.6,
+      "fatia_pct": 2.73,
       "fontes_distintas": 1
     },
     {
       "termo": "pela reeleição",
-      "peso_relativo": 6.7,
-      "fatia_pct": 1.67,
-      "fontes_distintas": 3
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
     },
     {
-      "termo": "Lula pela reeleição",
-      "peso_relativo": 6.7,
-      "fatia_pct": 1.67,
-      "fontes_distintas": 3
+      "termo": "Caruaru",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "reeleição de Lula",
+      "peso_relativo": 10.4,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "VIVA",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "DEMOCRACIA",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "VIVA A DEMOCRACIA",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Tarcísio",
+      "peso_relativo": 8.7,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 1
     },
     {
       "termo": "governo federal",
-      "peso_relativo": 6.7,
-      "fatia_pct": 1.67,
-      "fontes_distintas": 3
+      "peso_relativo": 8.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Vitória",
-      "peso_relativo": 6.7,
-      "fatia_pct": 1.67,
-      "fontes_distintas": 3
+      "termo": "Lula pela reeleição",
+      "peso_relativo": 8.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Vitória de Lula",
-      "peso_relativo": 6.7,
-      "fatia_pct": 1.67,
-      "fontes_distintas": 3
+      "termo": "TSE",
+      "peso_relativo": 8.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
     },
     {
-      "termo": "transporte público",
-      "peso_relativo": 6.7,
-      "fatia_pct": 1.67,
-      "fontes_distintas": 3
+      "termo": "reeleito presidente",
+      "peso_relativo": 8.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "virada histórica",
+      "peso_relativo": 8.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Lula é reeleito",
+      "peso_relativo": 8.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Minas",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.09,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Gerais",
+      "peso_relativo": 8.1,
+      "fatia_pct": 2.09,
+      "fontes_distintas": 1
     }
   ]
 }
