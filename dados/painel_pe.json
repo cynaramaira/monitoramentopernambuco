@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-27T04:59:05Z",
+  "atualizado_em": "2026-10-27T10:30:39Z",
   "total_analisado": 150,
   "x_recife": [
     {
-      "termo": "Haddad",
+      "termo": "Lula",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Haddad",
+      "url": "https://x.com/search?q=Lula",
       "ruido": false
     },
     {
-      "termo": "FELIZ ANIVERSÁRIO LULA",
+      "termo": "Trump",
       "posicao": 2,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=FELIZ%20ANIVERS%C3%81RIO%20LULA",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Trump",
       "ruido": false
     },
     {
-      "termo": "#ApontaPeão",
+      "termo": "#BolsonarismoMata",
       "posicao": 3,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23ApontaPe%C3%A3o",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23BolsonarismoMata",
       "ruido": false
     },
     {
-      "termo": "#TelaQuente",
+      "termo": "#DeViradaEMaisGostoso",
       "posicao": 4,
-      "variacao": "+8",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23TelaQuente",
-      "ruido": false
-    },
-    {
-      "termo": "Lodi",
-      "posicao": 5,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Lodi",
-      "ruido": false
-    },
-    {
-      "termo": "#ASubstancia",
-      "posicao": 6,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23ASubstancia",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23DeViradaEMaisGostoso",
       "ruido": false
     },
     {
       "termo": "#exercitododudu55",
-      "posicao": 7,
-      "variacao": "-1",
-      "direcao": "cai",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23exercitododudu55",
       "ruido": false
     },
     {
-      "termo": "Léo Pereira",
-      "posicao": 8,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=L%C3%A9o%20Pereira",
-      "ruido": false
-    },
-    {
-      "termo": "Adriana",
-      "posicao": 9,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Adriana",
-      "ruido": false
-    },
-    {
-      "termo": "#JustiçaporMarcelo",
-      "posicao": 10,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23Justi%C3%A7aporMarcelo",
-      "ruido": false
-    },
-    {
-      "termo": "Coritiba",
-      "posicao": 11,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Coritiba",
-      "ruido": false
-    },
-    {
-      "termo": "Arrascaeta",
-      "posicao": 12,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Arrascaeta",
-      "ruido": false
-    },
-    {
-      "termo": "Arrascaeta",
-      "posicao": 13,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Arrascaeta",
-      "ruido": false
-    },
-    {
-      "termo": "Atlético",
-      "posicao": 14,
+      "termo": "Venezuela",
+      "posicao": 6,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Atl%C3%A9tico",
+      "url": "https://x.com/search?q=Venezuela",
       "ruido": false
     },
     {
-      "termo": "Pilar",
-      "posicao": 15,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Pilar",
+      "termo": "#Eleições2026",
+      "posicao": 7,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23Elei%C3%A7%C3%B5es2026",
+      "ruido": false
+    },
+    {
+      "termo": "Zanin",
+      "posicao": 8,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Zanin",
+      "ruido": false
+    },
+    {
+      "termo": "#VotacaoAte19Horas",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23VotacaoAte19Horas",
       "ruido": false
     },
     {
       "termo": "Harry Kane",
-      "posicao": 16,
-      "variacao": "-1",
-      "direcao": "cai",
+      "posicao": 10,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Harry%20Kane",
       "ruido": false
     },
     {
-      "termo": "Ayrton Lucas",
+      "termo": "Tarcísio",
+      "posicao": 11,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Tarc%C3%ADsio",
+      "ruido": false
+    },
+    {
+      "termo": "Vencemos",
+      "posicao": 12,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Vencemos",
+      "ruido": false
+    },
+    {
+      "termo": "Renan",
+      "posicao": 13,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Renan",
+      "ruido": false
+    },
+    {
+      "termo": "Brazil",
+      "posicao": 14,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Brazil",
+      "ruido": false
+    },
+    {
+      "termo": "Faz o L",
+      "posicao": 15,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Faz%20o%20L",
+      "ruido": false
+    },
+    {
+      "termo": "Minas",
+      "posicao": 16,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Minas",
+      "ruido": false
+    },
+    {
+      "termo": "Nordeste",
       "posicao": 17,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Ayrton%20Lucas",
+      "url": "https://x.com/search?q=Nordeste",
       "ruido": false
     },
     {
-      "termo": "Demi Moore",
+      "termo": "Nikolas",
       "posicao": 18,
-      "variacao": "+16",
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Demi%20Moore",
+      "url": "https://x.com/search?q=Nikolas",
       "ruido": false
     },
     {
-      "termo": "Freitas",
+      "termo": "Alckmin",
       "posicao": 19,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Freitas",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Alckmin",
       "ruido": false
     },
     {
-      "termo": "SEGUE O LÍDER",
+      "termo": "vão votar",
       "posicao": 20,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=SEGUE%20O%20L%C3%8DDER",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=v%C3%A3o%20votar",
       "ruido": false
     }
   ],
@@ -167,32 +167,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Marco Zero Conteúdo: Indígena e sertaneja: a cidade mais lulista do Brasil é em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT3ZILUVSY3FSS1VBdVlzRkY0TjFkaXV4OWxZZVEta2FrSTFOYWJ0bFlDMnJubHJ5cjN2U3lBbVVlU1E1QW90Z3BETUVIcDdIV3ZBTURGV3NMTmZ3MWhaMGNYMVNVclpvdHFsS0ZMWnZUVXluSS1SU0hPdi1oaFhJUVVGTll5S3Z5VGpic1RDTTQzR0gtQkE?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Agência de Notícias da Indústria: Torneio de Robótica em Pernambuco classifica 8 equipes para o nacional; veja os resultados",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU2l0T0s0S3JvcnZjMmgzY3BzV0YxdGZGV0F0WmpxM0dURmNla0F5Uzd2aWlxR1dSdzlmVmpKNXo5YVBQS25oblJZdktLbWQ4LUhJU1lPNEo4T01BQ1JqMkpVYjhUdjdJallpc3E4bFZ5WDRWLVJnV256cnJLTkc5NkxkYWhkYlQ2VHBmV0htbWI2VXhDS08zaFhTNVdHcXR0TlVQUEJuMHc1RjU3ZDJhLUczZ0o2UTFIQjVvR29SYm5KVXFpaUZZXzlXTjJXaTV2OVY4dW40TEZjbUZONlRJdFRucEY?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Congresso em Foco: Casinhas (PE): Lula tem 81,78% e vence o segundo turno",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGc3OXpHMEQ2YUJEUVhUNF9RdTdaTFpibUhGUWJURkJzMFRtRlhPOXVJQTVtNjlDbkhCVEVvbENmMmkzcnU2bUd5VHU3UUc5U2lQSTZldmhmUUY5bVZ5ZVhJd1NvcFdqNEFOdUVGMXZZUmVGRVRPR0ZnSmFTdTd1SHNkT3l5emJrU1NzQXBBYnpxZld1QzMxUFJZTUpYZw?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha de S.Paulo: Mulher é morta durante festa de apuração de votos no Recife; ex-companheiro é principal suspeito",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYlhmTklMdXBSM3ljYUM1QzE1aV95dVZ5QzRrSGt3LUhkRWNMamxnMXFUbi1nNVBZNGpfTWp5V1JXT0ZYVGdBYUNvTVlJRlI5LWlkSzY3N3RvY3lLVG1JQXFWZUQweGxKRl9wS3g0QVFMMTFSUjdtRjRiQkplbDJFNld5MFdfQmx1NF9ZV0wxQXQ5d1RzX3hBMjFMeGFFRVhfbVVKbWNSM2xuUTlFRVJORUFLV3YzcjQyVWJVODRUcGJ2T3FoWVhBaVNfQ2FoeXhjd3Z0MXpEMThIRXlJcjhHTGJWYw?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Homem mata companheira e tira a própria vida; vítima era servidora da Prefeitura do Recife",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdUF5NHJrU1lmYmdSdlVxUE93NHRaSktaYlVtbmEzSnVPRlJkVWFtMnc1WEh6THBva0U2NzNrY2wxa2hXNXQtRnk2TzQ4X0ZDaV9fRDFTX09uNE9JVDZwVHV6Nlk5SGJ3b1liUmcwcDMtaFZCekJ5VzV6UzUxRnJuNWdnbktVQVRudWxlUDIyX1VuUnFlWmtreTdwSHNVQnpoR1QxLXVUMzdVcFXSAa8BQVVfeXFMUEI4M1g5eXQ1bXlWZTlYWnpIWjczSGNhWUV2SlB2TjhzZV9wSWZGS2pQUzFvY2wtLXp3WjNkVGVYTm9jTkxwaWQ0RWo1SG1keTE1Unhwd3JFX25fd2VTLWl1UXBRMFJfSjFJZTk0OUFYajV0dkxZNlMxYnhoVG5POEVoQkc2Yjc4UzMxMl9GWTQwcEJWVHVEREFzaFlRU0lqSVc0Vk1XY3VLelZFeGtUNA?oc=5"
+      "manchete": "Congresso em Foco: Dormentes (PE) escolhe Lula para presidente no segundo turno",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbm0yYlRMbjFkcGJZVzRYLVpNUW5EOTNKWWp3MHowR2hNNTNSb25yMDFaQmp6bzFudTZ3eHIzRDFyeXA5SXdVZUlYbHdaUG5BcmE0eGtzRU5Fam1CcU5QbFpnNkhKOWZRbF9zTTVYellaQm5wb2s1OTZ6NnZ0SldnTE52V0JVanV0VElKa3dLUy00NXJTNnFaVmNzbGZtUWNlUGFFVTl1ZERKU0tZS0E?oc=5"
     },
     {
       "termo": "Recife",
@@ -201,22 +177,10 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWZkZ25RLVZJTTY2ZnFHaXFGSWI0TUQ2NU9CaXctdW5HcXpLYzRmZHRKdWpieXdNQVg0UDlGTGhybjY1b09Zei1mbzlEeFVnaThObFZPa1NIWDJNRmd4S2NHeTVSWTZQQ0NRSjlPZ25NNWlPSlVjUUtrNmlSYlZKMGNZdllzaHFheG8ycU5yd3I2dS10NFJiNVk1Yk92SGQzekdfd2hLSVhQUWt3VUVwTl8tRFFpbTE3WDNObdIBwgFBVV95cUxPZUZyaWZVVzl1S3ZmdVBNeW5GUklkM2FzMzFBNFFUMmhpSU5CM283Q3ZUalVfNkNBWG14U3NfU05IcnVDd3lSZUlsb3VIWVZ5cGxjdlFSejM0M0xVN2RrczFZdUhZRVd6VXFFR0lQdHVOZVRTSGRGZDBRR0JPNHYyT1M0WjhBSGFTTjJrLUxHYm1ibXR4TFhTRFJacWJnNkJtSDVFVHU5SThZMEgtU0tsSmFXVnc5a3V6Wmsybm1ybGl4UQ?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Servidora da Prefeitura do Recife é vítima de feminicídio no Ibura",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFYzeF9va2FCLV8xdVJzQUJnY3IwbzRmbG9SLXg2Wk1rb252UHl4ME5jTkVmMVIxM0hXMFJhZmF2aDc3cEtma1dOdUt0bXVIeFpMOUpNMnJMUVhkZFJMRHZMaHd2OUZhTzRnZHpzMUx5VTVXdDhSQjlOdUxqMEpKYzFTM0pPRTlmZUM3T0Y2bkNKc2U3SV9RNnIzN3BTVUg4Snl1SnkxNTQzSHVaREdEc2xaYXFXMDhuMDlMd2VIZVNUZE8tM1hjWDZWaklOLWRLdW00eA?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Monitoramento no litoral do Recife registra captura de mais cinco tubarões",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXF6dFpabE5Ma3FLZE5mU1BlTEhzSUlBV0NBc1VjZi1zazM2c0FJckFPcUlTaU9wc3hjYXcwY2Rvb2NpRzRtd3ZudEJ1NlB1WFdTX0JZcnE1dG5URkFzVUVVakRKUGRKSXNHM1phYmttd0hiX1ZGMjd5V3VmQUVWN1lidENyLVBKR3ZnSFhFMVJxQl9zZmpzeEx1VDVXN1dNQktMTDdqVG93d0V3azE4N1Jn?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Tribuna Online: Professora é encontrada muito machucada em casa e ex é preso",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGpxalJJVjhEUEtZMm1BLUlfRGVzak1jZFVJeFRhUF9zQlVxaWZMMUtVTXZzbUNScUFKUnpkM0E5cFhrZVJEUzNsakp4em82TnpYa2NabTNyNGdZZE1xNzVRTFBTdUdEdWpTRGQ4SnhjRnhYVTN2RGJiQjBFZkN6VFB3aXNCZFZfZTRaN2hHZ196V0pfeUxVSFN0WnNLV2NLd0lySms0eWFVSXdXQUpyaDB0MGpPd3BpZlpjVUpB0gG-AUFVX3lxTE5wanFqUklWOERQS1kybUEtSV9EZXNqTWNkVUl4VGFQX3NCVXFpZkwxS1VNdnNtQ1JxQUpSemQzQTlwWGtlUkRTM2xqSnh6bzZOelhrY1ptM3I0Z1lkTXE3NVFMUFN1R0R1alNEZDhKeGNGeFhVM3ZEYmJCMEVmQ3pUUHdpc0JkVl9lNFo3aEdnX3pXSl95TFVIU3Rac0tXY0t3SXJKazR5YVVJd1dBSnJoMHQwak93cGlmWmNVSkE?oc=5"
+      "manchete": "- Blog Dellas: Giro Político: Humberto acena para Raquel que vem tentando atrair Federação petista para base na Alepe -",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkpuem1NaXh5QXFBU1NxNW0ta1E2cXQtc0p0RmJYbVZ0X3daRENuV0lvdVVKZnRYMko0dlVaQllwaHFYTlhtN0M1TE1yTHdCZUtsaERsMDcybTIyeDBjSkRDZWpvQUh1bTFQWFRuR2RyaFdHeUhCMWppYmNvWEpWTXJ6eGpPclNsWm12M25HdFM4YlBoZDN6M3VOY1dUalY4ai1UMDlCYWZCNlJrNDNTbFN5S1p6b0djc3Fya192a1R0Z05OTGFr?oc=5"
     },
     {
       "termo": "Alepe",
@@ -225,28 +189,28 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRjBfekpjQ0ltRWhnTEl0TnBpNk8tTWxYSDFqMGE1blVZWTlfSGJTcGZ6VWJDRjBfZk43RVlLSnAyVWpMQ0tQY3dtVG5VRTBHQ2tIZ2l5V0pzYzlFY2h4aHJOQUR3OWhUMHNCOTdyWTlfNUlUTGY5T2hDRnlqMUhydHE1OUZpSkRTR0tPY3E3Q1M3OTZ6N0pTdi1XTUM?oc=5"
     },
     {
-      "termo": "Alepe",
+      "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Ricardo Antunes: Após eleições, Álvaro Porto se manifesta no STF pela legalidade da remuneração de Raquel Lyra",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY09JQ3ZjMDIyVFpnWlNFMXZabjVxY0U1ckJDdUw5TVNxQ0d1SjJEYVQ4dzlBS2hSMjREeGZPbXRYT3A3Rkhmcm9NbHM4SWdIU2xIRXZzVEVTR1ljdnhTMldHOUFNam9xZ1NpLW5RQV9MemRHX3V6dmEyQkE4emszVnFFWTZZVEVFZmJVb3h4Y19iMEI4N2s3Nkh6Zk8yVVlZWnI1OFJycS1kdHJSNlpVbGpZeDlEcy1ORDRPUw?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Alberto Alves: Alberes Lopes estreita os laços com o Consulado da China",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmVBX0s3VkV5UVZVWXJkU1dTZWRWaTVqYll3NXAxTGtWTWtXbFJHOENVcV8xdE53ZV9IcnVVYUd6cXlkeXFsX284QTkxUjZaR2VBUGxOVDBXaU5HT3l3OU81WW9iUDFLY1hmNVlJdC1pdllTOXNHWVFRR2xWMXJGcWI2ZTFUZ1h6aVNTMHJLNmFEN0pzZW9uTg?oc=5"
+      "manchete": "Nill Junior: Reeleição de Lula abre espaço para continuidade de parcerias com Raquel Lyra em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM3UwOHN4eEEtVC14Qk0wNHAzTi1Qbkh5dDF5TmRhd0lDOEIzRUFhS1RtWDk0TlVjT0NqM1RoSU1iQ01uQU5RRmxrcFBUU2FaTEpDby0xc0poVXloYlAtbndsdm05SVVrbTZXSm05RE1YX3EtNlkydFIxYnZ2Wm1sdVU2U1lzOHdDSnlxQnR0aWgxWFVMQzBjdDk5LWZWenl3d0JVYktBMVQtT1ROMFVvRU9IMHBRQWJt?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "BBC: Quem estava ao lado de Lula durante discurso da vitória na eleição",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BMEhTM3F0NWdqZ1lDTDBMNE9nbktqdmtmTDdveGZocmVIaUQwcW9hYU55RHZJd0RjQXhMNU9Sei1uNVItVTh0TWk2VHp1TGp3LWtfWHlzaWZWVHNHLVYwSzJfVQ?oc=5"
+      "manchete": "Diario de Pernambuco: Reeleição de Lula abre caminho para novas parcerias com Raquel Lyra em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUHY2bHZhSjNrbHRpVVRjcWpWUXFHX2JTVy1Vek9sZXdPM1RkRDFocEx0Ynk2MUFJcU1DY1hYM1BRaE04TWQ1czdjeDVlTXNUeEJiTHYzQUxwdEJoZkdhQ2JMcjhqeVpqMFJSc3UtVjJpaHJVWmVZZDNBNV9kOElCclZ1R3lJZ1JLVDBfNzRlVjRiNzdGVmpKekoyWDNpUFJMVmxud0QxMXVjWTdwVUdyYmRQYjR2UnExMkJQUm50elk5Z0hqV2VpNFRZcFZJVXl4T3VPalNmMW1HYlp4X3F6akNocjY?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Cariri em Ação: Raquel Lyra parabeniza Lula pela reeleição e defende parcerias do Governo Federal com Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb05LVnhTTEc1eDBmMkFaZ2RUYnllSW5PSmd2aTRVRS1ISnpuaXN0T0t6ajRuWFZBcjVDTUxQSlpGU2JFcXNlY1dhT3RTRWtCaXZIYmRQM3VuOWItQUk3c205YjY2NG90R1EyY3dFVkE0cHN6UDlrckhOQmZVLURCd0U2Tk0xUTFvNWlRUG5rSFdmXzl2amRrRGgwbHJ1TWg0Y29iSVIxdllBMXhSVE9DY0JSNGdubVpFRm9LcXl0WG9iWFdlUXdGSU1kQ3laSXFrazdncEVR?oc=5"
     }
   ],
   "picos": [
     {
       "termo": "partido de Flávio",
-      "razao_aumento": 83.3,
+      "razao_aumento": 63.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -257,32 +221,32 @@
       }
     },
     {
-      "termo": "Moraes",
-      "razao_aumento": 69.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-10-26T19:54:54Z",
-        "titulo": "Alexandre de Moraes manda Flávio Bolsonaro entregar passaportes e proíbe contato com Willer Tomaz",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUFRbDQzSlg1ZjFfanpYUGpDMkJXOVhMRlc3S1dWZWxEbm5QLTRNZTdmRWs0Q1k2SjNOa1hVS083MXQyY2RRNVgtd2w3aVhxMGJVNnpkNkEwUlVpeUlUSWlEU1JjRWtZS0ZKTWJzN3FoU2lPSFBkTEQ0S0w3dWd1bGQ1LWtEbEZ1bHROOE5wT2twNWVobjRrd0NoRHRkX0h2ZlhSZFl3Q1A1ZEJrcV92QzUzUzAzZEN2WVRfRXN2MkFpeWMwYjZsQ190UVhmRDd1OTlN0gHiAUFVX3lxTE1jekpkVEc0eHdZZkxJQWU3V2tWTmJKYVdyUFBVUnpBUUdWOHNFUlRmd3dJaHlNVVlWT2V3cUNJNW9hU3I2TlBQeDdqLU84aHpkRWpPX2pxLThyOWVYZUl0RDFDZkE4dDF6blB2RWN6S0ZCUjhhbW9XWlpnX2V3TUlIcGZLeFVoNWpQUThhcnRtTl92NU9WUmJBX1pQRndOTVJJOG04amJyQzVZeUxNWnM5Y2pfYjliY2RxR01tYnFzNVBzZ2JCQ3RKOWg2RWJoSWpYemVzd19WZWFacFdNeDJzLVE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "reconhece resultado",
+      "termo": "festa de apuração",
       "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
-        "hora": "2026-10-26T22:17:30Z",
-        "titulo": "PL, partido de Flávio Bolsonaro, reconhece resultado da eleição, mas cobra esclarecimentos",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3oyLVVpOFFGTUpOMzVMSGwxa3d6VGREM3NqUWJ1NDNKa19tQmRjOFV4YngxaHdrV1FpdkZMVWt4RjJHUERoTW92TW03M05KRndfenBhQnBGdFFJNG5MVkQxMGFrVFotUjhoU09YNmVOS3NXMUI2MGotLVhiODVqbWszTEhJX3RxS09IVWk0QlZMMV90UXIyamtFVDdkY0x6bUFrbDRkc9IBtgFBVV95cUxQSjBfNDVUX2V2NDlHSkxRR2VjMnh3US1SMno3c3NWc3N4YW5mRk1sNlA3WnBzS0xFVmVfcmxNMmYyZ1k1b0hPYjhaUzl4bUtXcnZGNUNNLXBSSUV2TjktQTh5VmQ0cUZ0U1NfTkZObzNaRVVzcHJIMWU3Rm15akZqSDYyQVoyVWxhbjVXR0pGYlNTbThhM1hXTWowaTM2MTk5dGtBa0RtYldwcGU4ZHhGYnE2ZXFNUQ?oc=5",
+        "hora": "2026-10-26T18:29:51Z",
+        "titulo": "Homem mata companheira a tiros e depois tira própria vida durante festa de apuração das eleições; VÍDEO",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODBwcTlxY0ZCaXZ3UUtOM2J3XzhIZHZSd05iWl9JSWlwQXRXNlJ2NHk5Vm43Yi1NWFhScVhDRF9TUWNmSEdDQlNCcU01dW1ZOGhWLXQ0bGRYWHhWQTFLYl9rV2dPOS04X1FsbzliRGpoZWp0VHlydW1EWC1FTVRMUk5ib01fOEhucFFFUm51Q3JJYlBRRG0xaWlXaDdXR0ZKNTZ4dm02V2Q5S3M2S0htUXVaaVRGbVB0S2hyU0ViWVFOZG9tMFHSAdQBQVVfeXFMTkpaYVZlNXB0QXZSY0hQQVlvdHpxNUJYbHRXeUFBV1J0TC1CQXk0UXRaeVJEMTNzMjhyNmVaWUowUGl6Tks5NHZMQjd0eHFaQUlGN1ZTMTNQWjFpSTAzRFNtczMtOEV3OTZDVl9UQW5UUnpxRGZKcE10NkV0aTNpeFdNQW52a0dlRkZJSGh4U29pZlo2ZzluUENhVjNpYXhaSHVYQ05FbGFPV0RNSzV0anZ3ZTFUbkFrLWJVRjVKX2JoenJua2dndlZUckwyYm5acjF2S2Y?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "PL reconhece",
+      "termo": "apuração das eleições",
       "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-26T18:29:51Z",
+        "titulo": "Homem mata companheira a tiros e depois tira própria vida durante festa de apuração das eleições; VÍDEO",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODBwcTlxY0ZCaXZ3UUtOM2J3XzhIZHZSd05iWl9JSWlwQXRXNlJ2NHk5Vm43Yi1NWFhScVhDRF9TUWNmSEdDQlNCcU01dW1ZOGhWLXQ0bGRYWHhWQTFLYl9rV2dPOS04X1FsbzliRGpoZWp0VHlydW1EWC1FTVRMUk5ib01fOEhucFFFUm51Q3JJYlBRRG0xaWlXaDdXR0ZKNTZ4dm02V2Q5S3M2S0htUXVaaVRGbVB0S2hyU0ViWVFOZG9tMFHSAdQBQVVfeXFMTkpaYVZlNXB0QXZSY0hQQVlvdHpxNUJYbHRXeUFBV1J0TC1CQXk0UXRaeVJEMTNzMjhyNmVaWUowUGl6Tks5NHZMQjd0eHFaQUlGN1ZTMTNQWjFpSTAzRFNtczMtOEV3OTZDVl9UQW5UUnpxRGZKcE10NkV0aTNpeFdNQW52a0dlRkZJSGh4U29pZlo2ZzluUENhVjNpYXhaSHVYQ05FbGFPV0RNSzV0anZ3ZTFUbkFrLWJVRjVKX2JoenJua2dndlZUckwyYm5acjF2S2Y?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "reconhece derrota",
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha de S.Paulo",
@@ -293,8 +257,8 @@
       }
     },
     {
-      "termo": "resultado da eleição",
-      "razao_aumento": 62.0,
+      "termo": "reconhece resultado",
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -305,32 +269,32 @@
       }
     },
     {
-      "termo": "Itaú",
-      "razao_aumento": 55.5,
+      "termo": "mata companheira",
+      "razao_aumento": 54.2,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Márcio Didier",
-        "hora": "2026-10-26T14:08:00Z",
-        "titulo": "Recife ganha 240 novas bicicletas elétricas do Bike Itaú",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tcU50M213VXdPWkJvdXRPSjhNYlJ2YXk3TktjdVJIdmRaaU1VWVYybWFYTXJUWGZBN2ttdkNsMlc2VkhqVnZxNGphU3JrSjM4TEFqenRZY2FrT19Kc2stNlF3MjlDckFCZ1BzbHFCR0lGMGlJVnc?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-26T18:29:51Z",
+        "titulo": "Homem mata companheira a tiros e depois tira própria vida durante festa de apuração das eleições; VÍDEO",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODBwcTlxY0ZCaXZ3UUtOM2J3XzhIZHZSd05iWl9JSWlwQXRXNlJ2NHk5Vm43Yi1NWFhScVhDRF9TUWNmSEdDQlNCcU01dW1ZOGhWLXQ0bGRYWHhWQTFLYl9rV2dPOS04X1FsbzliRGpoZWp0VHlydW1EWC1FTVRMUk5ib01fOEhucFFFUm51Q3JJYlBRRG0xaWlXaDdXR0ZKNTZ4dm02V2Q5S3M2S0htUXVaaVRGbVB0S2hyU0ViWVFOZG9tMFHSAdQBQVVfeXFMTkpaYVZlNXB0QXZSY0hQQVlvdHpxNUJYbHRXeUFBV1J0TC1CQXk0UXRaeVJEMTNzMjhyNmVaWUowUGl6Tks5NHZMQjd0eHFaQUlGN1ZTMTNQWjFpSTAzRFNtczMtOEV3OTZDVl9UQW5UUnpxRGZKcE10NkV0aTNpeFdNQW52a0dlRkZJSGh4U29pZlo2ZzluUENhVjNpYXhaSHVYQ05FbGFPV0RNSzV0anZ3ZTFUbkFrLWJVRjVKX2JoenJua2dndlZUckwyYm5acjF2S2Y?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "reconhece vitória",
-      "razao_aumento": 52.6,
+      "termo": "Homem mata companheira",
+      "razao_aumento": 54.2,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Congresso em Foco",
-        "hora": "2026-10-26T23:23:00Z",
-        "titulo": "PL reconhece vitória de Lula, mas cobra esclarecimentos",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2xPYjJlVFVKaWp1ajFheWg4dncwSXBkNUV2ZHhNRC1JSndjWmVHMzJ6cU5jNkRpRXE3VjJyV1o3Nzl6cEtfU1RlV2twWlpxREhCVWZYSldaZTQyTnkxYzJ6eVdVb0FPcF9Zdjcxbm9oTG5fM0ZkY0U4YklxWkxkY2J4bW1PWXIxTDBoWHVNZVZOWm43NkRCRTRzQ3VRa2w4OWRfNnNIQQ?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-26T18:29:51Z",
+        "titulo": "Homem mata companheira a tiros e depois tira própria vida durante festa de apuração das eleições; VÍDEO",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODBwcTlxY0ZCaXZ3UUtOM2J3XzhIZHZSd05iWl9JSWlwQXRXNlJ2NHk5Vm43Yi1NWFhScVhDRF9TUWNmSEdDQlNCcU01dW1ZOGhWLXQ0bGRYWHhWQTFLYl9rV2dPOS04X1FsbzliRGpoZWp0VHlydW1EWC1FTVRMUk5ib01fOEhucFFFUm51Q3JJYlBRRG0xaWlXaDdXR0ZKNTZ4dm02V2Q5S3M2S0htUXVaaVRGbVB0S2hyU0ViWVFOZG9tMFHSAdQBQVVfeXFMTkpaYVZlNXB0QXZSY0hQQVlvdHpxNUJYbHRXeUFBV1J0TC1CQXk0UXRaeVJEMTNzMjhyNmVaWUowUGl6Tks5NHZMQjd0eHFaQUlGN1ZTMTNQWjFpSTAzRFNtczMtOEV3OTZDVl9UQW5UUnpxRGZKcE10NkV0aTNpeFdNQW52a0dlRkZJSGh4U29pZlo2ZzluUENhVjNpYXhaSHVYQ05FbGFPV0RNSzV0anZ3ZTFUbkFrLWJVRjVKX2JoenJua2dndlZUckwyYm5acjF2S2Y?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Homem",
-      "razao_aumento": 50.0,
+      "termo": "tira própria",
+      "razao_aumento": 53.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -345,272 +309,272 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 30.41,
-      "fontes_distintas": 34
+      "fatia_pct": 27.89,
+      "fontes_distintas": 32
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 57.9,
-      "fatia_pct": 17.62,
-      "fontes_distintas": 18
+      "peso_relativo": 50.9,
+      "fatia_pct": 14.21,
+      "fontes_distintas": 14
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 49.4,
-      "fatia_pct": 15.03,
-      "fontes_distintas": 16
+      "peso_relativo": 45.3,
+      "fatia_pct": 12.63,
+      "fontes_distintas": 12
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 47.7,
-      "fatia_pct": 14.51,
-      "fontes_distintas": 16
+      "peso_relativo": 43.4,
+      "fatia_pct": 12.11,
+      "fontes_distintas": 12
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 30.7,
-      "fatia_pct": 9.33,
-      "fontes_distintas": 14
+      "peso_relativo": 32.1,
+      "fatia_pct": 8.95,
+      "fontes_distintas": 13
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 27.3,
-      "fatia_pct": 8.29,
-      "fontes_distintas": 13
+      "peso_relativo": 26.4,
+      "fatia_pct": 7.37,
+      "fontes_distintas": 11
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 27.3,
-      "fatia_pct": 8.29,
-      "fontes_distintas": 13
+      "peso_relativo": 26.4,
+      "fatia_pct": 7.37,
+      "fontes_distintas": 11
     },
     {
       "termo": "João",
-      "peso_relativo": 25.6,
-      "fatia_pct": 7.77,
-      "fontes_distintas": 14
+      "peso_relativo": 24.5,
+      "fatia_pct": 6.84,
+      "fontes_distintas": 11
     },
     {
       "termo": "Campos",
-      "peso_relativo": 25.6,
-      "fatia_pct": 7.77,
-      "fontes_distintas": 14
+      "peso_relativo": 24.5,
+      "fatia_pct": 6.84,
+      "fontes_distintas": 11
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 25.6,
-      "fatia_pct": 7.77,
-      "fontes_distintas": 14
+      "peso_relativo": 24.5,
+      "fatia_pct": 6.84,
+      "fontes_distintas": 11
     },
     {
       "termo": "vitória de Lula",
-      "peso_relativo": 22.1,
-      "fatia_pct": 6.74,
-      "fontes_distintas": 10
+      "peso_relativo": 15.1,
+      "fatia_pct": 4.21,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Trump",
+      "peso_relativo": 14.5,
+      "fatia_pct": 4.05,
+      "fontes_distintas": 2
     },
     {
       "termo": "Priscila",
-      "peso_relativo": 13.6,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 8
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.68,
+      "fontes_distintas": 7
     },
     {
       "termo": "Krause",
-      "peso_relativo": 13.6,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 8
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.68,
+      "fontes_distintas": 7
     },
     {
       "termo": "Priscila Krause",
-      "peso_relativo": 13.6,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 8
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.68,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Bolsonarismo",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.84,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mata",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.84,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonarismo Mata",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.84,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Virada",
+      "peso_relativo": 9.6,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "EMais",
+      "peso_relativo": 9.6,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Gostoso",
+      "peso_relativo": 9.6,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Virada EMais",
+      "peso_relativo": 9.6,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "EMais Gostoso",
+      "peso_relativo": 9.6,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Virada EMais Gostoso",
+      "peso_relativo": 9.6,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Reeleição de Lula",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 5
     },
     {
       "termo": "PL",
-      "peso_relativo": 11.9,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Lyra parabeniza",
-      "peso_relativo": 10.2,
-      "fatia_pct": 3.11,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Raquel Lyra parabeniza",
-      "peso_relativo": 10.2,
-      "fatia_pct": 3.11,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Moraes",
-      "peso_relativo": 10.2,
-      "fatia_pct": 3.11,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Haddad",
-      "peso_relativo": 10.2,
-      "fatia_pct": 3.11,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FELIZ",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.95,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ANIVERSÁRIO",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.95,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FELIZ ANIVERSÁRIO",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.95,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ANIVERSÁRIO LULA",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.95,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FELIZ ANIVERSÁRIO LULA",
-      "peso_relativo": 9.7,
-      "fatia_pct": 2.95,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Peão",
-      "peso_relativo": 9.2,
-      "fatia_pct": 2.8,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Tela",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Quente",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Tela Quente",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "parabeniza Lula",
-      "peso_relativo": 8.5,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Lyra parabeniza Lula",
-      "peso_relativo": 8.5,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "reeleição de Lula",
-      "peso_relativo": 8.5,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "governo Lula",
-      "peso_relativo": 8.5,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "após derrota",
-      "peso_relativo": 8.5,
-      "fatia_pct": 2.59,
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.63,
       "fontes_distintas": 5
     },
     {
       "termo": "bicicletas elétricas",
-      "peso_relativo": 8.5,
-      "fatia_pct": 2.59,
+      "peso_relativo": 9.4,
+      "fatia_pct": 2.63,
       "fontes_distintas": 5
     },
     {
-      "termo": "Lodi",
-      "peso_relativo": 8.2,
-      "fatia_pct": 2.49,
+      "termo": "Votação",
+      "peso_relativo": 8.7,
+      "fatia_pct": 2.42,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Venezuela",
+      "peso_relativo": 8.5,
+      "fatia_pct": 2.37,
       "fontes_distintas": 1
     },
     {
-      "termo": "ASubstancia",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.33,
+      "termo": "Eleições2026",
+      "peso_relativo": 7.9,
+      "fatia_pct": 2.21,
       "fontes_distintas": 1
     },
     {
       "termo": "governo federal",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
     },
     {
-      "termo": "Brasil",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
+      "termo": "Lyra parabeniza",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
     },
     {
-      "termo": "Lula pela",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
+      "termo": "parabeniza Lula",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
     },
     {
-      "termo": "parabeniza Lula pela",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
+      "termo": "Raquel Lyra parabeniza",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Lyra parabeniza Lula",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
     },
     {
       "termo": "Eduardo",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
     },
     {
-      "termo": "partido de Flávio",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Homem",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
+      "termo": "governo Lula",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
     },
     {
-      "termo": "Homem mata",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
+      "termo": "Janones",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Servidora",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Servidora da Prefeitura",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
     },
     {
       "termo": "própria vida",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.07,
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.11,
       "fontes_distintas": 4
+    },
+    {
+      "termo": "Zanin",
+      "peso_relativo": 7.4,
+      "fatia_pct": 2.05,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ate19Horas",
+      "peso_relativo": 6.8,
+      "fatia_pct": 1.89,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Votacao Ate19Horas",
+      "peso_relativo": 6.8,
+      "fatia_pct": 1.89,
+      "fontes_distintas": 1
     }
   ]
 }
