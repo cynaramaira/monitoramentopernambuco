@@ -1,163 +1,163 @@
 {
-  "atualizado_em": "2026-10-28T00:02:20Z",
-  "total_analisado": 147,
+  "atualizado_em": "2026-10-28T05:36:25Z",
+  "total_analisado": 144,
   "x_recife": [
     {
-      "termo": "#CorridaDasBlogueiras8",
+      "termo": "Israel",
       "posicao": 1,
-      "variacao": "+17",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Israel",
+      "ruido": false
+    },
+    {
+      "termo": "#DeportTheBolsonaros",
+      "posicao": 2,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23DeportTheBolsonaros",
+      "ruido": false
+    },
+    {
+      "termo": "#CorridaDasBlogueiras8",
+      "posicao": 3,
+      "variacao": "+1",
       "direcao": "sobe",
       "url": "https://x.com/search?q=%23CorridaDasBlogueiras8",
       "ruido": false
     },
     {
-      "termo": "#FlavioFugitivo",
-      "posicao": 2,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23FlavioFugitivo",
-      "ruido": false
-    },
-    {
-      "termo": "Trump",
-      "posicao": 3,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Trump",
-      "ruido": false
-    },
-    {
-      "termo": "#FLAVIOBOLSONAROFUGIU",
+      "termo": "#MasterChefBR",
       "posicao": 4,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23FLAVIOBOLSONAROFUGIU",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23MasterChefBR",
       "ruido": false
     },
     {
-      "termo": "Moraes",
+      "termo": "#RoçaAFazenda",
       "posicao": 5,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Moraes",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23Ro%C3%A7aAFazenda",
       "ruido": false
     },
     {
-      "termo": "Estados Unidos",
+      "termo": "HOSEOK",
       "posicao": 6,
       "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Estados%20Unidos",
+      "url": "https://x.com/search?q=HOSEOK",
       "ruido": false
     },
     {
-      "termo": "Matthel",
+      "termo": "Irina",
       "posicao": 7,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Matthel",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Irina",
+      "ruido": false
+    },
+    {
+      "termo": "#STFQueremos2TurnoNoRJ",
+      "posicao": 8,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23STFQueremos2TurnoNoRJ",
+      "ruido": false
+    },
+    {
+      "termo": "JHOPE",
+      "posicao": 9,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=JHOPE",
+      "ruido": false
+    },
+    {
+      "termo": "Ariela",
+      "posicao": 10,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Ariela",
+      "ruido": false
+    },
+    {
+      "termo": "peter poc",
+      "posicao": 11,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=peter%20poc",
       "ruido": false
     },
     {
       "termo": "Breia",
-      "posicao": 8,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 12,
+      "variacao": "+2",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Breia",
       "ruido": false
     },
     {
-      "termo": "Bruno Guimarães",
-      "posicao": 9,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Bruno%20Guimar%C3%A3es",
-      "ruido": false
-    },
-    {
-      "termo": "Venezuela",
-      "posicao": 10,
-      "variacao": "+5",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Venezuela",
-      "ruido": false
-    },
-    {
-      "termo": "Xandão",
-      "posicao": 11,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Xand%C3%A3o",
-      "ruido": false
-    },
-    {
-      "termo": "Fuga",
-      "posicao": 12,
+      "termo": "coringa",
+      "posicao": 13,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Fuga",
+      "url": "https://x.com/search?q=coringa",
       "ruido": false
     },
     {
-      "termo": "Sampaio",
-      "posicao": 13,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Sampaio",
-      "ruido": false
-    },
-    {
-      "termo": "Malafaia",
+      "termo": "Giovana",
       "posicao": 14,
-      "variacao": "+3",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Malafaia",
+      "url": "https://x.com/search?q=Giovana",
       "ruido": false
     },
     {
-      "termo": "Ditadura",
+      "termo": "Trump",
       "posicao": 15,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Ditadura",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Trump",
       "ruido": false
     },
     {
-      "termo": "#ADonaDoPedaço",
+      "termo": "Marcelo",
       "posicao": 16,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23ADonaDoPeda%C3%A7o",
-      "ruido": false
-    },
-    {
-      "termo": "#FlavioFujao",
-      "posicao": 17,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23FlavioFujao",
-      "ruido": false
-    },
-    {
-      "termo": "BOLSONARO NA PAPUDA JÁ",
-      "posicao": 18,
-      "variacao": "+1",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=BOLSONARO%20NA%20PAPUDA%20J%C3%81",
+      "url": "https://x.com/search?q=Marcelo",
       "ruido": false
     },
     {
-      "termo": "Alcolumbre",
-      "posicao": 19,
+      "termo": "Rafael",
+      "posicao": 17,
+      "variacao": "+12",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Rafael",
+      "ruido": false
+    },
+    {
+      "termo": "PSOL",
+      "posicao": 18,
       "variacao": "+4",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Alcolumbre",
+      "url": "https://x.com/search?q=PSOL",
+      "ruido": false
+    },
+    {
+      "termo": "hobi",
+      "posicao": 19,
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=hobi",
       "ruido": false
     },
     {
       "termo": "ABIN",
       "posicao": 20,
-      "variacao": "+13",
+      "variacao": "+1",
       "direcao": "sobe",
       "url": "https://x.com/search?q=ABIN",
       "ruido": false
@@ -179,20 +179,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Secretário destaca capacidade de investimento e a priorização da saúde no orçamento de 2027",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02YWc4Z1F0aDMwYm41Mzdrc0hPOF9RUHpFaWItaFE3OVMtY21KcU9qTjJ5TWNKb2NKdzRycUlScF9kUkRsby15STJ1eTRfYUZ2R21Jc0VoMThHWU9BcHJmUw?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Tribunal Regional Eleitoral de Pernambuco: Programa Seu Voto Importa garante transporte a 349 eleitores com deficiência no 2° turno em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2c4M2JlT0JPcWFQQ2xSbkpXR2xIN2pfaTZXdFRZUWRRZS15RUE1aTZuV1ZLc21uLWQyRE40ZmRFa3FTbE9FWlVBay1jOGo2Rk9mZXF1S0Z0UGRUWV9NN05NSWRSeXM3azMxRUE1VFBUeHNWbk1fanRHdndrbFNaa25Ud0ZGUFV2MVVNcUo4SjRBZHlBWEdpa2xUMFIzQUxqTnVVOTI3VmFfNDRmd21ncTU2Q1NxblV5Q25RckhtbHRTbWFCdE1QY0dBNm9EQkUxZXpaaEg4emtfVlJKaWc5NHRpS3dadw?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: 106 municípios foram afetados pela estiagem prolongada em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmp0aTk4QV9BTDEwbUhFTnBTOXg1NlZYVHp1endBSGFBUG1hcENJZzdra2RjT2JGRUpIYnB6Tm9WVkRlX0Uxb0ZmS2lwOEd2bm1wNk42VUl4RGxWZTNtU3F0THBDdEZIeE1HQ0liMWJBLWpBQ3Bvcno0eWZPUkxhLWZYeHhtTkJLeVIzWmRjT2ZBd0o1ejFVc0JsUzFTSmhrVS1SS09GUU9BdEU0bURXbGRERjJOUGdBR0ZueGxhb3FqbC1KTy1F0gHWAUFVX3lxTFB1VzVEOGxPOG1uUVhUWUZRVGIwMHpEeWJSbzRhczdCOWtYVTYtVkN4VE5TbktJa29wNEptVXQtbTdSeEpjbTF6b0pMUmZ6eExRY19kZTJDcEhsZ2RtaFhxSGZ6UGM4bUN4cFNlcUNJaWRmbnQxV0h0UXpqZm85RGVxY1dudTJadlpJYnd4YlVMejVfOTlzbjdrU0FmaTE0TUZQcGNOeHR2c200T0h4eEJ2b0FJdGRGRDU3cm1fWjFweGpBaXVId0g3WkhJRWVpWlNKX05ISVE?oc=5"
+      "manchete": "Tribunal de Contas do Estado de Pernambuco: Oficina vai orientar gestores municipais sobre regularidade previdenciária",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVXRVOFJwWTBGY2RUM0VWWkNYZDNtUkFDdm9mVm5FaDVKYkFMczRrak5BNU5obGVocUZ0Q1BPbTBtdHdzaXB6bkNqRW9DZlRoLWQ1ajRTc19ING50bWFTTHY1ZFlXZ3YtMVI1NHJHU0NFWGdoUk5helg5QnFQTFd2RXo1c1RwWTFkSGRRSzlrUTIyUnlnTGREMXdjZzdnZ1p1U2wwaS1EX2N1U2lxQW1PeWh3UzNvMHQzamNEM2lGRjFyWFo5ZzY3Ml9vVXhOX1NMVWVBTEtRVVlYZ3dBbGVxOTRFcFdMZkk?oc=5"
     },
     {
       "termo": "Recife",
@@ -203,26 +191,26 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
+      "manchete": "Ministério Publico de Pernambuco: Com reuniões no Recife e em Olinda, Agenda Compartilhada já tem 60% da programação cumprida",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1E4aXJ6RGJuX3RiWm9UZ1RVRGgwU19KajUyOXZkamRJZnRkSGVyYVNFcU02T3NaTFFqY19Hd1ZEakZMZ1UtMXoyUmx5NmZvZmNuOHF4d3FfdGg5MW5EQ0NxVXRVaE1DcGdvNFVncnFOZGJBbF90MkdHVExNeE9DLVlFN1M4UFUwUTk1Q211MGNQU3p2eks2R3hFZXdhZE8xNnIyRHVtWmU0VkFNVGo4bXNoRkVkYUtJeUtzYXlmSVo5SUZvUVNmaE54TW5HcHNDNExN?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
       "manchete": "MINISTÉRIO PÚBLICO MILITAR: PJM Recife/PE prorroga o prazo para a inscrição na seleção para Programa de Residência Administrativa",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14VWVxb0hUcC1wY0Jta0llWGdKQzhiMEtYbVhOOGd0M0UwSXNCS2thUGgzOWUtQ1JMTmhpTHBKRXBYTDN1SER4aXNfbXQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Congresso em Foco: Lula venceu na região de Recife (PE)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkZObG9yenZDdTVpcUxsdGIwZGlwWnU0X1dFTGlkZkNzNGNvTHJHVlVSUjVtbDdvdW9fdnNvYnNwcjlVdHgtdGpHcDRPWTlHNGVjaGZNTGdpNVBQVHBjM19DMXRZTEVMemxwWEEwdXlNR1lBY29rdV9CTy1QUEltUE1Sa21ielFMcGdEOA?oc=5"
+      "manchete": "Marco Zero Conteúdo: Festival de Jornalismo Recife reúne 15 jornalistas de destaque da imprensa brasileira",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzJFU2xLZVp6OXplTUFoNFVyT3ltdjVGc1NXRS1fYTRzM2paakF1a0tGd3RjZlIydW1GU2o0aEhUQ3JydzZNNWdudWZPZmdUbFdnTEt3VVNMemkxaEx2MVhZSjJtazZHeVZkZjl5Z0J5UE05NFY0T1FjdkVLTndOOGxYOXlmcnp4SXJ5RENpd0xkMW4yQkpUMkpEN056ZjliTGRaQ1BsSTRKd3NU?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Granado oferece kits e versões especiais de natal",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjFPZXJ2NW93TTNIX0JPdFFIVkQ0LXU3OVZVb05oaWgzRW9Qb0N6V1hJckxJd0dhLVF3TEhONUVDUTRaQXpnd3Q3R3FPSmo0YmFLSGxzcFZVdVJvdjJYa0hxQXhQcmdPUzVmQU40N0JjWk40RVZYaHFkQ1ZnWGIxZ0FYaE5zeldSZzdvWUswdEs?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Ministério Publico de Pernambuco: Com reuniões no Recife e em Olinda, Agenda Compartilhada já tem 60% da programação cumprida",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1E4aXJ6RGJuX3RiWm9UZ1RVRGgwU19KajUyOXZkamRJZnRkSGVyYVNFcU02T3NaTFFqY19Hd1ZEakZMZ1UtMXoyUmx5NmZvZmNuOHF4d3FfdGg5MW5EQ0NxVXRVaE1DcGdvNFVncnFOZGJBbF90MkdHVExNeE9DLVlFN1M4UFUwUTk1Q211MGNQU3p2eks2R3hFZXdhZE8xNnIyRHVtWmU0VkFNVGo4bXNoRkVkYUtJeUtzYXlmSVo5SUZvUVNmaE54TW5HcHNDNExN?oc=5"
+      "manchete": "UOL Notícias: Mulher é morta pelo ex-companheiro em PE durante festa após eleições",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVpfaVB3enpGMEpGRVdibVVBMHJhTVNMZlpSTTRDRTU4V2d6Y3ViSTNGNjhzQ2p0SUZZZDZVbGw0TmVjM1RIMklzYjJGLTJxam54VEJsbjdWTXR3Z2JPbTlSRVRObkQ4UVBvTFl0V0VDNmdjbkx5QVJyQkZlOFMxbFFBTVZxNl9HbWlmZFNhSnZ3bkRZLWNBNHpwWmxScEhXM09iOVhYUQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -243,34 +231,28 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV19HVU1sQlhvZUhIMVZkbkFsY0hYOF9hTHo2ZVJTTmxYY0ZRaDdkeWZHSi1VYXRoX0gwWUprSTBqcVpsdWVCTTBaWEhIbWlhNVlXMlJ0M0NxVWpOdU1mR3JXekRkVWhVMGhzMG81QTlKTkw4LUhXa0JYNWNiWF83bDhLTzlqLTlJMEIwZ09tbDk2alU0Q3EtdmtzVWR6c1BWa29TVTN2aGFLallrc29lb9IBsAFBVV95cUxQV19HVU1sQlhvZUhIMVZkbkFsY0hYOF9hTHo2ZVJTTmxYY0ZRaDdkeWZHSi1VYXRoX0gwWUprSTBqcVpsdWVCTTBaWEhIbWlhNVlXMlJ0M0NxVWpOdU1mR3JXekRkVWhVMGhzMG81QTlKTkw4LUhXa0JYNWNiWF83bDhLTzlqLTlJMEIwZ09tbDk2alU0Q3EtdmtzVWR6c1BWa29TVTN2aGFLallrc29lbw?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Apac indica chuva em regiões de Pernambuco; veja a previsão do tempo nesta terça (27)",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNVFjdGVpaFQ3MUFCRUkzRWQzV3Itd1JNcE9aSWhpZFlyTFl3UGR1aVdmdU1Fc3RZaldTV0xseHVjNnFFcmsydzJWTTdDZnBtTHJLajREbXlBN1RuSEFOdWtvYWdwRkU4YnZaZFpVVVFQRU9hXzlzamlTakVkSzdzaEc3TlFTYkhVWmttQ2xaMVJDbVdocXhQcEtIQkVzZl9LSFltbkFUNVg4c2N1cjhFc2xzTFNLMjdFQ2JkN0YwYzh6M3JHd1pyQ0UzZ2JEbzVsMWxwQkhhenZJZFB1ZXlwUDNmMUQ?oc=5"
-    },
-    {
       "termo": "Alepe",
       "volume": "Últimas 12h",
       "manchete": "Assembleia Legislativa do Estado de Pernambuco: Alepe aprova descontos de até 100% em juros e multas na renegociação de dívidas",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jT3gxNDdOZnBxaFNjX1lBdDVHeG0xRWp3U2JvY0JRZVdKWHJEMzVEUnNfeVpqRjBMVFlfamhWT2VVTFhKS3JxczV6cVJBeE54c3JqWUZGU0E2X3RwNHduXzh3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnplcDNmRmpaWHZPdWVGb0NPVjAyU3BFUlhKYk1lTFY1UEpHVGRfSUJwNVBVcmhkbVRNQ2ZvNG1QaF9qQ01GVnFKUlNvN1Q5clFUTHF6NTRwRmxlSEQ4QmlZU1IydDAwMklNRUFLR01OMzdZWTZUZ2kxNUR0YUVFVF9wUmg1MjNiRzhuZjhWY1BaQUUway1sYkVMNlMzWWdfei1QWU5JUnBSZm52Tnk5WXp1RVVzb19RVmc?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Parlamentares destacam reeleição do presidente Lula",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnN5SzVDSnVmb1B0RTNmX0tjMFh3LVNFd0p1VUJQN0owRFpmSWR5UzFrajVlcVVhNmRoODZrWmEzMXVubVoyYzR2U1g2UmZlUjZDLUZYajZIS2hzSjE1cWRiWUo1QUVOdXZfQTRseDFZUnM2Y0gzN1g4OG5KalkzVUxEZ1ZkS1c5Y0J2aG9FUzE2WHltdHc?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Secretário destaca investimentos em debate sobre o Orçamento para 2027",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVJxbmhXdEYtZUg2allLZk1DQzhWdmFxSm5xemJWSjRXakVBYV94WW5IaXpLZG44bFlKc0hwNk00bHcwb19MNEt6bDJoMzNTV2hlYUdzc3FSZmpNNjVrbC1TWG13RXo0QnpZdDBFRUppNWY5YmhnaTNxWldoQkwwNXZaMnEzbHVIb1V6VXR0UHlYUHpFTXpKdmRWdm5fd2RXN0hTMVRMeW45Qnd2VUVZ?oc=5"
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Secretário destaca capacidade de investimento e a priorização da saúde no orçamento de 2027",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02YWc4Z1F0aDMwYm41Mzdrc0hPOF9RUHpFaWItaFE3OVMtY21KcU9qTjJ5TWNKb2NKdzRycUlScF9kUkRsby15STJ1eTRfYUZ2R21Jc0VoMThHWU9BcHJmUw?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
       "manchete": "Assembleia Legislativa do Estado de Pernambuco: Votação sobre empréstimo de R$ 1,9 bilhão é adiada",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNemh2R1hfd01ZUC1QME1EX2huVkd3aFRQSTZCTVljZ2JlX293T3FmaEZWZUJhck9SRm80UHNNWGpvek82dExQcFJjcVhNYWFQRnpTZ2szUU9YN0JXZHNFM0QwalJaRkpSMXFWTnlrUHdDQ3lqOHNuU3AwbjJBZE9Ca0h6bXVJZ21jdXJsSEZiQnA?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Parlamentares destacam reeleição do presidente Lula",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnN5SzVDSnVmb1B0RTNmX0tjMFh3LVNFd0p1VUJQN0owRFpmSWR5UzFrajVlcVVhNmRoODZrWmEzMXVubVoyYzR2U1g2UmZlUjZDLUZYajZIS2hzSjE1cWRiWUo1QUVOdXZfQTRseDFZUnM2Y0gzN1g4OG5KalkzVUxEZ1ZkS1c5Y0J2aG9FUzE2WHltdHc?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -281,56 +263,80 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "cnf.net.br: Site oficial do Governo de Pernambuco fica fora do ar após alteração de imagens; caso é investigado",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnNfZ2hwVlJnVjBBVGI4ZGs3NTJ1bmdBZ2d0LUR0RU5rdTBrR3JVNU1zbmpxSGV5WDZqZkQwdUExYVRPTXZzOTNzOGFncFBMVWpSN1dMT0IxTTNVZVo5NjhZWWNUVEthSzNuN2IzMFBvRTBId01PSUdvMXhBRlFSb3BnbUNoeU9wWEd4emVFLUp4dkJjMVltMkxuRnFvaEstWFVnZEVrN3h2YzYzcDQxQTdURU41U3BkSEFVRnlkUms5ZXBPRFhZbQ?oc=5"
+      "manchete": "G1: Feira de Imóveis de Caruaru oferece 2,1 mil unidades pelo Morar Bem Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEdTYllrNU9Hem5vbHF2M2oyekhtX0QxanY3UmloNlJRWjU4RTZoTUMtM3Q2QUV4bUFiYkhacGwtM1NjRDMwSWtQelNLQ1E2VF9PekhSdEVYcmswYTVmZWx2YnZ6YkFQeDVwNHVWMjRZZm50S3p0ZzE2TDNRajZhNWNSWTBOcjZpd0VwVVFFUFNlMjV2TGRSXzM5TFR2TXZsUjlZSkl5ODVhcUJKWVVjZnVWZVVjZnRCaW1DdS1rbFhOZEpLUnFlZmpneGRjbVA4Y3lJaHFKNWTSAecBQVVfeXFMTk5yYjJtXzE4ajZxLS1Qa0NfUXJQNUp4LWpzc0VZSVphYW1sSGFmNTktZFA3ZERRV0xPaEc4WUlxd1lSSEtzeHBSV0gxY3hsdjhVQVppUE5zX1llM3RldkZOS0xNMWxKWGsxUUh0clV0MGVXWnZfa2FkOFNpLWxtUHFfUXVBTGg3N05zZEtsdHVHamRYRlU4Y3ZrNHVteEpVTzNqYlBUaDFtaWdqV2pQNDBkM01nd0k2WURTekZDTklqY3B3eXh0ZE5wQmJZTGtnSmZGWjZOQkNiMmpBSFlxNkc1aVlXY0JR?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Feira de Imóveis de Caruaru oferece 2,1 mil unidades pelo Morar Bem Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEdTYllrNU9Hem5vbHF2M2oyekhtX0QxanY3UmloNlJRWjU4RTZoTUMtM3Q2QUV4bUFiYkhacGwtM1NjRDMwSWtQelNLQ1E2VF9PekhSdEVYcmswYTVmZWx2YnZ6YkFQeDVwNHVWMjRZZm50S3p0ZzE2TDNRajZhNWNSWTBOcjZpd0VwVVFFUFNlMjV2TGRSXzM5TFR2TXZsUjlZSkl5ODVhcUJKWVVjZnVWZVVjZnRCaW1DdS1rbFhOZEpLUnFlZmpneGRjbVA4Y3lJaHFKNWTSAecBQVVfeXFMTk5yYjJtXzE4ajZxLS1Qa0NfUXJQNUp4LWpzc0VZSVphYW1sSGFmNTktZFA3ZERRV0xPaEc4WUlxd1lSSEtzeHBSV0gxY3hsdjhVQVppUE5zX1llM3RldkZOS0xNMWxKWGsxUUh0clV0MGVXWnZfa2FkOFNpLWxtUHFfUXVBTGg3N05zZEtsdHVHamRYRlU4Y3ZrNHVteEpVTzNqYlBUaDFtaWdqV2pQNDBkM01nd0k2WURTekZDTklqY3B3eXh0ZE5wQmJZTGtnSmZGWjZOQkNiMmpBSFlxNkc1aVlXY0JR?oc=5"
+      "manchete": "cnf.net.br: Site oficial do Governo de Pernambuco fica fora do ar após alteração de imagens; caso é investigado",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnNfZ2hwVlJnVjBBVGI4ZGs3NTJ1bmdBZ2d0LUR0RU5rdTBrR3JVNU1zbmpxSGV5WDZqZkQwdUExYVRPTXZzOTNzOGFncFBMVWpSN1dMT0IxTTNVZVo5NjhZWWNUVEthSzNuN2IzMFBvRTBId01PSUdvMXhBRlFSb3BnbUNoeU9wWEd4emVFLUp4dkJjMVltMkxuRnFvaEstWFVnZEVrN3h2YzYzcDQxQTdURU41U3BkSEFVRnlkUms5ZXBPRFhZbQ?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "fuga de Flávio",
-      "razao_aumento": 142.9,
+      "termo": "aos EUA",
+      "razao_aumento": 123.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Brasil de Fato",
-        "hora": "2026-10-27T20:10:00Z",
-        "titulo": "Possível fuga de Flávio Bolsonaro e questionamento das eleições repetem padrão da extrema direita, avalia analista",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM29qcHQwNGt6b29MZE5vZjVNMmdHa05YUGpLdTBQQU5BSHRfdnRKUmFEblFZZUpsUENUaTVRRWdGY05hWE9RQnJ0MnJjcnVoVUNqZk9PeW9rVEVPWExRRV9RV3Q1ME5OVmZtWXVVUVUzQ1F4dEZxQi1kaVJ3Q0wtRUZIMHFicV9NZ3gzTGRRRTNXUjl6TEJyX196a2VkOENIZ0VaS1JaVGRUa3lkeW9wMjdDeS0wUWtxQXgyMkE1b0MxX3VSRjNlME1IR0E3SDlTcTBNT3N2YTA4aXBTSHY1UjFZOGVBbVluRGtETXNR?oc=5",
+        "fonte": "Agência Brasil",
+        "hora": "2026-10-27T19:26:00Z",
+        "titulo": "Aliado de Trump diz que Flávio Bolsonaro chegou aos EUA",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORERLalFfRmZuaDJLdmcwUERqSlFHU09KYWd5ZWswSVdCeWh4MHFGLUJCVmM0dkZpMHNxeWpFUnpjLUJCbWlqdm9oOG1sVkdtTm9zYmw0ZGxjbFB3STVHR2ZnQjN6UFVnS1VqSlFPajltUy1GeXF6dXBxTVdyd2FmSWVRTVl5SGhuUWR2TTc4WmdxRWdnWnFVbFlqZW1zUUhiTHNCcjl6R0dNRGNZS0ZKMmhWYw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "tiros pelo",
-      "razao_aumento": 121.3,
+      "termo": "Lula critica",
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Metrópoles",
-        "hora": "2026-10-27T10:50:00Z",
-        "titulo": "Servidora é morta a tiros pelo marido em festa de apuração das eleições",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWpkV0V1M3hKSXF2Vkg1eWh2V3hxdEZiN2M4THdFSktKR3JIODB4b2JLTTY4WlVnWmJsYTAycHRHQmE0ZWpJZVRCM1ZKdzdCZUhyTmdDWlZ6czVmX29sR1R2MnprdkF1cDJIcDlPRHNSMGVCR19qLTAxS1U1N0xyXzZhY1I3ZkwzTk1KT09seE9hd25XTnI1aUJjQ2o1X1VoaU5lck80NnlXRldnMWc4bXI5XzRFbEVMUmJtdGkzNjI?oc=5",
+        "fonte": "CNN Brasil",
+        "hora": "2026-10-28T01:23:24Z",
+        "titulo": "Entorno de Lula critica Moraes por decisão sobre passaporte de Flávio",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGx2YmJZdXFYb3VIV1lqdjRTblBsRl9PU0tiMFNQUDBlVnE4UDU1QkFXUnQ5ZmlEd1VoZDJYXzFKUDFyQ1pwYlpfYkw1T1VNS1RvTHdfZDVMZ29hamo4TzQ4SkJSbTk5SFBPR09IVWRPcTUtSmVJYlNxandUek9SYTloWklzRmZJV1RLSDRkTnRnV3liYm4xakk5OVVqSkhXVzhHQ28tdjNtVUJHN2NleUN6YTlZM3pJcmhZTGtFa0diQQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "morta a tiros",
-      "razao_aumento": 121.3,
+      "termo": "Agência",
+      "razao_aumento": 74.2,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Metrópoles",
-        "hora": "2026-10-27T10:50:00Z",
-        "titulo": "Servidora é morta a tiros pelo marido em festa de apuração das eleições",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWpkV0V1M3hKSXF2Vkg1eWh2V3hxdEZiN2M4THdFSktKR3JIODB4b2JLTTY4WlVnWmJsYTAycHRHQmE0ZWpJZVRCM1ZKdzdCZUhyTmdDWlZ6czVmX29sR1R2MnprdkF1cDJIcDlPRHNSMGVCR19qLTAxS1U1N0xyXzZhY1I3ZkwzTk1KT09seE9hd25XTnI1aUJjQ2o1X1VoaU5lck80NnlXRldnMWc4bXI5XzRFbEVMUmJtdGkzNjI?oc=5",
+        "fonte": "Agência Brasil",
+        "hora": "2026-10-27T18:18:00Z",
+        "titulo": "Flávio Bolsonaro fugiu para os EUA, diz Agência Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPajE3bG8yc052SnFJN2ZMX1lCMU1CZFBMMVh6Umw4WlFNdEFJYWYyTURkLXVzd1BUQkFHLVpKdnlBUE1xdWs0aHg0bXdVWWxZb09JNUo3YkpoY3VtczM0OUVOYndYUTd4V2xabkxJSW1WYjFZbVZFNHNwR3RmLW5aM0dQY3l0enE2MWtOTTN1ZVkxbHlPWnhiWTBza2xFVDRQWUNKdk1QelM4dmFpMW04WXp3?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Pernambuco abre",
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Márcio Didier",
+        "hora": "2026-10-27T13:32:00Z",
+        "titulo": "Mães de Pernambuco abre 2.621 vagas para benefício de R$ 300",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xWU56UEhsSjJiQ1hjMFNnVU1VODNjcE1pY3NtNmEwdTlfVnlqcXVGZzBGcDZlbjNZcjFuenRhWkROS3dITGdBdEpoYXBhZWdKb01aUE5rMElWY0VUUW00bTZXRmYwOGNmQmx6TTRoTkNPLXVJQWc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "vagas para benefício",
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Márcio Didier",
+        "hora": "2026-10-27T13:32:00Z",
+        "titulo": "Mães de Pernambuco abre 2.621 vagas para benefício de R$ 300",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xWU56UEhsSjJiQ1hjMFNnVU1VODNjcE1pY3NtNmEwdTlfVnlqcXVGZzBGcDZlbjNZcjFuenRhWkROS3dITGdBdEpoYXBhZWdKb01aUE5rMElWY0VUUW00bTZXRmYwOGNmQmx6TTRoTkNPLXVJQWc?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Acciona",
-      "razao_aumento": 83.3,
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Nill Junior",
@@ -341,50 +347,26 @@
       }
     },
     {
-      "termo": "Recife é morta",
-      "razao_aumento": 83.3,
+      "termo": "abre consulta",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Terra MT Digital",
-        "hora": "2026-10-27T10:51:00Z",
-        "titulo": "Servidora da Prefeitura do Recife é morta a tiros pelo companheiro durante festa de apuração das eleições",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLW5yUnF3OFlTOUhPandkSDhYUFBWRXhnNEQ5d1BRZm9ZRUJhSEdnWGhaVjFpTFVmRldMaTA0NERzVXh1TFg3bG9QOFY2Z0l6dHB2eUw4cTNTOFFfaFhuZU40RkNxZ1Bzd2RJSTZaSG9UcTVzUHRvRERHV3lZdF9xTk5kNTdjMHY5NUpHTlVCWjJrRFIyZVJIN2Flcl9FLVg5TEpmcTZSbW84WGh3WmRzUDNsZmV4VU9qTG90UzdQYVRPQzNIRlNGNERSOUtiODVLWE05Mlk5N2k4TEE?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-27T14:40:02Z",
+        "titulo": "Recife abre consulta pública sobre PPP de limpeza urbana e manejo de resíduos sólidos",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQi0tY3VyekdOeTd0SXZaa3Zmc0xNcUNnSFJTMXFzNnpodXVueGZBVUt2ZXkydVNwYTk0WDlIU29VZXFDeWJxU0VfQmsweUczRTdoNExhVUxieHVtN2tWb1d1VjlxeE5SS0ZfanVlQWJJX2FDSG1DYmQtUjNzQlh0TFdIclpBaHpoSUZqRzYwY3l3aW1pckpMMFZVUEQ1VmtQcEtGUUp6Y1l1WE5RSHB5YnlwQ1hid9IBtgFBVV95cUxQQi0tY3VyekdOeTd0SXZaa3Zmc0xNcUNnSFJTMXFzNnpodXVueGZBVUt2ZXkydVNwYTk0WDlIU29VZXFDeWJxU0VfQmsweUczRTdoNExhVUxieHVtN2tWb1d1VjlxeE5SS0ZfanVlQWJJX2FDSG1DYmQtUjNzQlh0TFdIclpBaHpoSUZqRzYwY3l3aW1pckpMMFZVUEQ1VmtQcEtGUUp6Y1l1WE5RSHB5YnlwQ1hidw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "tiros pelo companheiro",
-      "razao_aumento": 83.3,
+      "termo": "consulta pública",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Terra MT Digital",
-        "hora": "2026-10-27T10:51:00Z",
-        "titulo": "Servidora da Prefeitura do Recife é morta a tiros pelo companheiro durante festa de apuração das eleições",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLW5yUnF3OFlTOUhPandkSDhYUFBWRXhnNEQ5d1BRZm9ZRUJhSEdnWGhaVjFpTFVmRldMaTA0NERzVXh1TFg3bG9QOFY2Z0l6dHB2eUw4cTNTOFFfaFhuZU40RkNxZ1Bzd2RJSTZaSG9UcTVzUHRvRERHV3lZdF9xTk5kNTdjMHY5NUpHTlVCWjJrRFIyZVJIN2Flcl9FLVg5TEpmcTZSbW84WGh3WmRzUDNsZmV4VU9qTG90UzdQYVRPQzNIRlNGNERSOUtiODVLWE05Mlk5N2k4TEE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "companheiro durante festa",
-      "razao_aumento": 83.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Terra MT Digital",
-        "hora": "2026-10-27T10:51:00Z",
-        "titulo": "Servidora da Prefeitura do Recife é morta a tiros pelo companheiro durante festa de apuração das eleições",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLW5yUnF3OFlTOUhPandkSDhYUFBWRXhnNEQ5d1BRZm9ZRUJhSEdnWGhaVjFpTFVmRldMaTA0NERzVXh1TFg3bG9QOFY2Z0l6dHB2eUw4cTNTOFFfaFhuZU40RkNxZ1Bzd2RJSTZaSG9UcTVzUHRvRERHV3lZdF9xTk5kNTdjMHY5NUpHTlVCWjJrRFIyZVJIN2Flcl9FLVg5TEpmcTZSbW84WGh3WmRzUDNsZmV4VU9qTG90UzdQYVRPQzNIRlNGNERSOUtiODVLWE05Mlk5N2k4TEE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Vítima de feminicídio",
-      "razao_aumento": 83.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Farol de Notícias",
-        "hora": "2026-10-27T11:44:49Z",
-        "titulo": "Servidora da Prefeitura do Recife é vítima de feminicídio",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0kxb3BjR3hfVFZfa1VjTkhzTkMzVUZCbm1zaDMtMUVhdkVYcU5iUVd2OFdYeGhYcWRpMFJWUW9hZ0htVVBhb05KZFJvYS1KdGRwMi1KQTlBY2ZSMXFzZXdYRlRNaXNXUWh0bGNVamVnOHVXMW9PNXE4UXBTa2RNbDNMMU5TU3FJNFZKMm5YbE9PZ2PSAZMBQVVfeXFMUGtJMW9wY0d4X1RWX2tVY05Ic05DM1VGQm5tc2gzLTFFYXZFWHFOYlFXdjhXWHhoWHFkaTBSVlFvYWdIbVVQYW9OSmRSb2EtSnRkcDItSkE5QWNmUjFxc2V3WEZUTWlzV1FodGxjVWplZzh1VzFvTzVxOFFwU2tkTWwzTDFOU1NxSTRWSjJuWGxPT2dj?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-27T14:40:02Z",
+        "titulo": "Recife abre consulta pública sobre PPP de limpeza urbana e manejo de resíduos sólidos",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQi0tY3VyekdOeTd0SXZaa3Zmc0xNcUNnSFJTMXFzNnpodXVueGZBVUt2ZXkydVNwYTk0WDlIU29VZXFDeWJxU0VfQmsweUczRTdoNExhVUxieHVtN2tWb1d1VjlxeE5SS0ZfanVlQWJJX2FDSG1DYmQtUjNzQlh0TFdIclpBaHpoSUZqRzYwY3l3aW1pckpMMFZVUEQ1VmtQcEtGUUp6Y1l1WE5RSHB5YnlwQ1hid9IBtgFBVV95cUxQQi0tY3VyekdOeTd0SXZaa3Zmc0xNcUNnSFJTMXFzNnpodXVueGZBVUt2ZXkydVNwYTk0WDlIU29VZXFDeWJxU0VfQmsweUczRTdoNExhVUxieHVtN2tWb1d1VjlxeE5SS0ZfanVlQWJJX2FDSG1DYmQtUjNzQlh0TFdIclpBaHpoSUZqRzYwY3l3aW1pckpMMFZVUEQ1VmtQcEtGUUp6Y1l1WE5RSHB5YnlwQ1hidw?oc=5",
         "peso": 1.0
       }
     }
@@ -393,272 +375,272 @@
     {
       "termo": "Flávio",
       "peso_relativo": 100.0,
-      "fatia_pct": 19.95,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 76.9,
-      "fatia_pct": 15.34,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Bolsonaro",
-      "peso_relativo": 76.7,
-      "fatia_pct": 15.29,
-      "fontes_distintas": 16
-    },
-    {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 74.3,
-      "fatia_pct": 14.81,
+      "fatia_pct": 17.2,
       "fontes_distintas": 15
     },
     {
-      "termo": "fuga de Flávio",
-      "peso_relativo": 31.8,
-      "fatia_pct": 6.35,
-      "fontes_distintas": 10
+      "termo": "Lula",
+      "peso_relativo": 93.8,
+      "fatia_pct": 16.13,
+      "fontes_distintas": 21
     },
     {
-      "termo": "Trump",
-      "peso_relativo": 27.6,
-      "fatia_pct": 5.5,
-      "fontes_distintas": 6
+      "termo": "Bolsonaro",
+      "peso_relativo": 75.0,
+      "fatia_pct": 12.9,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 75.0,
+      "fatia_pct": 12.9,
+      "fontes_distintas": 12
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 26.5,
-      "fatia_pct": 5.29,
+      "peso_relativo": 31.2,
+      "fatia_pct": 5.38,
       "fontes_distintas": 9
     },
     {
-      "termo": "Estados",
-      "peso_relativo": 19.9,
-      "fatia_pct": 3.97,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Unidos",
-      "peso_relativo": 19.9,
-      "fatia_pct": 3.97,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Estados Unidos",
-      "peso_relativo": 19.9,
-      "fatia_pct": 3.97,
-      "fontes_distintas": 4
+      "termo": "fuga de Flávio",
+      "peso_relativo": 31.2,
+      "fatia_pct": 5.38,
+      "fontes_distintas": 8
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 18.6,
-      "fatia_pct": 3.7,
-      "fontes_distintas": 6
+      "peso_relativo": 25.0,
+      "fatia_pct": 4.3,
+      "fontes_distintas": 7
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 18.6,
-      "fatia_pct": 3.7,
-      "fontes_distintas": 6
+      "peso_relativo": 25.0,
+      "fatia_pct": 4.3,
+      "fontes_distintas": 7
     },
     {
       "termo": "Alepe",
-      "peso_relativo": 18.6,
-      "fatia_pct": 3.7,
+      "peso_relativo": 25.0,
+      "fatia_pct": 4.3,
       "fontes_distintas": 7
     },
     {
       "termo": "Brasil",
-      "peso_relativo": 18.6,
-      "fatia_pct": 3.7,
+      "peso_relativo": 21.9,
+      "fatia_pct": 3.76,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Niño",
+      "peso_relativo": 18.8,
+      "fatia_pct": 3.23,
       "fontes_distintas": 6
     },
     {
-      "termo": "Moraes",
-      "peso_relativo": 18.0,
-      "fatia_pct": 3.6,
-      "fontes_distintas": 3
+      "termo": "El Niño",
+      "peso_relativo": 18.8,
+      "fatia_pct": 3.23,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Israel",
+      "peso_relativo": 18.8,
+      "fatia_pct": 3.23,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Trump",
+      "peso_relativo": 18.1,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Deport",
+      "peso_relativo": 17.8,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonaros",
+      "peso_relativo": 17.8,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Deport The",
+      "peso_relativo": 17.8,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "The Bolsonaros",
+      "peso_relativo": 17.8,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Deport The Bolsonaros",
+      "peso_relativo": 17.8,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
     },
     {
       "termo": "Corrida",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.17,
+      "peso_relativo": 16.9,
+      "fatia_pct": 2.9,
       "fontes_distintas": 1
     },
     {
       "termo": "Blogueiras8",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.17,
+      "peso_relativo": 16.9,
+      "fatia_pct": 2.9,
       "fontes_distintas": 1
     },
     {
       "termo": "Corrida Das Blogueiras8",
+      "peso_relativo": 16.9,
+      "fatia_pct": 2.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Master",
       "peso_relativo": 15.9,
-      "fatia_pct": 3.17,
+      "fatia_pct": 2.74,
       "fontes_distintas": 1
     },
     {
-      "termo": "Fugitivo",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.02,
+      "termo": "Chef",
+      "peso_relativo": 15.9,
+      "fatia_pct": 2.74,
       "fontes_distintas": 1
     },
     {
-      "termo": "Flavio Fugitivo",
-      "peso_relativo": 15.1,
-      "fatia_pct": 3.02,
+      "termo": "Master Chef",
+      "peso_relativo": 15.9,
+      "fatia_pct": 2.74,
       "fontes_distintas": 1
     },
     {
-      "termo": "FLAVIOBOLSONAROFUGIU",
-      "peso_relativo": 13.5,
-      "fatia_pct": 2.7,
+      "termo": "Chef BR",
+      "peso_relativo": 15.9,
+      "fatia_pct": 2.74,
       "fontes_distintas": 1
     },
     {
-      "termo": "Niño",
-      "peso_relativo": 13.3,
-      "fatia_pct": 2.65,
-      "fontes_distintas": 5
+      "termo": "Master Chef BR",
+      "peso_relativo": 15.9,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 1
     },
     {
-      "termo": "El Niño",
-      "peso_relativo": 13.3,
-      "fatia_pct": 2.65,
-      "fontes_distintas": 5
+      "termo": "Roça",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Servidora",
-      "peso_relativo": 13.3,
-      "fatia_pct": 2.65,
-      "fontes_distintas": 5
+      "termo": "HOSEOK",
+      "peso_relativo": 14.1,
+      "fatia_pct": 2.42,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Fuga",
+      "termo": "Irina",
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.26,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "empréstimo de R",
       "peso_relativo": 12.5,
-      "fatia_pct": 2.49,
+      "fatia_pct": 2.15,
       "fontes_distintas": 3
     },
     {
-      "termo": "Guimarães",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.43,
-      "fontes_distintas": 2
+      "termo": "Estados",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Matthel",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 1
+      "termo": "Unidos",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
+      "fontes_distintas": 4
     },
     {
-      "termo": "governo Lula",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.12,
+      "termo": "Estados Unidos",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Bolsonaro do Brasil",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
       "fontes_distintas": 3
     },
     {
-      "termo": "visto para Flávio",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.12,
+      "termo": "alguma coisa",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "aos EUA",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
     },
     {
       "termo": "impactos do El",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.12,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "nesta quarta",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.12,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Servidora da Prefeitura",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.12,
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
     },
     {
       "termo": "Mães",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.12,
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
     },
     {
       "termo": "Mães de Pernambuco",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.12,
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
     },
     {
-      "termo": "Breia",
+      "termo": "STFQueremos2Turno",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "STFQueremos2Turno No RJ",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.1,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "JHOPE",
+      "peso_relativo": 11.2,
+      "fatia_pct": 1.94,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ariela",
       "peso_relativo": 10.3,
-      "fatia_pct": 2.06,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bruno",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.9,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bruno Guimarães",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.9,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Venezuela",
-      "peso_relativo": 8.8,
-      "fatia_pct": 1.75,
+      "fatia_pct": 1.77,
       "fontes_distintas": 1
     },
     {
       "termo": "Reeleição de Lula",
-      "peso_relativo": 8.0,
-      "fatia_pct": 1.59,
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.61,
       "fontes_distintas": 3
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 8.0,
-      "fatia_pct": 1.59,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Campos",
-      "peso_relativo": 8.0,
-      "fatia_pct": 1.59,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 8.0,
-      "fatia_pct": 1.59,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Duque",
-      "peso_relativo": 8.0,
-      "fatia_pct": 1.59,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "vitória de Lula",
-      "peso_relativo": 8.0,
-      "fatia_pct": 1.59,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "após vitória",
-      "peso_relativo": 8.0,
-      "fatia_pct": 1.59,
-      "fontes_distintas": 2
     }
   ]
 }
