@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-30T18:51:43Z",
-  "total_analisado": 127,
+  "atualizado_em": "2026-10-30T22:57:25Z",
+  "total_analisado": 138,
   "x_recife": [
     {
-      "termo": "#VotoDistritalNao",
+      "termo": "Santa",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23VotoDistritalNao",
+      "url": "https://x.com/search?q=Santa",
+      "ruido": false
+    },
+    {
+      "termo": "#Jones2030",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23Jones2030",
+      "ruido": false
+    },
+    {
+      "termo": "Polônia",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Pol%C3%B4nia",
       "ruido": false
     },
     {
       "termo": "#PL2374",
-      "posicao": 2,
+      "posicao": 4,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=%23PL2374",
       "ruido": false
     },
     {
-      "termo": "Nisha",
-      "posicao": 3,
+      "termo": "Djamila Ribeiro",
+      "posicao": 5,
       "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Nisha",
+      "url": "https://x.com/search?q=Djamila%20Ribeiro",
       "ruido": false
     },
     {
-      "termo": "#PlsLoveรักได้ไหมFinalEP",
-      "posicao": 4,
+      "termo": "#VotoDistritalNao",
+      "posicao": 6,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23PlsLove%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1FinalEP",
+      "url": "https://x.com/search?q=%23VotoDistritalNao",
       "ruido": false
     },
     {
-      "termo": "billie",
-      "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=billie",
+      "termo": "#SemAnistiaParaGolpista",
+      "posicao": 7,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23SemAnistiaParaGolpista",
+      "ruido": false
+    },
+    {
+      "termo": "#EmpregoSoComLula",
+      "posicao": 8,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23EmpregoSoComLula",
+      "ruido": false
+    },
+    {
+      "termo": "Douglas Ruas",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Douglas%20Ruas",
+      "ruido": false
+    },
+    {
+      "termo": "Core",
+      "posicao": 10,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Core",
+      "ruido": false
+    },
+    {
+      "termo": "Zé Ricardo",
+      "posicao": 11,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Z%C3%A9%20Ricardo",
+      "ruido": false
+    },
+    {
+      "termo": "Donald Tusk",
+      "posicao": 12,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Donald%20Tusk",
       "ruido": false
     },
     {
       "termo": "CONGRESSO INIMIGO DO POVO",
-      "posicao": 6,
-      "variacao": "-1",
-      "direcao": "cai",
+      "posicao": 13,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=CONGRESSO%20INIMIGO%20DO%20POVO",
       "ruido": false
     },
     {
-      "termo": "NÃO ENGAJE A EXTREMA-DIREITA",
-      "posicao": 7,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=N%C3%83O%20ENGAJE%20A%20EXTREMA-DIREITA",
+      "termo": "Tribunal Constitucional",
+      "posicao": 14,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Tribunal%20Constitucional",
       "ruido": false
     },
     {
-      "termo": "PROTEJA NOSSOS POVOS INDÍGENAS",
-      "posicao": 8,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=PROTEJA%20NOSSOS%20POVOS%20IND%C3%8DGENAS",
+      "termo": "Nisha",
+      "posicao": 15,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Nisha",
       "ruido": false
     },
     {
-      "termo": "Pavi",
-      "posicao": 9,
-      "variacao": "+2",
+      "termo": "Lila",
+      "posicao": 16,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Lila",
+      "ruido": false
+    },
+    {
+      "termo": "Poland",
+      "posicao": 17,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Poland",
+      "ruido": false
+    },
+    {
+      "termo": "Marinette",
+      "posicao": 18,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Marinette",
+      "ruido": false
+    },
+    {
+      "termo": "Adrien",
+      "posicao": 19,
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Pavi",
-      "ruido": false
-    },
-    {
-      "termo": "Lacta",
-      "posicao": 10,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Lacta",
-      "ruido": false
-    },
-    {
-      "termo": "Neto",
-      "posicao": 11,
-      "variacao": "+15",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Neto",
-      "ruido": false
-    },
-    {
-      "termo": "Ronaldo Fenômeno",
-      "posicao": 12,
-      "variacao": "+9",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Ronaldo%20Fen%C3%B4meno",
-      "ruido": false
-    },
-    {
-      "termo": "#TheUrgentTrumpet",
-      "posicao": 13,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23TheUrgentTrumpet",
+      "url": "https://x.com/search?q=Adrien",
       "ruido": false
     },
     {
       "termo": "Halloween",
-      "posicao": 14,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Halloween",
-      "ruido": false
-    },
-    {
-      "termo": "São Januário",
-      "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=S%C3%A3o%20Janu%C3%A1rio",
-      "ruido": false
-    },
-    {
-      "termo": "#2026MAMAVOTE",
-      "posicao": 16,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%232026MAMAVOTE",
-      "ruido": false
-    },
-    {
-      "termo": "Mirassol",
-      "posicao": 17,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Mirassol",
-      "ruido": false
-    },
-    {
-      "termo": "Dilma 1",
-      "posicao": 18,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Dilma%201",
-      "ruido": false
-    },
-    {
-      "termo": "Binance",
-      "posicao": 19,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Binance",
-      "ruido": false
-    },
-    {
-      "termo": "Hugo Motta",
       "posicao": 20,
-      "variacao": "-5",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Hugo%20Motta",
+      "url": "https://x.com/search?q=Halloween",
       "ruido": false
     }
   ],
@@ -167,14 +167,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "VEJA: Eleições 2026: Apuração Estadual em tempo real - Pernambuco - 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXA5R3pTWmF6UTFjekVxTi1na2VrNTJCQi12S2dGdnBJVW9Xd0xNZjdMalNmMDRjM2hGeTZ1aFdaM2JoY1FOYmV3R1o3aFhwUzRfZnUyd2dWZjVTQ3pYdkdueVM3SFZzSV9nTlF0d1MwQXhkN1FibU5oN0x4VmNyOXV5MU0?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): Governo de Pernambuco paga BDE 2026 a servidores da Educação",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzdjM0lGemFqdzd4R3BrRTR3RXRrSkNFd3VXWVFWd0VndkRZSjM2Q2V5dkx6ZkdxbndtMVNUZ0lEWnN4SktuWDZoRUpOT2ViUkRQOEtoWVZLdDdNVzI0Z3VidEFtRVBnYTlTSEFHcG9WZ0V6SWRoVGFXb1lRZWxKb09OTFdBcU9kWER2Q3hVb1AwcDVFdEFTNW1HTQ?oc=5"
+      "manchete": "G1: Emerson Freitas foragido: defesa alega 'vazamento seletivo' de informações e diz que deputado eleito é inocente em caso de extorsão",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQaGZUZEVEWUZ2VWxUZEppWE1xUDMxbEc0bGRiUWp4eF85TUFOWldCeDJZYThxYlRSSEtJdm5iUkRfdXdDaDBrak9GbXdYRk1UdTlkQUhkRVA2QnBzWUFibDVrWVdiNW9aLXdaWldXVTlFNmFHX0RTTFc1cTBXUkdDdmNVSlJGay1jWV9VU1BzakI5TVlqbC1Hb2xBX0ZJZDcySDNOcUxWdkx3TkJOR1NIYkhVRUtRUjBhNUx4SWJqa1cxTV93cERlcndoZG5BcVhHUDBpaWJ4d1VpVV9lWVJFVkkxV3dERXJhQkRyZkZGVU4wc2RPRUF3eF9BbHZtbGJWZGJoLWRDSVpaUDhwdW1R0gGeAkFVX3lxTE4zak9pdENwLWt1eUxGMmJKNVhHLXl6LXdzdkFfOGFfMXNGdEU4bTNGTGs4RGtfTWpOQ0FLVFEyRkZhbHVfajJZSUwtWGFOMWVoR05pMWNnWDBITlA4WGxIa2xXZ19ZdEhqcUcybUFwTGdrR3VxUWpOYW5ia0FKRGlGYlg3VS04MmtSUW1VQkxJaUxOUUE4T29RVHZLVnNLX1paaXBfelhxbDd5d0FzakgweDBwZndkQUp3d1BON0VUYmdjd1N3VWxEckZyVlNKZTJhLXluclYyUHdNZ0hRQUNvSHRhc3owN1hFWDJGNDU0Z1pPUHJNbHdYdWR3SHF2Y3FLdFBZYnZiQWxLd3RadDBXLW1KX2RoSkZzdFA5LVE?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -191,8 +185,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "O GLOBO: Influenciador ‘Barbeiro mirim' e adolescente são mortos a tiros em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONEdNUlZqbk0xeDVoWGVzUmkwZlVnQ3pZcXgzckxsVWtBZnVXYzNweWdlVE8zdnJlWTQwTzJ6dlEwYUNFQjg2bDZfZlFQUThna1BmOEtvXzFEM3NOazd3Nld3c0hDUUQ3ckZOYk9qM0NvZU11dTQwTUQ2S09kSGk3LTlFOXFXTE9ZdlozSm1pSVVVaFJDX2R6amVSSHJmSmhsUEVtOE95bm5memJJUW85elAzb2Q4MGxaMncxRHdoRDRnbHo4NnFDTTF2cFbSAdsBQVVfeXFMUHdJcGlCYW9xU0E4SzZoQ3RCdGlTazZ6ZWtLV3Z4Ujl2LWRzZUduVzRqYXNldDRwRTVUVmhBUTZCZURkWGlNXzRvZTJTemwtUl8wTnRvRTB2d29pMnZIa0dlUENLYzRxcmhFaTRCelgxejU0ZzA0UGgzeERENTl5THZxRTM4enNUMG1RR1dfUXdpX1pPaG9USUNfZzc1ZXU3VTl0MkdZRGt1LVBwT2hVRW9Ia2JmR2xkRk9HSkR3MzNNZGpYT2N6ZFR5ZzZvbHg2c1NqZmswaDdHeUY4?oc=5"
+      "manchete": "Portal CBN Recife: Governo de Pernambuco paga BDE 2026 a servidores da Educação",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXdaSXBhSFA0bjMtNzlJYU9xbWJpYUhFWEpydkZMMFFvYU82Uy1oU2NaVGVQc2p0c2pidXZxRHFsRmRMZElTMmdXQnB3SlZLazNHTFhqMWFrLUREWWZwWjBtR3BLYkJkMTE1MmZLUFprOURma3NwVEJIMXNYczFlTWl4VjNLaHpMSlc2UEdaeE1QcHpqbjA2UW1vYklCa3M?oc=5"
     },
     {
       "termo": "Recife",
@@ -203,26 +197,26 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Motociclista morre atropelado após cair na BR-101, no Recife",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWFLSm9iLVJveW1pUnhxRk5QWHFKa1pEQTAzOW9wcndqMTc2RmZsVEZRVkpoQi01YW5fSGFjNzFzbVRpUUkwOVZiaU5Sb0tpQ3JUeHpXMWxPTWh6a3FKdWtpaHlFWkQ3Zk14R3pTX2l6UkRURlZKa01xcmIzRXJ0NFpCRkZmb3BiYnNvLXRUaE52TEVjbDdLQjJ2TWdRZV9mVXFwQ3J5MzdHWGtBZU1ZZEVQUmU4MWlXTVJQaVk4ZVB4Vm5KeTQw0gHWAUFVX3lxTFA4amRzS2QwRjMxT3N3ZVRKZy1xZU9QQVl5Z0xBVG01NHpZdF9rR1FfMWNjMmFJVnRlNVgwcHllRG9oMW9VeHhkSHpUY0lTUTUzSHhoazF4X1B3aHpvMjYzM0xpV2lmYUdiTXdtZ21VVjhoRVRhaFQtbnM0dkhjQ0NJM1lXZklxek5qbnM1UTVNWmZPbnJwVjFWQV9OLU1TakdJMi1ycWl3QkZKUEVBRlVVS3ZCRGJRZ0RmR1hHT0JfT1k4OG1nRW1oVDVsZnZQRFBRRFo4a3c?oc=5"
+      "manchete": "Folha PE: Com mais de 2 mil famílias alcançadas e nova estrutura no Recife, Instituto Pipa completa oito anos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFpaLXRGcl9DeFRybWJJU2ZmbmlnRW5iX2ZwQUJ2eWdLQy1UV3AyeTd5amM4UWszQWFUMDByZjdRdU1POVVFdm92S1owbTlUZWl6a0FJNjR0WlZNV3QxNEZJWXlTZUpQZ194ck52ZC03anZ6ZDItVDNoWkxYcVJ4bWU1SENhQ3pmSUotOG5OZFdEeUNsZ1ZIQTZ2QVNzRDJyRVpFQWNhOFhqYlJU0gGwAUFVX3lxTFBuUG5fYnp0aWhPVTZHN1hqYThsTGRZcXhEXzVvMVl5alJIamQzdzZZWFhEVGhCbUdnYXRQMDBVb0ZOVjExT1FITDUzOUR4X2FieEFKbnNTS2o5cjRpb2R4bnJZRlRLa0RCTUdkTks2SFVQZ05VUElyTFQ4S3ZncGFvTDlmY3JoalcydWM0WDdsTWswN0hua1lSY0tnSFQ1a21rNmFTZzNXbUItV3VqeUpX?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "portas.com.br: Recife lidera alta de imóveis entre dez capitais",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTzA4dEtlUWwwZ3FjTl9yQXpKTzFsXzFVZVBEUjFMUHlDRXdKVUhHVVU0TE82NlBBUXRNMFNKdzBBVmxsUndFZlUxZ1ZhVGVvWHB5OVVNTWFIYXFQQ21vUEZuNXg3aWZEQkNqWlV4OEEyRUp3bWZtUlNGSGdPeFM1N21MTC1Odzg?oc=5"
+      "manchete": "G1: Professora agredida pelo ex e encontrada desacordada pelos filhos morre após dez dias no hospital",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMElENF9aaWp3T2tfSWNlSXEtWHRpMW94U1prYUpfd0tEZFRrbTRRV0Q3OXRLZWZjVHo3S21vdjRlX1piVU5yR2hwU2pHbWp2WWRFb0JvNUg1eTRvTHc5UFFtZy0tdVhPV3pHbEJhRXJOU1BGZmszd1I1M3VTNXdkb1Jrc2dxS0NaM1IydkNRVlBuUXJnem1fbU15ZlplZjdIV3VXMTRXY3BQZk1LZG9ySW96TzVVWkh3VjFRZVJrLUEteVVUWXJvY0lCU3lvMXpJN0dYcXo0RFNuQlhqVkpEX2ZHbjlmR1E2S2NMR3RB0gH8AUFVX3lxTFBwZHNzak9oYWlEWU03dDZyZWd0QmtwWThmSl9uc2NoVmpKLUJjeUducjJELVVibFYxSWZZdkRSY2VJVG9YUlNyYU0xLVdNaUpPcEFYMFJSYTlRdWJwRFB5dm04UTMzR0RiVWZmdjJMcHFHRFJ0eE94ZXE1TmNZclFCQXNjaDZ3YlBKZzNWNUVJQjZNelRlR3d5dDF0QzZFMm04cU5saXlucUlwMHE5UFhzTjIwa2dsU0ItTEhLSmxUSFJUUXMzOUFRMzNCTDNFZzdYcXV0MTJIME80NjFSUTgzTlU1MEpHNzRxY2VJUW1wZFdHTXUtTE9IWXpNSw?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Festival de Cinema Francês começa nesta quinta (29) no Recife com filmes inéditos e clássicos",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUWxTRmR3V1pqdlMwcXlWWWFvVF9uZk9fcUg1WU9sXzNtV0lLbXpxUDNqaFhKWUpKal90N29VZ2sxTnZXRy14YW4tZE9VZDFSRHY1WXp3cF9vcDZuRUlVQ1JxcF9kajQtRkFwa0Ruc21aYXdEbEpXTWFOTlVmRVNKam9IcEdQMUhoWDR0VXVBSUZrUHk1U05kaF9CbDVpY0JKbFZreUtVSUVQYnpOTkNma1Jmd0c5R3Y0RFNPbmV2cXNLUEJsN19lcDlMVU5uVmpI?oc=5"
+      "manchete": "RioMar Recife: Lazer no fim de semana: Natal dos Brinquedos, Cinema e muito mais",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGRXdFdub1IwVXZqUklfY0tDb2ZEdTZHRFpma2lXOW10MnN0U1puM2VwcUE0ci1hdnpFY0dCMEY1eGlPelJKNWlZTTZvX0xtNldBcWlxR3NiRlVFZUtPMFJVbTNpOVl2Y0YxV0Q0V1MxVkEzbWZiOHp1aExqVi1memdNZnN2ZlNlRHBLLXR6WDNjMDJrUW5NQ0JwSTM2eUZxVm5UWVh5dlY?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Cemitérios da Região Metropolitana do Recife se preparam para o Dia de Finados",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT3FjNU9oX1h5M3p1Uzk4YmNIV1ZibC1rRDZ6RFlDbzN1OEY5dURDNVVlakpHT25ONHFDcFBFMXYwM3kybWJKUDRrSURsdm1PYXlHbnhjZml5cUp0OG0zV0ZZRU4tS0xzZERrZmI0V0pLRjcxcUpCTGMtQ2RvUjRmNDNYamZ1Z0lCcy1uX3hLZDd3UlMxM2pmVWZVamdPam0tRG9QVjR1WUt2dVZxdm1KdmF30gG2AUFVX3lxTE11ZEROVC1vclVCY1VuYmkwVHN6R0RSUGttUFVLNk9TZy15VzM1YTFwMF9VeGFEVG40bkhQVVpoQ1VUMzlxVkZNTHFuUkk2Y296bnBoa19Ed055Rm9vdDBmMVR1dTNMOHZrVW1WRVRxeEd1VGltcmR0QVhDb1BWazl0RG1jejBtWmJ3c1pBOUZpYTUxTVltVFdzUnJvTXdaLXU3VEVyV3o4Vl9DRF8wR1RLRm52eWZB?oc=5"
+      "manchete": "PSD - Partido Social Democrático: Raquel Lyra discute mobilidade e abastecimento na França - PSD",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXBJNzJCbHc1a3NkQU5LOTBvX1ZqUXc3c1NpR3NBTUZaUXNhOUMtck5XSlB0MGlBYjdlT3hXMzhDOEdJbWdtQ0NuWnRqWlpYSzU1dDBidGwwYzFsV0JmWW5wdWFxR2JkTHZOU1lmUjJ2TEUwNWxXeXB0ellWUTRDbk9mZDdCS2N2MDdnV1Jn?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -239,14 +233,26 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Em Paris, governadora Raquel Lyra discute modernização da frota de ônibus da RMR e abastecimento de água com Agência Francesa de Desenvolvimento",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU0s4MnYwTVl3LWNPWjdwd2ZEYXEyQ1NFMGZtaVVMN0gyakhOUTBnLU01SWpHcFpqTFFlQ2ZKVWQzVWZBbTVYQUh5d0NGNjYzYTJHSnYzWWpSdFVxcE53VzZLeDVGV3BJR2VnWHk2dTFia0I3a25FdVl0V3JWNkhLdC03UFJzZVJXSU15cGt5ck1kLWpnM1NhT3lUQ3U4NVRuaTlWT2ttRzRUMUVuWWFoZXZvc3ZFZTdkRmhyMlpfdlhYdnIwbnRtakpqNDhodmdOR3B0ck9yb0JXSUdETXRYNWR5Q1kyM3dXVUFONlc5cXNKR2RqSnBpTVVqNDJBcGM?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
       "manchete": "TV Nova Nordeste: Finados: confira o que abre e o que fecha no Recife e na Região Metropolitana durante o feriadão",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXh0OXpCd2hqSjZJcUQweW1nZXI5UzRGUEVtZVU5azlRU3FWYzBSUW94VTZ2c3M0VFJXQ25nVk1LRTY3bVBvQWJHTmg5ODFsVUlENFAwTVNpbzhWODJZanZEUzhpbHl4RmhOQnROQmdCbmFCZk5NUVVxZ0c3U1lRWDAwbC1VS1o1NWR5YjM5alZMc2NCOGJvMU9FV3dsekZNM2hRVElLU1JaV2dELTE1RUtXSXlPTFY4U0xtLXo2c1dIVUZEQVF5WXlRYzM?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog Cenário: Alepe homenageia mulheres de Tejucupapo e lança 3ª temporada do Sagas Pernambucanas",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlJrMkFMSEl4S3RGNTA5MVBkMy0tekxVdlR0VXh3WXo4UjFPQTJZMnU0UWNMTEFiMXE2djNqd0JULUFxVmR2eE5Bc3hlTDNMUTJFNVp0SGFXS1pPbjViTURJbW9ELWNZVF9oY3lPUnctNGprLVhNaEVmbXltQ2tCdUZQSmUtZ2ttS0pKQllYNnZCSVNjNGJiN1NpU1FGY2NRSGJSUk1MSjlqNlhQMGFjSUtZX2NIcHA1VHlFUEFB?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Márcio Didier: Vini Castello: \"Mirella é a grande derrotada da eleição\"",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5teXFxUmVfWVlldFBRRjhjckZfalBFVDkxYUc1ZHByNDJ1XzFpYzRDaDNIZXBHQk5SVWZ5M3dYRTVkTTcySkoybzl1akhrOFZXbk1LQjlRTzJ5b3BvZk5aZ0NpOUlsbnI2Ym1qRVdmdGdEMl9IRHFiTw?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Farol da Bahia: Influenciador eleito deputado tem prisão preventiva decretada por suspeita de extorsão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMERMMDlvOEtidU5XVFRKLTc3T3ZZNTEycG14SjdscElNZUp1RzZTYWtEQzFHQzBBR1VCUEdyR1ZwY0RSXzJaMzhERkphRnZTVHZhQWhVd3Roc2hYSEFUd005NXlDT2ZFenlPaml0ZjNOeWxDMmRackwtNlhEaFZvVW5mTmNXZklYU0xxRWhFVXF4QktDSVNLWnVtRk9RR0FoQ283SEdkUXhwbFQtbXloejJvbU00VkdWWS1MMHdwQ1BURG9H?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -257,98 +263,98 @@
   ],
   "picos": [
     {
-      "termo": "Emerson",
-      "razao_aumento": 66.7,
+      "termo": "Michelle",
+      "razao_aumento": 108.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Diario de Pernambuco",
-        "hora": "2026-10-29T19:16:00Z",
-        "titulo": "Deputado eleito pelo MDB, Emerson Freitas tem prisão preventiva decretada pela Justiça",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRHJFb01MZ0cyM1VvQlRxc2Z3VUhKQUlDQVJyZUFLVHJheURqWUhjVUJnOEZ0dGFKdjM0eFpOYWlVdkdURXQ3YUJiajlGTUpFTXRvQkZ2eWhfZkdWR29RdHpvdWZ4SVU0eUVZQzhMcEJoSEoyeWp2anFkRF9reW9Tc1FtcGNDRmY3OEwzYnN2d0lKdWFNUlBMQ3RJTi1IdTR2VDd3T08ySHdlbWhkVDBPbmE3T3pxN3lma1BOTXJHU3BDa2RGS01mQkd3WGR2eUxGclRHVGtveUItNVpXVk5FVGhEN2lzSGRrZWc?oc=5",
+        "fonte": "O GLOBO",
+        "hora": "2026-10-30T17:23:04Z",
+        "titulo": "Após derrota de Flávio, Michelle diz que Bolsonaro defende Tarcísio e Nikolas e afirma que não é hora de buscar ‘culpados’",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbXVxTlA2Nnpma0c4c2RkZERaYzJlczAtS3ZLVmN5R1F1QTYxMzR3OU1GR3NkOXg0SmJ2SVRpczcwT05XSzh4U3Eyd3dYdHliWElaM1gzc1JjOTlkYmJTQ3RTbXFwcXdsdjdxOTFRRzZDVWs3R3RnZEl0MmluUTZhbVdpWlNOcm5CTW9aQ05Fa3UyUUxNNkN1bmxOVEtQRndwVVE1NzZCcy1aN1RwZmJkV2hBT2tLLVhsank2WkdKZFZ0d1pvdHdKT29BaWFNRW9xa3pmblV4UUZqZVp6WDNIbnR5YVlfVW82RHl6LXc1UTM2NGM2S2dWOHVfa2VIS3RlekprcXJOUdIBlgJBVV95cUxQdTRIRG1IYjJIRmd0MWFUSlZ3Rjh4Nk9NQ1c1QlRpQ1c0eTNfTm0yYk5sdlBDY3B6XzFxdXRkX003eEpPNzBLV2ZkRGlGaG5yT2xjR1NHS2pDMVd6VmNmbjgyVjl3eGpjY1FrMUQ0NnVqSHpGZ2J2R1ZVcU5hakt2aTVpTWxwMVlwZldYejBpZnltUjdhTDB1ZnliZ0VsejJTOEw4Q3AtSWdUbGdMSWN5NUhKSTF1aDdSLVpERmV4czFLenRkYUhTdWptM1BzTDZnMHh3bEdrQkdDSkN2bmFSSXpTNG5lcjV3Q29kNEstY0lRTGlXOXFTa3B3d0RvVU93Y1hJZmZlOHd3b1FCWGI0b21sY2pOUQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "suspeita de extorsão",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Pernambuco Notícias",
+        "hora": "2026-10-29T23:34:30Z",
+        "titulo": "Influenciador e deputado estadual eleito em Pernambuco tem prisão preventiva decretada por suspeita de extorsão",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2VNdm9WUUpnU2dfNTBVaFpGb0RDQUFmUTRTejZZbU5vYmZyMlBfaXNLN1BlVjBSOGdoZ3ZkSmF6YWtBakRRT1FvWFhZLTk4WndiZXlNU3R3MW9WTjFqTzRMT2NOTFQyamF4WU9rRG1BUm9MMzdrLV9nN1ZnLVBWbG0wbjZGRXFxY1pfNG5JTEJGTDVEb3VTZy03RTBXajV5bWt5MVpIS1FQUExSMXFGRjVmSmhpaXR0S2lEMFRiQWV1SFFnWmdzV2pPMjRIc1ZJdUwyMG5hT2laR0hNdlpz?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Emerson",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Portal Fala News",
+        "hora": "2026-10-30T01:01:00Z",
+        "titulo": "Justiça determina prisão preventiva do deputado eleito Emerson Freitas",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnpFQlBiSnZ4b3ZvUkVUWjZ3ZDVoQ2xXa19MajBsMGRVMm0zU1QtdnFNdGVUaDR5bUlsMWpZNzB1eE1jekVSV2tXbl9hWk1MbXFQWlBpWWJTeGdpUnNsQnFKN0dfcVNEMVRlTU1OYmN1TmoxcElkQmIyTno1R1VEdmI2QTZnbklzaXNvQU1RTGxXVl9QTko0MHp6UUhlQkl2cWRr?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Emerson Freitas",
-      "razao_aumento": 66.7,
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Diario de Pernambuco",
-        "hora": "2026-10-29T19:16:00Z",
-        "titulo": "Deputado eleito pelo MDB, Emerson Freitas tem prisão preventiva decretada pela Justiça",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRHJFb01MZ0cyM1VvQlRxc2Z3VUhKQUlDQVJyZUFLVHJheURqWUhjVUJnOEZ0dGFKdjM0eFpOYWlVdkdURXQ3YUJiajlGTUpFTXRvQkZ2eWhfZkdWR29RdHpvdWZ4SVU0eUVZQzhMcEJoSEoyeWp2anFkRF9reW9Tc1FtcGNDRmY3OEwzYnN2d0lKdWFNUlBMQ3RJTi1IdTR2VDd3T08ySHdlbWhkVDBPbmE3T3pxN3lma1BOTXJHU3BDa2RGS01mQkd3WGR2eUxGclRHVGtveUItNVpXVk5FVGhEN2lzSGRrZWc?oc=5",
+        "fonte": "Portal Fala News",
+        "hora": "2026-10-30T01:01:00Z",
+        "titulo": "Justiça determina prisão preventiva do deputado eleito Emerson Freitas",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnpFQlBiSnZ4b3ZvUkVUWjZ3ZDVoQ2xXa19MajBsMGRVMm0zU1QtdnFNdGVUaDR5bUlsMWpZNzB1eE1jekVSV2tXbl9hWk1MbXFQWlBpWWJTeGdpUnNsQnFKN0dfcVNEMVRlTU1OYmN1TmoxcElkQmIyTno1R1VEdmI2QTZnbklzaXNvQU1RTGxXVl9QTko0MHp6UUhlQkl2cWRr?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "decretada pela",
-      "razao_aumento": 66.7,
+      "termo": "eleito Emerson",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Diario de Pernambuco",
-        "hora": "2026-10-29T19:16:00Z",
-        "titulo": "Deputado eleito pelo MDB, Emerson Freitas tem prisão preventiva decretada pela Justiça",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRHJFb01MZ0cyM1VvQlRxc2Z3VUhKQUlDQVJyZUFLVHJheURqWUhjVUJnOEZ0dGFKdjM0eFpOYWlVdkdURXQ3YUJiajlGTUpFTXRvQkZ2eWhfZkdWR29RdHpvdWZ4SVU0eUVZQzhMcEJoSEoyeWp2anFkRF9reW9Tc1FtcGNDRmY3OEwzYnN2d0lKdWFNUlBMQ3RJTi1IdTR2VDd3T08ySHdlbWhkVDBPbmE3T3pxN3lma1BOTXJHU3BDa2RGS01mQkd3WGR2eUxGclRHVGtveUItNVpXVk5FVGhEN2lzSGRrZWc?oc=5",
+        "fonte": "Portal Fala News",
+        "hora": "2026-10-30T01:01:00Z",
+        "titulo": "Justiça determina prisão preventiva do deputado eleito Emerson Freitas",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnpFQlBiSnZ4b3ZvUkVUWjZ3ZDVoQ2xXa19MajBsMGRVMm0zU1QtdnFNdGVUaDR5bUlsMWpZNzB1eE1jekVSV2tXbl9hWk1MbXFQWlBpWWJTeGdpUnNsQnFKN0dfcVNEMVRlTU1OYmN1TmoxcElkQmIyTno1R1VEdmI2QTZnbklzaXNvQU1RTGxXVl9QTko0MHp6UUhlQkl2cWRr?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "pela Justiça",
-      "razao_aumento": 66.7,
+      "termo": "eleito Emerson Freitas",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Diario de Pernambuco",
-        "hora": "2026-10-29T19:16:00Z",
-        "titulo": "Deputado eleito pelo MDB, Emerson Freitas tem prisão preventiva decretada pela Justiça",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRHJFb01MZ0cyM1VvQlRxc2Z3VUhKQUlDQVJyZUFLVHJheURqWUhjVUJnOEZ0dGFKdjM0eFpOYWlVdkdURXQ3YUJiajlGTUpFTXRvQkZ2eWhfZkdWR29RdHpvdWZ4SVU0eUVZQzhMcEJoSEoyeWp2anFkRF9reW9Tc1FtcGNDRmY3OEwzYnN2d0lKdWFNUlBMQ3RJTi1IdTR2VDd3T08ySHdlbWhkVDBPbmE3T3pxN3lma1BOTXJHU3BDa2RGS01mQkd3WGR2eUxGclRHVGtveUItNVpXVk5FVGhEN2lzSGRrZWc?oc=5",
+        "fonte": "Portal Fala News",
+        "hora": "2026-10-30T01:01:00Z",
+        "titulo": "Justiça determina prisão preventiva do deputado eleito Emerson Freitas",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnpFQlBiSnZ4b3ZvUkVUWjZ3ZDVoQ2xXa19MajBsMGRVMm0zU1QtdnFNdGVUaDR5bUlsMWpZNzB1eE1jekVSV2tXbl9hWk1MbXFQWlBpWWJTeGdpUnNsQnFKN0dfcVNEMVRlTU1OYmN1TmoxcElkQmIyTno1R1VEdmI2QTZnbklzaXNvQU1RTGxXVl9QTko0MHp6UUhlQkl2cWRr?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "decretada pela Justiça",
-      "razao_aumento": 66.7,
+      "termo": "decreta prisão",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Diario de Pernambuco",
-        "hora": "2026-10-29T19:16:00Z",
-        "titulo": "Deputado eleito pelo MDB, Emerson Freitas tem prisão preventiva decretada pela Justiça",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRHJFb01MZ0cyM1VvQlRxc2Z3VUhKQUlDQVJyZUFLVHJheURqWUhjVUJnOEZ0dGFKdjM0eFpOYWlVdkdURXQ3YUJiajlGTUpFTXRvQkZ2eWhfZkdWR29RdHpvdWZ4SVU0eUVZQzhMcEJoSEoyeWp2anFkRF9reW9Tc1FtcGNDRmY3OEwzYnN2d0lKdWFNUlBMQ3RJTi1IdTR2VDd3T08ySHdlbWhkVDBPbmE3T3pxN3lma1BOTXJHU3BDa2RGS01mQkd3WGR2eUxGclRHVGtveUItNVpXVk5FVGhEN2lzSGRrZWc?oc=5",
+        "fonte": "Blog do Roberto Gonçalves",
+        "hora": "2026-10-30T08:03:08Z",
+        "titulo": "Justiça de Pernambuco decreta prisão de deputado eleito Emerson Freitas por suspeita de extorsão",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXpnVy1qOVNEZTNCMmFtV0x5ckJ2RDFFM2lBQTl4VGQ1UEFTWkxhM01XR2taMTRXcTZoejFWbXc5d2lFSWtNbnBCbTg2WEwyYmZPSzYtLUR0ajEtZUtWcHR2WmlQY2gyckt3RUgtVllQdEVaM1Bsd3ZTMHJOWmlxZXpja3VyUnduNkVYcUpCaExMWEdPSW9hT3lZZDZvRkZoZDVBZDJKVzJpOU1jY1lTLVUyOEx3YXppWnZKX3BTM2xvQi1aN0JCZGk3RXh2T0wxSWNuZ2VR?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "mutirão de saúde",
-      "razao_aumento": 62.2,
+      "termo": "Lyra discute",
+      "razao_aumento": 78.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-29T19:46:26Z",
-        "titulo": "Alepe abre agendamento para mutirão de saúde e cidadania “Juntos nos Cuidamos” com 24 mil atendimentos gratuitos",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzZBVU1VS2Y0QmtGVkIxTER5ZTROay1HUG5SeThSeHJhRnNDUzUwbTRNQVFLVFNNODlWLXRZYnNwbVRIdDJTYmRVWlJlX21icmJoSElPTFRSSU9UMW1qYk9QNi1oWmR1TXhYUWpiVmlKTEpPSEJ5R3AwVmZENkdxTkxOQUttM2pDcDFOeVA4SmRRMHNiNVVCR1R0MUZWVmNQNHkydlhuS0JOT0xIcUhhVzI1RXFDblk0d1VsNV9VZ2prcElfWHJHbGU2YU5CYWZuNzdz?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "atendimentos gratuitos",
-      "razao_aumento": 62.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-29T19:46:26Z",
-        "titulo": "Alepe abre agendamento para mutirão de saúde e cidadania “Juntos nos Cuidamos” com 24 mil atendimentos gratuitos",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzZBVU1VS2Y0QmtGVkIxTER5ZTROay1HUG5SeThSeHJhRnNDUzUwbTRNQVFLVFNNODlWLXRZYnNwbVRIdDJTYmRVWlJlX21icmJoSElPTFRSSU9UMW1qYk9QNi1oWmR1TXhYUWpiVmlKTEpPSEJ5R3AwVmZENkdxTkxOQUttM2pDcDFOeVA4SmRRMHNiNVVCR1R0MUZWVmNQNHkydlhuS0JOT0xIcUhhVzI1RXFDblk0d1VsNV9VZ2prcElfWHJHbGU2YU5CYWZuNzdz?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "mil atendimentos gratuitos",
-      "razao_aumento": 62.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Blog Edmar Lyra",
-        "hora": "2026-10-29T19:46:26Z",
-        "titulo": "Alepe abre agendamento para mutirão de saúde e cidadania “Juntos nos Cuidamos” com 24 mil atendimentos gratuitos",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzZBVU1VS2Y0QmtGVkIxTER5ZTROay1HUG5SeThSeHJhRnNDUzUwbTRNQVFLVFNNODlWLXRZYnNwbVRIdDJTYmRVWlJlX21icmJoSElPTFRSSU9UMW1qYk9QNi1oWmR1TXhYUWpiVmlKTEpPSEJ5R3AwVmZENkdxTkxOQUttM2pDcDFOeVA4SmRRMHNiNVVCR1R0MUZWVmNQNHkydlhuS0JOT0xIcUhhVzI1RXFDblk0d1VsNV9VZ2prcElfWHJHbGU2YU5CYWZuNzdz?oc=5",
+        "fonte": "JC",
+        "hora": "2026-10-30T15:50:12Z",
+        "titulo": "Em Paris, governadora Raquel Lyra discute modernização da frota de ônibus da RMR e abastecimento de água com Agência Francesa de Desenvolvimento",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbGI3UHptOFM2VDRKOVY5cHV2ek9MdkFTUWZqU0I1UjlRY2MyWGxzZl9XMjZfamVTVjRHSTJTQlFHS01GWWhISl9TVURtUU5RQ29GTVViTjlFTExkM0p1aWpoajM2OC1CN2NLcm1uM2M4VHpCNUhzYlFvRXVZNUdVU2duVFYzb2ZhU2tFazVYNUl0TkxITFJSbmRRX1dSOXZBNHpfcXFJczVsS3ZBNTBKaFFLT3RSTDJoX2FEU3JuUzhhSC1aUTFXbGRtU3V1YXdQX0lOdDNVeXozVHFQakpMdEE0TmwweV9hcm95MnNhZS00bUo0bF8yQWpxcXVGNDdtTnFjQVp6anZVbi11N2ZFcjg1MGdGbXZZbnc?oc=5",
         "peso": 1.0
       }
     }
@@ -357,271 +363,271 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 16.57,
-      "fontes_distintas": 17
+      "fatia_pct": 18.73,
+      "fontes_distintas": 21
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 92.9,
-      "fatia_pct": 15.38,
-      "fontes_distintas": 16
+      "peso_relativo": 85.5,
+      "fatia_pct": 16.02,
+      "fontes_distintas": 15
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 85.7,
-      "fatia_pct": 14.2,
+      "peso_relativo": 79.6,
+      "fatia_pct": 14.92,
       "fontes_distintas": 14
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 78.6,
-      "fatia_pct": 13.02,
-      "fontes_distintas": 14
-    },
-    {
-      "termo": "Raquel",
-      "peso_relativo": 39.3,
-      "fatia_pct": 6.51,
-      "fontes_distintas": 10
+      "peso_relativo": 67.8,
+      "fatia_pct": 12.71,
+      "fontes_distintas": 13
     },
     {
       "termo": "fuga de Flávio",
-      "peso_relativo": 35.7,
-      "fatia_pct": 5.92,
-      "fontes_distintas": 6
+      "peso_relativo": 50.1,
+      "fatia_pct": 9.39,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "Raquel",
+      "peso_relativo": 38.3,
+      "fatia_pct": 7.18,
+      "fontes_distintas": 13
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 32.1,
-      "fatia_pct": 5.33,
-      "fontes_distintas": 9
+      "peso_relativo": 29.5,
+      "fatia_pct": 5.52,
+      "fontes_distintas": 10
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 32.1,
-      "fatia_pct": 5.33,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "Trump",
-      "peso_relativo": 32.1,
-      "fatia_pct": 5.33,
-      "fontes_distintas": 6
+      "peso_relativo": 29.5,
+      "fatia_pct": 5.52,
+      "fontes_distintas": 10
     },
     {
       "termo": "Brasil",
-      "peso_relativo": 25.0,
-      "fatia_pct": 4.14,
-      "fontes_distintas": 4
+      "peso_relativo": 26.5,
+      "fatia_pct": 4.97,
+      "fontes_distintas": 8
     },
     {
-      "termo": "Justiça",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.55,
+      "termo": "Trump",
+      "peso_relativo": 23.6,
+      "fatia_pct": 4.42,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Lyra discute",
+      "peso_relativo": 20.6,
+      "fatia_pct": 3.87,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Raquel Lyra discute",
+      "peso_relativo": 20.6,
+      "fatia_pct": 3.87,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Michelle",
+      "peso_relativo": 17.7,
+      "fatia_pct": 3.31,
       "fontes_distintas": 6
     },
     {
-      "termo": "Voto",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.55,
+      "termo": "Santa",
+      "peso_relativo": 17.7,
+      "fatia_pct": 3.31,
       "fontes_distintas": 1
     },
     {
-      "termo": "Distrital",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.55,
+      "termo": "Jones2030",
+      "peso_relativo": 16.8,
+      "fatia_pct": 3.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "Voto Distrital",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.55,
+      "termo": "Polônia",
+      "peso_relativo": 15.9,
+      "fatia_pct": 2.98,
       "fontes_distintas": 1
     },
     {
       "termo": "PL2374",
-      "peso_relativo": 20.4,
-      "fatia_pct": 3.37,
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.82,
       "fontes_distintas": 1
     },
     {
-      "termo": "Congresso",
-      "peso_relativo": 19.6,
-      "fatia_pct": 3.25,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Nisha",
-      "peso_relativo": 19.3,
-      "fatia_pct": 3.2,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Love",
-      "peso_relativo": 18.2,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FinalEP",
-      "peso_relativo": 18.2,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Pls Love",
-      "peso_relativo": 18.2,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Love FinalEP",
-      "peso_relativo": 18.2,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Pls Love FinalEP",
-      "peso_relativo": 18.2,
-      "fatia_pct": 3.02,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lyra discute",
-      "peso_relativo": 17.9,
-      "fatia_pct": 2.96,
+      "termo": "Paris",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.76,
       "fontes_distintas": 5
     },
     {
-      "termo": "Raquel Lyra discute",
-      "peso_relativo": 17.9,
-      "fatia_pct": 2.96,
+      "termo": "frota de ônibus",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.76,
       "fontes_distintas": 5
-    },
-    {
-      "termo": "INIMIGO",
-      "peso_relativo": 16.1,
-      "fatia_pct": 2.66,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "POVO",
-      "peso_relativo": 16.1,
-      "fatia_pct": 2.66,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "CONGRESSO INIMIGO",
-      "peso_relativo": 16.1,
-      "fatia_pct": 2.66,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "INIMIGO DO POVO",
-      "peso_relativo": 16.1,
-      "fatia_pct": 2.66,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ENGAJE",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.49,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EXTREMA",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.49,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "DIREITA",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.49,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EXTREMA DIREITA",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.49,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ENGAJE A EXTREMA",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.49,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Deputado",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.37,
-      "fontes_distintas": 4
     },
     {
       "termo": "João",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.37,
-      "fontes_distintas": 4
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.76,
+      "fontes_distintas": 5
     },
     {
       "termo": "Campos",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.37,
-      "fontes_distintas": 4
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.76,
+      "fontes_distintas": 5
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.37,
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.76,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Justiça",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.76,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Djamila",
+      "peso_relativo": 14.2,
+      "fatia_pct": 2.65,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Ribeiro",
+      "peso_relativo": 14.2,
+      "fatia_pct": 2.65,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Djamila Ribeiro",
+      "peso_relativo": 14.2,
+      "fatia_pct": 2.65,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Voto",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Distrital",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Voto Distrital",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Anistia",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.32,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Golpista",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.32,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Anistia Para Golpista",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.32,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "discute modernização",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
       "fontes_distintas": 4
     },
     {
-      "termo": "Alepe",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.37,
+      "termo": "Lyra discute modernização",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
       "fontes_distintas": 4
     },
     {
-      "termo": "vitória de Lula",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.37,
-      "fontes_distintas": 3
+      "termo": "abastecimento de água",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
     },
     {
-      "termo": "PROTEJA",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.31,
+      "termo": "Deputado eleito",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "governo Lula",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "prisão preventiva",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "suspeita de extorsão",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Emerson",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Freitas",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Emerson Freitas",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.21,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Emprego",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "NOSSOS",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.31,
+      "termo": "Emprego So",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     },
     {
-      "termo": "POVOS",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "INDÍGENAS",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "PROTEJA NOSSOS",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "NOSSOS POVOS",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.31,
+      "termo": "So Com Lula",
+      "peso_relativo": 11.5,
+      "fatia_pct": 2.15,
       "fontes_distintas": 1
     }
   ]
