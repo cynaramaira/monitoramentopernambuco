@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-10-30T00:22:30Z",
-  "total_analisado": 133,
+  "atualizado_em": "2026-10-30T06:26:38Z",
+  "total_analisado": 135,
   "x_recife": [
     {
-      "termo": "#loungedasblogueiras",
+      "termo": "#EliminaçãoAFazenda",
       "posicao": 1,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
+      "ruido": false
+    },
+    {
+      "termo": "#VotoDistritalNao",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23VotoDistritalNao",
+      "ruido": false
+    },
+    {
+      "termo": "#loungedasblogueiras",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23loungedasblogueiras",
       "ruido": false
     },
     {
-      "termo": "#ADDICTEDtoJISOO",
-      "posicao": 2,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23ADDICTEDtoJISOO",
-      "ruido": false
-    },
-    {
-      "termo": "Scarpa",
-      "posicao": 3,
+      "termo": "Darlin",
+      "posicao": 4,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Scarpa",
+      "url": "https://x.com/search?q=Darlin",
       "ruido": false
     },
     {
-      "termo": "#지수솔로_어딕티드에_중독",
-      "posicao": 4,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23%EC%A7%80%EC%88%98%EC%86%94%EB%A1%9C_%EC%96%B4%EB%94%95%ED%8B%B0%EB%93%9C%EC%97%90_%EC%A4%91%EB%8F%85",
-      "ruido": false
-    },
-    {
-      "termo": "Natanael",
+      "termo": "#AHS13",
       "posicao": 5,
       "variacao": "+4",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Natanael",
-      "ruido": false
-    },
-    {
-      "termo": "Gabriel Pereira",
-      "posicao": 6,
-      "variacao": "+24",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Gabriel%20Pereira",
-      "ruido": false
-    },
-    {
-      "termo": "#VASxFLA",
-      "posicao": 7,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23VASxFLA",
-      "ruido": false
-    },
-    {
-      "termo": "Cruzeiro",
-      "posicao": 8,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Cruzeiro",
-      "ruido": false
-    },
-    {
-      "termo": "Arroyo",
-      "posicao": 9,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Arroyo",
-      "ruido": false
-    },
-    {
-      "termo": "Patrick Stewart",
-      "posicao": 10,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Patrick%20Stewart",
+      "url": "https://x.com/search?q=%23AHS13",
       "ruido": false
     },
     {
       "termo": "Pedro Emanuel",
-      "posicao": 11,
-      "variacao": "+1",
-      "direcao": "sobe",
+      "posicao": 6,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Pedro%20Emanuel",
       "ruido": false
     },
     {
-      "termo": "Lucas Freitas",
-      "posicao": 12,
-      "variacao": "+8",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Lucas%20Freitas",
+      "termo": "Neto",
+      "posicao": 7,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Neto",
+      "ruido": false
+    },
+    {
+      "termo": "Samuel Lino",
+      "posicao": 8,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Samuel%20Lino",
+      "ruido": false
+    },
+    {
+      "termo": "Galisteu",
+      "posicao": 9,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Galisteu",
+      "ruido": false
+    },
+    {
+      "termo": "Ortiz",
+      "posicao": 10,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Ortiz",
+      "ruido": false
+    },
+    {
+      "termo": "Renato",
+      "posicao": 11,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Renato",
       "ruido": false
     },
     {
       "termo": "Kaio Jorge",
-      "posicao": 13,
-      "variacao": "-8",
-      "direcao": "cai",
+      "posicao": 12,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Kaio%20Jorge",
       "ruido": false
     },
     {
-      "termo": "Lescano",
+      "termo": "gremio",
+      "posicao": 13,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=gremio",
+      "ruido": false
+    },
+    {
+      "termo": "JISOO",
       "posicao": 14,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Lescano",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=JISOO",
       "ruido": false
     },
     {
-      "termo": "Lyanco",
+      "termo": "Weverton",
       "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Lyanco",
-      "ruido": false
-    },
-    {
-      "termo": "namjoon",
-      "posicao": 16,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=namjoon",
-      "ruido": false
-    },
-    {
-      "termo": "Zaga",
-      "posicao": 17,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Zaga",
-      "ruido": false
-    },
-    {
-      "termo": "Léo Ortiz",
-      "posicao": 18,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=L%C3%A9o%20Ortiz",
-      "ruido": false
-    },
-    {
-      "termo": "Barros",
-      "posicao": 19,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Barros",
-      "ruido": false
-    },
-    {
-      "termo": "Juliette",
-      "posicao": 20,
-      "variacao": "-12",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Juliette",
+      "url": "https://x.com/search?q=Weverton",
+      "ruido": false
+    },
+    {
+      "termo": "Cruzeiro",
+      "posicao": 16,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Cruzeiro",
+      "ruido": false
+    },
+    {
+      "termo": "Maira",
+      "posicao": 17,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Maira",
+      "ruido": false
+    },
+    {
+      "termo": "Balbuena",
+      "posicao": 18,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Balbuena",
+      "ruido": false
+    },
+    {
+      "termo": "Mirassol",
+      "posicao": 19,
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Mirassol",
+      "ruido": false
+    },
+    {
+      "termo": "#CabinedeDescompressao",
+      "posicao": 20,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23CabinedeDescompressao",
       "ruido": false
     }
   ],
@@ -167,8 +167,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): Secretaria de Educação de Pernambuco promove Dia D com aulões preparatórios para Enem, SSA e Saepe",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWIzQ3lYaVN5c3ZrdVlVbUJfdEhVRlhzaXQ4LUxPc2ZCbW5LaWRudmdleEUybXdNTlV1bU9PNjlwaGY3S0lvQnFMNlBweHZKbjZ1cktGWnNTcXpUR1RXVURkNlo2d1hwS01CLVBoVnkxR2pqRWpkWG52a2xuUjY4SklHdWVMMXg2eXo3aHJzR2ZFUldQcWl5bktjeFR4OWhMb2pfbE84cHIxQ0JCN3diRkJhdmpsSVpwU0lZb1c0S2UzdjJ1cFZTVy0zMnM?oc=5"
+      "manchete": "G1: ‘Barbeiro Mirim’ com 1,1 milhão de seguidores e amigo de 16 anos são mortos a tiros em PE: o que se sabe e o que falta esclarecer",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSjNPWVI4NXV1OW1EX0VJY3lYbVQxdXFHTTVZb3d2WVZfcHZzS0FUVXVlRTdOTV9TUzVqUWZ6Ml9BSXdxRXprSXNpSWtwSVdzdHhDQkhrbWRjbTExVERvQ01HNmwtQnpRejR0UzNSUkFVUGU1X1hFTGFHSHk0TEl0NENmeTFlRmJTRFdlUGhFaVlRUU5SNUY5cVZJVm9OeGx1ZVVzT1JYVzlVdmcxTnd0VjZZdDBMMGNIWTNGZVdEZlBUUkhIZGlNQ25TS09DQ2FnV2dCQk5QNXZ3VGRRQVFob3U4ZE90YVVLd25yVUNJeUtnTlZ6Mmg0SGNHOWdJNlA1MmI0TjFDMjJZRzB1ZHlzMVdkSFV3azhX0gGnAkFVX3lxTFA0dXo4NmJBRXlwZVhWeTFDUHFZXzBxaXZwSk01SkNmc0pZaFJZWmFXV1J3QmRoSzZBeElZRWtGYnNSdnp2Q3lXSVpFclpUSzI4WEFGMGNrQW11RXBkdno0OHo0QzJmUTlIM1RUeHdkbFdGMXBQV28wX0ZFWWM5NFUyZG1YZ0pDYXNZYV96ZElCUmRiLWZwdTlCTndSem11VXdUcDNxOVo3TXY1MW5pbUdRVkpya04xLUVCdGIxTWZnM3ZhN3pNbUtPMmNpc2NxRmdZVkJJM0hHSkZIVU1yMVJmMzB4aks5VkNlTGJFaklxTWpnQUV1Sm02cWI2ZmJZSnpydFU0cFU3NWZRMFg3WWxZNTg0X2cyQjJwSXVzeGd3akhqYVdZcGc?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -179,8 +179,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Influenciador digital eleito deputado estadual em PE tem prisão preventiva decretada por suspeita de extorsão",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbWlXYUdUdHhrcHlDQVZ1dWp1eElWZUFkaUJTdTBVV2FGb0xKRGtoSjJHRlVvdXhzcmNQcWNLSWJid0J0SnNJT0FmYjBDZDJNZGJuS0tuUFM3N2pUVDNLeUNVOEFIZnA4NnpQd3JOWlh1U3lGTlNiSWJuVVJoY2hxaHZhRi0xXy1JYlhnQ0NjaHlWRThwSTJSZXVJQWMtSlB6SjJMbS1MYkRsc1VpWVlyNW5VLV85Z9IBxAFBVV95cUxQdERYbkg3Qk9wVzlsOWRHbm9STEhwb2hYOS1iZktmclpkTnZVcmtJeHJvSEJGQ1NRVThLcE8tV0NhVXFZay1URnBaV0VvY2YxQWVMbzhCak9UUHI4VXctR2pSOUwtTzRXbXFsbkNrS3RwQ0NGR3NaNldYeTNYN2lZR1JISzFGQXRmWGM2cVJfRDBpVnRKT2dLaEpicWU1RWZPXzQ5X3RlX1JxX2I3ZXRGWTZETjhRMEY5ekVMOFFrSWlZUEF1?oc=5"
+      "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): Secretaria de Educação de Pernambuco promove Dia D com aulões preparatórios para Enem, SSA e Saepe",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWIzQ3lYaVN5c3ZrdVlVbUJfdEhVRlhzaXQ4LUxPc2ZCbW5LaWRudmdleEUybXdNTlV1bU9PNjlwaGY3S0lvQnFMNlBweHZKbjZ1cktGWnNTcXpUR1RXVURkNlo2d1hwS01CLVBoVnkxR2pqRWpkWG52a2xuUjY4SklHdWVMMXg2eXo3aHJzR2ZFUldQcWl5bktjeFR4OWhMb2pfbE84cHIxQ0JCN3diRkJhdmpsSVpwU0lZb1c0S2UzdjJ1cFZTVy0zMnM?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -191,38 +191,38 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Governo Federal: Escola de Socioeducação é inaugurada em Pernambuco, fortalecendo política de atendimento a jovens em cumprimento de medidas socioeducativas",
+      "manchete": "Governo Federal: Escola de Socioeducação é inaugurada em Pernambuco, fortalecendo política de atendimento a jovens em cumprimento de medidas socioeducativas — Ministério dos Direitos Humanos e da Cidadania",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPelJUaWZoMjhiT3R4YXNPbzRGVXY2S2RIeXgzYlcxS3FIcnFlSDV3aXV4ZTVDQ1k2WUtsY3prNTRtMG5hLUliMkxCeWtnN1BnZkZLUnlZSU1kYnc0TUxMSHR6NHNheEZYRWtmMUpKVVkwcnkwaTJQS1J0bVZ1cDF0S2xaTUIycHJvcVo0QmJMamt3MHVZenVzQ3ZMa0h6MTRCUEZ0eFQ1SjVadFMtRVdJa2d5MlBJbVFzV1c1dU1WQUUxQ09nMmNiTWNtUGhCaG5uMmJwN3Nac3VVX1hYUklBRmRiamdnZzB1T0tDcG5ncmduOHpFM0Y1SEJJWFZqazFFeGRHeVhaOHhYa1VoV0N4ZV9aQWh2MHhJcXVXZzlMNWhaUXVP?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Réveillon do Recife tem Ludmilla, Safadão, Priscila Senna, Nattan e mais; veja programação da virada",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQVNVdWZ3M0F3STFOc3E3NWpCWHRkTGpTUFd2Z1BQQjFYZjJCMDlvcHVjejVUXzhzRFpvLURjYkpIZFRacjRaakZ1d1pVVUFEODZRbGxncldBcERtZXIxZ0lNT1M2WkxKNFpIcHpnMVloSG1qNk5XTjEza0praVdmb1hFTk1xeGJLS2RlYTlDZThYZjhkcnU0ZjU3bkF5YXRNRlBESUl1NHRRellETEpqV1NqcHl0c3A2a2gyUDNydnQ2aWVnOFAzdXpjd0kzTTVIQUloMXBkc0k2UTRQS2JWN0d6NmtSc3ZocUR1Z9IB-wFBVV95cUxPMkdibDJDUzlnOVBseWRqTHV5SDZ6RGZyUU9fTEdIUWNuM2twWDFfcm9MU1o1Y2NGd2ktYXlOTEFaNjJzRXN1TGxmY212ZHE1c0FnZTdhZk5uMXJJemk0eElEeDBaRTlLdTR4M24xNHNTaFhGSGZTVE9HVDBhRXZyNjZHTnRrN2JnZXM4N3dNSXpQbUJDby1HYW52LVZjRmRHOURDbW9mNzh2Ri1COWJQUTNISVBhN1dING1XLVBoQVBVcWNWTDduRHZRemxmekhOTEtkbnB5M0M3eVdGOGtTSHk2aG9WdGJ0UTJST2tHNEVFam5ZcEEwT1dxcw?oc=5"
+      "manchete": "Clima ao vivo: Clima ao Vivo em Recife | Câmera do tempo - veja agora - Clima ao Vivo",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QVk01b05lbHMxdzJqT0hsWHN4emlLZzVuX0QwbmIta1FHVWRMQUx1N3RLUE5lQm91bEpBYWNuYnRvR294Uk9UbVdjNzVVMHZUSXlnZHBMdVh4MjkyT2x1Ty10YWdwVXpqXzlOeHVDdVl1alM5VFRRWTNxX1I?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Jornal da Paraíba: Juliette se casa em cerimônia religiosa no Recife; VEJA IMAGENS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWFHLUduNWxncnE5ZHZkZnh2RkhyX0c5Q0Z5UVlTa01KN0Q1eHNBSlgwempubWliX1lDaEg2a1Y4QnRFaHRHR2NrLTNOaHRkV0NheksyRXhrbUUyNjIxSmR5aG91OFZrUlloTjZoMFM4NWFwZXNYRWhIa3dkVkl6em45Mlkza3F1dVRMc0FndHptdVFnbHRBRjFoMUpoQW8wMTNWd9IBrAFBVV95cUxPcHhVZ3ZLSUhSbUdvZXlJODlsUmRLT3lWcG1qZ3R0WUlDWUY5SVJZTVJCTzc0R3BNNGduOTY5MDBXczhjSnk3N2Y5endjaU9VTmlfdnI2N2ZLRDBBNmRnSExWT0FrZ3g2VUZSQ1hLMnZFaW5NZG53UzBzcFNweEpYZjY3a0RyVXJwQ3h2Y296QmVlY0J1Q2VYYVV0QXNxdHY2N2M1WHYwcUR3Q01S?oc=5"
+      "manchete": "Jamildo: Aluguel no Recife varia até três vezes dependendo do bairro, aponta pesquisa",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMzhkdl9rR2RmLS1ZUFBuTjExQkhrTXExTk9lTEdHNHVlYnMxOWoyS1VGM0g0N21rOGZxZndoenh6dFF1WWgzRmlQemM0YWZSREhaZGlob3VyR0hzWE1QRFFzcGk5WUU5RmZybU9hRnF6Y1ZQWXJBdnppRjAxMW1SdnBSblpPb0p3WDV4U0RDQkMxNWZZMzhjOWt0eWNSY2FnY0hyWnhRNGY1RjlWcE1UMUd6eHRUaGRLSVHSAb8BQVVfeXFMTVVvZ1RFbFBsSG40ajVTWENkbWZjVnFkUjNkVGJ2aTBZX1pmTndOMGFfbmVrNloxTUxjdDlXYnphdGI0TVRaWVEyUjJrNUdXeDZNUDJaT3ZtTGtvWURoT3FFUFBTU1ZGaTVrektkRTRpUk8yWGF6YlZCSkhPTjBsWVY2VkZvd2xjaGFMaHdlNHZXMC0tQ2c5WnBfRGZDcVlKbHlOZGtHRWpJTHUwYVBhc2phZkdqWW40ZWc1bG92dG8?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Estreias do Cinemark: aventura, emoção e clássicos para todos os gostos",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlFDSGNZemFNOVZydWJvYkcwckcteFJ0NXp5ZzJrOGs0QlFPaEZSRXRDRWpwOE1Ia21Pa0JGclFCRDh6US05RUFwa2x0X1VWTDZ0c3UzM2RrUW12aUFrQjdBWGRRd254bHNqbWJWMlNhWnhtYjBzaU5aRkpVLUwwTi1KblRzZUF4aUZTdHFhV3VDZlJBQ0dqVUZ6N3EyQnlHRnItTkFwZ0ZuQlU?oc=5"
+      "manchete": "Brasil Mergulho: Navio SS United States deverá se tornar o maior recife artificial do mundo em novembro",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGlidm8yTmNTb01TX2xmTUhzV2pHX2lLWUdubFdsUHczbkVvcFhRVVpfNDdXeFgtM2VGWVdmV0hOS3Jtb1hkaEU5bi1acTA2b0ZGUEM5blFneTVOMS0tXzVTV1RucUFKa2h5RGhCUVVrYWhzdGVEckd6dFpLcHpENGRoY3Z0eFI3MTA2Q19WLUdyZ0lESl9zOEdjZ2xDbHZmajdyZ2x0aVZlekttNHFJU1ZUYWlrblZsYlE?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: Recife oferece 719 vagas gratuitas em cursos profissionalizantes",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFBpR2RCUjFxeUU0RWRJekk4M1ZEb2pIcXlXd1UycWZmeFJmWXlFWS1HZWlYVmVjNE9Ea2w5czN1YlRjUzUxLTJ4M2N3b1FzdlY2ZWM4bG95dlZMUmI0cDhrT05rMmFabTZiY2hYOVRVY0JtbGd1Z1lUTkE4anFwTWFpMXMyWTRtYmxsU3dIWlNqVkpscVY4OU1WX0tHQ0pPRzFDMg?oc=5"
+      "manchete": "CNN Brasil: Juliette realiza 2º casamento em Recife na presença de famosos; veja fotos",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGZ6UmlZUEhJNDNjQXU2MFRBNE5ld241VmZEdnowR0x3bXRnODBHMVhkM2JLUkRGYlpmalQtb1lfSXV0SUs1S3B3Q2d4OFdrbkhmR3Y2eVB0Uy1RR3dXQW5lcmFSNVk3eUE2bXdXVXV6TlFZMWxYdFhKQW1HRzVrcUhWQm1RUDlkSHY4RWxiVkdsenVBUG1mREhLbnFlTHcxVTJmN2ZUQVhEV21UQmlXZzNaMEd0QkY2MUFwSg?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Movimento Econômico: Certezza aposta no Nordeste e instala sede no Recife",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3JWcFFBZ1Z3dFV4S2dCbDJtUjZJQXVoTGJIaUhlTFdJM1ZDb2V2NDNqZFowTW9MVXBqUHhqV0JiSnNuLWw2T1BNVWs0Si1BRExNLW83TjA4ZnFLcEl2NExBaHBGWm9BS1lqTlFIRGlZTWRsaEdreTlxZmJCcFZtRHgzZHJISmxpclY4dWZnZjBmTzFBNnkzRUNCRDQ5d1FVbzZ0NFlVZWZ2cWVHR1FYTDVQeXBDX0k?oc=5"
+      "manchete": "CBN Recife: Transporte público terá operação especial nos dias de provas do SSA 3-UPE 2026",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNTM2WVB6VnZCTnZ6cEdmT0xfaE9EQ1BhMVFlbGltUHpyVnRKeldMaWFnSDBPak5md3g2S2d3LTN0UmRaRExfaHFNT2RiTWdHOG41Y192THpZbTVVMlAyRlI0Qk16UnM1YldjQzFka21YMmVHakxKa1VZdDVkYjg5OU9PLV94WHljVmFESFlGbVZKbGJmZU8xTWtsRUNNVGYzZXYxY3NZbFFEbVJBcER3bklSM1dZSXR1QkF4M1Q5Q0JXeE5MVEZMemFuSQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -233,38 +233,20 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "JC: SSA 3 da UPE: Grande Recife reforça linhas de ônibus nos dois dias de prova; confira os itinerários",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSDhLWDV3Z0YtdHhTWmU5bGZYbG1sZWFxODc3c0R1b2Z1SG9QY0p1YlpDeWFISzhQeUJ4QTU1QzJMekM2Y0hCblB2bDFQVFBxRW52bVFCWFM3UExGaWh5M3VvUkZLWDhhZjJEdmlKRExIVFEyV25WLS1FV19PWUY3MHpjbFBuNDM5eTVzRy01WHRpeklMclVfUjZPNFA0R1JZTHNsZm9OTWMyWlcwdS1JcnhyaTc4cTh5R0FhYXJOWjFqd1VScUFKVkM2X3NUcjNJaXdSRUxSc2FJR0xIM0lQTnFMSkRuSmlRSVJLaFhOWmQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Prefeitura do Recife entrega requalificação de escola profissionalizante e homenageia Isabella de Roldão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ29BZVBlLWVvNy1jTVB5Ry1sSVpaNnNJek94LTdpc1pGVEU4S2ZHRW85MW83YkF4eHhGTmthT3VJaWVpaDlSeTU3Z2tNSWRUbGlFTHAtQkFhTDd4VkR2RXo0U3FCVXk0WngzV0YzNFRQUGRlalR3QWJOajZ6UWE1TlBCSXhqRldNQzdUa09DS1diblNkak5rTWh4Y1hFdktsYWN5WjZvbWdQUGdPbUU5VkdVcVBBQmJsUEoyWm1UdHNDZFNld1lMYldidHY?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "LeiaJá: Feriado de Finados: confira o que abre e fecha no Grande Recife",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3BQUm5xSTZZRmMwWkxlQVBmX0NReDlzbG5TeF94WlNjdHV5ZmFFdFpKaWl3a2xTTFlmSTdmZHJtSDlDc3d3NDJ1S3kxdTZNMF9MaFE0b3dnT2Q5eGstSGlmcnB1T3BHTDVFT0JpMzJvR2FpdHBsazdGNVhIWFZKd3hTX3RHZHVRcFNvZXRVeGJEUUo1U21wbzRFdzVSMERHTlBaem8xa25uQQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
       "manchete": "Diario de Pernambuco: SSA 3: linhas de ônibus no Grande Recife terão reforço de frota durante os dois dias de provas",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYm9hXzE3Nkx1bnZJUGl2NXpKQ3FaSlp4SzJ4MHNaNGhGUFFtVXN0QlExM000UkttdG4wZEc0aF9OWG1WX3FxTDVtc2xJU2tTUzBOM2lMemR6NTdQdkZ0clh5VjRfTU03US10N3k4YW1rQU5WQ1g5VS11R0w2anpXS3dRLXJmMEJSMGk0TjdIZUlfSVFWbmdTdDAtWDlxdkl6X09YX0JQT3JhZkF3NFBlbERZZGJLbjlVRnhEQWVUNGprR2MybnJwN3A1Vmdlbl9DcC16eFU2YVM5ZWlHbHJpeUx4eGF3SjB5WXJrb1JGM2p0ZHA0U0M2N1MwbmhsUQ?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Alepe abre agendamento para mutirão de saúde e cidadania “Juntos nos Cuidamos” com 24 mil atendimentos gratuitos",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzZBVU1VS2Y0QmtGVkIxTER5ZTROay1HUG5SeThSeHJhRnNDUzUwbTRNQVFLVFNNODlWLXRZYnNwbVRIdDJTYmRVWlJlX21icmJoSElPTFRSSU9UMW1qYk9QNi1oWmR1TXhYUWpiVmlKTEpPSEJ5R3AwVmZENkdxTkxOQUttM2pDcDFOeVA4SmRRMHNiNVVCR1R0MUZWVmNQNHkydlhuS0JOT0xIcUhhVzI1RXFDblk0d1VsNV9VZ2prcElfWHJHbGU2YU5CYWZuNzdz?oc=5"
+      "manchete": "G1: Alepe adia votação de Projeto de Lei do governo de Pernambuco solicitando empréstimo",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOC16a1hjMGtScER4dC1wanFyM1VaWTRMTlhOc3JPck4yZ0s2bmFiWFg5RngtcEQtdjdXRl9YNnVWMWdsdHNKSFhILUhHVDhCQlVKQWUzNHpuOVc0eG5ldnQ0R1RoY216eFVRUmU1anFYWDNEM1FLcXRpQ0hHQ1k4S0MxcTl0WVBkMFBMTGhfaThHdksySFpjWklZdkZfOUh3RXZvS3FRY0FNLWtiZkhtV3B1MVdjSkI4RkZtd0J1aGtWdmdjc1VYTjdsTlRfQ09rZUdGcHJOakh3emdPemlGTWpBWHVpX3NPVUFV0gHrAUFVX3lxTE84LXprWGMwa1JwRHh0LXBqcXIzVVpZNExOWE5zck9yTjJnSzZuYWJYWDlGeC1wRC12N1dGX1g2dVYxZ2x0c0pIWEgtSEdUOEJCVUpBZTM0em45VzR4bmV2dDRHVGhjbXp4VVFSZTVqcVhYM0QzUUtxdGlDSEdDWThLQzFxOXRZUGQwUExMaF9pOEd2SzJIWmNaSVl2Rl85SHdFdm9LcVFjQU0ta2JmSG1XcHUxV2NKQjhGRm13QnVoa1Z2Z2NzVVhON2xOVF9DT2tlR0Zwck5qSHd6Z096aUZNakFYdWlfc09VQVU?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Alepe abre agendamento para mutirão gratuito com previsão de 24 mil atendimentos",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMlVzQXRnSU82amdZdDk4cGkwQ09aNzhKeDdKdFdDX3F3a1hRZmdSUTQ2NlZ4UVQtSzdROG93SVVkbTFNQTdCQmJUcDEtQUdNX2JndWZNcC1OLWtSbXFqcW5FTEFJbGhRR3pMdVcxQUhQdEFnMml6cXNEd281SEFOa2ZkZWd1cjc3Y2JLQWV5a29ZVllqaklJM0xvUGpzQWlxeTd0MW15U3NZSmpKaVE2aWdMUnRacTY1aDJvSUUyS0dMaXVCRnlDNkZwcC1oWFhPNDN3?oc=5"
+      "manchete": "Blog Edmar Lyra: Alepe abre agendamento para mutirão de saúde e cidadania “Juntos nos Cuidamos” com 24 mil atendimentos gratuitos",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzZBVU1VS2Y0QmtGVkIxTER5ZTROay1HUG5SeThSeHJhRnNDUzUwbTRNQVFLVFNNODlWLXRZYnNwbVRIdDJTYmRVWlJlX21icmJoSElPTFRSSU9UMW1qYk9QNi1oWmR1TXhYUWpiVmlKTEpPSEJ5R3AwVmZENkdxTkxOQUttM2pDcDFOeVA4SmRRMHNiNVVCR1R0MUZWVmNQNHkydlhuS0JOT0xIcUhhVzI1RXFDblk0d1VsNV9VZ2prcElfWHJHbGU2YU5CYWZuNzdz?oc=5"
     },
     {
       "termo": "Alepe",
@@ -279,12 +261,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSzRSd1BBZEFIMFBkUVBQSXhCMlJ0eXRvMWx5QjdpZmhMTW5GUkZjbEtmTllHMElYXzVWOVNsbWJrbG9ISmxhMS1aeElYU1dRVTVYRHNkOEZ5ZnhESGtSazNPYW1JSnZpaGxpTUdoZWxTY3F4cWxzdFNDNVFRX0hFRUVSUE5GWVBUT1ptZ0N5NGdIMEF5UWdSRVd3WGZJb1YxamRrdVY4WEVXUk84RXBFWXk3UGdHWHpTbWJRdU13?oc=5"
     },
     {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Estratégia Concursos: Concursos Legislativos 2026: confira os editais previstos",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JNDZEOHNXc3ZiOWdadkdZMGdSdFJmR2ZpNmVNZVlBZVB5UW1SaS1nYkFlNV9uNWloTXQ4clc5QS12VW5JY3pBdGduQzZ0bWc3ZFVLblVVSW9fRDZfOUgtdDZUWGFNcjA1Q0pnTm9KRlZXMTZDdXfSAXtBVV95cUxNeXdzT1gtSkNoaUp0NU1ENG0yNkJCbHRwNnV5cm9MME4wMG5EbXNfaC1zc3U4NEMtXzVNT3dWemRKMUxrR0k3SGpIOVFpaENmTjlyS1VtSERXS3ljajJBY1lhZDBkY3RvbE5MRlc0ZThQTWx5TGdxaC1vQkU?oc=5"
-    },
-    {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
       "manchete": "PSD - Partido Social Democrático: Raquel Lyra negocia parcerias na transição energética - PSD",
@@ -295,30 +271,24 @@
       "volume": "Últimas 12h",
       "manchete": "Consed: Pernambuco conquista novas medalhas no segundo bloco dos Jogos da Juventude 2026",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMjkzQ1oxSjZGcDJmdnQ3SnVrMl8zS0EyV3NnS2hvX1FnZ0Q5a0o3Y1JrZGRpLWFtMVJlRmwtZnllMkxmeGZ3bGk4N0VLVS1zcXdxTEViWHAtZGVJQW43dktiaXhHVUJyMzJ5Y09VQ1RHRkY1b2ViREh5TFFzU3dwLTBIUlBjYmpZRzc4MW5COWRZWkdoek9qaExVNFppRmNycFQxSVV2VFJZM1FBanVPS3hVRnk?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Elvis: Governo de Pernambuco inicia restauração da rodovia de acesso ao aeroporto de Serra Talhada",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTDdONTh4SVh5TkZuN3UzVlZSNWFqMmdDYVV4RkJrVW9wSjdFa3oyd3FndHFMS3JjU1UtWGlRN3h1bDlkSUpLcHNySjhHNTI0SFRPclNxN2VZR1p4eDAyYjRMSlhOQWZFakRGRThUb2h4Qjd4c2N1MFVNb0ZOeWREYzBuWmZUMXh6TGJaQkhxQ2dJeHZmOC1OUnRMUXctcFFEQ2VJbDlEdmZLeFkwZjRHSWc4dUJTNEcwajNWb1RKckliSk8xQUdlM1NqWUE?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "PE Notícias: Governo de Pernambuco abriu inscrições para o Programa de Aquisição e Distribuição de Sementes 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEo0bXVBNkhWdjk4Sko4dkpLRUtGSlRGU2dScmliX0RzU3ZNemZpU3l5OGc1dTk4UF9oZmJIcU5rcXZ0bXV5X3g3ajJQcUtRcm4zTVktcGJxQ2xwNTF1TG0zU2R0eU95eUo2UlkyOVdZLW81WmEyQjVRTVFaZ214SDZxQjBjNXFjU3dLYUlhbUxHdEtMVUY5OEdjSXM4Ui13YWdLZGRQbWl2dldydlA1Qy02X3Z2MEFzdTZpS0dmVl9WWG9rWkRSTk1TY1NSN0dqenc?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Jamildo: Deputado estadual eleito em Pernambuco tem prisão decretada pela Justiça",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEc1UllucWhua2ZVeGtqOElDRzI0WW9IaXFPVzZFdHBQMWdsUGNySFNaREtWNWNYeUdsbzlWdEM5S2VoeUFnZmNtNVlJRjRsNFJGaWhQZWRRdjItWVBkTG9mY0RLNXgzWGY0WlhwdHFTUFRVV2V2eEZVWlYzOU53b2prRURiNnA0d1ZLd0d0NGFhbHRSNFRPMNIBngFBVV95cUxNSkNBVUlRNGNnZ3J6TWp6UkM5LW1MZExaSTR2Q1dOMkI5Z0VWZTM5Ulh2Wlp1cDBUQ3RzYVYwVElDN2FOb0hmMDliTnQ3dm4wb0JwRVdhNnA5d3c4bVNPeVRwcHRXTGFrTXBZdllEMFpxSHBlb2JIMkV5UllETFRnUElBelhfazlMdjRaS3luOVlsSUZNQkFlWUlldVk0QQ?oc=5"
     }
   ],
   "picos": [
     {
+      "termo": "Pina",
+      "razao_aumento": 65.2,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-10-29T15:05:27Z",
+        "titulo": "Virada Recife 2027 terá 80% de atrações nordestinas e três dias de festa na Praia do Pina",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDNXV0c1TnZJcXc4Nlo0RFdXaVhCbzFvVk5QTjBiUGpqY0ZPYXlOWGFIdFcxNVM3T296ZVZRbmRuenk2aU1nNjQxaVdTNzRRYmtYSmpPa2VYWWdkTVkwOVl1Vmx3ZnBHbGtnOHBvWlM1cjhuMExHT1VMNEZUWGNfRzJtMlJ0UVkwUXdkWTRoVWtTSW9OZGRSUHFQZGVLOS1PMkx6S2V6dW9LSjJPNUlfeVN1VXJyZEk?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
       "termo": "Inglaterra",
-      "razao_aumento": 115.4,
+      "razao_aumento": 58.8,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Rádio Cultura do Nordeste",
@@ -329,360 +299,348 @@
       }
     },
     {
-      "termo": "Estudantes",
-      "razao_aumento": 76.9,
+      "termo": "Jato",
+      "razao_aumento": 57.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Rádio Cultura do Nordeste",
-        "hora": "2026-10-29T12:54:52Z",
-        "titulo": "Estudantes da rede estadual de Pernambuco embarcam para a Inglaterra",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUw1aGhxRDlsZUVEYWVFcXU2ZC1wVW1uU21GMEQ2Tk1rcFZlRWlGSHF1UUZBRW9zaXJKSEotWlNqb3dNUTVmdlkxYTkwa05XYlZKbGFHbi1FM3RxbEU2VGk0WWF1ZERuY25hLUNNengwNkZzSjM3UEtCNU1VZms0V1U4dUY4cVUzQy01MzQwZExtVVllekZmdmUtdjk3T1c3cTFFT2R3UEktYU0?oc=5",
+        "fonte": "O GLOBO",
+        "hora": "2026-10-29T17:09:28Z",
+        "titulo": "Jato que levou Flávio para os EUA teria sido conseguido por funcionário da Casa Branca, diz The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTVdEaVlTMWpXNHB6RXkzQW5OSTRfeGMxOHVNeU80VTVoWFJBRGdvVGJITURKZmV1SHhBeGZncVJQTTZmaUpIMExlZmxYQjd2ajJ4d09UWURBblhfZDU1QWF0c2NydzdSOF9rMm1xRXJISXRsRVkxTExDOVVrN3JtUjhQVFJ5eG5oS2xzaDI2Qy1mMmJFWmNQRWdobHcyVVc2OW1WTFRHOWUxUkp5enVSRFVyMnh6dTQ1NE1VRjZrT0k5YkhWRTNONlRFak1IbU1CVFh3NVc0ei1YZ9IB6AFBVV95cUxOS3pwdFJ2TWVXeFVwN1Y2c3hfVFE5aUk4M1VGd2hzSnR2UGFFMnpHa2JSNUdPSFhIbEpFUThUTHFBRE9yRGdoNUdsVXBwOEY2ejQ2X3oyTlBKVlE4bzhuUGZaaGUyYnpNeDYtZWxjUTM0OFlUOXhta2FvcHNwY254N0J3UUxNZmRjODAxd0c2SVlHUHRQWkczNnljNk5KNU50QTZSSWlDUmQwRm00WTVwNW0yNjY5bV92QXJLMHVEUDl4anVGWUNFekItNVphT1ZaOGRicmdzbExNX3V6RHNvZ281X1doXzRk?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "rede estadual",
-      "razao_aumento": 76.9,
+      "termo": "Jato que levou",
+      "razao_aumento": 57.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Rádio Cultura do Nordeste",
-        "hora": "2026-10-29T12:54:52Z",
-        "titulo": "Estudantes da rede estadual de Pernambuco embarcam para a Inglaterra",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUw1aGhxRDlsZUVEYWVFcXU2ZC1wVW1uU21GMEQ2Tk1rcFZlRWlGSHF1UUZBRW9zaXJKSEotWlNqb3dNUTVmdlkxYTkwa05XYlZKbGFHbi1FM3RxbEU2VGk0WWF1ZERuY25hLUNNengwNkZzSjM3UEtCNU1VZms0V1U4dUY4cVUzQy01MzQwZExtVVllekZmdmUtdjk3T1c3cTFFT2R3UEktYU0?oc=5",
+        "fonte": "O GLOBO",
+        "hora": "2026-10-29T17:09:28Z",
+        "titulo": "Jato que levou Flávio para os EUA teria sido conseguido por funcionário da Casa Branca, diz The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTVdEaVlTMWpXNHB6RXkzQW5OSTRfeGMxOHVNeU80VTVoWFJBRGdvVGJITURKZmV1SHhBeGZncVJQTTZmaUpIMExlZmxYQjd2ajJ4d09UWURBblhfZDU1QWF0c2NydzdSOF9rMm1xRXJISXRsRVkxTExDOVVrN3JtUjhQVFJ5eG5oS2xzaDI2Qy1mMmJFWmNQRWdobHcyVVc2OW1WTFRHOWUxUkp5enVSRFVyMnh6dTQ1NE1VRjZrT0k5YkhWRTNONlRFak1IbU1CVFh3NVc0ei1YZ9IB6AFBVV95cUxOS3pwdFJ2TWVXeFVwN1Y2c3hfVFE5aUk4M1VGd2hzSnR2UGFFMnpHa2JSNUdPSFhIbEpFUThUTHFBRE9yRGdoNUdsVXBwOEY2ejQ2X3oyTlBKVlE4bzhuUGZaaGUyYnpNeDYtZWxjUTM0OFlUOXhta2FvcHNwY254N0J3UUxNZmRjODAxd0c2SVlHUHRQWkczNnljNk5KNU50QTZSSWlDUmQwRm00WTVwNW0yNjY5bV92QXJLMHVEUDl4anVGWUNFekItNVphT1ZaOGRicmdzbExNX3V6RHNvZ281X1doXzRk?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Estudantes da rede",
-      "razao_aumento": 76.9,
+      "termo": "Alepe abre",
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Rádio Cultura do Nordeste",
-        "hora": "2026-10-29T12:54:52Z",
-        "titulo": "Estudantes da rede estadual de Pernambuco embarcam para a Inglaterra",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUw1aGhxRDlsZUVEYWVFcXU2ZC1wVW1uU21GMEQ2Tk1rcFZlRWlGSHF1UUZBRW9zaXJKSEotWlNqb3dNUTVmdlkxYTkwa05XYlZKbGFHbi1FM3RxbEU2VGk0WWF1ZERuY25hLUNNengwNkZzSjM3UEtCNU1VZms0V1U4dUY4cVUzQy01MzQwZExtVVllekZmdmUtdjk3T1c3cTFFT2R3UEktYU0?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-29T18:11:00Z",
+        "titulo": "Alepe abre agendamento para mutirão gratuito com previsão de 24 mil atendimentos",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1djdEtoOTR6RjFpazZqVDNjN2FlclZRWHB6LTB3bGR0ZEloR0FiRWxaOW9wYW1RYkh5SHhDdzZGbFBPSWc5bkNnNzFaVGctZlpOaFlfLTJRbVRWeUhIYWpZMEJlT29sdVdyVE10TGxtaV84NmhQdkpZQk5XbVd0ZFRtYWRBb2FheGVpR0hycHIzQ3g3ZWdkbVVCUzhJSjdNeERtdVlwRV9hUjZHMU5BcmJ0a2VYc0dWMnctazdESkR0Zw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "turismo de observação",
-      "razao_aumento": 73.4,
+      "termo": "abre agendamento",
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-10-29T08:53:00Z",
-        "titulo": "Governo de PE lança edital de R$ 500 mil para incentivar o turismo de observação de aves",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ2daQUZBN05OMXJkb3JERzlhWDFHSTVhSTVSN3JJM1d1UjZ4aXdRaEFnZXV4VUpxZG1UcXExRDJGWkkyXzBEYmJ6M25pTWlaYmZldmd6TDFETlE1SlRjSS13d3RYbnQyMldvazdhak8zMVVKSFFsRkhoM2IyMmliQV9jQmZYWklERG9GOWRfS2lzX1BGWndzal9zRFc1Si1lZWxfdm1WYlNjRHd5VFF3Vmk4QlFiMzZ6M0htdmpRbkU2UGl1Q2VZUkd6cV9CVV83RDJXekxqLU82YUwwejFsTzI2NA?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-29T18:11:00Z",
+        "titulo": "Alepe abre agendamento para mutirão gratuito com previsão de 24 mil atendimentos",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1djdEtoOTR6RjFpazZqVDNjN2FlclZRWHB6LTB3bGR0ZEloR0FiRWxaOW9wYW1RYkh5SHhDdzZGbFBPSWc5bkNnNzFaVGctZlpOaFlfLTJRbVRWeUhIYWpZMEJlT29sdVdyVE10TGxtaV84NmhQdkpZQk5XbVd0ZFRtYWRBb2FheGVpR0hycHIzQ3g3ZWdkbVVCUzhJSjdNeERtdVlwRV9hUjZHMU5BcmJ0a2VYc0dWMnctazdESkR0Zw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Luiz",
-      "razao_aumento": 65.2,
+      "termo": "Alepe abre agendamento",
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Instagram",
-        "hora": "2026-10-29T21:12:03Z",
-        "titulo": "A Embaixada dos Estados Unidos em Brasília informou em relatório recebido por órgãos dos EUA, como Departamento de Estado, que a vitória do presidente Luiz Inácio Lula da Silva (PT) nas eleições de domingo (25) foi \"definitiva\" e \"surpreendente\". O doc",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1iZWRvVlY0d24ydkhoZTdVdW5BRGlGQjNjQjFUMDg4ZGxvVWxHeUdTZFI2QUI2aVd5S0FlQ004RlFMcl9wNFB4SjY0bkhWSEE?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-29T18:11:00Z",
+        "titulo": "Alepe abre agendamento para mutirão gratuito com previsão de 24 mil atendimentos",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1djdEtoOTR6RjFpazZqVDNjN2FlclZRWHB6LTB3bGR0ZEloR0FiRWxaOW9wYW1RYkh5SHhDdzZGbFBPSWc5bkNnNzFaVGctZlpOaFlfLTJRbVRWeUhIYWpZMEJlT29sdVdyVE10TGxtaV84NmhQdkpZQk5XbVd0ZFRtYWRBb2FheGVpR0hycHIzQ3g3ZWdkbVVCUzhJSjdNeERtdVlwRV9hUjZHMU5BcmJ0a2VYc0dWMnctazdESkR0Zw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Inácio",
-      "razao_aumento": 65.2,
+      "termo": "mil atendimentos",
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Instagram",
-        "hora": "2026-10-29T21:12:03Z",
-        "titulo": "A Embaixada dos Estados Unidos em Brasília informou em relatório recebido por órgãos dos EUA, como Departamento de Estado, que a vitória do presidente Luiz Inácio Lula da Silva (PT) nas eleições de domingo (25) foi \"definitiva\" e \"surpreendente\". O doc",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1iZWRvVlY0d24ydkhoZTdVdW5BRGlGQjNjQjFUMDg4ZGxvVWxHeUdTZFI2QUI2aVd5S0FlQ004RlFMcl9wNFB4SjY0bkhWSEE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Silva",
-      "razao_aumento": 65.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Instagram",
-        "hora": "2026-10-29T21:12:03Z",
-        "titulo": "A Embaixada dos Estados Unidos em Brasília informou em relatório recebido por órgãos dos EUA, como Departamento de Estado, que a vitória do presidente Luiz Inácio Lula da Silva (PT) nas eleições de domingo (25) foi \"definitiva\" e \"surpreendente\". O doc",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1iZWRvVlY0d24ydkhoZTdVdW5BRGlGQjNjQjFUMDg4ZGxvVWxHeUdTZFI2QUI2aVd5S0FlQ004RlFMcl9wNFB4SjY0bkhWSEE?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-29T18:11:00Z",
+        "titulo": "Alepe abre agendamento para mutirão gratuito com previsão de 24 mil atendimentos",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1djdEtoOTR6RjFpazZqVDNjN2FlclZRWHB6LTB3bGR0ZEloR0FiRWxaOW9wYW1RYkh5SHhDdzZGbFBPSWc5bkNnNzFaVGctZlpOaFlfLTJRbVRWeUhIYWpZMEJlT29sdVdyVE10TGxtaV84NmhQdkpZQk5XbVd0ZFRtYWRBb2FheGVpR0hycHIzQ3g3ZWdkbVVCUzhJSjdNeERtdVlwRV9hUjZHMU5BcmJ0a2VYc0dWMnctazdESkR0Zw?oc=5",
         "peso": 1.0
       }
     }
   ],
   "nuvem": [
     {
-      "termo": "Flávio",
+      "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 14.77,
+      "fatia_pct": 15.82,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Flávio",
+      "peso_relativo": 92.9,
+      "fatia_pct": 14.69,
       "fontes_distintas": 14
     },
     {
-      "termo": "Bolsonaro",
-      "peso_relativo": 96.2,
-      "fatia_pct": 14.2,
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 85.7,
+      "fatia_pct": 13.56,
       "fontes_distintas": 13
     },
     {
       "termo": "Lula",
-      "peso_relativo": 92.3,
-      "fatia_pct": 13.64,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 92.3,
-      "fatia_pct": 13.64,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Trump",
-      "peso_relativo": 34.6,
-      "fatia_pct": 5.11,
-      "fontes_distintas": 7
+      "peso_relativo": 82.1,
+      "fatia_pct": 12.99,
+      "fontes_distintas": 11
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 30.8,
-      "fatia_pct": 4.55,
+      "peso_relativo": 28.6,
+      "fatia_pct": 4.52,
       "fontes_distintas": 8
+    },
+    {
+      "termo": "Trump",
+      "peso_relativo": 28.6,
+      "fatia_pct": 4.52,
+      "fontes_distintas": 5
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 30.8,
-      "fatia_pct": 4.55,
-      "fontes_distintas": 8
+      "peso_relativo": 25.0,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 7
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 30.8,
-      "fatia_pct": 4.55,
-      "fontes_distintas": 8
+      "peso_relativo": 25.0,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 7
     },
     {
       "termo": "Alepe",
-      "peso_relativo": 23.1,
-      "fatia_pct": 3.41,
+      "peso_relativo": 21.4,
+      "fatia_pct": 3.39,
       "fontes_distintas": 6
     },
     {
-      "termo": "Finados",
-      "peso_relativo": 23.1,
-      "fatia_pct": 3.41,
+      "termo": "Virada",
+      "peso_relativo": 21.4,
+      "fatia_pct": 3.39,
       "fontes_distintas": 6
     },
     {
-      "termo": "ADDICTEDto",
-      "peso_relativo": 21.9,
-      "fatia_pct": 3.24,
+      "termo": "Voto",
+      "peso_relativo": 20.4,
+      "fatia_pct": 3.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "JISOO",
-      "peso_relativo": 21.9,
-      "fatia_pct": 3.24,
+      "termo": "Distrital",
+      "peso_relativo": 20.4,
+      "fatia_pct": 3.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "ADDICTEDto JISOO",
-      "peso_relativo": 21.9,
-      "fatia_pct": 3.24,
+      "termo": "Voto Distrital",
+      "peso_relativo": 20.4,
+      "fatia_pct": 3.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "Scarpa",
-      "peso_relativo": 20.8,
-      "fatia_pct": 3.07,
+      "termo": "Darlin",
+      "peso_relativo": 18.2,
+      "fatia_pct": 2.88,
       "fontes_distintas": 1
     },
     {
       "termo": "Estados",
-      "peso_relativo": 19.2,
-      "fatia_pct": 2.84,
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.82,
       "fontes_distintas": 4
     },
     {
       "termo": "Unidos",
-      "peso_relativo": 19.2,
-      "fatia_pct": 2.84,
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.82,
       "fontes_distintas": 4
     },
     {
       "termo": "Estados Unidos",
-      "peso_relativo": 19.2,
-      "fatia_pct": 2.84,
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.82,
       "fontes_distintas": 4
     },
     {
-      "termo": "Virada",
-      "peso_relativo": 19.2,
-      "fatia_pct": 2.84,
+      "termo": "Brasil",
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.82,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "fuga de Flávio",
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.82,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "carta golpista",
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.82,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Finados",
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.82,
       "fontes_distintas": 5
     },
     {
-      "termo": "Réveillon",
-      "peso_relativo": 19.2,
-      "fatia_pct": 2.84,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Natanael",
-      "peso_relativo": 18.5,
-      "fatia_pct": 2.73,
+      "termo": "AHS13",
+      "peso_relativo": 17.1,
+      "fatia_pct": 2.71,
       "fontes_distintas": 1
     },
     {
-      "termo": "Gabriel",
-      "peso_relativo": 17.3,
-      "fatia_pct": 2.56,
+      "termo": "Pedro",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.54,
       "fontes_distintas": 1
     },
     {
-      "termo": "Pereira",
-      "peso_relativo": 17.3,
-      "fatia_pct": 2.56,
+      "termo": "Emanuel",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.54,
       "fontes_distintas": 1
     },
     {
-      "termo": "Gabriel Pereira",
-      "peso_relativo": 17.3,
-      "fatia_pct": 2.56,
+      "termo": "Pedro Emanuel",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.54,
       "fontes_distintas": 1
     },
     {
-      "termo": "VASx",
-      "peso_relativo": 16.2,
-      "fatia_pct": 2.39,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "VASx FLA",
-      "peso_relativo": 16.2,
-      "fatia_pct": 2.39,
+      "termo": "Neto",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.37,
       "fontes_distintas": 1
     },
     {
       "termo": "Espanha",
-      "peso_relativo": 15.4,
-      "fatia_pct": 2.27,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.26,
       "fontes_distintas": 4
     },
     {
-      "termo": "carta golpista",
-      "peso_relativo": 15.4,
-      "fatia_pct": 2.27,
-      "fontes_distintas": 3
+      "termo": "carta de Flávio",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.26,
+      "fontes_distintas": 4
     },
     {
       "termo": "levou Flávio",
-      "peso_relativo": 15.4,
-      "fatia_pct": 2.27,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.26,
       "fontes_distintas": 4
     },
     {
-      "termo": "Servidor",
-      "peso_relativo": 15.4,
-      "fatia_pct": 2.27,
+      "termo": "Réveillon",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.26,
       "fontes_distintas": 4
     },
     {
       "termo": "Virada Recife",
-      "peso_relativo": 15.4,
-      "fatia_pct": 2.27,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.26,
       "fontes_distintas": 4
     },
     {
       "termo": "Recife 2027",
-      "peso_relativo": 15.4,
-      "fatia_pct": 2.27,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.26,
       "fontes_distintas": 4
     },
     {
       "termo": "Virada Recife 2027",
-      "peso_relativo": 15.4,
-      "fatia_pct": 2.27,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.26,
       "fontes_distintas": 4
     },
     {
-      "termo": "Ludmilla",
-      "peso_relativo": 15.4,
-      "fatia_pct": 2.27,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Cruzeiro",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.22,
+      "termo": "Samuel",
+      "peso_relativo": 13.9,
+      "fatia_pct": 2.2,
       "fontes_distintas": 1
     },
     {
-      "termo": "Freitas",
-      "peso_relativo": 14.2,
-      "fatia_pct": 2.1,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Arroyo",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.05,
+      "termo": "Lino",
+      "peso_relativo": 13.9,
+      "fatia_pct": 2.2,
       "fontes_distintas": 1
     },
     {
-      "termo": "Patrick",
-      "peso_relativo": 12.7,
-      "fatia_pct": 1.88,
+      "termo": "Samuel Lino",
+      "peso_relativo": 13.9,
+      "fatia_pct": 2.2,
       "fontes_distintas": 1
     },
     {
-      "termo": "Stewart",
-      "peso_relativo": 12.7,
-      "fatia_pct": 1.88,
+      "termo": "Galisteu",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.03,
       "fontes_distintas": 1
     },
     {
-      "termo": "Patrick Stewart",
-      "peso_relativo": 12.7,
-      "fatia_pct": 1.88,
+      "termo": "Ortiz",
+      "peso_relativo": 11.8,
+      "fatia_pct": 1.86,
       "fontes_distintas": 1
-    },
-    {
-      "termo": "Eleições 2026",
-      "peso_relativo": 11.5,
-      "fatia_pct": 1.7,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "equipamentos culturais",
-      "peso_relativo": 11.5,
-      "fatia_pct": 1.7,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Deputado",
-      "peso_relativo": 11.5,
-      "fatia_pct": 1.7,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Deputado eleito",
-      "peso_relativo": 11.5,
-      "fatia_pct": 1.7,
-      "fontes_distintas": 3
     },
     {
       "termo": "Brasília",
-      "peso_relativo": 11.5,
-      "fatia_pct": 1.7,
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.69,
       "fontes_distintas": 2
     },
     {
-      "termo": "Luiz",
-      "peso_relativo": 11.5,
-      "fatia_pct": 1.7,
-      "fontes_distintas": 2
+      "termo": "pronunciamento à nação",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.69,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "vitória de Lula",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.69,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Exército",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.69,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Exército do Lula",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.69,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Jato",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.69,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Jato que levou",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.69,
+      "fontes_distintas": 3
     }
   ]
 }
