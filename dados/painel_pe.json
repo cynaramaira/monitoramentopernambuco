@@ -1,169 +1,181 @@
 {
-  "atualizado_em": "2026-10-31T02:19:56Z",
-  "total_analisado": 128,
+  "atualizado_em": "2026-10-31T08:52:12Z",
+  "total_analisado": 129,
   "x_recife": [
     {
-      "termo": "Raquel Lyra",
-      "posicao": 1,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Raquel%20Lyra",
-      "ruido": false
-    },
-    {
-      "termo": "Corinthians",
-      "posicao": 2,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Corinthians",
-      "ruido": true
-    },
-    {
-      "termo": "Corinthians",
-      "posicao": 3,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Corinthians",
-      "ruido": true
-    },
-    {
-      "termo": "KAIO CESAR",
-      "posicao": 4,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=KAIO%20CESAR",
-      "ruido": false
-    },
-    {
-      "termo": "Garro",
-      "posicao": 5,
-      "variacao": "+10",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Garro",
-      "ruido": false
-    },
-    {
       "termo": "#Jones2030",
-      "posicao": 6,
-      "variacao": "-3",
-      "direcao": "cai",
+      "posicao": 1,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23Jones2030",
       "ruido": false
     },
     {
-      "termo": "#MLBS7Spoilers",
+      "termo": "Mayk",
+      "posicao": 2,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Mayk",
+      "ruido": false
+    },
+    {
+      "termo": "Mayk",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Mayk",
+      "ruido": false
+    },
+    {
+      "termo": "Mônica",
+      "posicao": 4,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=M%C3%B4nica",
+      "ruido": false
+    },
+    {
+      "termo": "#AFazenda",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23AFazenda",
+      "ruido": true
+    },
+    {
+      "termo": "Curry",
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Curry",
+      "ruido": false
+    },
+    {
+      "termo": "Halloween",
       "posicao": 7,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23MLBS7Spoilers",
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Halloween",
       "ruido": false
     },
     {
-      "termo": "BEIJO MALIPE",
+      "termo": "Renata",
       "posicao": 8,
-      "variacao": "-3",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=BEIJO%20MALIPE",
+      "url": "https://x.com/search?q=Renata",
       "ruido": false
     },
     {
-      "termo": "Adrien",
+      "termo": "Murilo",
       "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Adrien",
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Murilo",
       "ruido": false
     },
     {
-      "termo": "MALIPE FIRST KISS",
+      "termo": "Fran",
       "posicao": 10,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=MALIPE%20FIRST%20KISS",
-      "ruido": false
-    },
-    {
-      "termo": "Lila",
-      "posicao": 11,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Lila",
+      "url": "https://x.com/search?q=Fran",
       "ruido": false
     },
     {
-      "termo": "#EmpregoSoComLula",
+      "termo": "Corinthians",
+      "posicao": 11,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Corinthians",
+      "ruido": true
+    },
+    {
+      "termo": "#SUBMUNDO808",
       "posicao": 12,
-      "variacao": "-5",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23EmpregoSoComLula",
+      "url": "https://x.com/search?q=%23SUBMUNDO808",
       "ruido": false
     },
     {
-      "termo": "Bidu",
+      "termo": "Luka",
       "posicao": 13,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Bidu",
+      "url": "https://x.com/search?q=Luka",
       "ruido": false
     },
     {
-      "termo": "Polônia",
+      "termo": "Empurrou",
       "posicao": 14,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Pol%C3%B4nia",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Empurrou",
       "ruido": false
     },
     {
-      "termo": "Walter",
+      "termo": "Alfredo",
       "posicao": 15,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Walter",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Alfredo",
       "ruido": false
     },
     {
-      "termo": "Bruno Santos",
+      "termo": "Lakers",
       "posicao": 16,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Bruno%20Santos",
-      "ruido": false
-    },
-    {
-      "termo": "Marinette",
-      "posicao": 17,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Marinette",
+      "url": "https://x.com/search?q=Lakers",
       "ruido": false
     },
     {
-      "termo": "ELVIS",
+      "termo": "Warriors",
+      "posicao": 17,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Warriors",
+      "ruido": false
+    },
+    {
+      "termo": "#QuemAmaCuida",
       "posicao": 18,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=ELVIS",
-      "ruido": false
-    },
-    {
-      "termo": "Angileri",
-      "posicao": 19,
-      "variacao": "-5",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Angileri",
+      "url": "https://x.com/search?q=%23QuemAmaCuida",
       "ruido": false
     },
     {
-      "termo": "I NEED U",
+      "termo": "Martina",
+      "posicao": 19,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Martina",
+      "ruido": false
+    },
+    {
+      "termo": "Carelli",
       "posicao": 20,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=I%20NEED%20U",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Carelli",
       "ruido": false
     }
   ],
   "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Da cana ao petróleo: como indústria de Pernambuco se transformou e o que falta para setor crescer",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlVoaG5HSjdzbTk0dlNra1EydXZhVzlMRXJZb214dTFuM2lIU01IU3R6U1NXanEtVjNMTDQtNDlOSVhkRW1QY0pWV3RSRVNsb1ZraTF0eWpqRmdpblNacWczUDJ5SWoySUM2RUhTNjZPbFQ2czZ4aWJLRWhSU3VubXQ5U1ZBWDBaazNwdnF2cTliZTYxcVRwYWhSSVhXV3FWcHdWMFFR0gG0AUFVX3lxTE0tMEJjZWM0RVRBUUhVUEJYWld0NmM4eXRRLXIzNm5OMnhCTkozel9PN1doSUxZNmVoSUQwV1JWTGFIVmVQV2VUTnRxcklGbk5OekVLQ0VZLXZpQm9HMThIeGtMTTE5RW5CZHZUWDFnUkEtb0pBSk40aWpNTDRKejc5N3B0QUZhSHVoaGFrdGF6STFQLXc2SHF2Zm5wSWRUNkF2c1ZNNXRNNTVvcTktS0hHb1Y2dw?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Congresso em Foco: João Paulo Costa (PT) foi eleito deputado estadual por Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0xQbVdPSnhDSkIycWlnTGFGOUNGclJ4OGdMbTB2M214VTAyRVBCajZZZzBQcmM5ekMzb09vVk5HeWNVaDgwdEoxcGNOdEE4WFFnRGNhdEZuUVZNTVpUUy1uR0dOaTZfTzVYYTZqZEd3Nk5ZRHljUXdIU080d2JIX3N4YjNpOHF2Q1pUN2xCbkFIZldzTjN5VlVPdS1hdWtnTHlKeXJmbHl2MFQ5M3V3Q1BTdw?oc=5"
+    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -173,38 +185,32 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Pesquisador fala sobre queda de participação da indústria na economia de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaHBQQmRoRk9TQ2Zqa3EtLThleGxhVGsxN3pRdDRYeHpoYUNtYlZhRVhGTTVuNUVncnlxLW55dnFaZGJFS3dYck83bktWVl9qdWtjUFp4RUp5Tm9vTkEtTTVpRXFhLVBLbGJOb2xObmxOV0E4V19uQWhCLWlVYjlhWHNHQUlaNENWcFhVbDZ3WURCandzX0RrdFZpbkRGUHkwM1piNTRkNTZYek9NbnNYUlBlUWhXMm9yNC12c0tRdjA2TmM3cEFFaFVKTlBHOTc3dnQ1a2N30gHkAUFVX3lxTE11eXdQQmQxenN2dnVCZlI1eU00QkYycXNTSkc2UDVnMEw3SWRuOTB2bGhVQ3BpVFYzbDBSSXhGa19sa3hPb2Zrc3RaTEJIV3JhTVFVVHN1Slp5NlRZV1ZRcVhiTXYyY2IwRTlGNHNOYzBzNzFiX2dENjhQLXc3MWlmc3FTMGtoYmkxaXQwNl92OEI5WC1NVFd4QjZhaDl5R2pRelNseUhTZUN3Zmp6dHF6aklZMVk2VHNjbWk3TkUxRHpCdWZBRUM2dVJJS2JiWm0tTG4zQ2gwYkh3eWJKMXg4dURHWA?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "O POVO: Justiça decreta prisão de deputado eleito em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXZ6NjRTaWRuZmlNS1JJTDlQMWhUdXFRMTdHdnBRN01TTFhxallacWJOVXBpdUZTU0ZyTzM1WXdVWnE3QW4tS1hQQktZSmtEWVVBMGF4Zmg1SDNSdllnQ3VpVTlRVHdtX0RlX1NPYnlkdjJDRC1CTUNsYU9JbG9nLUkxbnB1N2h6YzlIRWNnR3FYa3NuYlZZVFJ4MGI1Yjl3eFVPVVF4eE1yajItc05XdFlFZ18?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Sistema FENACON: Reforma Tributária pelo Brasil chega a Caruaru na Edição Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzJSOEJlQ0JVZWZQRkpad0JRWGZsbVByZ1E3bWNibnEwUHlGeTYzMjFsUml6eDhGNVdSeG9QLVJhN1BCNHltVkJxUVE4VnVNbXJISzhsemVselZldi1XbXB4ZzNPWHUtbmtDRzh3SnRfd2pRYzlTemtJY1dSWlhRT0d5V3h5WHlScVJxWHJ5NUpwZmhrN1JERnoybmZIaWJkT0E?oc=5"
+      "manchete": "Instagram: SÉRIE 'OS ELEITOS' 🗣️ Marília Arraes (PDT), senadora eleita por Pernambuco, defende aliança com partidos de centro que vá além de cargos e ministérios. 🔗 Confira a entrevista completa no YouTube do Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IWjVsc1A1SHJUQTNyU2RPM1g1VHRPX2RtR0MtSzZub3kxY293S0hpY0JrQ25seXNYT2FGZFhwVXBIVlFBQ01VeDFhR0VPOGxhYTkwZ3dB?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Prefeitura do Paulista: SEEPA promove formação imersiva no Recife Antigo para valorizar educadores",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbERqTzJYRGN1S21FOG5WZGR6NWEtVDlnbFJLX2UzM0VFeUV5QzNoekw4Z1owSENXT0ZYSmF0emVYT1ZiekIzN2JVVEdpLWtvTl9fNmpuTHVtZnJQa2o2RXk5elBha0sxOTJ1RTZ1TEdHRDZZSG9QRjJGeEJ0NHpYc3hnZ0h4MHB2eURPTTY0b0txRkI4NFhkUHBBRjZ6TGpPQU40bA?oc=5"
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQa2hqTTFCbHRFeWhqbGs1M3lMR1NDTW1GWU92aU5JUlBKQWVjbDNRMEUwWi1wRnVNcWFwdXpDUWgyclJZWDdnb2dlUXZJSDR5R1VxdWR6NndGenFxc0p3VTMybk9YeDZJMFo2OUtTY3VTRUlkcTFqYmhZa1M1bGQ4SXBfUjhXY2hHZnZmSG9kTGdWSXFPN1RwNTdBZlE4dU92bmhrQlRNa0VBb2o0VlU4THRQbkltUHVBVW4zendLWV93TGNvZmd2ZE9tenh2T3l6ZjNSZ1dTYTdxSWtEeDliNUwyUnlmbkJfVlZLeGc0OFlmV0NwWUhaNDF5VUVWei1FcWJzc3AwQ3RsOWVTOVBENTltR09XeHRhOTd6X2txWjZCM0N4RGlRaXo2NNIBugJBVV95cUxPM1pHNnh1a1NMaC1OZHZVV1A0OE85S0JHZnpTZ0xjVHdyQmtqWG1tVGhLRmkwUFR5S2UyS2llNzRjb0pYU2xOUVM2SWhtdGU3N2NOT0RkaGMwSE1hbDZBVHhPNmllWkNnY0lkUURIcjl0R09LelZaMkZ6WVNLR3JCT2hmbkpwZUh6ckZ5dlEtTk5YUkMwNzFXa2tCd2h5b2pJeENRcFNVb09wZ2pmdWlPTEFCckRCaExXdGJLVlVoLWd3em93djRSQTBaVDdKNzNaQ0FNUnJlcWpRV2JMUmxXWFUxZlduS3dDN3JhVzA4UlhFM201dDhveUxVM211RmU1TzRFN0o4REtFWlZVNkZlSnZmWkUzaUJ6VzhSdnNsc3ZqcS1tR2drYzBPbXBzWnB1MC1BM1F5dWtLUQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Arquidiocese de Olinda e Recife: Edital de Convocação",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10cmxKNnZMeUZOTWU4OW9zTURYLXZ6X0FCMFdpdTR1UjI1MXlKcEp0ZWF2WTFxSWZXYzZNOGE4YkpJa0NXZldhUzE0clB6SUVJZ2VEUFlONFFOb0lFenJuR3JldFRiTzltQ1c0WThnVQ?oc=5"
+      "manchete": "Folha PE: No Dia das Bruxas, saiba por que Recife é considerada a capital brasileira do terror",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UcmstOGVvMlcyWW96QnFzTm9XZ3VmQkUzSGRoVFU3TllOcWpmZXVuUEdlZFJRMGtiTHZXZENKOGdqTHFIcjJWb1ZkZXdTUGRGQk9ZV0hQV3Q?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Portal CBN Recife: Recife promove avaliações físicas e orientações de saúde com a Carreta Cuidar no Parque da Macaxeira",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVWNGU3RnOUZRUl9zSkJETVJXeTZwYXg2Z0tRLXVQS1JFbHBObHpHZFNrRGJNSlY3YjVsNEM4NkZEUW82WjlpLU5rTWpmU294aWVXRXItNVpVQ09PUDh4LWNiN214dE1NNXhjdlJXVjR0YWFnY0ozYmtOUzI4UUVCclp1NkU5QTF6SVhPc0ZtbEpQdFhxQ2JNcEdDaXFZMHp4VnZWOXB0WTZ4ajdBdzFNS2dfV1ZBenFpU3JQR2g0REZKSTNZY2x4Zm9iYXNJUnNld0tQV29WU0NBWEFhdVJTc0wwUlI0azVf?oc=5"
+      "manchete": "Melhores Destinos: Praias do Nordeste! Passagens para Maceió, Recife, Salvador e mais cidades a partir de R$ 504",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczJ4M2FPaXNPOTV2aWhSTWhsUFU4TmJBNTZMT2FFVVc4S0l6RDloalRMVk85TEpEbnV5bzVVQXVlcVpJaDg1YXRFaWV3TUpSSFJBYTJrZlZidHRHMXh3UEVvYWNmTlBJZXJOZWVDMTM2cmZDQW4wX0J0a0FWRldiazRubFdoLTZWVFJmc0pyVEpkZ29DR2NqTGNmaWxMNDRlekk3SA?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Márcio Didier: Raquel Lyra discute financiamento para modernizar frota de ônibus da RMR em Paris",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Cdk5DaEozNE9EWG96aUtmUDZHQWJFOENtTkdTT05WbWJrMndTVDFhdWJqQmYwR0RyRFhvMXRPRkxKbUZraTJBektvWW9lLWROTmkxek5TUXAwOTFZdTR2UHVtRG9vQnA0QTVucTlMNXdlb0Q0?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -221,14 +227,8 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Festival de Circo celebra 20ª edição com atrações nacionais e internacionais e programação gratuita no Grande Recife",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbDZVUnJFS0pya29XdkRvQ0plTnpmTnhWY0k4S3RkUXZiSmFNdmpqckRtMGhsNEhsVklMV0tJRkpSampSd0NxWURJZlkxY1pmd0VuVTVzQVk3cUZndzhKSWVuQm82SlNPTFNNUFluMWhoVjBBWnVFTXdPbklMSGd1S0xjR1dfbWRUTkFKRkVvV0hUUHd0V0swSGJmNGUwYnRxemRic2pEMDhFa213SmhJVUpsUTU0ekVPRVlXRkVuTXNQM1RFTHZPaldodUV6NnAtYVl3bjhzX0VFZVp3RHJBQVlvRWxyMHdkRTJZblUzdy1pdw?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Orquestra Criança Cidadã lança mentoria internacional para jovens instrumentistas",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOXJZU0ZSTUFtUGxOZTFwdEtfSXU5T1pTdnl6ZjBlX2d3RmNZWV9Qd0s2R2dacWJRQVZ5M1NUVkJNOFN5VF9RckxGQUlhV0RsaVczaXVVUHFqRmxhemtTQzJqWFVfbm1IWVZ4QnAwN1B2VEkzeEY2MVViVHdlb2ZlbTRNdlF5dkJ0d0RMQ3QzOHJsMmstYzBqUnhUNTNTTWVrY2FyX0Uydld2UHF5enZaWHhtRkJjVElkSUJ1azY5Mmt6TVpFZ2s1R2FXLTIwbmp3Wm0wYVhUWDJfaVpqNktBZw?oc=5"
+      "manchete": "Blog do Mário Flávio: Raquel Lyra discute financiamento para ônibus e abastecimento de água em reunião na França",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWZGaWhuRjk4UmdlSFN0d0JrMG85T280VFRjdEx6akhxX1U2WFNFaDFheW82N3p3Vk90R0VPNVRZT2piVmI0d3FLdndTQnppUzZuWERlS1JjVjdmWlNfcUdNcWpHLXpjWUVObHR5YlF2OTRSVEZWQUI4YzVjemVHdmNRNGRZRG1CZjdSM2ZmUVB0d0dKRFB1azBTT2N6LXhJSHNPVVdBRWVfa3hUOFMzUzRDV2lrdzhKM0hsU1Bvb3RnUQ?oc=5"
     },
     {
       "termo": "Alepe",
@@ -245,38 +245,62 @@
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Márcio Didier: Vini Castello: \"Mirella é a grande derrotada da eleição\"",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5teXFxUmVfWVlldFBRRjhjckZfalBFVDkxYUc1ZHByNDJ1XzFpYzRDaDNIZXBHQk5SVWZ5M3dYRTVkTTcySkoybzl1akhrOFZXbk1LQjlRTzJ5b3BvZk5aZ0NpOUlsbnI2Ym1qRVdmdGdEMl9IRHFiTw?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Ricardo Antunes: Emerson Freitas consegue liminar no TJPE e não pode mais ser preso",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHRDa21sVFhrWkpqMHNCUV9XUWJzRmRYcEtJTGdfT3g2Smx4eTY1ZWtMeVBqLXgwY2QxeWhXazVCTGpCSkhiOVJMMWhSZExRZFFTQThJX2JWcklIRDZrOHNUZHdwR2lER0xscTM4cFBwMk5yQjItS1lmV1ZZVFRhRU9OMGZEZGlPSHY4Ylh3UV82Zk1rNExVYmh3?oc=5"
+      "manchete": "JC: Reeleição de Lula foi pauta da Alepe",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYlpJS04wT1dRWDREeGtnTG5RaXBnUTdycTJzQXFnaklSeEw3WEhwVTlhUGhPLXR0MmhXeTdRV0JkSzNUOUhsMG5TcXVWQWZEb1ROcndPQVlZOU9iNmlsNFgtZjNvaUMwS1VIOTZ5bm8yVnE2V0Q3QkYybjl5VnNtdWRJd1ZTRFVlWnFrbGFVTThnSEQ4dDl2dDBoYw?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Governo de Pernambuco lança edital do PE no Campus com mil bolsas; veja regras, valores e prazos",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdkRlcElMVTZTUVNRbzFybllSMU9FelJuaV85RGpmV2lmRW9ZSU1ybXJfUGlHZ0l2dHhab1R2TGpnXzljd0dKM1hadEg2VjRwNUxEdjhRcFFZZW5wWk5CcmRiYXp4QXN3bk9jMUcySVljVmNHOEt0aEVJd3hDNEVSZThhcjBKdllxYzdQSkVDZXg5ZUs3Y0hQZmhtdXRiVHE3S3VtMVdrTlBIOGdLNkEzVjBzUDcweFd6UEdwQVd3?oc=5"
+      "manchete": "Blog do Alberto Alves: Governo de Pernambuco abre programação do Novembro Negro 2026 com ação de Letramento Racial na EREM Tabajara, em Olinda",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZlBFMnNwa0JNMnlCQktJLUkzVHdxeWJFa1U3VWFaSnhhSEJkQTFtVHZReHVKU1VpSVBXQnFYRFNuSzdRbFBkSnh1MFc1bTN1cnl3eFc0clFoVm1acFFqT2FDandyWDA4bHozeTlWSkd0SUU5Q3VNZnZQbEtqTVcxeWpBWmJOT1Y4d2dWbklaa2VlSmlpTk8tVlZRUGkzTkxydjM3UnBFR2RKN3JWRjRZc0lwSDBpbWF1N0dQcGlVSnlYWU5KV3pNTldWR0pKU01OOTlOMVZ2UWNQZ0JkRTdzbEpBc2dfZjlyVUhud2VB?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "PE Notícias: Governo de Pernambuco lança edital do PE no Campus com mil bolsas",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEE5dG1TejFGMUdianNKaHlmVkpCeFNOeWhHa3lBazE1Zmt6WUxGTEdQWUlVZmlhOVp1MWIzTGtJSUdzOWxqY2NxSnZvNkhRZGVqcjJuLWI2UkRJR0FPbnpBamRscUFJWWJkcGFXakZCTUZ1Z1MtWHhqYTcxUFFxLXo5UlNlRmpxQVpBWENYZC1iSkZqcklvaERxM3ozdw?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "frota de ônibus",
-      "razao_aumento": 77.3,
+      "termo": "América",
+      "razao_aumento": 90.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-10-30T15:50:12Z",
-        "titulo": "Em Paris, governadora Raquel Lyra discute modernização da frota de ônibus da RMR e abastecimento de água com Agência Francesa de Desenvolvimento",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbGI3UHptOFM2VDRKOVY5cHV2ek9MdkFTUWZqU0I1UjlRY2MyWGxzZl9XMjZfamVTVjRHSTJTQlFHS01GWWhISl9TVURtUU5RQ29GTVViTjlFTExkM0p1aWpoajM2OC1CN2NLcm1uM2M4VHpCNUhzYlFvRXVZNUdVU2duVFYzb2ZhU2tFazVYNUl0TkxITFJSbmRRX1dSOXZBNHpfcXFJczVsS3ZBNTBKaFFLT3RSTDJoX2FEU3JuUzhhSC1aUTFXbGRtU3V1YXdQX0lOdDNVeXozVHFQakpMdEE0TmwweV9hcm95MnNhZS00bUo0bF8yQWpxcXVGNDdtTnFjQVp6anZVbi11N2ZFcjg1MGdGbXZZbnc?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-31T05:00:00Z",
+        "titulo": "Reeleição de Lula frustra planos de Trump, que deve acelerar pressão sobre a América Latina",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUU5mbVpmSzVmQkV0cHRDbTh6eTNHR0xKOV9YSDI0b2VJRVBVcFZhb3lvUnpjM0FMemcyWkpoeFRKbGVoQmNUazdySjNwQ3BSaEN4dDdJYURfdFd0WEZOWUp4dnRlc1hfWjYyU2J1WFQydnlCaXAzaU9CTkI0azJUbFFiemctMnJ0OFlTVHBqaXNaUGNNZHRwMHlEVkhxaVRyZ01TQVVLNGg0R1JGSFhsSHJvWi1kQzdJbjkwc2hUUHZHd2NLY2N6dGxLcW1qRWRMbjdWZjdqSWvSAecBQVVfeXFMT3M2OWNYOTVpeDhTenhLTy1kbGZ1azVTczJkNVk5TkRoZ0VxbUFjdEF2VndxelgzQ0VldDJZV3pGMllkM1dQYnpHNk9lT3I4VW0xOXpxT19mQ0pOTGVIdW9nTTQwcE5RQ0hEamxLZzNGQmFLOFdMSUJfRF9ZN1QwUjRDR2ZJRWFHakNOamg1c2lTYnpNa0Vremk4OTROVDhuUVlTMFVuY25QczNDcEpwU0hJWklfcG84YmVPZXV0dzRHWDRaVTFUdEUwN2cyYTNiaUFIUTNLX2J3Q01rejg2QnFOaGduYWN3?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Latina",
+      "razao_aumento": 90.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-31T05:00:00Z",
+        "titulo": "Reeleição de Lula frustra planos de Trump, que deve acelerar pressão sobre a América Latina",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUU5mbVpmSzVmQkV0cHRDbTh6eTNHR0xKOV9YSDI0b2VJRVBVcFZhb3lvUnpjM0FMemcyWkpoeFRKbGVoQmNUazdySjNwQ3BSaEN4dDdJYURfdFd0WEZOWUp4dnRlc1hfWjYyU2J1WFQydnlCaXAzaU9CTkI0azJUbFFiemctMnJ0OFlTVHBqaXNaUGNNZHRwMHlEVkhxaVRyZ01TQVVLNGg0R1JGSFhsSHJvWi1kQzdJbjkwc2hUUHZHd2NLY2N6dGxLcW1qRWRMbjdWZjdqSWvSAecBQVVfeXFMT3M2OWNYOTVpeDhTenhLTy1kbGZ1azVTczJkNVk5TkRoZ0VxbUFjdEF2VndxelgzQ0VldDJZV3pGMllkM1dQYnpHNk9lT3I4VW0xOXpxT19mQ0pOTGVIdW9nTTQwcE5RQ0hEamxLZzNGQmFLOFdMSUJfRF9ZN1QwUjRDR2ZJRWFHakNOamg1c2lTYnpNa0Vremk4OTROVDhuUVlTMFVuY25QczNDcEpwU0hJWklfcG84YmVPZXV0dzRHWDRaVTFUdEUwN2cyYTNiaUFIUTNLX2J3Q01rejg2QnFOaGduYWN3?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "América Latina",
+      "razao_aumento": 90.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-10-31T05:00:00Z",
+        "titulo": "Reeleição de Lula frustra planos de Trump, que deve acelerar pressão sobre a América Latina",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUU5mbVpmSzVmQkV0cHRDbTh6eTNHR0xKOV9YSDI0b2VJRVBVcFZhb3lvUnpjM0FMemcyWkpoeFRKbGVoQmNUazdySjNwQ3BSaEN4dDdJYURfdFd0WEZOWUp4dnRlc1hfWjYyU2J1WFQydnlCaXAzaU9CTkI0azJUbFFiemctMnJ0OFlTVHBqaXNaUGNNZHRwMHlEVkhxaVRyZ01TQVVLNGg0R1JGSFhsSHJvWi1kQzdJbjkwc2hUUHZHd2NLY2N6dGxLcW1qRWRMbjdWZjdqSWvSAecBQVVfeXFMT3M2OWNYOTVpeDhTenhLTy1kbGZ1azVTczJkNVk5TkRoZ0VxbUFjdEF2VndxelgzQ0VldDJZV3pGMllkM1dQYnpHNk9lT3I4VW0xOXpxT19mQ0pOTGVIdW9nTTQwcE5RQ0hEamxLZzNGQmFLOFdMSUJfRF9ZN1QwUjRDR2ZJRWFHakNOamg1c2lTYnpNa0Vremk4OTROVDhuUVlTMFVuY25QczNDcEpwU0hJWklfcG84YmVPZXV0dzRHWDRaVTFUdEUwN2cyYTNiaUFIUTNLX2J3Q01rejg2QnFOaGduYWN3?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "buscar culpados",
-      "razao_aumento": 76.9,
+      "razao_aumento": 90.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "O GLOBO",
@@ -287,8 +311,8 @@
       }
     },
     {
-      "termo": "França",
-      "razao_aumento": 71.7,
+      "termo": "discute financiamento",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Francês News",
@@ -299,62 +323,38 @@
       }
     },
     {
-      "termo": "Paris",
-      "razao_aumento": 64.9,
+      "termo": "Lyra discute financiamento",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-10-30T15:50:12Z",
-        "titulo": "Em Paris, governadora Raquel Lyra discute modernização da frota de ônibus da RMR e abastecimento de água com Agência Francesa de Desenvolvimento",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbGI3UHptOFM2VDRKOVY5cHV2ek9MdkFTUWZqU0I1UjlRY2MyWGxzZl9XMjZfamVTVjRHSTJTQlFHS01GWWhISl9TVURtUU5RQ29GTVViTjlFTExkM0p1aWpoajM2OC1CN2NLcm1uM2M4VHpCNUhzYlFvRXVZNUdVU2duVFYzb2ZhU2tFazVYNUl0TkxITFJSbmRRX1dSOXZBNHpfcXFJczVsS3ZBNTBKaFFLT3RSTDJoX2FEU3JuUzhhSC1aUTFXbGRtU3V1YXdQX0lOdDNVeXozVHFQakpMdEE0TmwweV9hcm95MnNhZS00bUo0bF8yQWpxcXVGNDdtTnFjQVp6anZVbi11N2ZFcjg1MGdGbXZZbnc?oc=5",
+        "fonte": "Francês News",
+        "hora": "2026-10-30T18:15:00Z",
+        "titulo": "Na França, Raquel Lyra discute financiamento para ônibus elétricos e abastecimento de água em PE",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEZXU2RxODdvSEEtTXpwenR2dEhMbUtpNWphRHhlYkx4MWcwVW9ZYnFmSWljaTZrUFBwbFk1NWt2YzkxXzk1Ty1BcTgyaE1HQjg3Y3FuSTFGQlIta2JmaVh0UHA0dkNlYnJfTGtYMzdpUmlCZFpUcl9kb1BsSXRGX1NDVDB0YnR1dnZGakRzUE1NVmJQX2JsVkpyVVJlS2ZjRFB0Q2RVMzVuYk9XSDhvamE3dlpVVXhzcTllUkFIVGdJUGdIWEpGNFVwVFg3emFMRUMyZHlpQWw2N25H?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Casa",
-      "razao_aumento": 61.3,
+      "termo": "Bolsonaro nos EUA",
+      "razao_aumento": 67.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "ICL Notícias",
-        "hora": "2026-10-30T17:36:22Z",
-        "titulo": "Casa Branca rejeita ‘golpe’ de Flávio Bolsonaro e manda senador ficar abaixo do radar",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fdFpnUHl3Y19GYmd1US1GUllXRThKc3l2MGZqdEZoRmpLeUt0aVhtdE5xSHJKVFE1eGVSekRNMFJzbDRxWkU4MFVwWVdOeUI0VzNNOEpxcnZfZV9ic3FGZmRfVUNGVnp2UUhGQUJ0LXlzc056TG1JNjNKeHlqZw?oc=5",
+        "fonte": "G1",
+        "hora": "2026-10-31T03:00:00Z",
+        "titulo": "O que pode acontecer com Flávio Bolsonaro nos EUA se democratas derrotarem Trump no Congresso?",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR25wb1JwUW9BcUg1MXNuc1RUX3pxVFRBcV9uWnZtRVZmYUdLNFJQWEJsRVBncUpFRUh3MjNjOV9HY1hRMEFtLTVHNnZfMlRBUXFqRkZianBTZzNBRXJWUk1Zc0V3UHRQY2lZNC05Q3VCQXJoMW1fVjd1MVhpM2xmRVBkdTJWUFZyRWZXS0luSVR5c2lHaVNrUWdrRGpqVUp0WmJqd2hfUUhTTl9TQUhSczF5ckNNQ3JZd1BhX2F2dFlGNHNJTU0xeDc1ZnZkUjl4SXF4YlBfa003MWZMRHfSAewBQVVfeXFMUDhFOVVISHVFWWhrNzQ5Y2dzZURONUQ1bEFVd0dkN1dRbVdqUlk0YkdCaV9RRTBGRTY4cU9NaG9XdDhtbUNWSVI1MFhza0U5N3lQbWNXdmV5eF9xYkVpaWprdjZMYnp3R05GUVRIZ2ZoMmRjRTA5YTRLcnQxU1lpb3RhbGNzQUlfOVRGTW9KOWF4R082RWtBTFpjU3U1dnJPUjFlNkRzRmxWU0dzSVFJLW1PYi0xZG83NUlOYWpLMGFTWVBIeUV1al95SHhqS3hvSHctbDl0cXNtc1BmT0JHRmwxOGZMNnk1SVQ3UHI?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Campus",
-      "razao_aumento": 55.6,
+      "termo": "mobilidade e abastecimento",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-30T13:04:53Z",
-        "titulo": "PE no Campus oferta inscrições para 1 mil bolsas de até R$ 1.240; inscrições começam em 11/11",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUF9kUDRvQzRCQ1dYcXBZbkZ3dTduZG1kV0RRZ0RGNURKNGREeHZxRnhjd3ZKdmJ6Y2dUMUp6WHdlVDhLMG1YMW11cEs3RncyM2JZMHdJZmE5YUNKWnhpNWozLVJka3JUTVpNMFFfOEhzaTVST0pNbUNhUEZWQ0VNMExfSFV0b0xoSXVQWHd3TzhCbWg5clZKTFF6Q1RjcDhXM2NhR0VwbjZJczFYUDJaMNIBsAFBVV95cUxQUF9kUDRvQzRCQ1dYcXBZbkZ3dTduZG1kV0RRZ0RGNURKNGREeHZxRnhjd3ZKdmJ6Y2dUMUp6WHdlVDhLMG1YMW11cEs3RncyM2JZMHdJZmE5YUNKWnhpNWozLVJka3JUTVpNMFFfOEhzaTVST0pNbUNhUEZWQ0VNMExfSFV0b0xoSXVQWHd3TzhCbWg5clZKTFF6Q1RjcDhXM2NhR0VwbjZJczFYUDJaMA?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "mil bolsas",
-      "razao_aumento": 55.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-30T13:04:53Z",
-        "titulo": "PE no Campus oferta inscrições para 1 mil bolsas de até R$ 1.240; inscrições começam em 11/11",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUF9kUDRvQzRCQ1dYcXBZbkZ3dTduZG1kV0RRZ0RGNURKNGREeHZxRnhjd3ZKdmJ6Y2dUMUp6WHdlVDhLMG1YMW11cEs3RncyM2JZMHdJZmE5YUNKWnhpNWozLVJka3JUTVpNMFFfOEhzaTVST0pNbUNhUEZWQ0VNMExfSFV0b0xoSXVQWHd3TzhCbWg5clZKTFF6Q1RjcDhXM2NhR0VwbjZJczFYUDJaMNIBsAFBVV95cUxQUF9kUDRvQzRCQ1dYcXBZbkZ3dTduZG1kV0RRZ0RGNURKNGREeHZxRnhjd3ZKdmJ6Y2dUMUp6WHdlVDhLMG1YMW11cEs3RncyM2JZMHdJZmE5YUNKWnhpNWozLVJka3JUTVpNMFFfOEhzaTVST0pNbUNhUEZWQ0VNMExfSFV0b0xoSXVQWHd3TzhCbWg5clZKTFF6Q1RjcDhXM2NhR0VwbjZJczFYUDJaMA?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "PE no Campus",
-      "razao_aumento": 55.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-10-30T13:04:53Z",
-        "titulo": "PE no Campus oferta inscrições para 1 mil bolsas de até R$ 1.240; inscrições começam em 11/11",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUF9kUDRvQzRCQ1dYcXBZbkZ3dTduZG1kV0RRZ0RGNURKNGREeHZxRnhjd3ZKdmJ6Y2dUMUp6WHdlVDhLMG1YMW11cEs3RncyM2JZMHdJZmE5YUNKWnhpNWozLVJka3JUTVpNMFFfOEhzaTVST0pNbUNhUEZWQ0VNMExfSFV0b0xoSXVQWHd3TzhCbWg5clZKTFF6Q1RjcDhXM2NhR0VwbjZJczFYUDJaMNIBsAFBVV95cUxQUF9kUDRvQzRCQ1dYcXBZbkZ3dTduZG1kV0RRZ0RGNURKNGREeHZxRnhjd3ZKdmJ6Y2dUMUp6WHdlVDhLMG1YMW11cEs3RncyM2JZMHdJZmE5YUNKWnhpNWozLVJka3JUTVpNMFFfOEhzaTVST0pNbUNhUEZWQ0VNMExfSFV0b0xoSXVQWHd3TzhCbWg5clZKTFF6Q1RjcDhXM2NhR0VwbjZJczFYUDJaMA?oc=5",
+        "fonte": "PSD - Partido Social Democrático",
+        "hora": "2026-10-30T21:12:01Z",
+        "titulo": "Raquel Lyra discute mobilidade e abastecimento na França - PSD",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXBJNzJCbHc1a3NkQU5LOTBvX1ZqUXc3c1NpR3NBTUZaUXNhOUMtck5XSlB0MGlBYjdlT3hXMzhDOEdJbWdtQ0NuWnRqWlpYSzU1dDBidGwwYzFsV0JmWW5wdWFxR2JkTHZOU1lmUjJ2TEUwNWxXeXB0ellWUTRDbk9mZDdCS2N2MDdnV1Jn?oc=5",
         "peso": 1.0
       }
     }
@@ -363,271 +363,271 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 19.58,
-      "fontes_distintas": 22
-    },
-    {
-      "termo": "Flávio",
-      "peso_relativo": 94.6,
-      "fatia_pct": 18.53,
-      "fontes_distintas": 17
-    },
-    {
-      "termo": "Bolsonaro",
-      "peso_relativo": 91.5,
-      "fatia_pct": 17.91,
+      "fatia_pct": 19.25,
       "fontes_distintas": 18
     },
     {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 75.7,
-      "fatia_pct": 14.82,
+      "termo": "Flávio",
+      "peso_relativo": 90.6,
+      "fatia_pct": 17.45,
       "fontes_distintas": 16
     },
     {
+      "termo": "Bolsonaro",
+      "peso_relativo": 84.4,
+      "fatia_pct": 16.25,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 68.8,
+      "fatia_pct": 13.24,
+      "fontes_distintas": 15
+    },
+    {
       "termo": "Raquel",
-      "peso_relativo": 63.1,
-      "fatia_pct": 12.35,
+      "peso_relativo": 46.9,
+      "fatia_pct": 9.03,
       "fontes_distintas": 14
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 47.3,
-      "fatia_pct": 9.26,
+      "peso_relativo": 31.2,
+      "fatia_pct": 6.02,
       "fontes_distintas": 10
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 47.3,
-      "fatia_pct": 9.26,
+      "peso_relativo": 31.2,
+      "fatia_pct": 6.02,
       "fontes_distintas": 10
     },
     {
-      "termo": "fuga de Flávio",
-      "peso_relativo": 34.7,
-      "fatia_pct": 6.79,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 28.4,
-      "fatia_pct": 5.56,
-      "fontes_distintas": 7
-    },
-    {
       "termo": "Lyra discute",
-      "peso_relativo": 18.9,
-      "fatia_pct": 3.71,
-      "fontes_distintas": 6
+      "peso_relativo": 25.0,
+      "fatia_pct": 4.81,
+      "fontes_distintas": 8
     },
     {
       "termo": "Raquel Lyra discute",
-      "peso_relativo": 18.9,
-      "fatia_pct": 3.71,
-      "fontes_distintas": 6
+      "peso_relativo": 25.0,
+      "fatia_pct": 4.81,
+      "fontes_distintas": 8
     },
     {
       "termo": "Paris",
-      "peso_relativo": 18.9,
-      "fatia_pct": 3.71,
-      "fontes_distintas": 6
+      "peso_relativo": 21.9,
+      "fatia_pct": 4.21,
+      "fontes_distintas": 7
     },
     {
-      "termo": "KAIO",
-      "peso_relativo": 16.1,
-      "fatia_pct": 3.15,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "CESAR",
-      "peso_relativo": 16.1,
-      "fatia_pct": 3.15,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "KAIO CESAR",
-      "peso_relativo": 16.1,
-      "fatia_pct": 3.15,
-      "fontes_distintas": 1
+      "termo": "fuga de Flávio",
+      "peso_relativo": 21.9,
+      "fatia_pct": 4.21,
+      "fontes_distintas": 7
     },
     {
       "termo": "frota de ônibus",
-      "peso_relativo": 15.8,
-      "fatia_pct": 3.09,
-      "fontes_distintas": 5
+      "peso_relativo": 18.8,
+      "fatia_pct": 3.61,
+      "fontes_distintas": 6
     },
     {
-      "termo": "Garro",
-      "peso_relativo": 15.1,
-      "fatia_pct": 2.96,
-      "fontes_distintas": 1
+      "termo": "Trump",
+      "peso_relativo": 18.8,
+      "fatia_pct": 3.61,
+      "fontes_distintas": 3
     },
     {
       "termo": "Jones2030",
-      "peso_relativo": 14.2,
-      "fatia_pct": 2.78,
+      "peso_relativo": 18.8,
+      "fatia_pct": 3.61,
       "fontes_distintas": 1
     },
     {
-      "termo": "MLBS7Spoilers",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.59,
+      "termo": "Mayk",
+      "peso_relativo": 17.8,
+      "fatia_pct": 3.43,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mônica",
+      "peso_relativo": 15.9,
+      "fatia_pct": 3.07,
       "fontes_distintas": 1
     },
     {
       "termo": "abastecimento de água",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Campos",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
+      "peso_relativo": 15.6,
+      "fatia_pct": 3.01,
+      "fontes_distintas": 5
     },
     {
       "termo": "governo Lula",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.47,
+      "peso_relativo": 15.6,
+      "fatia_pct": 3.01,
       "fontes_distintas": 4
     },
     {
-      "termo": "Trump",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Presidência",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.47,
+      "termo": "TSE",
+      "peso_relativo": 15.6,
+      "fatia_pct": 3.01,
       "fontes_distintas": 4
     },
     {
-      "termo": "Justiça",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "BEIJO",
-      "peso_relativo": 12.3,
-      "fatia_pct": 2.41,
+      "termo": "Curry",
+      "peso_relativo": 14.1,
+      "fatia_pct": 2.71,
       "fontes_distintas": 1
     },
     {
-      "termo": "MALIPE",
-      "peso_relativo": 12.3,
-      "fatia_pct": 2.41,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "BEIJO MALIPE",
-      "peso_relativo": 12.3,
-      "fatia_pct": 2.41,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Adrien",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FIRST",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.04,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "KISS",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.04,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MALIPE FIRST",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.04,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "FIRST KISS",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.04,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "MALIPE FIRST KISS",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.04,
+      "termo": "Halloween",
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.53,
       "fontes_distintas": 1
     },
     {
       "termo": "França",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "discute financiamento",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Lyra discute financiamento",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Justiça",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Alepe",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Renata",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.35,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Murilo",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fran",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.99,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "financiamento para ônibus",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
       "fontes_distintas": 3
     },
     {
       "termo": "discute modernização",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
       "fontes_distintas": 3
     },
     {
       "termo": "modernização da frota",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
       "fontes_distintas": 3
     },
     {
-      "termo": "virada de Lula",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
+      "termo": "Reeleição de Lula",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
       "fontes_distintas": 3
     },
     {
       "termo": "vitória de Lula",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "TSE",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Tarcísio",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
       "fontes_distintas": 3
     },
     {
       "termo": "Michelle",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
       "fontes_distintas": 3
     },
     {
-      "termo": "Rubio",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.85,
+      "termo": "após derrota",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "derrota de Flávio",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Emerson",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Freitas",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Emerson Freitas",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "prisão preventiva",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Campus",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "mil bolsas",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "PE no Campus",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.81,
       "fontes_distintas": 3
     }
   ]
