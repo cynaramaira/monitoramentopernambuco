@@ -1,185 +1,179 @@
 {
-  "atualizado_em": "2026-10-31T22:49:08Z",
-  "total_analisado": 108,
+  "atualizado_em": "2026-11-01T02:11:22Z",
+  "total_analisado": 106,
   "x_recife": [
     {
       "termo": "#AVigília",
       "posicao": 1,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23AVig%C3%ADlia",
       "ruido": false
     },
     {
-      "termo": "#DigaNaoAoVotoDistrital",
+      "termo": "Gwayne",
       "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23DigaNaoAoVotoDistrital",
-      "ruido": false
-    },
-    {
-      "termo": "#OBrasilNaoQuerVotoDistrital",
-      "posicao": 3,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23OBrasilNaoQuerVotoDistrital",
-      "ruido": false
-    },
-    {
-      "termo": "Gwayne",
-      "posicao": 4,
-      "variacao": "+1",
-      "direcao": "sobe",
       "url": "https://x.com/search?q=Gwayne",
       "ruido": false
     },
     {
+      "termo": "Bran",
+      "posicao": 3,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Bran",
+      "ruido": false
+    },
+    {
       "termo": "eileen",
-      "posicao": 5,
-      "variacao": "-2",
+      "posicao": 4,
+      "variacao": "-1",
       "direcao": "cai",
       "url": "https://x.com/search?q=eileen",
       "ruido": false
     },
     {
-      "termo": "nayu",
-      "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=nayu",
-      "ruido": false
-    },
-    {
-      "termo": "Halloween",
-      "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Halloween",
-      "ruido": false
-    },
-    {
-      "termo": "Zuri",
-      "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Zuri",
-      "ruido": false
-    },
-    {
-      "termo": "Em Defesa Da Democracia",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Em%20Defesa%20Da%20Democracia",
-      "ruido": false
-    },
-    {
-      "termo": "Wesley",
-      "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Wesley",
-      "ruido": false
-    },
-    {
       "termo": "#BetsNuncaMais",
-      "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 5,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23BetsNuncaMais",
       "ruido": false
     },
     {
-      "termo": "Ocon",
+      "termo": "#DigaNaoAoVotoDistrital",
+      "posicao": 6,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23DigaNaoAoVotoDistrital",
+      "ruido": false
+    },
+    {
+      "termo": "JEON JUNGKOOK",
+      "posicao": 7,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=JEON%20JUNGKOOK",
+      "ruido": false
+    },
+    {
+      "termo": "#OBrasilNaoQuerVotoDistrital",
+      "posicao": 8,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23OBrasilNaoQuerVotoDistrital",
+      "ruido": false
+    },
+    {
+      "termo": "connor",
+      "posicao": 9,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=connor",
+      "ruido": false
+    },
+    {
+      "termo": "Halloween",
+      "posicao": 10,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Halloween",
+      "ruido": false
+    },
+    {
+      "termo": "Zanotti",
+      "posicao": 11,
+      "variacao": "+6",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Zanotti",
+      "ruido": false
+    },
+    {
+      "termo": "ESTAMOS COM ERTHAL",
       "posicao": 12,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Ocon",
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=ESTAMOS%20COM%20ERTHAL",
       "ruido": false
     },
     {
       "termo": "Fergus",
       "posicao": 13,
-      "variacao": "=",
-      "direcao": "igual",
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Fergus",
       "ruido": false
     },
     {
-      "termo": "I WAS HERE",
+      "termo": "Wesley",
       "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=I%20WAS%20HERE",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Wesley",
+      "ruido": false
+    },
+    {
+      "termo": "CYPHER PT",
+      "posicao": 15,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=CYPHER%20PT",
+      "ruido": false
+    },
+    {
+      "termo": "Zuri",
+      "posicao": 16,
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Zuri",
       "ruido": false
     },
     {
       "termo": "#OrdemParanormal",
-      "posicao": 15,
-      "variacao": "+1",
-      "direcao": "sobe",
+      "posicao": 17,
+      "variacao": "-4",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23OrdemParanormal",
       "ruido": false
     },
     {
-      "termo": "IBAMA",
-      "posicao": 16,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=IBAMA",
-      "ruido": false
-    },
-    {
-      "termo": "Milan",
-      "posicao": 17,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Milan",
-      "ruido": false
-    },
-    {
-      "termo": "MUITO BOA NOITE",
+      "termo": "Lelê",
       "posicao": 18,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=MUITO%20BOA%20NOITE",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Lel%C3%AA",
       "ruido": false
     },
     {
-      "termo": "Fermin",
+      "termo": "Em Defesa Da Democracia",
       "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Fermin",
+      "variacao": "-8",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Em%20Defesa%20Da%20Democracia",
       "ruido": false
     },
     {
-      "termo": "Adson",
+      "termo": "Vic Albuquerque",
       "posicao": 20,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Adson",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Vic%20Albuquerque",
       "ruido": false
     }
   ],
   "google_trends": [
     {
-      "termo": "luciano hang",
-      "volume": "▲ 1000+",
-      "manchete": "Havan começa construção de megaloja de 20 mil m² e R$ 110 milhões em importante eixo imobiliário às margens da BR-101 em SC",
-      "url": "https://ndmais.com.br/economia/havan-comeca-construcao-de-megaloja-de-20-mil-m%C2%B2-e-r-110-milhoes-em-importante-eixo-imobiliario-as-margens-da-br-101-em-sc/"
-    },
-    {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: VÍDEO: Lancha pega fogo e explode perto de píer em praia de PE; incêndio deixa três feridos",
+      "manchete": "G1: VÍDEO: lancha pega fogo e explode perto de píer em praia de PE; incêndio deixa três feridos",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSDFZVGN6ckV0c2hJTHRqTnBlZjUtVHJ6YmhGOUpTSTVaOGNTNFJPc0xPMXRUVGJYT1kwYUN4alB2RDJCU1JqVktxS1BlYndnYTh6OHgtN2Y4Tm4tSzZKMFdvaHZvMEpwWmVtRWxZQTRlRXI2QjdEalNYWXU4a3BZREVMdzd2RmdFQ1hiVVFFckI5dXNhUDdQbUFDeUJVd2cxV0xWUXM1RW9TalBZUjlLVGVKaEtOSG5lWkNJT1l2Z1Z4endEcEFxX3hpeUZqVXJ6S1pidTZlWGxvZmtDVDNjV2FTdG82Zm_SAfYBQVVfeXFMT3hQTlhENWdVRkRGVXdBTUl1US0xNGJaQlpfZVpPeWxjcjhQeGZkUDYzNXZlQV9STTZvdmJYaGN2TURDNXh6MXJ3U2d0NGc3QWQxb3RIYmhRS3ViSVphSG1qdmVueDAtS2FlSmlrcDQ5ODFzRThGUGpZT0VlOXYxTXltU0lMT3cydzVMRjREbFhfRmJwQWhCODlIU3pqelk0d19nd2daZ0cyUDdHdjh0T3BTZ2lNMGI4M0I2NG5GczVCc0dHZzB6SDk0ZGo2QkR2U0JZTFU1eHA4bGVjV2pvbTl1Y3JNVGFnYi01S2hBZVZuaHpTam5R?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "CASACOR São Paulo: CASACOR Pernambuco 2026: 35 projetos transformam galpões do Novo Cais",
+      "manchete": "Casa Cor: CASACOR Pernambuco 2026: 35 projetos transformam galpões do Novo Cais",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV21Ia1hEdndtS1dJZThnSmZoOXhLZHV2V2c1ejE5N0JtNU9ZX01VMlItS3ppQURMX3FCSUZRYnhDNE05REE4Zi02aDh0ZUNGVENjLWU3UHRvRURXNVI0WmpvN0h3dWxuSEJndWt1RkRZWko4VUpFN1JXLTFKLUJhUVlSRQ?oc=5"
     },
     {
@@ -191,26 +185,32 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Feira MADE PE reúne 80 expositores com artesanato e oficinas de arte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTE5QazVuM2pGakdQMGVQa3daMndYYUkxeTZ5LW9ER05EWFV0dzk2T0FOcnpNOVdxcHN3TmhmNFpYNXlfcnZHZEpNS2tKN09OcThEYThOZURSRWI1TDlvNkpUVGJ1R0RjYXViY3k1X2FFa3FVa3VKUzczNjB5U1R2dW4xQjF4OVFCb205aUpFdWl5MHl5MW5kWnJqbGVMdU91c3pxMjhRV3FXZw?oc=5"
+      "manchete": "JC: Presidente do PL em Pernambuco acusa PT de 'remoer as próprias contradições'",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVGxTckRfVGRiNmdYemJzNGkzSEx3cW1yMjUwd3pMT2pGNVRTZlk4bDZ3Yl9SNzVENkR4LUlYbHBrUHpPQW55QkRtbnBpQWpyaVhLMnp0MXltSjNTalNic0IxSkpLcm9JQ0laT0hnRENvZDVyLXFiOXNoNEdVek93UHk5cmpuN016dXdNZXRPQnRPdjQ5VXJFVmNTRk5OZXBFbTJXU2xfZ1dyc0VOV2M4bzhjUlEybXBLLU1CQ3p5V1B6dUR6bDRUbHpLSFNwQUJmUExxdjRmN1I?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Estou Preparado: Corrida pelas fardas municipais: Pernambuco projeta onda de concursos para Guardas Civis nos próximos meses",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNDRCZ01fTEU1b0N2WWdRajlrUk5fWG5xMkd0czdyYTZkQjlKVFdzUVdCNGtiSWFUYWtlVEh4LVlNNThiOEkwa2JTMW1GUzVocGRkLUk1dml3dE5OdUhwOEFQWmJsNHNac1pFNjVlNGNaaUFBdmNMWFZJeUNCYWxrcFRzLVJ1M0ltWEdNcV9JYWM4cWdLcmNfVDg3N2xzV2FsSC1pNlY2OU9fcDh0N0RWdnZDTjlVd3otMFE0bG1ER2ZHLTNLTmpKejF2UHl4RTgzWFl0NDNDcUtfZ0F6NllFNVpfV0U?oc=5"
+      "manchete": "Grupo Jota Sidney: APAC emite alerta de baixa umidade para o Sertão de Pernambuco; temperaturas podem passar dos 37°C",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOS21sbzZaWlpFMjJqN1FBNE1VdF9BbDhXTms1ZS1xdmZZcm8wVm5fdm1QdC1MalpvbmNDOUwtQm5YTzJpcUV4Q2lpOWNKeVcza3UxZGF0eV9HaXREdzRTMlNmTUFqSFhILWFmSDg3VDNaUWdBWnd5QkJubEU1LTlmTGRPRzZZY1k1Z1kwSmtWempUYmtwN2Z6VU9DQWphdDdWaUlOakVnS01SLWpZY0dYZi1SVURMLUpMbmF6Y2RJQ2pLeVhLVC1SaUF5Y2tqem9iOHhVZ1Y0OXF3ckxrUjhqMlM0Ry1TY2Q0U05Vcl9ZOU1aZjFLcWl3LVR5bXlUaDN3TXQ5cEktM2EyUnfSAZACQVVfeXFMUHhvUk5ZX3k3a2pnMWtyZlFLY2RmRUhHOUtmNnJhUElncTVydHFKbHpnRjR6M0NocUVXZ1NESEFYLU5DU2dvb2R2NnNpTDFIRHJsUXJFQ0xfbkY1ckpkYXhWMnFsdXNzUnpITGRBMm92MTBiVHdVb2FHYlZJSEd2bXlwSVJwWnNyUjJvQkJaMmtVRVZ1YWtkRUdDRi1MbXg4Zy1ZSzVGYU5BWkgwdDRLTmJlNG83OE51UGgyWjFFZnhUUzAyY3lJNUxkWDZteTR3NHVkMWYzaExFVm13dW4zUndxaHFvQTF0SlItMDZScmxMcnVUbHEtYmdkVHcxaE1wcFFSdWxDT2ZDM2lFQmpjUWw?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Paraíba Business: Mercado imobiliário do Grande Recife movimenta R$ 2,25 bilhões no trimestre",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlF5MXpBNEhqSjZPX0hzM2hFbXo1VWxVdVAyZlN3SUZtR3pyNEJiMEstR3VWM21QMzJqN0lCVExhMEV2amFqMmQ2QW9EVHc2bTF6Q0phRElPNjktYUVrdnRVRTJTVURjTFE0X1UxeTkxUkh0WWR5TW9LWVFOVzZPQXduSlh5WllzLUg4SlB3RkltVlZXNllNczNndVZjbER5SElhODlYTTA?oc=5"
+      "manchete": "RioMar Recife: Feira MADE PE reúne 80 expositores com artesanato e oficinas de arte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTE5QazVuM2pGakdQMGVQa3daMndYYUkxeTZ5LW9ER05EWFV0dzk2T0FOcnpNOVdxcHN3TmhmNFpYNXlfcnZHZEpNS2tKN09OcThEYThOZURSRWI1TDlvNkpUVGJ1R0RjYXViY3k1X2FFa3FVa3VKUzczNjB5U1R2dW4xQjF4OVFCb205aUpFdWl5MHl5MW5kWnJqbGVMdU91c3pxMjhRV3FXZw?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Ricardo Antunes: Identificados os donos da lancha que explodiu na praia de Toquinho",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2IwNTdHbGVsaTFKcGo4RUZRM3pMdzVwYl9ld3kzNWJKOTk3c3pWQmN6SnFOWnVlYjU0LTdPbU5la0tJTlhUaHhJYktxeE9fSzNNdzZyNERTdlluVWI5M3dvMVdtYVB6cFRkLUFzUWl3bll2TnduUEhjYUhKV1RsS2NtbEpwWnlsbnVpdU9RVTJjUmZ5blJ5aWh3?oc=5"
+      "manchete": "Metrópoles: Derrotado no Recife, marqueteiro de Campos é chamado de “mago” na Argentina",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1AxbTNtaHNTV3VFUlJ1d0pLa2xSaXprTDlQLUFmeGtLMGlUb2dUMHBTWGN4N3RUSndMWXg0S0VxNFpCY2tuYW5QUGF4WUQ3d0NJMHNJUEl1dDNPNzZ6ZUVLRi1XNWtpUlNaNWlreTdrU0FvZVdYRGpTX2dXNE16SHhoR2tWRjYzUUpBV3ppMzNNY3lOYzhlTnVYNlM0aVFsUTlhTVpLZEJlQ1Ryb05IVFJBM0FQNHlCdTFTN3JR?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "G1: \"Antes do Ano que Vem\": Mariana Xavier se apresenta no Recife",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDRHaHFMTlJyUEVRQWtpeUhIRUhfSkZKa1RRTlhfRy0tOUxTTERVSHk1eUxaMWpNVTlqSHRHOEx3b1gxbXRUR3hDNHVZN3NHVzRpdEwwRTBKRm9EWXNidnFQWExXd3dLQkZ1bWZVYjliYnRXUmZHRk94eVBJam5hR21XSlhEb1Z5M2d3QWtEdmhfMzB6MEl0dGhvTTdTZ3NCWHN5RktFS05LRmNwUC1yN3I2VFpZVFUtZUHSAcgBQVVfeXFMTk1TcUlyVHhmZ1lJbTFQd3psYzBJQVRKV1Y4REJHcFBLRnhqZFdESXR1X1ZoSEM1bm1PSE9xRXRMZ2poUWNxU0VSYmJ0MlJaV2ZiSXJoRlpHa21EbnZGUU1VM1dwMHJvekJrb2tqZkplV01IdEg0a0hIOHdzSTB6N2k5cy1RSmgxQnY3LXk0SlBWQ3lzemxaaElnVnV4MUNIU3FvSWR1b2ZrV1VMb1oxZm13VHdITlN1S3FpdW9BRmRIRDNnMFVGbVM?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -225,16 +225,10 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVl5YlBHZE5OVGxkT0czakpEcUFXWE1TYzdHME4tckJOSzRPSHZrZ3RyUzBJY0lOeklMVGZIQmx1enc3cXhaYWh3cmR1dVQzdDRweTdEYXRRT01GeHZ5MVJHTFJ5anh3ZzNGS004RmNnc0lFN1JLcENWV0YybWEwNXpCQU5WQlJKdlNoaHNHQ2lkSWQ5SndYQ0dVMHV0YW1COWpmMXQ3WmJqUkwySWo1cGZqR19GcGtOQlFVdXNWZWlldXF2M3pXeU11dVh4cVMzdHRtYXd6RkZYOGNqTEpUMXNWWFFkbmd6STRF0gHrAUFVX3lxTE9tWXliUEdkTk5UbGRPRzNqSkRxQVdYTVNjN0cwTi1yQk5LNE9IdmtndHJTMEljSU56SUxUZkhCbHV6dzdxeFphaHdyZHV1VDN0NHB5N0RhdFFPTUZ4dnkxUkdMUnlqeHdnM0ZLTThGY2dzSUU3UktwQ1ZXRjJtYTA1ekJBTlZCUkp2U2hoc0dDaWRJZDlKd1hDR1UwdXRhbUI5amYxdDdaYmpSTDJJajVwZmpHX0Zwa05CUVV1c1ZlaWV1cXYzeld5TXV1WHhxUzN0dG1hd3pGRlg4Y2pMSlQxc1ZYUWRuZ3pJNEU?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Cariri em Ação: Em Paris, Raquel Lyra discute modernização da frota de ônibus da RMR e abastecimento com Agência Francesa de Desenvolvimento",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb2pRZEZfRkNmdG5aZ3pCRlpRY2p2dk1ua3ZlWjFBZXZVZEpzREtoNERrb01aZlpWTTk2Mnc1NWo2SUg4WDFpV3U1NzB6X1M0NHdkUWx2S1BGTXVORnRRTWgtanpiUU5FMnpBcGhaTmM2WFdjTVJvUy1lWHJrRDVrMzNLazRJcnVDdzdQbzB2Y0ZlclRtLVpuTWJLZjZiNkZLT3d6VXVqa3pIMlpXd18xVmhZdVNLcnZ3dk80TUxpWFUxWUdHQjJkdDVRdzcxQjlKZVBvNmxSRFJfSFV4dU8xQXdnN0wtOHVSbDVIOVMzT1Q3VHl2LVZEZnln?oc=5"
-    },
-    {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Banana: Bancada governista na Alepe tem expectativa por apresentação de relatório de empréstimo na próxima semana",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTEY0UnhqWTYwUlB0RnNicnIwVHNQdTFLdE5hdnVaT2VvcjhPbjE1RFJqQ2NwQ2xhOFBoRnRabXJGNmFxNnpSQkZOb0JyVzdIMlN1ak51LUYzcTRyUm1fb2d4MVcwN01VM3BZVzBHMG1iUW1CU3NsLTlPd1dSVkdYYi1GMERRS0o0elZVNGsyOUNPODV4aEtxaXY0VWM4UXd4Nk1mT3Z4SUN5X0xlOEl3eUVTbld4NFBhYnlzQlhfV2piLXBXUTVZeEFBa3Q3N1pl?oc=5"
+      "manchete": "Jornal Desafio: De Brasília a Serra Talhada: ministérios, aproximação entre PT e Raquel e novas alianças redesenham o tabuleiro político de Pernambuco – Jornal Desafio",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOWl2S0NPdUlHOExZanJsZW8tcUh2WWVNbl9QZEpBWVQwM0k0T1EyS2ZaNkZYRmQydnZINlJIZTFFeVhXMXRRUkxUaGhwbWx5ZE5RNDBVa0x1ZEc1bzdqQXFiMlNSYkU0eE90WGhiRE9DME90UHR4alVvaWVXMUJRMVRPOURYVlBuTXY1UEJjMHgwWnRvcUpRMWdTbHRtaHNuaG42bkswdEJ0eGppX1JwQzItMzBiRkJWQ2FQRHE2MHdDWVh3OEV4MmJKYUZaaS1YcXFYUzdTcS13Q3pXelZZTW5hc1RIbkFaTzBYVV80djRJYnd6?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -251,8 +245,20 @@
   ],
   "picos": [
     {
+      "termo": "secretário de Estado",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-10-31T17:11:00Z",
+        "titulo": "Marco Rubio, secretário de Estado dos EUA, nega que país tenha ajudado Flávio Bolsonaro a fugir",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQVVuUlJYYmt4ZkdQbkd5c0ZkMmEwZjFYWnJJLUxUMXFFSnZ3bGxwNW83SEU4dWdZZUFqRmtjc3NSSGtkSDQ5cVJUampqN1VnNU1xMjlubWxxRXZQUmw4UDBUaXB5bk1ra0JQSGpvNkJkYTB3cWtnNzNVT244bDAxcU93dVVkVFlnZUpiOHlSU3pfR19SNzlUNnRucHU3aFRxY25nVUdLelFZNjdoTmY2TUkxU1VDRDE1YkdkNDV3TnprVDRidWhrV05Pcw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
       "termo": "Tabata",
-      "razao_aumento": 111.1,
+      "razao_aumento": 92.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "ICL Notícias",
@@ -263,8 +269,8 @@
       }
     },
     {
-      "termo": "Marco Rubio",
-      "razao_aumento": 82.8,
+      "termo": "Governo dos EUA",
+      "razao_aumento": 81.3,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -275,74 +281,62 @@
       }
     },
     {
-      "termo": "suspensão de salário",
-      "razao_aumento": 76.9,
+      "termo": "considerado nome",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Gazeta do Povo",
-        "hora": "2026-10-31T17:46:00Z",
-        "titulo": "Justiça avalia suspensão de salário de Flávio Bolsonaro após saída do país",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN08xODF3YWtiSV9EcUNXSWNKR25pN0VYTUhySHpwU29GSThnMWdaQnl1Z1ppUnRwRmVYczlQdWFMaDBUZGZ4M2NJRVJ1bXMycV9OQXpNVHplbng0YzBYVkJ0UDlHOTJJWGliNlU0OE1WelpPNWh0T0xQN3JtY0Vwckk5TnF5YzM4WWhiNUlkZVRfUDZNcUFNcS1ZbE1Ua0x0SDdNVmpldUJvaWEwVzMwOW5xQ0c4Sjc4QlhNdm45OUJIX1du?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-31T19:02:28Z",
+        "titulo": "João Campos é considerado nome certo em ministério no quarto mandato de Lula",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUdIBtgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "governo dos EUA",
-      "razao_aumento": 76.9,
+      "termo": "nome certo",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-31T17:02:13Z",
-        "titulo": "Governo dos EUA 'não se envolveu diretamente' na saída de Flávio Bolsonaro do Brasil, diz Marco Rubio",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZWtvaDBqeDJEQVRLbmt1cURmbWJRTDNRcnBUQjZPMGxMck51RGpaY010MFc4RWNvbi1Pc3lyOUVpVENYbkpRTXhneVRfSUd5c3ZmeE1mUXY0d0VoNDQ3cjhZTXpCRWFKN0NmUVdoQXNVeVY1UzRmVDkxczFaWmE3ZmpwMGY1OEhFcVNySy1aa0FJcjRuTkZTRnBWZzNfM2JMcVJFUnRiYUw1RlpoY3JhVWE5dmZ5ZTlQZkY1R0FYYVlGQ0txX1lqbGFYdHJkdUJTRDg1YXhfNS0xSzDSAeoBQVVfeXFMTmVfVHB5ak9SajRFbTlGRU9VbnFUMmR2aG5COTR3MlVsNkJUWkxwZ0VfMW1XSDFvTXpJNTE4Z3c3d05Uekdyak01VFAtcFVaV3JOTUl4LTdhV1dMNkwzUE56UE9XbTRWTXk4ajlpemRiZUxvT2ZrVGgtT3FGcFB2VUxvN2cyenV5UmljczYwZUU4Ym9VeldFVzhCMEg4RHdvamVIVk91UVFWZXN1OGRhWUVJRExxaHp1bDJDb3dVcnRxWk53QmZpVFJJbkZRWkdlWjhWdTdsbm9zZnJuYldJYVVDdG10eG9FQk5R?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-31T19:02:28Z",
+        "titulo": "João Campos é considerado nome certo em ministério no quarto mandato de Lula",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUdIBtgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "secretário de Estado",
-      "razao_aumento": 76.9,
+      "termo": "Campos é considerado",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-10-31T17:11:00Z",
-        "titulo": "Marco Rubio, secretário de Estado dos EUA, nega que país tenha ajudado Flávio Bolsonaro a fugir",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQVVuUlJYYmt4ZkdQbkd5c0ZkMmEwZjFYWnJJLUxUMXFFSnZ3bGxwNW83SEU4dWdZZUFqRmtjc3NSSGtkSDQ5cVJUampqN1VnNU1xMjlubWxxRXZQUmw4UDBUaXB5bk1ra0JQSGpvNkJkYTB3cWtnNzNVT244bDAxcU93dVVkVFlnZUpiOHlSU3pfR19SNzlUNnRucHU3aFRxY25nVUdLelFZNjdoTmY2TUkxU1VDRDE1YkdkNDV3TnprVDRidWhrV05Pcw?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-31T19:02:28Z",
+        "titulo": "João Campos é considerado nome certo em ministério no quarto mandato de Lula",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUdIBtgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Bolsonaro a fugir",
-      "razao_aumento": 76.9,
+      "termo": "considerado nome certo",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-10-31T17:11:00Z",
-        "titulo": "Marco Rubio, secretário de Estado dos EUA, nega que país tenha ajudado Flávio Bolsonaro a fugir",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQVVuUlJYYmt4ZkdQbkd5c0ZkMmEwZjFYWnJJLUxUMXFFSnZ3bGxwNW83SEU4dWdZZUFqRmtjc3NSSGtkSDQ5cVJUampqN1VnNU1xMjlubWxxRXZQUmw4UDBUaXB5bk1ra0JQSGpvNkJkYTB3cWtnNzNVT244bDAxcU93dVVkVFlnZUpiOHlSU3pfR19SNzlUNnRucHU3aFRxY25nVUdLelFZNjdoTmY2TUkxU1VDRDE1YkdkNDV3TnprVDRidWhrV05Pcw?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-31T19:02:28Z",
+        "titulo": "João Campos é considerado nome certo em ministério no quarto mandato de Lula",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUdIBtgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Marco",
-      "razao_aumento": 65.4,
+      "termo": "ministério no quarto",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-10-31T17:02:13Z",
-        "titulo": "Governo dos EUA 'não se envolveu diretamente' na saída de Flávio Bolsonaro do Brasil, diz Marco Rubio",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZWtvaDBqeDJEQVRLbmt1cURmbWJRTDNRcnBUQjZPMGxMck51RGpaY010MFc4RWNvbi1Pc3lyOUVpVENYbkpRTXhneVRfSUd5c3ZmeE1mUXY0d0VoNDQ3cjhZTXpCRWFKN0NmUVdoQXNVeVY1UzRmVDkxczFaWmE3ZmpwMGY1OEhFcVNySy1aa0FJcjRuTkZTRnBWZzNfM2JMcVJFUnRiYUw1RlpoY3JhVWE5dmZ5ZTlQZkY1R0FYYVlGQ0txX1lqbGFYdHJkdUJTRDg1YXhfNS0xSzDSAeoBQVVfeXFMTmVfVHB5ak9SajRFbTlGRU9VbnFUMmR2aG5COTR3MlVsNkJUWkxwZ0VfMW1XSDFvTXpJNTE4Z3c3d05Uekdyak01VFAtcFVaV3JOTUl4LTdhV1dMNkwzUE56UE9XbTRWTXk4ajlpemRiZUxvT2ZrVGgtT3FGcFB2VUxvN2cyenV5UmljczYwZUU4Ym9VeldFVzhCMEg4RHdvamVIVk91UVFWZXN1OGRhWUVJRExxaHp1bDJDb3dVcnRxWk53QmZpVFJJbkZRWkdlWjhWdTdsbm9zZnJuYldJYVVDdG10eG9FQk5R?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Presidência",
-      "razao_aumento": 51.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Gazeta do Povo",
-        "hora": "2026-10-31T14:16:00Z",
-        "titulo": "Por que Flávio prevê queda antecipada de Lula e admite disputar Presidência antes de 2030",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVzlnN0pEeVZ3RXhBM2FKcmJjTDJKT09EOGZsc0ZBdGxMVVRaZEFpSTFwOWNwZXJNZXEyemdROWNsd3NJY3RDbWpSQW41OHVNaXlIUEpiYkJBNWRBbHlPV2lRTVVna3V5V3AxUXdUVklYamNaVy1ja1FzM2NiNURQU2xab1RmZ2VHVV9BWUI3YlRub2xZLVU4T20ycGFacEd5d01lZkFhaTl0dWFqbzRRc3pGOEQ4RmVWVnM5bFJrXzFEY1pvRjBxWlVTVWw?oc=5",
+        "fonte": "Folha PE",
+        "hora": "2026-10-31T19:02:28Z",
+        "titulo": "João Campos é considerado nome certo em ministério no quarto mandato de Lula",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUdIBtgFBVV95cUxQSy1lUWwtZFRYc0xoX2tfMzYwVXZpT05Tc1k4N202LWVnQkh6VV9OX1I2QnhwXzZvd1JNWXJlQ1RNRnJzbnk4aElUaG1RMlhLUThJSHJvYXZwRVhZd1g0MV9DN283ZmR5ZUdmOFlZRUJ0RVlsVC0wTWxnZi1YWk04X3hWU2pycTVzT3NzTG5WLWdXZkxYYWllOU81cTR5MHJfNV9nS1ZISWs2ai1WXzVFMjlUemRaUQ?oc=5",
         "peso": 1.0
       }
     }
@@ -351,271 +345,271 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 22.0,
-      "fontes_distintas": 24
+      "fatia_pct": 21.09,
+      "fontes_distintas": 22
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 72.7,
-      "fatia_pct": 16.0,
-      "fontes_distintas": 14
+      "peso_relativo": 87.1,
+      "fatia_pct": 18.37,
+      "fontes_distintas": 17
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 72.7,
-      "fatia_pct": 16.0,
-      "fontes_distintas": 15
+      "peso_relativo": 80.6,
+      "fatia_pct": 17.01,
+      "fontes_distintas": 17
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 60.6,
-      "fatia_pct": 13.33,
-      "fontes_distintas": 12
+      "peso_relativo": 74.2,
+      "fatia_pct": 15.65,
+      "fontes_distintas": 16
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 33.3,
-      "fatia_pct": 7.33,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "Lyra",
-      "peso_relativo": 27.3,
-      "fatia_pct": 6.0,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 27.3,
-      "fatia_pct": 6.0,
-      "fontes_distintas": 8
+      "peso_relativo": 35.5,
+      "fatia_pct": 7.48,
+      "fontes_distintas": 11
     },
     {
       "termo": "João",
-      "peso_relativo": 27.3,
-      "fatia_pct": 6.0,
-      "fontes_distintas": 7
+      "peso_relativo": 32.3,
+      "fatia_pct": 6.8,
+      "fontes_distintas": 8
     },
     {
       "termo": "Campos",
-      "peso_relativo": 27.3,
-      "fatia_pct": 6.0,
-      "fontes_distintas": 7
+      "peso_relativo": 32.3,
+      "fatia_pct": 6.8,
+      "fontes_distintas": 8
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 27.3,
-      "fatia_pct": 6.0,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 24.2,
-      "fatia_pct": 5.33,
-      "fontes_distintas": 7
+      "peso_relativo": 32.3,
+      "fatia_pct": 6.8,
+      "fontes_distintas": 8
     },
     {
       "termo": "Rubio",
-      "peso_relativo": 21.2,
-      "fatia_pct": 4.67,
+      "peso_relativo": 25.8,
+      "fatia_pct": 5.44,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 22.6,
+      "fatia_pct": 4.76,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 22.6,
+      "fatia_pct": 4.76,
       "fontes_distintas": 7
     },
     {
       "termo": "fuga de Flávio",
-      "peso_relativo": 21.2,
-      "fatia_pct": 4.67,
-      "fontes_distintas": 7
+      "peso_relativo": 22.6,
+      "fatia_pct": 4.76,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Trump",
+      "peso_relativo": 22.6,
+      "fatia_pct": 4.76,
+      "fontes_distintas": 6
     },
     {
       "termo": "AVigília",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Diga",
-      "peso_relativo": 17.3,
-      "fatia_pct": 3.8,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Voto",
-      "peso_relativo": 17.3,
-      "fatia_pct": 3.8,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Distrital",
-      "peso_relativo": 17.3,
-      "fatia_pct": 3.8,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Voto Distrital",
-      "peso_relativo": 17.3,
-      "fatia_pct": 3.8,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "OBrasil",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.6,
+      "peso_relativo": 19.4,
+      "fatia_pct": 4.08,
       "fontes_distintas": 1
     },
     {
       "termo": "Gwayne",
-      "peso_relativo": 15.5,
-      "fatia_pct": 3.4,
+      "peso_relativo": 18.4,
+      "fatia_pct": 3.88,
       "fontes_distintas": 1
     },
     {
-      "termo": "Trump",
-      "peso_relativo": 15.2,
-      "fatia_pct": 3.33,
-      "fontes_distintas": 4
+      "termo": "Bran",
+      "peso_relativo": 17.4,
+      "fatia_pct": 3.67,
+      "fontes_distintas": 1
     },
     {
       "termo": "Marco",
-      "peso_relativo": 15.2,
-      "fatia_pct": 3.33,
+      "peso_relativo": 16.1,
+      "fatia_pct": 3.4,
       "fontes_distintas": 5
     },
     {
       "termo": "Marco Rubio",
-      "peso_relativo": 15.2,
-      "fatia_pct": 3.33,
+      "peso_relativo": 16.1,
+      "fatia_pct": 3.4,
       "fontes_distintas": 5
     },
     {
-      "termo": "Defesa",
-      "peso_relativo": 13.9,
-      "fatia_pct": 3.07,
-      "fontes_distintas": 2
+      "termo": "Brasil",
+      "peso_relativo": 16.1,
+      "fatia_pct": 3.4,
+      "fontes_distintas": 5
     },
     {
-      "termo": "Halloween",
-      "peso_relativo": 12.7,
-      "fatia_pct": 2.8,
+      "termo": "PT",
+      "peso_relativo": 15.5,
+      "fatia_pct": 3.27,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Bets",
+      "peso_relativo": 15.5,
+      "fatia_pct": 3.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Nunca",
+      "peso_relativo": 15.5,
+      "fatia_pct": 3.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bets Nunca",
+      "peso_relativo": 15.5,
+      "fatia_pct": 3.27,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Diga",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Voto",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Distrital",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Voto Distrital",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "JEON",
+      "peso_relativo": 13.5,
+      "fatia_pct": 2.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "JUNGKOOK",
+      "peso_relativo": 13.5,
+      "fatia_pct": 2.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "JEON JUNGKOOK",
+      "peso_relativo": 13.5,
+      "fatia_pct": 2.86,
       "fontes_distintas": 1
     },
     {
       "termo": "quarto mandato",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.67,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Lyra discute",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.67,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Raquel Lyra discute",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.67,
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.72,
       "fontes_distintas": 4
     },
     {
       "termo": "governo Lula",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.67,
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.72,
       "fontes_distintas": 4
     },
     {
-      "termo": "vitória de Lula",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.67,
+      "termo": "OBrasil",
+      "peso_relativo": 12.6,
+      "fatia_pct": 2.65,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Halloween",
+      "peso_relativo": 10.6,
+      "fatia_pct": 2.24,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "considerado nome",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
       "fontes_distintas": 3
     },
     {
-      "termo": "Zuri",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.6,
-      "fontes_distintas": 1
+      "termo": "nome certo",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Democracia",
-      "peso_relativo": 10.9,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 1
+      "termo": "Campos é considerado",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Defesa Da Democracia",
-      "peso_relativo": 10.9,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Wesley",
-      "peso_relativo": 10.0,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 1
+      "termo": "considerado nome certo",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
+      "fontes_distintas": 3
     },
     {
       "termo": "Kassab",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Paris",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
       "fontes_distintas": 3
     },
     {
       "termo": "ministério de Lula",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
       "fontes_distintas": 3
     },
     {
       "termo": "Presidência",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
       "fontes_distintas": 3
     },
     {
-      "termo": "Reeleição",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
+      "termo": "vitória de Lula",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "encontrar Flávio",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
       "fontes_distintas": 3
     },
     {
-      "termo": "Reeleição de Lula",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
+      "termo": "encontrar Flávio Bolsonaro",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
       "fontes_distintas": 3
     },
     {
-      "termo": "suspensão de salário",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "governo dos EUA",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Bolsonaro do Brasil",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Educação",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "servidores da Educação",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.0,
+      "termo": "secretário de Estado",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.04,
       "fontes_distintas": 3
     }
   ]
