@@ -1,175 +1,169 @@
 {
-  "atualizado_em": "2026-11-01T20:49:40Z",
-  "total_analisado": 96,
+  "atualizado_em": "2026-11-02T00:40:33Z",
+  "total_analisado": 98,
   "x_recife": [
     {
-      "termo": "Daronco",
+      "termo": "Lyanco",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Daronco",
-      "ruido": true
+      "url": "https://x.com/search?q=Lyanco",
+      "ruido": false
     },
     {
       "termo": "Leclerc",
       "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Leclerc",
       "ruido": false
     },
     {
-      "termo": "Léo Jardim",
+      "termo": "Kimi Antonelli",
       "posicao": 3,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=L%C3%A9o%20Jardim",
-      "ruido": false
-    },
-    {
-      "termo": "Adson",
-      "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Adson",
-      "ruido": false
-    },
-    {
-      "termo": "Lescano",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Lescano",
-      "ruido": false
-    },
-    {
-      "termo": "Barboza",
-      "posicao": 6,
       "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Barboza",
+      "url": "https://x.com/search?q=Kimi%20Antonelli",
       "ruido": false
     },
     {
-      "termo": "Bruno Duarte",
-      "posicao": 7,
-      "variacao": "-1",
+      "termo": "Daronco",
+      "posicao": 4,
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Bruno%20Duarte",
+      "url": "https://x.com/search?q=Daronco",
+      "ruido": true
+    },
+    {
+      "termo": "Lewis",
+      "posicao": 5,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Lewis",
+      "ruido": false
+    },
+    {
+      "termo": "Minda",
+      "posicao": 6,
+      "variacao": "+39",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Minda",
       "ruido": false
     },
     {
       "termo": "#ExercitoDoLulaNoFantastico",
-      "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 7,
+      "variacao": "+4",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=%23ExercitoDoLulaNoFantastico",
       "ruido": false
     },
     {
-      "termo": "Saldivia",
+      "termo": "Igor Gomes",
+      "posicao": 8,
+      "variacao": "+30",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Igor%20Gomes",
+      "ruido": false
+    },
+    {
+      "termo": "Barba",
       "posicao": 9,
-      "variacao": "+1",
+      "variacao": "+13",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Saldivia",
+      "url": "https://x.com/search?q=Barba",
       "ruido": false
     },
     {
-      "termo": "Marlon Freitas",
+      "termo": "Verstappen",
       "posicao": 10,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Marlon%20Freitas",
-      "ruido": false
-    },
-    {
-      "termo": "#PALxVAS",
-      "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23PALxVAS",
-      "ruido": false
-    },
-    {
-      "termo": "Cuiabano",
-      "posicao": 12,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Cuiabano",
-      "ruido": false
-    },
-    {
-      "termo": "Arsenal",
-      "posicao": 13,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Arsenal",
-      "ruido": false
-    },
-    {
-      "termo": "Thiago Mendes",
-      "posicao": 14,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Thiago%20Mendes",
-      "ruido": false
-    },
-    {
-      "termo": "Hamilton",
-      "posicao": 15,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Hamilton",
-      "ruido": false
-    },
-    {
-      "termo": "Liverpool",
-      "posicao": 16,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Liverpool",
-      "ruido": false
-    },
-    {
-      "termo": "Colidio",
-      "posicao": 17,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Colidio",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Verstappen",
       "ruido": false
     },
     {
       "termo": "Ferrari",
-      "posicao": 18,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 11,
+      "variacao": "-3",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Ferrari",
       "ruido": false
     },
     {
-      "termo": "Maurício",
-      "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Maur%C3%ADcio",
+      "termo": "#DançaDosFamosos",
+      "posicao": 12,
+      "variacao": "+7",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23Dan%C3%A7aDosFamosos",
       "ruido": false
     },
     {
-      "termo": "Giay",
+      "termo": "Weverton",
+      "posicao": 13,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Weverton",
+      "ruido": false
+    },
+    {
+      "termo": "gremio",
+      "posicao": 14,
+      "variacao": "+9",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=gremio",
+      "ruido": false
+    },
+    {
+      "termo": "Fórmula 1",
+      "posicao": 15,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=F%C3%B3rmula%201",
+      "ruido": false
+    },
+    {
+      "termo": "Gustavo Martins",
+      "posicao": 16,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Gustavo%20Martins",
+      "ruido": false
+    },
+    {
+      "termo": "Saldivia",
+      "posicao": 17,
+      "variacao": "-10",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Saldivia",
+      "ruido": false
+    },
+    {
+      "termo": "Noriega",
+      "posicao": 18,
+      "variacao": "+7",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Noriega",
+      "ruido": false
+    },
+    {
+      "termo": "Carlos Vinicius",
+      "posicao": 19,
+      "variacao": "-9",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Carlos%20Vinicius",
+      "ruido": false
+    },
+    {
+      "termo": "Alan Franco",
       "posicao": 20,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Giay",
+      "variacao": "+9",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Alan%20Franco",
       "ruido": false
     }
   ],
   "google_trends": [
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Alma Preta Jornalismo: Festival em Pernambuco homenageia mulher negra escravizada e executada em praça pública",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQklwdDBpTjJoNGw2M2ZsdDBMV2RzY01pcmJoUG5VN1g4NWkzR3dnZzNmNF9xU09BQUp2Yl84ckUtNjBDTWJGejlsVENISlFEZk82Uy1GeVNyYkUzT3Z2OFBURi1BbGpnM1VOZGdxVEJuRjZrMEpoUmFPeUh3VzA3MmtDTVFRTG5HVlY0?oc=5"
-    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -179,8 +173,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Universidade de Pernambuco - UPE: UPE divulga caderno de provas do SSA 3 2027 - Universidade de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yZmFheEd6TEtWRHNtbjRCd2FiMGNoUzFMX0JoSTlEOENjOGVRcnRtY1ZXSE9udkI3bFVMMThoWmNwUTdmUC14OGl4SnlnaVNkalRleUg0c2NxenhTeUNGYXY2SG1IUU1TYlU0?oc=5"
+      "manchete": "Alma Preta Jornalismo: Festival em Pernambuco homenageia mulher negra escravizada e executada em praça pública",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQklwdDBpTjJoNGw2M2ZsdDBMV2RzY01pcmJoUG5VN1g4NWkzR3dnZzNmNF9xU09BQUp2Yl84ckUtNjBDTWJGejlsVENISlFEZk82Uy1GeVNyYkUzT3Z2OFBURi1BbGpnM1VOZGdxVEJuRjZrMEpoUmFPeUh3VzA3MmtDTVFRTG5HVlY0?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -191,8 +185,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "- Blog Dellas: A eleição do Recife em 2028 pode repetir mesmo sistema da de 2022 em Pernambuco -",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGl6aTlVaVhza2J3dmhzTndQc2VvdUxudFJwYjVmYnFobUhuc2hJVHVDVW9vMUxlYjlLdE4xSkNtOTJwRE96bGtYTldsWUdNN3YxYndKUVRmcU8yXzRJaUNuRmRCNkZ1Zkd2Qkd5YXUxSTM4YlcxbjVoU1hWVjFVRG5NWXJJWHk1U3BpOURINlVYVnNjcEFvY2UyeV9tMDNLZHNnbGFVRTQwdw?oc=5"
+      "manchete": "ANDA - Agência de Notícias de Direitos Animais: Comerciante abre loja para acolher gatos durante onda de calor em Pernambuco - ANDA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0d6TDBsamQ3TUNZemJ2N0xic1lMY25YYmZyQlRTWW1vMERKNzQzclFfTUNyQ3RGTzB3WmtVT2p1bm9aSU5GNUtobnhzSDZ0MlFqcFp4Y0tCTlZLc1J1MjE4S0xYSWsta0pheUVod2QwTjNIakg1a2o1OFdDVFY2OWstbVBaRmFILW1kTTBjZ0VDMnFzSk1Kb0c5anY?oc=5"
     },
     {
       "termo": "Recife",
@@ -215,8 +209,14 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Tribuna do Sertão: Navio que transportou Dalí e Walt Disney vira maior recife artificial do mundo",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR3JWajE0ejdWVC0tWFlvUFlRZmlUMkVXWmM0bzRRTjdNWm9WTllfbTlDb2t4czc1OGdtYlJXZnhWYjdkTl9rTlUyZHllbGdBanBRclQ4OUhtd2g5SFRNS1Z6SlpzZVY1Vkk0UzJmYi1DVG9XZ2Y0UWVJeUpiZk45MVpTYkNGN3h2V1VkZUZ3NW1iQTZzT0FUcUpZQlFHX2VBWlYzaTVoZXRRS1FILUw3OHBmOHM1emtwbloxTExJeXFLTi1ocV9vNjVETFQxRWNOdGtyNQ?oc=5"
+      "manchete": "Diario de Pernambuco: Arrastão do Frevo leva mais de 30 blocos líricos às ruas do Recife",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRnZyemw2UU15bzd0UE1yTVBla2hsREdSOHJLNVEzNnVkUzhXQV9nS00xT2lsNVZzMHZfYWxJZ25PN2NNSkVNc0NKdGJnX0x0b3kyZExweEV2bGNSX0xvT1dUTWZHdkplQnN6ODNKWkFRT3NiU2hBeGp3OTJyUnZtcE9HeFltb0hodzFDYmo2RnhRU2c1V0J3YVdjWFRwYnFwbmVRaFFwQ2tjOEJFQ0JjcFRYbEtLZTdiTzhuMVVYZV84TmVVS3g4ZUhlX0xQRWdVT1o2Zw?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Mercado e Eventos: Do beach club à suíte presidencial: veja 50 fotos do novo Vila Galé Reserva do Paiva",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdGJsMDVsZ18zNWR1X1RYalhoelVvbk8wRmZMVFFsSDJObkQ5RWIwc1RFRi12bkFjS0lyQmVaQXVTZWZSUkNHZkpOU2FoQjZFM3M2M2E3Yi1oS1JiREpoaWhySmhGbnBJVUtTeWNuWjNJQXNBaklCRHBOdnB0b2ZpOGd3QXFlT2tETS1IWHE4M0RqVXlXRUxLcnBDQUIwTG1RazRYMGZqUHlMU01PcFpleTJxZ1BwMDI4QTd4QlpvN3RsLWM1NXA2ajNhanFmdw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -245,104 +245,122 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Estado de Minas: João Campos é nome certo para virar ministro no 4º mandato de Lula",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczZjZXJTTlpTbTEyLVI3RkxhX0plYVhXbUlkSTBtdVdHQnlDOXNqdDUxdG1NV0hyemlONkVTUVNXTVhSLXhsazdmWjFqQzFXOG9HdUE4TGVlMFRtcnhScFdlMk1xVXR6RC1oNE1vZkZRUUlpRnhJX0pkcXd4ODRtYWstZHdBckw5ZUZ0a2NrX2haZmwyaXRIN2c2RGd1N1ZpV0s0djlZa095Y2VGTjJBS1NvajlreUltdjhUcjNn0gG-AUFVX3lxTE1zNmNlclNOWlNtMTItUjdGTGFfSmVhWFdtSWRJMG11V0dCeUM5c2p0NTF0bU1XSHJ6aU42RVNRU1dNWFIteGxrN2ZaMWpDMVc4b0d1QThMZWUwVG1yeFJwV2UyTXFVdHpELWg0TW9mRlFRSWlGeElfSmRxd3g4NG1hay1kd0FyTDllRnRrY2tfaFpmbDJpdEg3ZzZEZ3U3VmlXSzR2OVlrT3ljZUZOMkFLU29qOWt5SW12OFRyM2c?oc=5"
+      "manchete": "Diario de Pernambuco: Justiça libera entrada de protetora para alimentar mais de 100 gatos em conjunto habitacional no Recife",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVEpIRnIyTV9FMFhLYWJIMHhFVzhZRlc0X0NWUlRRWHZEanQtUGMwb3psMERNX095eS1YNTNTTTBhZThwbVdZSGY4bDRvTXBrR051TmRHS25fTEJkbEs1alYwMDBlRDIyQVY0SzcxWXlRTHc0T19mRXM0bkVBYlh2Q3VlM21YUUltNzZhaTZybGdqd2VKS3RLY3RlLXNnc1BaU25rWkE0cFZGdTlpTkpCX0pVdmYyZnFmQmpUbUhmYk5ISlZ5eUx5OWVxQVVvYklEVzhSMWpnR3ZxOVNLcjUzdDJCVDNqWVN3Y2FfV1Y3WDFEYWNEUjFHT0x4V29kZw?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Didi Galvão: Principal desafio político de Lula vai ser preparar um sucessor",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ2Nyc21iUzYzUVZiQmJ3dzUwRU5BQzVEd29MRnNKM3gzV0tXODREbE1UTVRLMFpnM3JiWVdXcVFXYU1WR3VkRXBUQmhuWFBMZW9hb0I3bmUtLVdFNG5xVkYyREc1NUxGdGZtaENKbFVVREp6S1ZXTjZKTHlIZnBRQUdhZURtLTRIdmZmQkFWb0Y5MWky?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "bra1.com.br: Lula vai formar seu novo time; veja nomes em disputa para ministérios chave",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQnpFVGRDQ0ZaVkhxWHlJT2M4dHAzTEhCUWNuaGE0dDBKVEF3NlNYY1JMZWp0MjktRkJVQWRyV1RRR0JPYUh3X2I1dUgwVnpfbHMwNUhKYy15TlN3WjNyQXNLcU50UnFnalRQeXlzaUlVRjlkTzYwMDVVeHFfNFEzZmxYQjVjODlwNXdMVHQ2VzZHX2xNNFQ4NFVEbm00V2E4aTJ5RmdfVnEyN0ttZG9BT3NvZlZpRktGdXc?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Repórter Maceió: Ministério da Segurança Pública surge como destaque nas especulações sobre novos nomes no governo Lula após sua reeleição e viagens internacionais programadas.",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcV96NENoM1M5MjFmYk12VFpnRzhTZUVHOEZFWGRreS0tU0FDOWhkMEo3TzlDdVVKV00xTnNQeE15V0M4MTAyTjJjYjBvLVM3Rm1jRGlFX2Vtb3F4ZWRsTGxEUzl6U0ZJUXh3aE9qUjVHVjFkY2xQN2puNmR6cTNJblBLZ1dwY0Vma0EzMC16SEQwcWhWVk9hNG9RaXRVOC1fczFTa3dORHhaVE5PQ1hEek5Ld0ZFb0JxSVNFV01vN2tlb2hDUi1pSlFiUm5FZlk4RlZmNWlYSWgtVzViVExxbTV3d2Y3dGhVbm1yUkJ1Rm8yYXU4cm1YS25aY05tYzl6NUctZGdMVlJKS2VWeDhDR0V5aGNpMF9PbkU5MXJn?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "pelo tempo",
-      "razao_aumento": 115.4,
+      "termo": "Fonteles",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-01T14:57:06Z",
+        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Camilo",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-01T14:57:06Z",
+        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Santana",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-01T14:57:06Z",
+        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Camilo Santana",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-01T14:57:06Z",
+        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "equipe ministerial",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Gazeta do Povo",
+        "hora": "2026-11-01T13:00:00Z",
+        "titulo": "“Desempregados” devem integrar equipe ministerial do Lula 4",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGl3ZkkxSzdWdmJuaUtfVVRyRkJHemRVQXZoZ0JLS2hPeTR0MkZrMEJ0aFRseVZmYmVIS3JOa0NMWGZ0OC1vSzdZNjBEZURnX0hsb2Q5NjF1d2ktVUYtLWR5Q3I3c3BlWGtkbGlicHBzOUhsN00zVHAtVlFtWTRWT2FlT2VVLUFaV1VJdEd2TTM1dGl2ZERuTjFVTV9zM0VQQkFNSXhoYjlBS3NObGNCWFpmTFJac09oamszbEs0NldsWGNuRDVVZG15RHE?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "vira médica",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Só Notícia Boa",
+        "hora": "2026-11-01T12:20:00Z",
+        "titulo": "Filha de faxineira vira médica no mesmo hospital onde a mãe trabalha há 23 anos",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdndCZTdmcDlQUE92MFZKdGpFY0wwN3NjMVRURTV6elhzZk5ZTW1VUktIdHZKa3RsSGg3WmNUNDNpVEFFUGk2U1I2WGZ0UjUyS01wNFhmX3pWSDFTbUlWcWgtODdvSjh1X21OWkhSd2VKLW1mLUF2a1JOOXpncGVVd3lfbWlNYTJ4NFk3V3VoMA?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "trabalha há",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Só Notícia Boa",
+        "hora": "2026-11-01T12:20:00Z",
+        "titulo": "Filha de faxineira vira médica no mesmo hospital onde a mãe trabalha há 23 anos",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdndCZTdmcDlQUE92MFZKdGpFY0wwN3NjMVRURTV6elhzZk5ZTW1VUktIdHZKa3RsSGg3WmNUNDNpVEFFUGk2U1I2WGZ0UjUyS01wNFhmX3pWSDFTbUlWcWgtODdvSjh1X21OWkhSd2VKLW1mLUF2a1JOOXpncGVVd3lfbWlNYTJ4NFk3V3VoMA?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "nenhum programa",
+      "razao_aumento": 105.3,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Valor Econômico",
-        "hora": "2026-11-01T12:27:26Z",
-        "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ01Udno2VTR5ZFZhSWdjY2V6ekY3VlZWY2J0Q0E2YmYwOGI2Y2lDYkp0WlVBNjJIQjI0Z3pNVjQtbXN2UlVHeWVhSDA4YXJBOE5kV2ZQVFFtZk14SFo2aDBWTXJDdElZd292UUZrZktMcTJ4ekYyb1NtRFFEbE9uOHlEOHJLa3JHMzVlSExyd0o5dzdhWU1qV1pkTUx0dk5PSnBjZGRBM09MeXpRSUgtSFI3dUl6cHJwelNlb3daSmRodzJyTVZZ0gHWAUFVX3lxTFA0UldXMEdkMVI4c2djb0JZa3F3ZldWWGVMdW5sRnhSSXRYdGVEdnRvM0NBdVRfYTlIZDdaRmtadmNDYjlra0F2NVo5Rkw2ZTNSNmNSN2RUWGpDZjZ3eXpiTVZGNldNVHBOTVN4Y1BsdnFNR1V0VjBKT0dyRXk0dF96NUxvc0thcldxenJNTG5LTENXS1RWSjlqVW02OU5RUkRJaVNhZU9iTktfT2ZsQ29jX01IUGsyLUUtUjJOWUh1U1VrWjRrbEZEc19RY25Va0pOVHRCWlE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "tempo que quiser",
-      "razao_aumento": 115.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-11-01T12:27:26Z",
-        "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ01Udno2VTR5ZFZhSWdjY2V6ekY3VlZWY2J0Q0E2YmYwOGI2Y2lDYkp0WlVBNjJIQjI0Z3pNVjQtbXN2UlVHeWVhSDA4YXJBOE5kV2ZQVFFtZk14SFo2aDBWTXJDdElZd292UUZrZktMcTJ4ekYyb1NtRFFEbE9uOHlEOHJLa3JHMzVlSExyd0o5dzdhWU1qV1pkTUx0dk5PSnBjZGRBM09MeXpRSUgtSFI3dUl6cHJwelNlb3daSmRodzJyTVZZ0gHWAUFVX3lxTFA0UldXMEdkMVI4c2djb0JZa3F3ZldWWGVMdW5sRnhSSXRYdGVEdnRvM0NBdVRfYTlIZDdaRmtadmNDYjlra0F2NVo5Rkw2ZTNSNmNSN2RUWGpDZjZ3eXpiTVZGNldNVHBOTVN4Y1BsdnFNR1V0VjBKT0dyRXk0dF96NUxvc0thcldxenJNTG5LTENXS1RWSjlqVW02OU5RUkRJaVNhZU9iTktfT2ZsQ29jX01IUGsyLUUtUjJOWUh1U1VrWjRrbEZEc19RY25Va0pOVHRCWlE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "ex prefeito",
-      "razao_aumento": 113.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Repórter Maceió",
-        "hora": "2026-10-31T21:01:00Z",
-        "titulo": "João Campos é cotado para ministério de Lula em governo; ex-prefeito pode ocupar pasta de Ciência e Tecnologia em futuro governo petista.",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV0tvWVZqdzFGT1REdlllR3VzcjZOamFnemszNHpjUF8ybGZOalpmUC0yLW0tWGc1LWFCU19VLXJoZWVKNExlS2RIT3kxclRzcUFVQ2Zrb1RhS1JfbjNWWm5jWmpMamt3N2tMcFhhLWJteVhxUUM4dl9uUExVMVprSDdBc0V4S1NNSjhMaWZOb09oZHhUdXFWYi1QX1F1anRoU21wUVFmd2tkVVJOSEt0akw1NkZpRVlsTlRtdHE0dlo4ZGh5WHQ3UDgtQVNmUGpQYjhzM3dGeFhXMHowX2xiVXRVdkd2cFI2QXR3WWV5Z3lBZ29BZENEV0NB?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "certo em ministério",
-      "razao_aumento": 111.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Blog do Gustavo Negreiros",
-        "hora": "2026-10-31T23:17:31Z",
-        "titulo": "João Campos é considerado nome certo em ministério no quarto mandato de Lula",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa2RaUmJtOEpsZUVWbTJwMXRBdnloMGxfLVJVNEpRVkwxd3MwMGdfVGlHVWFrV0lSN1hhY2FoUHVSVE1vanRpY1RJNnlBYlFTTTE5bF85QVBvQjg1VExpdWxkdWJTU3ItZFJaNFdJaGZlWTFGR0V3dXpUWU5Md3NHdHNrQl9BZWhsbXFNX2xwM0t1QndWa05kZ0tVOFQtTWhHZG1JZjc0S0RISjZYTXlneGMzTDNjZ3RDOU9qWG51OFdZUkNL?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "ficar nos EUA",
-      "razao_aumento": 107.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-11-01T00:59:15Z",
-        "titulo": "Trump diz não ter planos de encontrar Flávio Bolsonaro e que senador pode ficar nos EUA 'quanto tempo quiser'",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUGZaanYxclZNb0ZWS1VCSHJ6aDBuSEZ5cWg4QjZBazRfSDFFSUJ0ZW9iYVBsR05qdUZFTk16QS1mTDNvVFhjb0RQWGVwa1hGTEpYYjFYTDJHSFpmdWJtdkRnVGUyWHg0eUVrbW4wYU9OX1FOYTQxUmdBWkpxQ0JZMDY0cEtpamtnZElRTUFFcnhxLWE5Z21TbkREWE5aVHJURmhLNUp1R1FMRnU5Rjk3SEdLcXB5MWJ4YTF0OUszOG1FdUXSAdIBQVVfeXFMTXhUdnlBck0tTFBqam1GQlk0OHkzN0g5QndOYzJVb3RjdkF4M29aNWxKeHJ6bTZ3dWhMbXNEajFkM2xsSkp3SDNGdEJQZVZKWWp2QVB4VUtjZVpTRkprZ1BLV0RoOF92RlR0SkltNEhfUVVmb3VRQnlzX2RzYzBLT3BkVTc0T2lqdWQ4YzZTcE5XQVRwRGNFUEx0RW9rcDNFaVhvcmdKTmZoMmpsN19xVzF5UTFMZ0wwRWRVcW1oYmRTSHlsdHNZMktwRXBxQUxTeDFn?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "considerado nome",
-      "razao_aumento": 91.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-10-31T21:00:03Z",
-        "titulo": "João Campos é considerado nome certo para ministério no quarto mandato de Lula, dizem aliados",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEdHWUd4QmhHdVFLX3JjN29NazhFUzVkQ084TnozTm1GVnBlc09kUDhMMUtJVjNkaFpaX0ZHek96N29lREFOQ3pYVW9YZzZjamVCOWhqUmVlMFgtTS1FdkVqX1FLQWpzdS1yODBCSmhzN3VSZWRRNlVBV0gzQnJqV3Z1MFBtY1U4VFg5V1lLcDhQZUVDaDhLZGxKWlpNNG02YWlFZWdqT1FFNmZoZWFNS1FfRXBQejdidUpV?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "considerado nome certo",
-      "razao_aumento": 91.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-10-31T21:00:03Z",
-        "titulo": "João Campos é considerado nome certo para ministério no quarto mandato de Lula, dizem aliados",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEdHWUd4QmhHdVFLX3JjN29NazhFUzVkQ084TnozTm1GVnBlc09kUDhMMUtJVjNkaFpaX0ZHek96N29lREFOQ3pYVW9YZzZjamVCOWhqUmVlMFgtTS1FdkVqX1FLQWpzdS1yODBCSmhzN3VSZWRRNlVBV0gzQnJqV3Z1MFBtY1U4VFg5V1lLcDhQZUVDaDhLZGxKWlpNNG02YWlFZWdqT1FFNmZoZWFNS1FfRXBQejdidUpV?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Campos é considerado",
-      "razao_aumento": 91.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-10-31T21:00:03Z",
-        "titulo": "João Campos é considerado nome certo para ministério no quarto mandato de Lula, dizem aliados",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEdHWUd4QmhHdVFLX3JjN29NazhFUzVkQ084TnozTm1GVnBlc09kUDhMMUtJVjNkaFpaX0ZHek96N29lREFOQ3pYVW9YZzZjamVCOWhqUmVlMFgtTS1FdkVqX1FLQWpzdS1yODBCSmhzN3VSZWRRNlVBV0gzQnJqV3Z1MFBtY1U4VFg5V1lLcDhQZUVDaDhLZGxKWlpNNG02YWlFZWdqT1FFNmZoZWFNS1FfRXBQejdidUpV?oc=5",
+        "hora": "2026-11-01T20:01:54Z",
+        "titulo": "Lula diz que não encerrará nenhum programa social e pode criar novos",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2JyQkk0MmxLR01Cd1VFd1NaZE1FVFo0ZXN5SlhXZXpFZ1BwNG9XSUpSeU1pbWhpRW1ka05HdkRBSFlQS0p3d3A3ZlVvZWxKcm1XWF9tUmltaGQ5M2JpNFh5MjV1TWxSdWg4VkR0RzQ3OGNKUEs2djJXVmtuYkl2M09nWENKam5DVGZ2U3ZmNnR0a1JaZjdsZTFYclhsRXRka2xINmpfVmdydlN6eWpacEJlUUU3bEV4VnMtRDFnTUFDQdIB0AFBVV95cUxNei1yRVNCRXNBTWJBdm5OOV91OFBzYldibllZcElNaGRLUlBmRzFWbGV6OFp1WVF0aXdQX1hiUllVU3h2RUVUR2ViclpTNEdzdEtmczVxTlR1YjVEblF5aGtwdTNZYXRsem5xem1PUG5WdGFUREpuNWNoZkE5Z0lsSkQxRGRtWWs0RzRlQmFrbE90a2YwNmMzLWlTalhmb0Y5cHNJUU9DVkw1RGx1ZnQ0c2FIcWo3NjBFclppb1ZySzdpcW80UXo1WG9uZGNXYTlM?oc=5",
         "peso": 1.0
       }
     }
@@ -351,272 +369,272 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 30.46,
-      "fontes_distintas": 28
+      "fatia_pct": 29.06,
+      "fontes_distintas": 26
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 72.7,
-      "fatia_pct": 22.14,
+      "peso_relativo": 79.1,
+      "fatia_pct": 22.98,
       "fontes_distintas": 16
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 70.2,
-      "fatia_pct": 21.37,
+      "peso_relativo": 76.5,
+      "fatia_pct": 22.24,
       "fontes_distintas": 16
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 65.2,
-      "fatia_pct": 19.85,
+      "peso_relativo": 74.0,
+      "fatia_pct": 21.5,
       "fontes_distintas": 15
     },
     {
       "termo": "João",
-      "peso_relativo": 27.6,
-      "fatia_pct": 8.4,
-      "fontes_distintas": 11
+      "peso_relativo": 20.4,
+      "fatia_pct": 5.93,
+      "fontes_distintas": 8
     },
     {
       "termo": "Campos",
-      "peso_relativo": 27.6,
-      "fatia_pct": 8.4,
-      "fontes_distintas": 11
+      "peso_relativo": 20.4,
+      "fatia_pct": 5.93,
+      "fontes_distintas": 8
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 27.6,
-      "fatia_pct": 8.4,
-      "fontes_distintas": 11
+      "peso_relativo": 20.4,
+      "fatia_pct": 5.93,
+      "fontes_distintas": 8
     },
     {
       "termo": "Trump",
-      "peso_relativo": 25.1,
-      "fatia_pct": 7.63,
-      "fontes_distintas": 10
+      "peso_relativo": 15.3,
+      "fatia_pct": 4.45,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Lyanco",
+      "peso_relativo": 15.3,
+      "fatia_pct": 4.45,
+      "fontes_distintas": 1
     },
     {
       "termo": "Leclerc",
-      "peso_relativo": 14.3,
-      "fatia_pct": 4.35,
+      "peso_relativo": 14.5,
+      "fatia_pct": 4.23,
       "fontes_distintas": 1
     },
     {
-      "termo": "Jardim",
-      "peso_relativo": 13.5,
-      "fatia_pct": 4.12,
+      "termo": "Kimi",
+      "peso_relativo": 13.8,
+      "fatia_pct": 4.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "Léo Jardim",
-      "peso_relativo": 13.5,
-      "fatia_pct": 4.12,
+      "termo": "Antonelli",
+      "peso_relativo": 13.8,
+      "fatia_pct": 4.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "Adson",
-      "peso_relativo": 12.8,
-      "fatia_pct": 3.89,
+      "termo": "Kimi Antonelli",
+      "peso_relativo": 13.8,
+      "fatia_pct": 4.0,
       "fontes_distintas": 1
-    },
-    {
-      "termo": "nome certo",
-      "peso_relativo": 12.5,
-      "fatia_pct": 3.82,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "governo Lula",
-      "peso_relativo": 12.5,
-      "fatia_pct": 3.82,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "ficar nos EUA",
-      "peso_relativo": 12.5,
-      "fatia_pct": 3.82,
-      "fontes_distintas": 5
     },
     {
       "termo": "Exército",
-      "peso_relativo": 12.3,
-      "fatia_pct": 3.74,
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.85,
       "fontes_distintas": 2
     },
     {
       "termo": "Exército do Lula",
-      "peso_relativo": 12.3,
-      "fatia_pct": 3.74,
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.85,
       "fontes_distintas": 2
     },
     {
-      "termo": "Lescano",
-      "peso_relativo": 12.0,
-      "fatia_pct": 3.66,
+      "termo": "Fantástico",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.85,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Gomes",
+      "peso_relativo": 12.5,
+      "fatia_pct": 3.63,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Lewis",
+      "peso_relativo": 12.2,
+      "fatia_pct": 3.56,
       "fontes_distintas": 1
     },
     {
-      "termo": "Barboza",
-      "peso_relativo": 11.3,
-      "fatia_pct": 3.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bruno",
-      "peso_relativo": 10.5,
-      "fatia_pct": 3.21,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Duarte",
-      "peso_relativo": 10.5,
-      "fatia_pct": 3.21,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bruno Duarte",
-      "peso_relativo": 10.5,
-      "fatia_pct": 3.21,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "considerado nome",
-      "peso_relativo": 10.0,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "considerado nome certo",
-      "peso_relativo": 10.0,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "PT",
-      "peso_relativo": 10.0,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "pelo tempo",
-      "peso_relativo": 10.0,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "tempo que quiser",
-      "peso_relativo": 10.0,
-      "fatia_pct": 3.05,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Fantastico",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.98,
+      "termo": "Minda",
+      "peso_relativo": 11.5,
+      "fatia_pct": 3.34,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula No Fantastico",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.98,
+      "peso_relativo": 10.7,
+      "fatia_pct": 3.11,
       "fontes_distintas": 1
     },
     {
-      "termo": "Saldivia",
-      "peso_relativo": 9.0,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 1
+      "termo": "governo Lula",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Marlon",
-      "peso_relativo": 8.3,
-      "fatia_pct": 2.52,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Freitas",
-      "peso_relativo": 8.3,
-      "fatia_pct": 2.52,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Marlon Freitas",
-      "peso_relativo": 8.3,
-      "fatia_pct": 2.52,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ex prefeito",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "certo em ministério",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "mandato de Lula",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "ministério no quarto",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Campos é considerado",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "EUA pelo",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "EUA pelo tempo",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
+      "termo": "PT",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.97,
       "fontes_distintas": 2
     },
     {
-      "termo": "PALx",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
+      "termo": "nenhum programa",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "programa social",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "nenhum programa social",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Igor",
+      "peso_relativo": 9.9,
+      "fatia_pct": 2.89,
       "fontes_distintas": 1
     },
     {
-      "termo": "PALx VAS",
-      "peso_relativo": 7.5,
-      "fatia_pct": 2.29,
+      "termo": "Igor Gomes",
+      "peso_relativo": 9.9,
+      "fatia_pct": 2.89,
       "fontes_distintas": 1
     },
     {
-      "termo": "Cuiabano",
-      "peso_relativo": 6.8,
-      "fatia_pct": 2.06,
+      "termo": "Barba",
+      "peso_relativo": 9.2,
+      "fatia_pct": 2.67,
       "fontes_distintas": 1
     },
     {
-      "termo": "Arsenal",
-      "peso_relativo": 6.0,
-      "fatia_pct": 1.83,
+      "termo": "Verstappen",
+      "peso_relativo": 8.4,
+      "fatia_pct": 2.45,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "nome certo",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Lara",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Resende",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Lara Resende",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "social será",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "será extinto",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "programa social será",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "social será extinto",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "redes sociais",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "PL",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Moraes",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "ficar nos EUA",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "tempo que quiser",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Bolsonaro após",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Flávio Bolsonaro após",
+      "peso_relativo": 7.7,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 3
     }
   ]
 }
