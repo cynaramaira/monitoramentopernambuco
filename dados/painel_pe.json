@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-02T00:40:33Z",
-  "total_analisado": 98,
+  "atualizado_em": "2026-11-02T06:53:19Z",
+  "total_analisado": 100,
   "x_recife": [
     {
-      "termo": "Lyanco",
+      "termo": "#ProvaDeFogo",
       "posicao": 1,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23ProvaDeFogo",
+      "ruido": false
+    },
+    {
+      "termo": "#ExercitoDoLulaNoFantastico",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23ExercitoDoLulaNoFantastico",
+      "ruido": false
+    },
+    {
+      "termo": "Fran",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Fran",
+      "ruido": false
+    },
+    {
+      "termo": "#EsquerdaSegueEsquerda",
+      "posicao": 4,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23EsquerdaSegueEsquerda",
+      "ruido": false
+    },
+    {
+      "termo": "Gael",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Gael",
+      "ruido": false
+    },
+    {
+      "termo": "Mossad",
+      "posicao": 6,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Mossad",
+      "ruido": false
+    },
+    {
+      "termo": "Lyanco",
+      "posicao": 7,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=Lyanco",
       "ruido": false
     },
     {
-      "termo": "Leclerc",
-      "posicao": 2,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Leclerc",
+      "termo": "Yaxel Lendeborg",
+      "posicao": 8,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Yaxel%20Lendeborg",
       "ruido": false
     },
     {
-      "termo": "Kimi Antonelli",
-      "posicao": 3,
-      "variacao": "+1",
+      "termo": "Mayk",
+      "posicao": 9,
+      "variacao": "+3",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Kimi%20Antonelli",
+      "url": "https://x.com/search?q=Mayk",
       "ruido": false
-    },
-    {
-      "termo": "Daronco",
-      "posicao": 4,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Daronco",
-      "ruido": true
     },
     {
       "termo": "Lewis",
-      "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 10,
+      "variacao": "-4",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Lewis",
       "ruido": false
     },
     {
-      "termo": "Minda",
-      "posicao": 6,
-      "variacao": "+39",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Minda",
+      "termo": "Leclerc",
+      "posicao": 11,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Leclerc",
       "ruido": false
     },
     {
-      "termo": "#ExercitoDoLulaNoFantastico",
-      "posicao": 7,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23ExercitoDoLulaNoFantastico",
+      "termo": "Now United",
+      "posicao": 12,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Now%20United",
       "ruido": false
     },
     {
-      "termo": "Igor Gomes",
-      "posicao": 8,
-      "variacao": "+30",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Igor%20Gomes",
+      "termo": "Baia",
+      "posicao": 13,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Baia",
       "ruido": false
     },
     {
-      "termo": "Barba",
-      "posicao": 9,
-      "variacao": "+13",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Barba",
+      "termo": "Eagles",
+      "posicao": 14,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Eagles",
       "ruido": false
     },
     {
-      "termo": "Verstappen",
-      "posicao": 10,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Verstappen",
+      "termo": "Renato",
+      "posicao": 15,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Renato",
+      "ruido": false
+    },
+    {
+      "termo": "Kimi",
+      "posicao": 16,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Kimi",
       "ruido": false
     },
     {
       "termo": "Ferrari",
-      "posicao": 11,
-      "variacao": "-3",
-      "direcao": "cai",
+      "posicao": 17,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Ferrari",
       "ruido": false
     },
     {
-      "termo": "#DançaDosFamosos",
-      "posicao": 12,
-      "variacao": "+7",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23Dan%C3%A7aDosFamosos",
-      "ruido": false
-    },
-    {
-      "termo": "Weverton",
-      "posicao": 13,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Weverton",
-      "ruido": false
-    },
-    {
-      "termo": "gremio",
-      "posicao": 14,
-      "variacao": "+9",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=gremio",
-      "ruido": false
-    },
-    {
-      "termo": "Fórmula 1",
-      "posicao": 15,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=F%C3%B3rmula%201",
-      "ruido": false
-    },
-    {
-      "termo": "Gustavo Martins",
-      "posicao": 16,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Gustavo%20Martins",
-      "ruido": false
-    },
-    {
-      "termo": "Saldivia",
-      "posicao": 17,
-      "variacao": "-10",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Saldivia",
-      "ruido": false
-    },
-    {
-      "termo": "Noriega",
+      "termo": "Luka Doncic",
       "posicao": 18,
-      "variacao": "+7",
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Noriega",
+      "url": "https://x.com/search?q=Luka%20Doncic",
       "ruido": false
     },
     {
-      "termo": "Carlos Vinicius",
+      "termo": "Lito",
       "posicao": 19,
-      "variacao": "-9",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Carlos%20Vinicius",
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Lito",
       "ruido": false
     },
     {
-      "termo": "Alan Franco",
+      "termo": "Lara",
       "posicao": 20,
-      "variacao": "+9",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Alan%20Franco",
+      "url": "https://x.com/search?q=Lara",
       "ruido": false
     }
   ],
@@ -167,32 +167,26 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Concursos e seleções em PE têm mais de 3 mil vagas e salários de até R$ 13 mil; saiba como se inscrever",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQnY4NWlDNWhwNnRlbmNwY1hfQzBOemp4blJVckJQZFpzSVhkYXNuV25kYUl0eHE4RGdfTmZ6SG9uRTZFd2UxV2ttdWZIamRLejJtTElQRk11NmpFekkxV0pEOUlXZnNRWFJMaF92NThDbXNoUjE3NkNxb2Y2RlNqU21OU3ZaRUNNWFBJWUpzV2tKeTZBMGg4VFdfZF9oWDhtYzdXbTVrWG1mQWUxbXpVU2Y5Sk9seVRCRjU2c0t6VTl4aHNZOV91QjdxR3RkQXQ5bl9tdmNHSGhVWEs1SGoyUHlhZk1nb1NCMTRPUnZDSktMc3fSAYICQVVfeXFMTTc1RE1lMWFGVlI2S28zVF9FS0lUaFZncXNRWGZUbGJMb3lROU9YbEVHSFJTQzl2RkVuTDVDc1FsWFhIeDM5YWRGNEtqZjhPNGgxeU1TR0o0RDJlVm9iYy14Z3N2S2RLbW5VMUI3dG9TSEx2Ni1vQ2NEOEhmcW9VeVY1dFJsU2NmRFp0NEwwVXZyYm1RYWQ1VVFDbTZhaWtqTVhJTEJ5elB5eW1rMDdOTkozZmdOV3h6eXFKTEVhUDF0Ujc3aUZRcUNVV01aSHBiWHlCS19rd2FsZnoxX2JxY0N0Q185WkYwaHNCWFlMelhxRXh2REhIcGtWWEd4dE91d3R3?oc=5"
+      "manchete": "Congresso em Foco: Dani Portela (PT) foi eleita deputada estadual em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWNYX201UHdNYlB4R19Ncmt3WHBJV09MdWpONFh4UUhUbFd0NDVQQ0k1bHd3cnpTLVcwbl9xNVBVa1FtamhfLTIyR3k4WEZJeEJJWWtnVUlrb3Fjc2hpRHRGR1dSTlF3V0dISzFnYjFOM1VBb2VkVkxhaW51THlPNzN6SFVod0ZJZ09UMjJ6cGVjaHpSLUhDYzRsNDVMNHBZSkJQRGVvSFEtQWhh?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Alma Preta Jornalismo: Festival em Pernambuco homenageia mulher negra escravizada e executada em praça pública",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQklwdDBpTjJoNGw2M2ZsdDBMV2RzY01pcmJoUG5VN1g4NWkzR3dnZzNmNF9xU09BQUp2Yl84ckUtNjBDTWJGejlsVENISlFEZk82Uy1GeVNyYkUzT3Z2OFBURi1BbGpnM1VOZGdxVEJuRjZrMEpoUmFPeUh3VzA3MmtDTVFRTG5HVlY0?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Em Pernambuco, aposta do Recife acerta a quina da Mega-Sena e leva mais de R$ 38 mil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEdiOFZkUUpwTHBsMHdMb0s1UzVXU2s1ZVRIS0ctUFVKRzRMOVBiRHVfSlJjZExmV083TUcyTEhLeVhDQ1Y4QjNMX2ZBek42VU1DSmZVZ0s2UnhKdFN3UjdXb0VJOEhlZ2x3Yzg2clNERTBiVTRwaFRrV0tFRlN4OWY1aTlhODVSUWVySlhua3lGYW9TcHNYQmswaE5VSlFyMTFNbTNvUWo4WUVPRVNCQzhVYWN1Mk5pZGZORQ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "ANDA - Agência de Notícias de Direitos Animais: Comerciante abre loja para acolher gatos durante onda de calor em Pernambuco - ANDA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0d6TDBsamQ3TUNZemJ2N0xic1lMY25YYmZyQlRTWW1vMERKNzQzclFfTUNyQ3RGTzB3WmtVT2p1bm9aSU5GNUtobnhzSDZ0MlFqcFp4Y0tCTlZLc1J1MjE4S0xYSWsta0pheUVod2QwTjNIakg1a2o1OFdDVFY2OWstbVBaRmFILW1kTTBjZ0VDMnFzSk1Kb0c5anY?oc=5"
+      "manchete": "Estadão: Filme exibido em Cannes abre Festival Internacional de Animação de Pernambuco; saiba mais",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWhkeFo2RVF0SFhweFp5ZEJBS0x5Xy1DaUhCNnB3WFhqeDR2LUhBQnFLWGExaTVKVFYtNk1ZdjR4MHBLcWZQQ2s1Z0tsNVFDRHo5Vk9fcnZEbHdITXJESmN1REJ3MTI1YTJyd3ZzSjFQZTdTbG10UjBIbFl1dEpzVG5KQlZFQmh3bDJQVHhMOUhGQW1ubkN2RE9FRUhOWnU3d0dUczZ1LVRYZlhIOFltX29IYnZTWklpSWlKVzVSRzdqN3R1SnM2alVueXBPdEZrQ09LcUpR?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Mega-Sena: aposta feita no Recife ganha prêmio de mais de R$ 38 mil na quina",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWWt2YllnT3F0S0NleG5OeTNFRHdWVmNWMnFtVHZodkc4VTVxMTk2TDIxNnVzRi1CMTBLdXY5aUhGaHdqQ1pxS2RrbEFlRmFYR3M4R3RrVGVfcURYMTZOR01VRmZjS3Fjc1lVQzg3RVhvWWw3NExSaW5hVmFLODVkVWNEZjZnVExqQlNFd19jSER4cDJOdk1hSFFKdlRqb1pvelVaOW9WbU16SldFcV84WUpVXzRrY2Y1NTZVN2tlNHQtcExXclRRblVTWEkzTU3SAd4BQVVfeXFMT09Cbm1ZTzJ5WVdQVTFQdldSM1ZQTW9RTjhDRmpjeWxkc1lQQVZYRzc3QVFCZ1p3Wjk1a25xbDRJUlN1T041Z1VhWHN4bWhHa3hEdlFBQnlhWDNialY2U0VTWUNxOXlLdldMaC1kT0V2dWZ1VFRULU15X3dqaUxRdXpvSXJzcWgxa1Ffb21uQVNzMXJJSGotTC01c1NfNThRUkkwb1FyUks4VW9ZeEdRMk5sYWxsdVM4MTZ6Rjl2T0RfS2QtU1AydzRPcHktdW02Z0k5YlI3QjlnRVRnelRR?oc=5"
+      "manchete": "Terra: Bairro do Recife Antigo se agitou com Arrastão do Frevo e mais de 30 blocos líricos",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYmhQclE3VE5ua2k3dTdxRTQ1MDBCalY5UkdoU29fZWJnVDVXelQ3d0p3NlVKbmVUbUJjNGxzOWVhN25ZRlVuOU5yTVJ5Rll2NXBVVjlRMm0tNWk0dWNpLXh3WnEyU1ptWWpHWGdmc2NIdDVBOEMteHJhTGdvdkF5N1U0c1Y3VUhVWm9xN01lWFdDTkY0NEE3YzBaeFRFejY1LTluRVFxZlZBeUR6VnBXSGVoZXl0c0ZBSW9rSTNWN2FVT2lreGFCS0VqR3NNa2ZiZGp3Zl9PeGpMdDVvTktYTFppVjBIakZSVlJZc0NuRV95VkwzN21MZ2ZUONIB-wFBVV95cUxPYmhQclE3VE5ua2k3dTdxRTQ1MDBCalY5UkdoU29fZWJnVDVXelQ3d0p3NlVKbmVUbUJjNGxzOWVhN25ZRlVuOU5yTVJ5Rll2NXBVVjlRMm0tNWk0dWNpLXh3WnEyU1ptWWpHWGdmc2NIdDVBOEMteHJhTGdvdkF5N1U0c1Y3VUhVWm9xN01lWFdDTkY0NEE3YzBaeFRFejY1LTluRVFxZlZBeUR6VnBXSGVoZXl0c0ZBSW9rSTNWN2FVT2lreGFCS0VqR3NNa2ZiZGp3Zl9PeGpMdDVvTktYTFppVjBIakZSVlJZc0NuRV95VkwzN21MZ2ZUOA?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "band.com.br: Juliette casou em evento cheio de famosos de Recife",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWmFscjVVLUxVMGg2ellqZXlDaVRVNjdpRzFJMHNBenVsZEFSTkdYUTMxSEFSd0U3RWZWWDFMTk9UdmVjWmdxTkdBenVFM1dSam5qOG4yeWNZcXp3Q3lockV1XzY2RGJkMHhFQ0llMFNkLUdtci1JLW5IZFB1M1JUOE1DWFlENm1jTTJPUkFQUldtVEhKX1dmSmRha2wyRjh1UFRmaDlkOA?oc=5"
     },
     {
       "termo": "Recife",
@@ -201,46 +195,22 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTkFhN1FhME03X1EydEg0SG5zdzNOZG5ITnNRWXNZSWhZNk5HLUU3OThnZFBJZml6a0w2N0d2bGszNWpKWWxOTWhQVWdUTzExNnR6M0NBaGQ0OFJYOGlucGU1cUNENkhOTFN1Xy1ySV92R2ExZjc5REFRakctMVo5MGdnME95V2xlY1Axb3AzR3FFeUE1TkR2S2ZtVXNIczFDSFFLWmZZbkp1ZXVGeC12d25mTy1WOHM3RmRuSjlqajJVSlNQUTU2cHQwR3otUQ?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Música, humor e clima natalino em novembro do Teatro RioMar Recife",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOck1JQ0dnMEhvQTIwRjQyOXZOZzBFWG9lZjJhQ29yd0E0WmUwZGtQNU5STmw1QTN1eGhpZWQ2QlRnUDNET0ZqeVQ5N2w0cmsya2hRaVdnVzVhN1RtTkNHTHBCeTVmdXBUYmpWOTVsTzU4WDl5WlhwVDd0SUxSWGZpMkg3N0VoLWtEc284cjBmdHgwMExHQW1kNTdwTy1wUWJPTkRESl9B?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Arrastão do Frevo leva mais de 30 blocos líricos às ruas do Recife",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRnZyemw2UU15bzd0UE1yTVBla2hsREdSOHJLNVEzNnVkUzhXQV9nS00xT2lsNVZzMHZfYWxJZ25PN2NNSkVNc0NKdGJnX0x0b3kyZExweEV2bGNSX0xvT1dUTWZHdkplQnN6ODNKWkFRT3NiU2hBeGp3OTJyUnZtcE9HeFltb0hodzFDYmo2RnhRU2c1V0J3YVdjWFRwYnFwbmVRaFFwQ2tjOEJFQ0JjcFRYbEtLZTdiTzhuMVVYZV84TmVVS3g4ZUhlX0xQRWdVT1o2Zw?oc=5"
+      "manchete": "Portal NE9: Conheça o novo centro de distribuição da Shopee no Nordeste",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTF1V2tkTUF2MzhhQURpdVJhMFZXRTZSMm9YQmdtRjU0eDRPYXZUeVlzdnZGa3plUy13ZlhlekZ3c2VhY0ZJX2lUTnZTX2ZDT3FzSVN5RnV5VWJsV3k5QWt6VWMxWFl1dENkcGhBQzRtWGdnYnFPdDdHdWNHd29SYjduSGowTGZIQnRj0gGLAUFVX3lxTE9BMXVXa2RNQXYzOGFBRGl1UmEwVldFNlIyb1hCZ21GNTR4NE9hdlR5WXN2dkZremVTLXdmWGV6RndzZWFjRklfaVROdlNfZkNPcXNJU3lGdXlVYmxXeTlBa3pVYzFYWXV0Q2RwaEFDNG1YZ2dicU90N0d1Y0d3b1JiN25IajBMZkhCdGM?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Mercado e Eventos: Do beach club à suíte presidencial: veja 50 fotos do novo Vila Galé Reserva do Paiva",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdGJsMDVsZ18zNWR1X1RYalhoelVvbk8wRmZMVFFsSDJObkQ5RWIwc1RFRi12bkFjS0lyQmVaQXVTZWZSUkNHZkpOU2FoQjZFM3M2M2E3Yi1oS1JiREpoaWhySmhGbnBJVUtTeWNuWjNJQXNBaklCRHBOdnB0b2ZpOGd3QXFlT2tETS1IWHE4M0RqVXlXRUxLcnBDQUIwTG1RazRYMGZqUHlMU01PcFpleTJxZ1BwMDI4QTd4QlpvN3RsLWM1NXA2ajNhanFmdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWEZueFlUTUJGU1IwYUloSzFMb2JvMERTaHhOVWtwVDg3MnNuaVlVaUgycjN5b240ZnRGOGVoTEowX1pGZEJ3SFMzQXBlalptMkZYVEpFSHloM1B6Sm1XelRCMDQ1LUZtR2RCa29rYnVSdlhmS2pkUU55UHJyYmFlTE9aUXU2TEIwU1pjYjhGT1NKMFVrWnhKbHZwSzBfbTFRQTd6VHp3NDdkY2did05LdHoxa3pOZTRlUHctS3pVT2czZ1NFYjFSTUdPUQ?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Ricardo Antunes: Vila Galé, rede portuguesa que comprou o antigo Sheraton da Reserva do Paiva, reabre o hotel fechado desde 2020",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDN5dXV6c1phb1JmVC1DWVdaczhRUkVvWWJGV2RfOHN0aGtwTllPQXZ0MFNtUFllN2tHUWNIUUVNb2c5XzJzY3dWYUZyam16QlFudTF5enVCN0otN1lCcFZNdElYZmpVWU0zYi1fRGlTTUt3UHB6blhyaDMxVjBCQi1qU0tPY3pYbV9tWGR5TVdOdXJQamQ5UWpPbTVDUFE5ZDF0TDFyZ1Rub2tkMENrOWdRZHVPS2hHTS1jZzBSdXlVdVM4bVhoOU03d0Y4dFRXb2Jn?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "A TARDE: Novo hotel no Nordeste amplia aposta no turismo de negócios",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZk5VQnp5WklEVVFwbDZVekF0b0VfRmpocWlTNFd4d3Mwc1VTMzRqMFFiRnhGU0o1c0Z1aUpRYzQzMGlUdlJCRkxnZU5VeUd5bXB0WWFEN0V0andJck55czZjazhLMW9vYTVtSmRndFA4Sjl6cjBjMERweXR0Q1lmVHJ1WnEtSjNMS1ktZVhsRWFoSUtUZWJieFNOeDFhUdIBpgFBVV95cUxQTmEzc1E5b3RsNnBkc1BFOGlRVGlaVE5hcXFxRUc1dHBuXzZhYXpSbk9IMW16dlhjR20yMnNvQWtjUXZPSWRLUzJvYk9kT2FHUDlwa1VxVXdKTzlCZFJkaHZ4ZWxGX0FOMmt2SGJVeXNIV2Y3MUptWTU4cnZqbU9LN19fck1mZGpGbEN4SHkwd2Mya004dWJDNEF6S2FXWXFjSjRoTUJR?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Paraíba Business: Vila Galé inaugura resort no Paiva e mantém expectativa em João Pessoa",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHN4M3c1WHhRaDJRTEhtc3dhYzNhRTV1TVlUQVMxNi1Iemw4RlBDTTNrelhDMEpBNDdZcWR6cWRuT1NVdV9YQ0t3YXA2bnZWNTNpcW5ZRzNRWVlObm5mVmItUTIxNmJQaTBsMU8zdDdjNmlYWGtwZjZTdE5oaXlXckhYdFJabTNkUlVLazRMWXVPTzFlX3o5THJ5cjFONG9Pc1hEOQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Vinicius Castello projeta candidatura à prefeitura de Olinda em 2028",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONkNYeTlCTzR5cnVVeE9YQ3FzMVdEREl5SXpsWUJDSlg1VUpuVTV1VW13RTg0NFNINDQxZTdQX3Bfck80VkdFUGQ0SUQ5dW1rd1ZDNFN3TG5faU8xMjctblpTODhIUTZhTG5rQS1ETWk4VmdPUl9aSDlxV2s3c25PSXdCcklhQWJRa0NoVU9JYXUxd3pYbnRWSGh0Ung?oc=5"
+      "manchete": "Blog do Magno: 2 de novembro de 2026",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41bEdCUEpieTlqeERLQzBQSEZoUXJLU1FFZ2NzeUY2NGx6SUtrUXlLRGlxUzFXeHI2S0c2YWJJcDY4MVo5VFFOSXduMzR3T2s?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -253,84 +223,12 @@
       "volume": "Últimas 12h",
       "manchete": "Blog do Didi Galvão: Principal desafio político de Lula vai ser preparar um sucessor",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ2Nyc21iUzYzUVZiQmJ3dzUwRU5BQzVEd29MRnNKM3gzV0tXODREbE1UTVRLMFpnM3JiWVdXcVFXYU1WR3VkRXBUQmhuWFBMZW9hb0I3bmUtLVdFNG5xVkYyREc1NUxGdGZtaENKbFVVREp6S1ZXTjZKTHlIZnBRQUdhZURtLTRIdmZmQkFWb0Y5MWky?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "bra1.com.br: Lula vai formar seu novo time; veja nomes em disputa para ministérios chave",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQnpFVGRDQ0ZaVkhxWHlJT2M4dHAzTEhCUWNuaGE0dDBKVEF3NlNYY1JMZWp0MjktRkJVQWRyV1RRR0JPYUh3X2I1dUgwVnpfbHMwNUhKYy15TlN3WjNyQXNLcU50UnFnalRQeXlzaUlVRjlkTzYwMDVVeHFfNFEzZmxYQjVjODlwNXdMVHQ2VzZHX2xNNFQ4NFVEbm00V2E4aTJ5RmdfVnEyN0ttZG9BT3NvZlZpRktGdXc?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Repórter Maceió: Ministério da Segurança Pública surge como destaque nas especulações sobre novos nomes no governo Lula após sua reeleição e viagens internacionais programadas.",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcV96NENoM1M5MjFmYk12VFpnRzhTZUVHOEZFWGRreS0tU0FDOWhkMEo3TzlDdVVKV00xTnNQeE15V0M4MTAyTjJjYjBvLVM3Rm1jRGlFX2Vtb3F4ZWRsTGxEUzl6U0ZJUXh3aE9qUjVHVjFkY2xQN2puNmR6cTNJblBLZ1dwY0Vma0EzMC16SEQwcWhWVk9hNG9RaXRVOC1fczFTa3dORHhaVE5PQ1hEek5Ld0ZFb0JxSVNFV01vN2tlb2hDUi1pSlFiUm5FZlk4RlZmNWlYSWgtVzViVExxbTV3d2Y3dGhVbm1yUkJ1Rm8yYXU4cm1YS25aY05tYzl6NUctZGdMVlJKS2VWeDhDR0V5aGNpMF9PbkU5MXJn?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Fonteles",
-      "razao_aumento": 111.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-11-01T14:57:06Z",
-        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Camilo",
-      "razao_aumento": 111.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-11-01T14:57:06Z",
-        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Santana",
-      "razao_aumento": 111.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-11-01T14:57:06Z",
-        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Camilo Santana",
-      "razao_aumento": 111.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-11-01T14:57:06Z",
-        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "equipe ministerial",
-      "razao_aumento": 111.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Gazeta do Povo",
-        "hora": "2026-11-01T13:00:00Z",
-        "titulo": "“Desempregados” devem integrar equipe ministerial do Lula 4",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGl3ZkkxSzdWdmJuaUtfVVRyRkJHemRVQXZoZ0JLS2hPeTR0MkZrMEJ0aFRseVZmYmVIS3JOa0NMWGZ0OC1vSzdZNjBEZURnX0hsb2Q5NjF1d2ktVUYtLWR5Q3I3c3BlWGtkbGlicHBzOUhsN00zVHAtVlFtWTRWT2FlT2VVLUFaV1VJdEd2TTM1dGl2ZERuTjFVTV9zM0VQQkFNSXhoYjlBS3NObGNCWFpmTFJac09oamszbEs0NldsWGNuRDVVZG15RHE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
       "termo": "vira médica",
-      "razao_aumento": 111.1,
+      "razao_aumento": 125.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Só Notícia Boa",
@@ -342,7 +240,7 @@
     },
     {
       "termo": "trabalha há",
-      "razao_aumento": 111.1,
+      "razao_aumento": 125.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Só Notícia Boa",
@@ -353,14 +251,74 @@
       }
     },
     {
-      "termo": "nenhum programa",
-      "razao_aumento": 105.3,
+      "termo": "Ex agente",
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-11-01T20:01:54Z",
-        "titulo": "Lula diz que não encerrará nenhum programa social e pode criar novos",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2JyQkk0MmxLR01Cd1VFd1NaZE1FVFo0ZXN5SlhXZXpFZ1BwNG9XSUpSeU1pbWhpRW1ka05HdkRBSFlQS0p3d3A3ZlVvZWxKcm1XWF9tUmltaGQ5M2JpNFh5MjV1TWxSdWg4VkR0RzQ3OGNKUEs2djJXVmtuYkl2M09nWENKam5DVGZ2U3ZmNnR0a1JaZjdsZTFYclhsRXRka2xINmpfVmdydlN6eWpacEJlUUU3bEV4VnMtRDFnTUFDQdIB0AFBVV95cUxNei1yRVNCRXNBTWJBdm5OOV91OFBzYldibllZcElNaGRLUlBmRzFWbGV6OFp1WVF0aXdQX1hiUllVU3h2RUVUR2ViclpTNEdzdEtmczVxTlR1YjVEblF5aGtwdTNZYXRsem5xem1PUG5WdGFUREpuNWNoZkE5Z0lsSkQxRGRtWWs0RzRlQmFrbE90a2YwNmMzLWlTalhmb0Y5cHNJUU9DVkw1RGx1ZnQ0c2FIcWo3NjBFclppb1ZySzdpcW80UXo1WG9uZGNXYTlM?oc=5",
+        "fonte": "Opera Mundi",
+        "hora": "2026-11-01T14:06:17Z",
+        "titulo": "Ex-agente do Mossad teria ajudado Flávio Bolsonaro a fugir do Brasil, afirma jornal",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmtuYXMzWWNLbXBSZWtLcHZDS3FMV3cyOTcyaTczUk5BMkNBZWJFd29aRFdBc0dyQ25oLWJCS0NEOFVFMnFrdDA2akNDMXpJcWZGNnE4N1lIT1BjOGtfb2xHRVlfcDVsc0dBaFNORzVVNUN3MlNJZXlTdVJ1RE5jRTI2bHBpQUw4Y2M0cGZpZ256TExvOWFaSkI3TVUxekJrOXp2VWRucDhRMU9idXZTbXBoUW96SU1SR1RnaQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Globo",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Portal VV8",
+        "hora": "2026-11-01T23:09:58Z",
+        "titulo": "Flávio Bolsonaro critica TV Globo e contesta medidas judiciais em nota pública",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzRESmZaRk8yc0JxRk9COUs0R1c4MUUzZnlVSFIxX0xNZzZ4SmNqRDZVVENOMlM0MVhId0JqT2J4eXVkYkdLOUFCU24yNnFxUkFkNVZ1ajJoc1AtdUhkWUVIRzFmYnROQlg4eHBRRVFYaGpGcTlXWHZFbjVrR2NuQVQtdTRfVldxVmZZTUhET0dZVEgwMll3LVc3NjA2VDdRb3pacnBUXzcwaENCa0tfeEpyRm1TVHhU?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Fonteles",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-01T14:57:06Z",
+        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Camilo",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-01T14:57:06Z",
+        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Camilo Santana",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-01T14:57:06Z",
+        "titulo": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQnBrT2ZzRkNVcG5ObXNETVktRkZoa3AtLW5Bb0l3Y212bWs1eWxBUlRhV0drVkVhaWtIeTl6eEpNZ3BEYVVvbF9Ta3hrNUkyMkZLMTB6cTRrNUZfZlNsd2hYRnhpckpNMEFBMUxZdnE0N19nUG5DaWFKRU5tNWZKeFRSYTltTDRIVE9yelM2X0xsTjQ5cHByYWFraWxKWF9DMS0wYXVXel91cGxXOGM5NldaUmgxSmJvN3hPUHFPcmg2Zy1hWGFrenppTm5GOE42RHR2Q1hSRGUzNnYtSGhYcFlyVUJmT0FoUVHSAfgBQVVfeXFMT1hTVzBTM2R2NXRjWDJSemxMTGllTkFUU2lTOTlnbzY4a2NZRXZkR054QlZGdFZwZlhaZ0lXT3FwcGcxOVFrNE4ySlJoU09jREpfaDd2UE1RMVhfeVRoLTE5Z1poWU9KVE5MTTc3VkF6TXNZRFZmVWVNeGsxTmc1Vm5BZ1hnNDBJX2JLenlpZkFQb2VYSVc0RmVVVnpUTEo3R1BCaWdabEtFUzZ6S18yRXU1Q1pKSWdmT2U5aWRiZF9XcU9tZlVYdTlheGZZM3pkczRpaE1KaVRzTG5FVWJLVkhSNlVNSV9sWEQwdnpWMTQ5c3RNbHpNem0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "equipe ministerial",
+      "razao_aumento": 81.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Gazeta do Povo",
+        "hora": "2026-11-01T13:00:00Z",
+        "titulo": "“Desempregados” devem integrar equipe ministerial do Lula 4",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGl3ZkkxSzdWdmJuaUtfVVRyRkJHemRVQXZoZ0JLS2hPeTR0MkZrMEJ0aFRseVZmYmVIS3JOa0NMWGZ0OC1vSzdZNjBEZURnX0hsb2Q5NjF1d2ktVUYtLWR5Q3I3c3BlWGtkbGlicHBzOUhsN00zVHAtVlFtWTRWT2FlT2VVLUFaV1VJdEd2TTM1dGl2ZERuTjFVTV9zM0VQQkFNSXhoYjlBS3NObGNCWFpmTFJac09oamszbEs0NldsWGNuRDVVZG15RHE?oc=5",
         "peso": 1.0
       }
     }
@@ -369,272 +327,272 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 29.06,
-      "fontes_distintas": 26
-    },
-    {
-      "termo": "Bolsonaro",
-      "peso_relativo": 79.1,
-      "fatia_pct": 22.98,
-      "fontes_distintas": 16
+      "fatia_pct": 27.76,
+      "fontes_distintas": 25
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 76.5,
-      "fatia_pct": 22.24,
+      "peso_relativo": 73.0,
+      "fatia_pct": 20.28,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "Bolsonaro",
+      "peso_relativo": 68.0,
+      "fatia_pct": 18.88,
       "fontes_distintas": 16
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 74.0,
-      "fatia_pct": 21.5,
+      "peso_relativo": 65.5,
+      "fatia_pct": 18.18,
       "fontes_distintas": 15
     },
     {
+      "termo": "Exército",
+      "peso_relativo": 21.9,
+      "fatia_pct": 6.08,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Exército do Lula",
+      "peso_relativo": 21.9,
+      "fatia_pct": 6.08,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Fantástico",
+      "peso_relativo": 21.9,
+      "fatia_pct": 6.08,
+      "fontes_distintas": 4
+    },
+    {
       "termo": "João",
-      "peso_relativo": 20.4,
-      "fatia_pct": 5.93,
+      "peso_relativo": 20.2,
+      "fatia_pct": 5.59,
       "fontes_distintas": 8
     },
     {
       "termo": "Campos",
-      "peso_relativo": 20.4,
-      "fatia_pct": 5.93,
+      "peso_relativo": 20.2,
+      "fatia_pct": 5.59,
       "fontes_distintas": 8
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 20.4,
-      "fatia_pct": 5.93,
+      "peso_relativo": 20.2,
+      "fatia_pct": 5.59,
       "fontes_distintas": 8
     },
     {
-      "termo": "Trump",
-      "peso_relativo": 15.3,
-      "fatia_pct": 4.45,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Lyanco",
-      "peso_relativo": 15.3,
-      "fatia_pct": 4.45,
+      "termo": "Prova",
+      "peso_relativo": 15.1,
+      "fatia_pct": 4.2,
       "fontes_distintas": 1
     },
     {
-      "termo": "Leclerc",
-      "peso_relativo": 14.5,
-      "fatia_pct": 4.23,
+      "termo": "Fogo",
+      "peso_relativo": 15.1,
+      "fatia_pct": 4.2,
       "fontes_distintas": 1
     },
     {
-      "termo": "Kimi",
-      "peso_relativo": 13.8,
-      "fatia_pct": 4.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Antonelli",
-      "peso_relativo": 13.8,
-      "fatia_pct": 4.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Kimi Antonelli",
-      "peso_relativo": 13.8,
-      "fatia_pct": 4.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Exército",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Exército do Lula",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Fantástico",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Gomes",
-      "peso_relativo": 12.5,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Lewis",
-      "peso_relativo": 12.2,
-      "fatia_pct": 3.56,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Minda",
-      "peso_relativo": 11.5,
-      "fatia_pct": 3.34,
+      "termo": "Prova De Fogo",
+      "peso_relativo": 15.1,
+      "fatia_pct": 4.2,
       "fontes_distintas": 1
     },
     {
       "termo": "Lula No Fantastico",
-      "peso_relativo": 10.7,
-      "fatia_pct": 3.11,
+      "peso_relativo": 14.4,
+      "fatia_pct": 3.99,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mossad",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.85,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Fran",
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.78,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Esquerda",
+      "peso_relativo": 12.8,
+      "fatia_pct": 3.57,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 12.6,
+      "fatia_pct": 3.5,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Gael",
+      "peso_relativo": 12.1,
+      "fatia_pct": 3.36,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lyanco",
+      "peso_relativo": 10.6,
+      "fatia_pct": 2.94,
       "fontes_distintas": 1
     },
     {
       "termo": "governo Lula",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.97,
+      "peso_relativo": 10.1,
+      "fatia_pct": 2.8,
       "fontes_distintas": 4
     },
     {
-      "termo": "PT",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "nenhum programa",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.97,
+      "termo": "Globo",
+      "peso_relativo": 10.1,
+      "fatia_pct": 2.8,
       "fontes_distintas": 4
     },
     {
-      "termo": "programa social",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "nenhum programa social",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 10.2,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Igor",
-      "peso_relativo": 9.9,
-      "fatia_pct": 2.89,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Igor Gomes",
-      "peso_relativo": 9.9,
-      "fatia_pct": 2.89,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Barba",
-      "peso_relativo": 9.2,
-      "fatia_pct": 2.67,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Verstappen",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.45,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "nome certo",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "termo": "Moraes",
+      "peso_relativo": 10.1,
+      "fatia_pct": 2.8,
       "fontes_distintas": 3
     },
     {
+      "termo": "Yaxel",
+      "peso_relativo": 9.8,
+      "fatia_pct": 2.73,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lendeborg",
+      "peso_relativo": 9.8,
+      "fatia_pct": 2.73,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Yaxel Lendeborg",
+      "peso_relativo": 9.8,
+      "fatia_pct": 2.73,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mayk",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.52,
+      "fontes_distintas": 1
+    },
+    {
       "termo": "Lara",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "peso_relativo": 8.3,
+      "fatia_pct": 2.31,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Lewis",
+      "peso_relativo": 8.3,
+      "fatia_pct": 2.31,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Kassab",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "nome certo",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Janones",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
       "fontes_distintas": 3
     },
     {
       "termo": "Resende",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
       "fontes_distintas": 3
     },
     {
       "termo": "Lara Resende",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
       "fontes_distintas": 3
     },
     {
-      "termo": "social será",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "termo": "fuga de Flávio",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
       "fontes_distintas": 3
     },
     {
-      "termo": "será extinto",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "termo": "Ex agente",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
       "fontes_distintas": 3
     },
     {
-      "termo": "programa social será",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "termo": "Trump",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
       "fontes_distintas": 3
     },
     {
-      "termo": "social será extinto",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 3
+      "termo": "Leclerc",
+      "peso_relativo": 7.6,
+      "fatia_pct": 2.1,
+      "fontes_distintas": 1
     },
     {
-      "termo": "redes sociais",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "termo": "United",
+      "peso_relativo": 6.8,
+      "fatia_pct": 1.89,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Now United",
+      "peso_relativo": 6.8,
+      "fatia_pct": 1.89,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Baia",
+      "peso_relativo": 6.0,
+      "fatia_pct": 1.68,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Eagles",
+      "peso_relativo": 5.3,
+      "fatia_pct": 1.47,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "mandato de Lula",
+      "peso_relativo": 5.0,
+      "fatia_pct": 1.4,
       "fontes_distintas": 2
     },
     {
-      "termo": "PL",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "termo": "considerado nome",
+      "peso_relativo": 5.0,
+      "fatia_pct": 1.4,
       "fontes_distintas": 2
     },
     {
-      "termo": "Moraes",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
+      "termo": "considerado nome certo",
+      "peso_relativo": 5.0,
+      "fatia_pct": 1.4,
       "fontes_distintas": 2
-    },
-    {
-      "termo": "ficar nos EUA",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "tempo que quiser",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Bolsonaro após",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Flávio Bolsonaro após",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 3
     }
   ]
 }
