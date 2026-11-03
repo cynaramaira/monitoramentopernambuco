@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-02T23:52:01Z",
-  "total_analisado": 102,
+  "atualizado_em": "2026-11-03T06:43:24Z",
+  "total_analisado": 103,
   "x_recife": [
     {
-      "termo": "Rodinei",
+      "termo": "#ApontaPeão",
       "posicao": 1,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Rodinei",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23ApontaPe%C3%A3o",
       "ruido": false
     },
     {
       "termo": "#assinalula",
       "posicao": 2,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=%23assinalula",
       "ruido": false
     },
     {
-      "termo": "#ANobrezaDoAmor",
+      "termo": "Sam Darnold",
       "posicao": 3,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23ANobrezaDoAmor",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Sam%20Darnold",
       "ruido": false
     },
     {
-      "termo": "#ArmySelcaDay",
+      "termo": "#BetsNuncaMais",
       "posicao": 4,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23ArmySelcaDay",
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23BetsNuncaMais",
       "ruido": false
     },
     {
-      "termo": "#iFoodNaKingsLeague",
+      "termo": "Bears",
       "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23iFoodNaKingsLeague",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Bears",
       "ruido": false
     },
     {
-      "termo": "Defesa Civil",
+      "termo": "Giannis",
       "posicao": 6,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Defesa%20Civil",
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Giannis",
       "ruido": false
     },
     {
-      "termo": "Fortaleza",
+      "termo": "Alfredo",
       "posicao": 7,
-      "variacao": "-2",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Fortaleza",
+      "url": "https://x.com/search?q=Alfredo",
       "ruido": false
     },
     {
-      "termo": "Ceará",
+      "termo": "Luka Doncic",
       "posicao": 8,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Cear%C3%A1",
+      "variacao": "+15",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Luka%20Doncic",
       "ruido": false
     },
     {
-      "termo": "Percy Jackson",
+      "termo": "Heat",
       "posicao": 9,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Percy%20Jackson",
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Heat",
       "ruido": false
     },
     {
-      "termo": "Picanha",
+      "termo": "Seahawks",
       "posicao": 10,
-      "variacao": "-3",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Picanha",
+      "url": "https://x.com/search?q=Seahawks",
       "ruido": false
     },
     {
-      "termo": "olivia",
+      "termo": "#NFLnaESPN",
       "posicao": 11,
-      "variacao": "-3",
+      "variacao": "-4",
       "direcao": "cai",
-      "url": "https://x.com/search?q=olivia",
+      "url": "https://x.com/search?q=%23NFLnaESPN",
       "ruido": false
     },
     {
-      "termo": "sabrina",
+      "termo": "#QuemCobrarNoBrasil",
       "posicao": 12,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23QuemCobrarNoBrasil",
+      "ruido": false
+    },
+    {
+      "termo": "Rony",
+      "posicao": 13,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=sabrina",
+      "url": "https://x.com/search?q=Rony",
       "ruido": false
     },
     {
-      "termo": "Athletic",
-      "posicao": 13,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Athletic",
-      "ruido": false
-    },
-    {
-      "termo": "Ritinha",
+      "termo": "Bissoli",
       "posicao": 14,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Bissoli",
+      "ruido": false
+    },
+    {
+      "termo": "Edna",
+      "posicao": 15,
       "variacao": "-5",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Ritinha",
+      "url": "https://x.com/search?q=Edna",
       "ruido": false
     },
     {
-      "termo": "Barreiro",
-      "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Barreiro",
-      "ruido": false
-    },
-    {
-      "termo": "Apolo",
+      "termo": "TEETEEPOR 2Y TOGETHER",
       "posicao": 16,
-      "variacao": "-2",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Apolo",
+      "url": "https://x.com/search?q=TEETEEPOR%202Y%20TOGETHER",
       "ruido": false
     },
     {
-      "termo": "Bobby",
+      "termo": "Seattle",
       "posicao": 17,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Bobby",
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Seattle",
       "ruido": false
     },
     {
-      "termo": "Melhorar",
+      "termo": "Fran",
       "posicao": 18,
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Fran",
+      "ruido": false
+    },
+    {
+      "termo": "Valeriy",
+      "posicao": 19,
+      "variacao": "+10",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Valeriy",
+      "ruido": false
+    },
+    {
+      "termo": "Lara Raj",
+      "posicao": 20,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Melhorar",
-      "ruido": false
-    },
-    {
-      "termo": "Ben Wang",
-      "posicao": 19,
-      "variacao": "-8",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Ben%20Wang",
-      "ruido": false
-    },
-    {
-      "termo": "Homem de Gelo",
-      "posicao": 20,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Homem%20de%20Gelo",
+      "url": "https://x.com/search?q=Lara%20Raj",
       "ruido": false
     }
   ],
@@ -167,62 +167,38 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Morre Adalberto Farias Cabral, pai do ex-deputado federal Danilo Cabral",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaTZYc0RmMFFFZE4xam5JcUVZUHlSMkFnbDNhcVVwZ1pjdTllaUppODM1aTNsc2JWWVNXM3hzY0xaWDVwdTR4cm5hbVB4ajBoOEdPZ2pwRGxKN09OWlRIZGVjdnJwWVN4RUlPcDc0bFRjWlNBcnZ4eE1nVmRrUXhuMnowLTR1Zk5YdWF4aDE0YmMxSDJJdVpQd2JLQ0d2MWxFaF9wbWE0WnU2cThPM1NDcVdKM0EtUy1nU00zOVo3OEVqTG9pUHRPTWdn0gHYAUFVX3lxTE5QckZtZHZxYTJzY2M0cko1d3RIMGpKTjVmSWVDODFPSkZ0cUFnRVFmTnlxX29IbFVHVFY3cUVBQ2ZRekNYa3JOUjZjb2w0WVdwMDF5b0psbGtySEFnam9XX0Myak9OcVB4dGZlZGVoQ2JlcEZPU2lESnJQN1dxcWZxMHVlYlhhekVvVlpwT2ZWR0xhOFRwX09NY3k5NDJNamRYbm82bEM1VUF3ZUNEbXJBUGw4WHFJekxHaVd1VnRTZVd4VU8yZDE5MWIyaDV3LWlTUmlxMDUyaQ?oc=5"
+      "manchete": "- Blog Dellas: Morar Bem Pernambuco viabiliza 92% das vendas na Feira de Imóveis de Caruaru -",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYTExX2hEMEV2R3RDUWxwem16dGxYWHNkZVlGQ09nNnE4aHM1ZV9OVmFuZmx5cmEzVm5jTktrV2dqUFVzZExmRnh5YkxVMGZSbjZrRWdhdFZNRTJoOF9GVHI5aVZib3IzZGNJY0E3UmdRUmw1V2hUaUJmS1BHVTJ0Z2otQUJWZ1hsaG9PeG51R1dZRnhxYkJpYTlfVDF1d2hHekRxeA?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Jamildo: Raquel Lyra reassume Governo de Pernambuco após missão na Europa",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUtkdEVSTjBtaFQ1U3dweVhrMnRQeFNZRzVuN0hmdXUzbXFUTzcwT084eHZsWXpncHRFLWVzN1pKUW5XeGl6a2lvZW85RGV2MXh0SU91bEZNazdEMGlYekdmRjF2MDdwQ294NUw5YWR4Ty1FalRxYzVlRHB1S3VDVzEyR0ZIY2cwRGJONTk0M1BMeWtTdXZSTVphSFFuNW5HMXFiQ9IBpAFBVV95cUxNTUtkdEVSTjBtaFQ1U3dweVhrMnRQeFNZRzVuN0hmdXUzbXFUTzcwT084eHZsWXpncHRFLWVzN1pKUW5XeGl6a2lvZW85RGV2MXh0SU91bEZNazdEMGlYekdmRjF2MDdwQ294NUw5YWR4Ty1FalRxYzVlRHB1S3VDVzEyR0ZIY2cwRGJONTk0M1BMeWtTdXZSTVphSFFuNW5HMXFiQw?oc=5"
+      "manchete": "Folha PE: Raquel Lyra reassume o governo de Pernambuco nesta terça-feira e mira a RMR",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHZSYldyY2YwVDFROTZoSWdGOE9ONG5tbHRLWFZuSU1SSHhTSXNYMnE1VHg5eGFLem90ZmpLY1Y3OHRkZkVfR2dZc0ZGT2dOU1I4Sk5VUWZjWDYyUVQ1b0p3NWJ6eS1NaDhTWjU4UEFDeEtrQ2FPakEzX2twZUt1dzBaWkxSeG13a3JEZWMyZ1pUU0E1VzVwbVMyLUtDM3ltREJ2cTZ4NmpMX3RocVhCYXN6VdIBtwFBVV95cUxPRmF6bFA4T21meEQ5YXlNcHg1SjB6dGtkT3M1UVdRdlM5cXVfdDNzbFhBQ3RXRzhaU1ZHeEsyamtmaHBkSGFnV1hzUHgyRG12S1IzdjJTakQzdHZMRVZISWY1UEJBd3lTQng0aFpVRUcxbDgzU3dWekdRZkstakJKMXFPVUhMRFBrM0JkYzVrbC1WOHhiaERCanp4U2lETEJqSWMwUnJRTzVCNWd1U0c0ZVBVaEptTXc?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Concursos em Pernambuco oferecem mais de 3,4 mil vagas com salários de até R$ 13,5 mil",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY29RaW1ybnFwYXkzS19PSWdUT056MzBoRFhOUFIzOUR2QVJBeHlfdXprd0hkR0JvS1czWUQzVHJ2X2JDR3I0NFRaejhQRkc0SXd1S3pxTFhKUjUxTjAzb21aNGFIX1dyUTVKeEJ2REp0ekc2cnc5UzFNVGliVE01WlA4Rkd6WlVoS3BMLS1BYngwbmFKR2NGLU51RUlPTkNMU1FWOE5KTWw5RW5aZnVMa0ZJSk5CaEVJbEVfOVJncGFQUDRGakRWQnpfSUxRb2syNy04bVVuUll1ei1hSFNfZjlmczlHa2l0VDJ1Sg?oc=5"
+      "manchete": "G1: Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOemtZTjlhWkNRVlRoOHJXWUZxekM4d2RmNm81MHRqVkNQd1FoZkx2Ml8xLVdGTHpPbW94SHhNQVlKckNDWHU3Wk9KT1poS3huRHFXQXRoOEJVNnJkeFZRSjJocGtNR0U5eTc2b1lkbDg0dEV1cVA1b2xLUE53a3NWcVBacDg5YThGRzVGMHNrQ3ZUdGUzRHRBazlVMTF5amhud1gyVnJVc1BnOXhoTE9OczZhbUh4T3ptejNpTTJJUEFZM2F2SWttd1JWd0o1UmlKWXlLdnpFYk5LYi1PMjh2dGJ4VldYakJCdkVDaDlIQ0NRMmFrRFFxRDBsQ2JDdEMyamo3bUNvTGMwa3dEc3JXMXVSZUZxYU1DcDdqakl2ZU5Ga29RRTE5ZtIBtwJBVV95cUxOOXlZbndfT2dISnVvYXhPWkpzMUc1dUEzWjFNQWlOWlI0SmM4X3JDUHlJYlUtbkxNbE96dVBjYkdWUXBRZUtDMEY0ZU1LNHFCNTRISFljWlpkTkpBUkdCdkJqYk5LaWg0UnYxd3BQaGJYbnVPVDdXOExqdXNfaTRqS1dfR1ZOcFhxM0stUFJzZlZnMHVqOTZpWjlGRmcyWTRmSGxLR0l6clFRMFdHMTFHSzdLc1AydllOWFRqXzJ5eTlWN1Z2eXdkVXhYMHZPYWM2YnRYdzloQlB3V19vVV93T2FSLXJjY1RQX2hNeWx4RTA3ME01WDM5Zkx2UWFfeksyVUxjcmV3THhqUDJ4d3dKYTN6a2VPb0Z1ZThOOGJWUWJySU85RVBsdWZiOVo0VktlLUZuUmMybw?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Coluna da segunda | João Campos ministro garante equilíbrio de forças em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2g0V1hPWVhrV2ViamRWTmplemxjbnlXLWQwOEFrdGNQSVRjZFFYTGR5QkFQUk01T3JrcmFMdGVwLTZScnpiTUc2MkxON2ZkeEZrOC1iRFltaUVpV1pEWnppZU9ScGREMEhBOHJjZVhESllmQkQ0ODFxT3U3RjFRbVBFci1EN3VZTUpLaFFMZWhNMlJyOTBYZEdaZVhMNUMxckxuS05Ibk90MzVOaFU0R0ZFdkduUWZkcmt2VmpOV0p3d0xqS3B4ai1SLU1GaTg?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Estadão: Filme exibido em Cannes abre Festival Internacional de Animação de Pernambuco; saiba mais",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWhkeFo2RVF0SFhweFp5ZEJBS0x5Xy1DaUhCNnB3WFhqeDR2LUhBQnFLWGExaTVKVFYtNk1ZdjR4MHBLcWZQQ2s1Z0tsNVFDRHo5Vk9fcnZEbHdITXJESmN1REJ3MTI1YTJyd3ZzSjFQZTdTbG10UjBIbFl1dEpzVG5KQlZFQmh3bDJQVHhMOUhGQW1ubkN2RE9FRUhOWnU3d0dUczZ1LVRYZlhIOFltX29IYnZTWklpSWlKVzVSRzdqN3R1SnM2alVueXBPdEZrQ09LcUpR?oc=5"
+      "manchete": "Folha de S.Paulo: Homem é assassinado durante ato que celebrava vitória de Lula no interior de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObm5vUGFRXzBqdWkwMkFEd1J0d3NuV2hqbGlzTVJycEltNTZ4Q2tiSzBpdWlsVjBpQ3UyUXpObUstNUVJMjNmTTY2OTJpSS1MYk5GeUh6cXNnUUNPTjFEYjlGblo2a3Bsc3NYakhOU18zQk5lSi16TW96R2lveDZMRzk1eHdMM0I4Tm11eFVpRXlFMjZnWFRtWXF4Um5hcHRzTUF4bFNGS1AzMmtzS2ZyRmtFWTA3N3lvQkgwdk03SkYwdlZFYnN0dWRyVkt6MWZvdDN0NlRfdUI?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Dois homens são baleados em carro alvejado no Recife; um deles morre e outro consegue dirigir até hospital",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQYWxLM3pxVV9kcHZudl9MVDFNcUNsdFhXM1NTbC1GLUREX0RNeEhDMEo4QnNmYVpQNGhHaDdERVIxbE9nR0lTUzhCbUJRZUpKSXI2bnVlSlU2VU1maFFMU0YwWk8zcEpERXNHSThiWTNoSzJZMC1qdGktWkF1Z1p1X1M0bjQyX3l4OW5MaGoxOE5YWFpNbmJ5MWRzdDh3ZzVzR0NnWmZ2bVNSV3VXbDZXcU10S25KbWczcWd1UGNpRUJJSjVKNEN4aGpndTdRdnJ6YzQ4OXhyXzRJMXJobEVUSE4xcF9JS2h5Xzc1VTB6ZE1DdmhlSGFUWUdobzUyM1BBTGlV0gGSAkFVX3lxTFAzV0wxWjd1bGlCQzB0dEp4MXZPb0c5SkVpNGw5LUZ5Y3M0Yjl1bkdNcGoyVFBXSkNIZU5EVVFreDRjZmNrSXRoVGYxRHdsOTZKX3NpWE5tdnZRaEVudWFTWEVyWlRlN29abXA5UlRiWWtKMWJERHJZM3dUa3pfVXVOQlU1aDAxQjVJVmNfYWp0MXk5Y3dMMEdIc241RFBfUzRJMU44NU9nT2stdEVFSk01NjYxdjM3YWxDdkJBOTNWU2RlNDFxN2pUeDA3WDVBTEN5X2JZd0NmQVRUQUhZTi1TMkFaMmNwMUwxdTAwQTExRDhkX0N5Z0MwUHhMWnhsV0I5WWVCRTJTRVF3ZTU4QkVrYkE?oc=5"
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbnBJcVNPcmdGanZHQzlXTGdjVUZPM1FFcTBtemhld3J4ZkhBSmlmQ3BuTlczcWlVWExvZ3c0Q1luRzMzV1FyU3NpblhxVVdzc0xpaGxJWFJuYzFIVVFTWnp6MGpJdG40akMxWmhBUDdCeVgzb2p1ZFFjWnU0LXRxYy1UWVZ0Q2pFbmh3cDk2eXNTal9sbWEwcERHRXg0aEhFS1FPU3pFTUJISU05X0JMSWVfM2I4NlhhQU8xTnJWSFZrZTN2dHZMOGczbXI4VlF2SlRQUjVsekZPSWhVN29QY0o0Q2ptN2NHSDR6T2stOUp1X2JFMWpwbUdseE9aVVpIRFRiVjBNLW_SAZcCQVVfeXFMTXZiR1oyMUJHemZkbzRIRV9JRWRYRG90SmFJeG5LX2JCTnlsWWhFRFZTTUl5cTdBcHplQVlKdVdkQVdIWUpMQl9NeDdWcHNjUDFzdEJJZ2FQa3hnM24zX3pnbVhndDlZVDY5TV9Rd05pbm13ZXdLLUVIVWVzSXlQTGxzUVJwUjZnNlhtSC1qTm5aMTE3OHlCOXJtd2J5YnpNWkdzSUY4bi1oNTAxSGFILXRxakhENGFuYXFTTGtEdkNPcFU3bWhIc2pHc1dDX1AtMkFDWUsxWmw3bVBhWlB2R19fV3ZSZDIwT1V1VHE0M3J4b1pvQW55SWpQM1NpNUZQRHdQYmVBR0pQMktYVWh6dmxzNmtEdl9Z?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Agência Brasil: REC'n'Play 2026 será palco de tecnologia e criatividade no Recife",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0NTV3A4SkJ1S3lsb2I3WXM2cHhxSHFBT0UwUXBkOW5MN2hXUmoyY0ZEX2otNk5HcW1Nal9KLXdUdmFfMF9pdjAxN3phcG9KS3dIUVZBMlI0YXR2WUlTZ0RzSTNSUHBmRzhDbW9jd2hpdXJfOGQ5Z0NnYkxzMkRiOXlVMnVkSWN2cTR0c05aNlhlTnZCdHkzYllSRkFNR0J5d3pGR1RzTE5Pczl6Ri0xRXlZY3JOOV9qTzM3UQ?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Doação de Brinquedos: faça sua doação no Natal dos Brinquedos RioMar",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0J6UEExQUMybEgzVFJBQjlpVnMwckhhM2t0VVQzQlZxNENOSnhvNms4RHBXSTBQUDlTNUJDc3Fsci0tSXJmSUFWb3RXVTh6YWs1VzltOG84YU1HdDMxNzdiUUZRaFNESE11WG1zZGpic1ZSdjBxN1MyVllnc0ZHUWlhQmJFeUx1QnI1THdBOUNWWDB3QlZoM1Y0YVcwcEF6WDRjNm1Namo?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Victor Marques se posiciona sobre polêmica envolvendo bandas da Virada Recife 2027",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlFJdXhuSGtwc2pHRmVUOUthSGh4N29YN0JkTGYyQkxfT3FHMWlRbmpjUHR6eVFrUVRxcFo0SVRDdUZtd3Jzc2dQamxYYS1DdGxWVWFnZjRyLVpaWjI2elBOdndaYlpxZmtDYndpdXFTU3RodjRVR1didnNCejNPZ3VaSlcxVVctMUE5eUJDVWsyQlo0dThnNmlFcVR5WXFpaUV6NnhhMnRBMjdEcDZQVFkyX3NlTkxYZWxhQ2NLQy1jVlpZTExINzVEaEJkM21CUWExVmJR?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Revista O Grito!: Entre afetos, memória e humor, Janela de Cinema encerra edição com Recife em evidência",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVAtam5tallvZEQyclByQ0JBZE5JdDZOc29IX3JPMEJldXVIaXBkMkZxbF9FOG1VMHVadXZHWjlVMVM1Y0hScXpSVV9zSzU1NVZYb3lsNVdVcE9lb0dmZG9ONmlfX3BESE1HZy1kWE95c2Rid19rWHBSejg5Yl9LNzZrX2FNajRpMHd2eUtUUDNsN19TbEhWVVVGSUFwOExrWGJjUmI5bWg4MWQ4QXU3Sg?oc=5"
+      "manchete": "- Blog Dellas: Prefeito do Recife reage a críticas sobre presença de artistas bolsonaristas no Réveillon e diz que o palanque foi desarmado -",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdmVFOW03MThKUFU3NXlScEdSSC1lX0tpcEVOVkpkR0dwVy1KNE9RZDhtNXlmWWJvRk82dk5Xbm9FcHN5WGRZR21uY3dndXI5OUlvNUNPWXhrTngxb0RQSVJyLXJ1VGg1djNhMUdVYkFsREkyN2dZVkZLR2FoenFfOUF3cnl2ZWttMllZWGQyMmNNaWhGbWxoM2VDdXFockJ3aF9GalZ2Vm9nQjI2a204eHRJRXZhN0dyaExGNmk5UkVBRlc1V3pNdEVRQ1o4MUVXS0lXVnlLQVYzVm04dUh0ZE5oak1CZw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -233,26 +209,8 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Finados: devoção popular à Menina Sem Nome e a personalidades marca feriado no Recife",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMk9yak4wanQtZGpGYXJlYWRDS3ZxMV9lWGlWNnRIc2ZmZ1R3TDBZMmpBVzJwQzRab2YwTnY1VzZpMnNPTVllc1gxTlZYaWpMTzFjU2Rxanc1ZDF1ZUNpeDFuQ21FcTBpclZoZzJJQmpMNGZsbGlWV25BWXFUVXBzSkFhMnVLOEg2b3NIYTAtU0RvY1E5ZUFjTnMxRmlDNmlEcndJRGczRUZ5c1c4dE1mdl9EU0ptVDhFSHNQMkk5cUFzODA5TjYzc0QtYlc2YWtZV3ZGaE95dmN1dVUxZFpKVmlRNXhtWm9tNS1maw?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "JC: Dia de Finados é marcado por homenagens, missas e manifestações de fé em cemitérios do Grande Recife",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLXBUZDdpWk9UbUFsQjdscXN1ZHFfUWg3WjY0X056NGdWNkhLUkFOcmdSZVZJdUt2RXBCZVdOaGpGdldNYmRsaDNybWJVRi1zSzBVdjVHTzJRYmhJNXRXU2xyRVhYNElWdjJvVWxtelgyOWNoRjR4cTVJSUR4cmg5RlJiVVRMLWxCRC1mUEU1MVphQVF1TjZ0Z3daSGhiNEtSVTJYRk8tS1FWbjdkOVo4bmZ0TU00d3VBdGxRVjFKcy05b0pkQU8zdWxUUVNnWTN2WkZ5SzJJd2ZSSjRlRl85T1Jn?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Drogasil tem obra embargada e recebe multa de quase R$ 130 mil após demolir imóvel na Zona Norte do Recife",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeC1wOHJJemJLTUczaGszSG9mYzBSZjVka2U0U3RCTDJsQnIydUJRWjJTREcxTlNSeTJQUkFPWHhyWWZCZ3F5eklxWmUtUlB0UXlmWEFBcllxYm9Lc3NyTDE3eXZUSUZhTDlFLTZPN3IySmt1ejlxMWJDMlplWktnR0tCUUFiS01WZlJNREg0dExUM1EzTDRxcWgwNDc1blVNRnRqa2tFWTYwWWQ2a2dEUGZxcXRtTXFENnlZ?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Alepe homenageia mulheres de Tejucupapo e lança nova temporada de podcast sobre história de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRjNKbXZOZnRUc2JnQWVoSG9GNzFWc3NjSHRGNEhFbGdNamRzRmtyUUxETmVXZVVnVU1lZ2lXenJKMmdDOVZhYjd2ZHBMS2RjNjhIZUJzRW9KV0JYQkg5NEw3eEtSVW5FTGtUalV1V215Y29uTU1yTm4yTjZJeDE5WXZQQmV5VF9WLTVieEtuT1N3eFFSaEhzSlFwRkMtSUdQei1TRXZsT2h3ZzZfczJLdFFPWDl4OXdGODVYcTVaUWFkaDNBVXpBd3B3?oc=5"
+      "manchete": "Terra: Dia de Finados: túmulo da Menina Sem Nome recebe devoção popular, no Recife",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQajQwNXVsMTlka2ZLZFJzWU5QZ0dpQjZFbjhla2c0bkprbnVBaXB6SEdqcXQ2UVdMUnhyWmJSSVhNY25ZcWc0aFgwNDJTWG9CUWd4RXZMcTJVOUJUV1Q2QzR5ekt1ZTk3QmZ4ZG9kQWY4MHhPazllUHhtODhXVUQ0SEltWUpwZVp2dTd0Z0gyYlBQbDktVHhFd0tsRW1LZUlTc19FMHVaSml3RVhnS2dzOXRpVFoxWVNULVVWN25LeUNaa3d5c3prS21DdVpYbUtRNzYzQmtReWRZOWx0cnMtT01qX095SmRlQTBJT18xMA?oc=5"
     },
     {
       "termo": "Alepe",
@@ -267,58 +225,28 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0xjTEZoZlU0RW1Vd0xJczdmTi0tQ3pFc1pxeC1TbGZZVjBzR0RjSVFaTzBncDlLdEQ2dTRRUHFpdzdvS1c1R0pIMXotenBlLThUS1Q5NlJSaWwzRFJBM1dWaGExTDEyM1dfUFBCdzQyckw1NkU4TVNBb1RoSHAtTmFTTVp2U0E1TzZyV1lDZDhxajJYRkFRS1A2dThQUzAtMEhORDZ1NWNsb3dvYnBTdFg0NA?oc=5"
     },
     {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "JC: Morre Adalberto Farias Cabral, ex-presidente do TCE-PE e ex-deputado estadual",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1dEYmlpN21aaEVOZU01Tk1wMEZYX1hudU90Ujh0bGVPT3ZsZ1o4ZE94ZlNRUnljSTZLOGYxSlNlSWYydWJCeTcxM04zeDUtZndXTElCNzhMQi1USlhZMTlETnBCNGR4ZkN1eVZEME00LTJ6TzhZYnQtdm95Ql96bmhTNm9lSElzcE9Cd0Q0QVI1MlVSWktMVnBmNTR3V05vOUZmR2RsVWZiMlhUdHhqWWtUX1VDZUlGM2llTXQ5bTI?oc=5"
-    },
-    {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Francês News: Feira de Imóveis de Caruaru fecha edição com R$ 182 milhões em negócios e 796 imóveis contabilizados",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOanJGNXpJNGc3REphYTFUS2FFcmNqWGZ1VGVWQXhocWkxd1EyQ3FCRzh4eE5Ia2RCWWJWNEo2eXVvZFZ0cmxtMmNhaXBFUnYzS1RSU2lTZmV4T0g0U3JYLUs0NDV6dV9ZM0N5NWZwSThvSmNVTFhiWXBwVmM2NHIxSl9hbHg0YWtybG0zY0FvRWxqWFB0MG1PZjRuR0I5X0wzMTRPRjFCMDlNcDEwMDJ5NnlvbHd0cXdOM1FxbGpGeGduazJkTDlsOGc2MDRCT01ZdXY5aE5lZThoQUgxb1dQb013?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Jamildo: Associação cobra Estado após novos hospitais suspenderem atendimento do Sassepe",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlJTQzhDdTZhZ3FYdFpHMHBibTM4SmhJbENzU0hLLWp3eElmal9DVFlKX3ZldFpmbHZkSWtDelFYNXM3WGx3YlVjV29ubmRMS2xaSzl2V19XTFJpSEplUnB5UzRUcm1uSjhDSEJ6ZEdoaFY4ZE5ma2lIaTVJak9FTGFZTXdYSnpWOEV1Nk45Tm9LaWRIR1VXeDhqd2VxWDJTVEtnTUx5clF4bWVSamRsX0NZVDNkWEVZMmfSAboBQVVfeXFMTkpSU0M4Q3U2YWdxWHRaRzBwYm0zOEpoSWxDc1NISy1qd3hJZmpfQ1RZSl92ZXRaZmx2ZElrQ3pRWDVzN1hsd2JVY1dvbm5kTEtsWks5dldfV0xSaUhKZVJweVM0VHJtbko4Q0hCemRHaGhWOGROZmtpSGk1SWpPRUxhWU13WEp6VjhFdTZOOU5vS2lkSEdVV3g4andlcVgyU1RLZ01MeXJReG1lUmpkbF9DWVQzZFhFWTJn?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Portal de Prefeitura: Governo de Pernambuco deposita R$ 211,4 milhões do BDE 2026 para mais de 39 mil servidores da Educação",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTkyVHFqa25WLW1SeTJZNHhVamVRTG15RkFTbExFdnZHWm9lSVRCZGNUV3ozdDVYU0pxX0lvb2xjZ21XVUlPVzQyeWRBZ3ZRZnpXSlR5dWZtdHZtektWbjBZVzNlQWlXYVBDQV9IN0x2ekRJblBWRmhoaVFyTmJaa2NJRzRFRWI4dENKWHFVZWFnd0ZZdURwdFkzSnR0X01ZQ2ZSODF2dVJaYVNuQ0xLcjN0a1ZBYTlHNWZhamRDTjNIUQ?oc=5"
+      "manchete": "PE Notícias: Associação cobra Estado após novos hospitais suspenderem atendimento do Sassepe",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWFpeWhRdFdEWERwcUNqdlRZTjE0ZDlkWGE4VElzT2pncUItMm51My01bWhabzhCZkFaOGxhT0lDRGNkYWR3anRjcnlRRzk4aWZyMExHUHhOR2tSejdOS2VRaXEtaWNZY2xVdVdVSnpzTnRNNVlZYnBXOGtzRG8yVWlOVGNMX05LcjA2RE5jVTlSdGFGM1o0ZlNvdkxpLU9QWHlkSDBRMmNFN25kZGNMVg?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Sassepe",
-      "razao_aumento": 100.0,
+      "termo": "Cabral",
+      "razao_aumento": 99.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Magno",
-        "hora": "2026-11-02T15:33:45Z",
-        "titulo": "Entidades cobram Raquel Lyra após suspensão de atendimentos do Sassepe em Caruaru e Arcoverde",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeld3azNYMlhDd2lzZXhCMmxKV0VFWUZKWThtQzI4YmZ5YllKZ29uQ3h6cDV3aXVmX3NyVVNJM0lxdUZhNjNDRDFEdWFvQ0FTelBvaUFlYkJ5c2hXVWt5Y21DdjhCN2k2bWJxRVFyMVd3RU5WVEhLRm1XYm9QYkR2UGhKNVdYR3BWUDdOenpqWmZ4ZFBFbkVlaGNaNEV3aGJMRjJINHg5a0NJN0xqbUl5cl91UE96dTRGQ3ExWndxRHV3SUl1?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "primeira aparição",
-      "razao_aumento": 98.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-11-02T11:58:02Z",
-        "titulo": "Flávio Bolsonaro vai a culto evangélico com mulher e Eduardo em primeira aparição pública após fuga para os EUA; veja vídeo",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONUc3WWEwLV8yS0tsWHZyWktzWGQ5REtvdXp2ZGZoLWJHRy1UOFdQbXhKWXpsU1VjaHdlTkxRX2lQellXTElvWlRwajZ5ZmxnZ3lWY052ZTByTWZPMC1HQ0JrZklOTE1fa1Y2NzFyMnh0NzkzMkFhTnJUNExxUWZYYkJ0dXhZNTJONUxVc3F0a05nTXJUTWtrTFlzWUJFejRHbFNFX2RvTVkxUGpESWhUQzJHTW1EUmRPWFozeEFLbGdWV3RobWN0VDJRZV93YUd0czlGRFFQSzZnbmVWaUNKbW9FVnljM3Jwb25KdUd2Y1V4QUZrczVxTzhaY245ZlXSAY4CQVVfeXFMUFhocUdEUTlacWJRMXB5bU9ScFh6NTVkSEN2ampzRjkwT04yejg0bFdEa2ltaU1OVS1JLU1qUF95dnVSQUIweUM4RnFaSnZHcUtiMmpTR3JXc1p5aTVwU2tpZ0xGclNweURsX2tpbkhwZHViWVZMenU1OW51U0g4dUdOZlA2UzBjU0hjc3Q2NW9CT1dqaXh0ckJpdWhfRHkyM1dleURlR0dSN2FrQmFDTnBZNDhHVVVFbU1SaW9udGJ0UjNUbEJkdC1SemNXYlNoT1I2alBUektuSUhCZy1aOTFsQkIyT0ZOeGJlYzNrYzNSMjlFTXFqLWF2T1lNODZqWWhsZi1JMVF2T3BNZUx3?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-02T17:17:57Z",
+        "titulo": "Morre Adalberto Farias Cabral, ex-presidente do TCE-PE e ex-deputado estadual",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1dEYmlpN21aaEVOZU01Tk1wMEZYX1hudU90Ujh0bGVPT3ZsZ1o4ZE94ZlNRUnljSTZLOGYxSlNlSWYydWJCeTcxM04zeDUtZndXTElCNzhMQi1USlhZMTlETnBCNGR4ZkN1eVZEME00LTJ6TzhZYnQtdm95Ql96bmhTNm9lSElzcE9Cd0Q0QVI1MlVSWktMVnBmNTR3V05vOUZmR2RsVWZiMlhUdHhqWWtUX1VDZUlGM2llTXQ5bTI?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Morre",
-      "razao_aumento": 89.3,
+      "razao_aumento": 91.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -330,7 +258,7 @@
     },
     {
       "termo": "Adalberto",
-      "razao_aumento": 89.3,
+      "razao_aumento": 91.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -341,8 +269,20 @@
       }
     },
     {
-      "termo": "Cabral",
-      "razao_aumento": 87.0,
+      "termo": "ex presidente",
+      "razao_aumento": 88.2,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JC",
+        "hora": "2026-11-02T17:17:57Z",
+        "titulo": "Morre Adalberto Farias Cabral, ex-presidente do TCE-PE e ex-deputado estadual",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1dEYmlpN21aaEVOZU01Tk1wMEZYX1hudU90Ujh0bGVPT3ZsZ1o4ZE94ZlNRUnljSTZLOGYxSlNlSWYydWJCeTcxM04zeDUtZndXTElCNzhMQi1USlhZMTlETnBCNGR4ZkN1eVZEME00LTJ6TzhZYnQtdm95Ql96bmhTNm9lSElzcE9Cd0Q0QVI1MlVSWktMVnBmNTR3V05vOUZmR2RsVWZiMlhUdHhqWWtUX1VDZUlGM2llTXQ5bTI?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "presidente do TCE",
+      "razao_aumento": 88.2,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -354,7 +294,7 @@
     },
     {
       "termo": "Farias",
-      "razao_aumento": 71.4,
+      "razao_aumento": 81.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -366,7 +306,7 @@
     },
     {
       "termo": "Morre Adalberto",
-      "razao_aumento": 71.4,
+      "razao_aumento": 81.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -378,7 +318,7 @@
     },
     {
       "termo": "Adalberto Farias",
-      "razao_aumento": 71.4,
+      "razao_aumento": 81.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -393,272 +333,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 22.07,
-      "fontes_distintas": 18
+      "fatia_pct": 19.18,
+      "fontes_distintas": 15
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 93.8,
-      "fatia_pct": 20.69,
-      "fontes_distintas": 18
+      "peso_relativo": 96.4,
+      "fatia_pct": 18.49,
+      "fontes_distintas": 15
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 93.8,
-      "fatia_pct": 20.69,
-      "fontes_distintas": 18
+      "peso_relativo": 96.4,
+      "fatia_pct": 18.49,
+      "fontes_distintas": 15
     },
     {
       "termo": "Lula",
-      "peso_relativo": 81.2,
-      "fatia_pct": 17.93,
-      "fontes_distintas": 20
-    },
-    {
-      "termo": "Defesa",
-      "peso_relativo": 23.4,
-      "fatia_pct": 5.17,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "STF",
-      "peso_relativo": 21.9,
-      "fatia_pct": 4.83,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Moraes",
-      "peso_relativo": 18.8,
-      "fatia_pct": 4.14,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 18.8,
-      "fatia_pct": 4.14,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Morre",
-      "peso_relativo": 18.8,
-      "fatia_pct": 4.14,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Adalberto",
-      "peso_relativo": 18.8,
-      "fatia_pct": 4.14,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Rodinei",
-      "peso_relativo": 18.8,
-      "fatia_pct": 4.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ANobreza",
-      "peso_relativo": 16.9,
-      "fatia_pct": 3.72,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Amor",
-      "peso_relativo": 16.9,
-      "fatia_pct": 3.72,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ANobreza Do Amor",
-      "peso_relativo": 16.9,
-      "fatia_pct": 3.72,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Army",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.52,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Selca",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.52,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Army Selca",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.52,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Selca Day",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.52,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Army Selca Day",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.52,
-      "fontes_distintas": 1
+      "peso_relativo": 82.1,
+      "fatia_pct": 15.75,
+      "fontes_distintas": 16
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 28.6,
+      "fatia_pct": 5.48,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 27.5,
+      "fatia_pct": 5.27,
+      "fontes_distintas": 6
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 21.4,
+      "fatia_pct": 4.11,
+      "fontes_distintas": 6
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
+      "peso_relativo": 21.4,
+      "fatia_pct": 4.11,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Moraes",
+      "peso_relativo": 21.4,
+      "fatia_pct": 4.11,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "STF",
+      "peso_relativo": 21.4,
+      "fatia_pct": 4.11,
       "fontes_distintas": 5
+    },
+    {
+      "termo": "Peão",
+      "peso_relativo": 21.4,
+      "fatia_pct": 4.11,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Darnold",
+      "peso_relativo": 19.3,
+      "fatia_pct": 3.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Sam Darnold",
+      "peso_relativo": 19.3,
+      "fatia_pct": 3.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bets",
+      "peso_relativo": 18.2,
+      "fatia_pct": 3.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Nunca",
+      "peso_relativo": 18.2,
+      "fatia_pct": 3.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bets Nunca",
+      "peso_relativo": 18.2,
+      "fatia_pct": 3.49,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Morre",
+      "peso_relativo": 17.9,
+      "fatia_pct": 3.42,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Adalberto",
+      "peso_relativo": 17.9,
+      "fatia_pct": 3.42,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Bears",
+      "peso_relativo": 17.1,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Giannis",
+      "peso_relativo": 16.1,
+      "fatia_pct": 3.08,
+      "fontes_distintas": 1
     },
     {
       "termo": "Lara",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
+      "peso_relativo": 15.4,
+      "fatia_pct": 2.95,
       "fontes_distintas": 5
+    },
+    {
+      "termo": "Alfredo",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.88,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Caruaru",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
     },
     {
       "termo": "Resende",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
     },
     {
       "termo": "Lara Resende",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "fuga de Flávio",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
     },
     {
       "termo": "Bolsonaro recorre",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
     },
     {
       "termo": "Flávio Bolsonaro recorre",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "primeira aparição",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
       "fontes_distintas": 4
     },
     {
       "termo": "culto evangélico",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 4
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 3
     },
     {
       "termo": "Farias",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
     },
     {
       "termo": "Cabral",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
     },
     {
       "termo": "Morre Adalberto",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
     },
     {
       "termo": "Adalberto Farias",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
     },
     {
       "termo": "Morre Adalberto Farias",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.45,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Food",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Kings",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "League",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "i Food",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Kings League",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Food Na Kings",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Civil",
-      "peso_relativo": 14.1,
-      "fatia_pct": 3.1,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Defesa Civil",
-      "peso_relativo": 14.1,
-      "fatia_pct": 3.1,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Fortaleza",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.9,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "fuga de Flávio",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.76,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
       "fontes_distintas": 4
     },
     {
-      "termo": "Ex agente",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.76,
+      "termo": "TCE",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
       "fontes_distintas": 4
+    },
+    {
+      "termo": "ex presidente",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "TCE PE",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "presidente do TCE",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Luka",
+      "peso_relativo": 13.9,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Doncic",
+      "peso_relativo": 13.9,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Luka Doncic",
+      "peso_relativo": 13.9,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Heat",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.47,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Seahawks",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.26,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Kassab",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.05,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 10.7,
+      "fatia_pct": 2.05,
+      "fontes_distintas": 3
     }
   ]
 }
