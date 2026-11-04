@@ -1,169 +1,175 @@
 {
-  "atualizado_em": "2026-11-04T16:16:10Z",
-  "total_analisado": 137,
+  "atualizado_em": "2026-11-04T22:12:19Z",
+  "total_analisado": 144,
   "x_recife": [
     {
-      "termo": "#EUADidTheL",
-      "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23EUADidTheL",
-      "ruido": false
-    },
-    {
-      "termo": "#49NÃOé50",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%2349N%C3%83O%C3%A950",
-      "ruido": false
-    },
-    {
       "termo": "Trump",
-      "posicao": 3,
+      "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=Trump",
       "ruido": false
     },
     {
-      "termo": "Texas",
+      "termo": "Valverde",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Valverde",
+      "ruido": false
+    },
+    {
+      "termo": "KitKat",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=KitKat",
+      "ruido": false
+    },
+    {
+      "termo": "Um Grand Break",
       "posicao": 4,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Texas",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Um%20Grand%20Break",
       "ruido": false
     },
     {
-      "termo": "Talarico",
+      "termo": "Lens",
       "posicao": 5,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Talarico",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Lens",
       "ruido": false
     },
     {
-      "termo": "#TheBolsonarosEffect",
+      "termo": "#LiveDaVitoriaAmanha",
       "posicao": 6,
-      "variacao": "-2",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23TheBolsonarosEffect",
+      "url": "https://x.com/search?q=%23LiveDaVitoriaAmanha",
       "ruido": false
     },
     {
       "termo": "Spotify",
       "posicao": 7,
-      "variacao": "+1",
-      "direcao": "sobe",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Spotify",
       "ruido": false
     },
     {
-      "termo": "Bianca Leclerc",
+      "termo": "Real Madrid",
       "posicao": 8,
-      "variacao": "-1",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Bianca%20Leclerc",
+      "url": "https://x.com/search?q=Real%20Madrid",
       "ruido": false
     },
     {
-      "termo": "Democratas",
+      "termo": "O Como",
       "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Democratas",
-      "ruido": false
-    },
-    {
-      "termo": "Tomorrowland",
-      "posicao": 10,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Tomorrowland",
-      "ruido": false
-    },
-    {
-      "termo": "Cornyn",
-      "posicao": 11,
-      "variacao": "+8",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Cornyn",
-      "ruido": false
-    },
-    {
-      "termo": "DESCONTOS",
-      "posicao": 12,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=DESCONTOS",
-      "ruido": false
-    },
-    {
-      "termo": "Danica",
-      "posicao": 13,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Danica",
-      "ruido": false
-    },
-    {
-      "termo": "Jorge",
-      "posicao": 14,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Jorge",
-      "ruido": false
-    },
-    {
-      "termo": "#StopBromanceGMMTV",
-      "posicao": 15,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=%23StopBromanceGMMTV",
+      "url": "https://x.com/search?q=O%20Como",
       "ruido": false
     },
     {
-      "termo": "Elsa",
-      "posicao": 16,
+      "termo": "Nico Paz",
+      "posicao": 10,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Nico%20Paz",
+      "ruido": false
+    },
+    {
+      "termo": "Interlagos",
+      "posicao": 11,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Elsa",
+      "url": "https://x.com/search?q=Interlagos",
       "ruido": false
     },
     {
-      "termo": "Cleiton",
-      "posicao": 17,
-      "variacao": "+3",
+      "termo": "Liverpool",
+      "posicao": 12,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Liverpool",
+      "ruido": false
+    },
+    {
+      "termo": "Bob Dylan",
+      "posicao": 13,
+      "variacao": "+7",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Cleiton",
+      "url": "https://x.com/search?q=Bob%20Dylan",
       "ruido": false
     },
     {
-      "termo": "#ScarletHeartUllaveeEP1",
-      "posicao": 18,
+      "termo": "Vini",
+      "posicao": 14,
       "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23ScarletHeartUllaveeEP1",
+      "url": "https://x.com/search?q=Vini",
       "ruido": false
     },
     {
-      "termo": "Zelda",
-      "posicao": 19,
-      "variacao": "+9",
+      "termo": "Adão e Eva",
+      "posicao": 15,
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Zelda",
+      "url": "https://x.com/search?q=Ad%C3%A3o%20e%20Eva",
       "ruido": false
     },
     {
-      "termo": "Caxias",
-      "posicao": 20,
-      "variacao": "-2",
+      "termo": "Mourinho",
+      "posicao": 16,
+      "variacao": "-6",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Caxias",
+      "url": "https://x.com/search?q=Mourinho",
+      "ruido": false
+    },
+    {
+      "termo": "#49NÃOé50",
+      "posicao": 17,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%2349N%C3%83O%C3%A950",
+      "ruido": false
+    },
+    {
+      "termo": "Japa",
+      "posicao": 18,
+      "variacao": "-5",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Japa",
+      "ruido": false
+    },
+    {
+      "termo": "Chapecó",
+      "posicao": 19,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Chapec%C3%B3",
+      "ruido": false
+    },
+    {
+      "termo": "#CasaDaChampions",
+      "posicao": 20,
+      "variacao": "-8",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23CasaDaChampions",
       "ruido": false
     }
   ],
   "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Instituto Federal do Sertão Pernambucano (IFSertãoPE): Campus Salgueiro sediará primeiro Encontro Estadual de Popularização da Ciência de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVGk2Wi01TFJnWk9UWlFRNXhRcWVnc1V0QTdRMlFKUktkZWc4VXJHQi1iNzJRbFJDQmk1UzZ0UjZoVDhxY2Fhb19Jd2xrTEIybHNWUFBMVVJqVDhmbWVLQS1tXzUxdm5kVkUySjNtYVFhVlVhVkJGZnBJdVBfeVB4M0xlS1NIaHA5Vk9NX0RucVhQMk14ek1RZ2txM1VraDhIVGlTbTlfZzFyOEo5ck16UXdPQkY3WXRTNFdvOXRvdUtKLVR2NjRDcEJBclQ3Nk1Vc1d5UC10YUg?oc=5"
+    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -173,56 +179,62 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Governo Federal: PF deflagra operação contra fraude em concurso público em Pernambuco — Polícia Federal",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM19Zd0tHaVl5Z1VtNWxSeUI2S0FiUS1tWHlmQXhsRGVNWGJYQ2dqVzVDekNiNkR6VkhESzhHTGs2Y1lHTWFwQVVVaFFIUC04ZlBJOTU5QXNVMENuMXMtRVN0VG1rcHQtRkdlSnFNSks0Nk1sN3BZUElkSi1kUEllNGxFSGg4ckQ4N0pPcTM5Q1RkTzdMSmljaWZTM0ZFNERmS2ptR2JFWW9wNkZTdzZkcVJoeFhELXZPTWlhbW5XSQ?oc=5"
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Comissão de Justiça aprova novo empréstimo de R$ 1,9 bilhão",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmp0cnZsNWU1N1NjZ1B2am5zb21MeHVyZmoxOTQ4b1lMWW1lRTEzeDVZTDI3WENtTG9PaldYcEswSEdVZ01GS2VBdGhVVHU3VkJTaGpmQ0RBVEdxZkxtdnJ4cE83bHNzbW1mU1JmZ3NNUmdnbUFVRzkxOGh1aWNxa04xUlNLMjJXNlN4TlIwOUJrRjg2UzNVNWNDc2w?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "CBN Caruaru: Pernambuco lança edital do concurso público da Polícia Penal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1JockxtdHYxT1d0dFd4cXdkZzhxdElYRlNLQnJna1ZqWTl4ems4QUVVTmRoMER5NE5zS2RnUV9LXy1yQ1NQdkc4RzVaNG9kS3dZSU1XMjVDZzdRc3ExUTRJMGZxUXpMdmFTdjlEblFmekpRcjgyeEZjWE9zYjd4cVFXQzZaX2FUQXEtREJ2QUxOSmM3TzVyR2tiRQ?oc=5"
+      "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): Pernambuco encerra os Jogos da Juventude 2026 entre os sete melhores no quadro de medalhas",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWVydlhZWUNuMFJhUFhCRGkyUkxSOVpBSDkzVGE3X1hUdUNBZk1taUY2c2ZLT2F3dDl3S19EV3YyaVJlNlYyemNQaVl1S3hQaDBsWG1Da2lUMDVEajFKeGpvaGJqMm0teUkxb3dLVXZlUzVvbnAtQmUxcEU5MDZIV2E1SXR5b2U5RmNoaHAyMmFYYloxSTI5UHZ5UzdQcU1VeVBHY3A4b1JIZEM5bHQyeHIxekZFMmdqTUJ0dDNGV2JJaXc?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Quero Bolsa: Polícia Penal de Pernambuco lança concurso com 700 vagas; veja quem pode participar",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XbHFsWk5UVW8wX3RwSTZHRFNrdE9acTg5QU0yQ3hpdkR0N1N6OWN1anN5U0FJczJxNzM3V0hmU0RtMm1YRlhkdmljall6c252MUpxQlV1cXp1cGJTdDg0UEFmc2ZiNWk0R3U5NDY5cnVaZw?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "UOL Notícias: PF investiga fraude em concurso de universidade em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTG1qNktNUHB5NFFKYnpIOHdpdnM1QklQTHVuZmF3UjN0NWVKWjlwdGFBVzdBMU9uVkEwRlhXNnZzTXZxd0dWcE1rM3JzYlozUEx6OXJEUUlBYTE2ZUJya0U1azN2R2dTdVZrTXVTdV9SbGZieTY1OHNlaE5vZm5qdndjUEtqWVAwVjByenI5eS0wNEh4Q0tLWWZFRlc2NUFQY3lYVjllSGZXLXBNaDJrZ2JvaG1LNjNUc1ZKVG43bGRHVnVVNUxRbDRvd1c?oc=5"
+      "manchete": "Blog Cenário: Pernambuco lidera geração de empregos no Nordeste e fica em 2º no Brasil, aponta Caged",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0trU2pvMWdnME1YSzVmWU5GUWJaTW94dERmcXRBXzB3SVo1WW5CdnVodER5SHZ1LUhRN21LM1JoMWRDYjVqcDV2OHdyZDZqZWQ4MFhYWGlOU2pqczJLM1N2OUxtb0E2dHI3ZEFOalZDRFhrT2R6VGFGZVV3QUdoNmgwR1FJbDhXWFdrdGFBQWNyVjRBdVRtZUdBTlJfd1c4bG5nRS1HWXpRREZjZ1REOUpBOEc4UjVycW1VSU5hU0s?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Operação da Receita Federal apreende cigarros eletrônicos, celulares e relógios avaliados em R$ 870 mil no Recife",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONGwzdS10VW0zdUlvb2xueURScWFTNVppd3ktTFNNblQ4U3VrclJSLUZhb2NoVEFOOVJ5eVFNalI2UjlYWXYzYWRJeWxvMHlUTkFIWUhEYzV0WkVmYzZibG56Sll0MXo1bDJMQmRfVlREQTh2TG5vd05ibENKRG9GTy0wQ1ZRUElOdlpqcVhNSmZHdEtaVFE2ejRYQzFRbHBEdXVVLV9sMVBKZWNsR3ZoaDhvMXV0eVJxc1pkQXlTTlloYjk4Z0ZMenREYjhCSkxYWWNmSTNrVGYzZVJraXBlRW1B0gHwAUFVX3lxTFB1MWhEeTAwendfbExYTmppYTRtQmFIc0JMRzYyVDhjOGwtdHFuc3JkMGRWUDdtSHpQdjNWblRGSkZRSGdpSmN4Z3RRampTeTRUdE5KelkxRUd5M1Fjd2dKV0RuVV9VaVBoZXpMbmJZbTkxdVBMVjNqaVZERlo3d2VGZmQyWW9PV1Nvek42NndHUk5RV3dKS01NdDlUcFh5REcxN0UwSmREM3NtQlg0V25CUV9hc1h2TXVXeG53MXpualRzSGVPSDlraTBCZW5iMlFheURJMnNtTHJReHp1U2Myc01WeF9kTEloYlFBeURvTw?oc=5"
+      "manchete": "Prefeitura de Fortaleza: Atletas de projetos da Secel conquistam 36 medalhas no Open Recife de Jiu-Jitsu",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQmp3QVZ5MGhvSWRaV1N6ajdLSHRudjRsQUtUbnk1N0pwQy1FUm9DTUUxY08tNWRfQmRaVWlsb2otYjV2Y2EwbWhjZWEyc00zbHpST0c3dHRMN1ZuYzRVeVp1RndyV24waTY0YjZnUzI5cWJIUmZwTU1maFBOSHJEdnB6XzNaMXZSR0xrVnpUXzl0RmU4dXlvYVRkSU5DX1c0MGRGV3I2MlNLMHp3WnVFOEhpZWpZeEdncUdSUQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Jamildo: Prefeitura do Recife vai distribuir até R$ 15.200 em Bônus de Desempenho Educacional para 3,6 mil servidores",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORnBYRXlPM0JCQVdBWEZxR1VGVWJrWEVLNTliV0pSQjRza0lBZXdxek1XZ1hNNjFZMF9NZVVBdHczNDNLelY4RDBNY3VGazE0OWNRMnBTMlhFX25BbEFCVFE2XzJoMURqV2g0RkgxSERFaWZid3Y4QVpOVDlqTTE0Z3hnVUgzS1NvcHlPMFdUME43UlNtTW1DRU9tUENWRFMzNU1sWGVjbmxYdUtWaF9jdkROMGF1QVA4YWFzSXdDVkJBRHdRS1ZiTlptQk03R2tDWml0OExB0gHbAUFVX3lxTE9iQTNpV2EyOTZDemxxendKNGhaNGtpYUxzVUhsZDhUV2VtWkdUbjRJaW9peWctSVhlVjRqN1F2a21ENjByX0dONnNpSUQwOElwVFp6NFRVY2xERnJWU2VDQUlFbHRRREJ2bmZHM2V6ZGJJVjRhWDhGY0tGZF9xRHpGRC1weFVlV2JZUEczSnRxbTNpS3pwc1ZnQUtyUmJzTFpYeWVDQjFXbThRUkdjTzh6NWJPaWw4a2ZoNGhzRUJBZVE5bVc2djYtcWNlNmZfQkFTR1RRSUs5TDRKVQ?oc=5"
+      "manchete": "UOL Notícias: Carlos Madeiro: Recife e Fortaleza negam xenofobia de Jorge e Mateus, mas cancelam shows",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU3dTdjRfVW4yRUxGS3VwbDR2Z2ZRblpKOWYtNGRRLUdId01fQTdUMHhQblVJZHNGTWFMNkpEeThSekpEZDJqb19FYmJqamJ0dHNJUHNxRzNlV1JNRGpXZkxHZ0ZoV0JETnlySTZMZldBU2N6SHhoTVBVOWladG1XbDlfMXhvRC1udmN1Slk5RFlPaE15bExrb1RIOE5WR1lpS2N1SGd0RkV2Sm9zb2dWcjZtM091RVFRTm1VanlObzF1Y3laeWJNX2xfR0tnUnV2dnZkWE1Jcw?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Confira como foi a semana de estreia do Natal dos Brinquedos RioMar",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlRJUmpsUVNfa3lDenIxZjV0MUlpdXFzR1FZN0xrdTRqRDdGYVJUS3c4ZExZTkJEN2J6MnBmaG9vTWo0SzV6ZkhKVm1mb3Z2aWtKbHdLaXlrdmxYSkphMFpMME1tM1k2cldGUjd3WklHQ2RoYk5IRnU4VU9lN3hoV0VHTkc5cUpCdHRydG95NjFKdEYwa21JdnF3eEpmcjlJam1xY2N5UHQ?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "ICL Notícias: Fortaleza e Recife cancelam shows de Jorge & Mateus após críticas por apoio a Flávio Bolsonaro",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qZDNLc01fWUVTNjJZLVFUa3FUWlRfaVFSenpnbXB3eXBzWmJtUUxwR3liWUdmalhGcE9yc1hSWk05aGtIS2lDLXk2NDNKTy04Um9DcTllTWstNTJDQUdqS3g2RTNpX0ozampoSk9ralN6X0l1dkpzV2dKRQ?oc=5"
+      "manchete": "RioMar Recife: Programação do Natal Musical: confira a agenda dos próximos shows",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzAzUlY3aWpsM25oUEgzUXFuRWVjZDJtQVlGX2RPYmNIUFBJWEhyNm1JMGNpLXlyempISmV3d2w4NDBXOGgzVmpXekNBelJFaHpNSWgxQjB6a1pMN3JNMEdZbXVWTklSZzl1TDRmRjJPcFNEQTliLVRaSTRIYUdjWjJGcFFIME5ic1ZpcjU0ZHJkZy1KVk1VaUJ4RGdBTGJLWFpNeERXaFcwQQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "JC: Voto distrital pode melhorar representação da Região Metropolitana na eleição para deputado",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZzQwS0pjY25oQXZQNEFSaHlTUUJQb0lpVGpGTTdPUGVmc05IVlNWTW42bjIxRmN6NlRvVHVaOTRfbGNaX1N0eHY2T1hNdDV2Z2poaGVwTnFBMmZ4eVFSZUtSbklKR0ZWYkw4UnR0N2pTWXl1Y2ZnRUJuQ3ltVFZKQVdIZTZ1VlI1bzI4Ql9PREg0UzRrcS1PS1g0Qmp3VVV2bWhGVE80TzNTLW1Zb0pFb1FDMVpFRVBCYmQxN3g4blFUWjRFX1VqNjB3SEd1amtOZXRIbHBHOVRlSjR4d3djNHk0Zw?oc=5"
+      "manchete": "Nonada Jornalismo: Na cultura rato, jovens periféricos de Recife e região transformam insulto em identidade",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaG5TRFVfQzFhZEJWbE1obHJvWV9meEVlTUw3M0g2NXJndmRMZlU0NGlmREpxZDNrZ3pkV2VDWmtKTFdoMV9IcFo2VEJTdlNWSlFmUDZKWlktRHQ5ZzBWSjUxQTY4T3QtZXg1Wm12TXhCS21nRHVHSTFfcFdjdktHRkNIcDhpdDRSZDYySHM3d2Nzb0pRR1hpZ1ZQQmM5ckt3ZHZ6aDRXb1E5bFhoaVc5alZYanlvcXBpNVRfNFA2Zw?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Movimento Econômico: Grupo Sabará projeta mercado até 50% maior em 2033 com obras hídricas no Nordeste",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHp4cFJfejhVSzdfTGhna196ajJ1eTZPcVNfcFRQTFhpeEptVjRJSUpRdzNuS09BeEFlTXl5Njh5MElZUUVFTExOc0gwQ2tXdV9pZU5WN0lEYzdoQ0lYNXB6OVJJaXdjdUM4YWFnNFRyYk90QnlqQkMzYkZTMzlVWTBrb3RsVl9qWXUwdFlyRzBSRkJfMVhKYjlJOVVrMjZiTWl0b2xpeXM2QWpfb3diZDNKVVhyalN0QldmQnI0a2E4cVV3NXo3cTRZbTJtM0tidnhJ?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "JC: Viana e Moura beneficia mais de 400 famílias na entrega do Condomínio Jardim Monjope, em Igarassu",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNU8wRDVKMjlJOWpXR0N3c3M0amFLUk5aM1BrQ0xhMTBzblpabFJnSzZSUGNxZXpBUjlGSFRSQ0haZGRXZi1TQVRFanhpSmJOTXFCdVkxUVR1VHhMN2lvajF0YWpoYmlpbVA2VzJLOTBLVFNSdUVBeTVVY2RHaE9PeGZ0SC1KTEpDTTYxMG5pWjZaSVRVTkpEV2k3YjZNWHVPNTNiMlh0UVNESFFMSXRhaG1jYXpyb2xnOG9qSkN6MkJUNHB2elBoanBDbS1wWmlPOEtXUVhCaw?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Apac alerta para calor intenso e umidade muito baixa no Agreste e Sertão do estado",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV1VlVkk4Z3JsZ0ZQSWJNVDNDVHRoQ3dFeUx5elZScDZhejlOR0Zpek9vT3haMlVqWmhtSktDZERHbDk5aHB4TlBRbGF4ZENyWUEwMGlGajVhVW5rckxLU1A4eDdZVVB0WTJKYndRWlI2S2JkNEwwakQ1R0ZtZFRaQmtKbWVTcVdDQXoyR3VKMTZpUk9pWTlSNjl0R2xUQnlNcGktM0IzcjV1MGQ2d0szLW4xUm9aVTJWRWdWdl9wQWFBMk1rcWRwWVRSMzM2ZWYydEZPSEo2NS1OS09uQWdWZEhYcWFNRWVZRmQycg?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -231,64 +243,82 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVGpzR0dpLVV2eDRkMkpEdFZDXzVSRWk1M25aMTlMU2Qtc1VXMmd6RXpZV18xTS13YmplZ2NWaXdhamFSeGtBZkw0LU1TRnZ4TkRKejJuRDFKS2NEM2oxU3MtTjZPZFROWnBFdmVUUDZBUG5STDZJY2JnRElCdTRMWXo1RERCSVdITXRNR1JlenlGaUhEVWJ5d1FBWVNMS3g1WWV2a01hZlJIdkpkV1NEclcxYldkZjFqbjBmNVJKenlRM3hPblRtT0xtc2JpMmNzdGdfblhiVFBjelljSWdvdUYtOXFOQnVnc1Vrb2o1WS1OOWkwV3owbGppVi0wdnhBcE1wRQ?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "JC: Shopee expande rede logística com novo CD em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUxhVHpBUlhQYlRUU2JRLWdtOGw4aTUxVVRHaVk0N1lzRmtkS2xIQWFreWJkNUR0UEVhVFdXNzFqRkpyQUU0QmxUSkRsVjRMUy1Senp2cGQ3Nl9IeWNnaEZCd3ZzNjdMX2s1UVFLa2w3OVlpTWpPUFg1azFDU1pmUUxFeEFHb0t3Z01RcUlfVWs4T2ZIdm9fWENVb3FzQTRTb1A0NFRFZWxTTFh2OVdqd2RUeXJBQmc?oc=5"
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Assista ao vivo a reunião plenária desta quarta (4)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEpGalJHcTMxUUJ4eGd0TzMzVUwxaU15T0FpeFZKYVpEYzV3TVhNQWFTV1kzV1l2Z3FBMWwxOG1iYi1ZUjhoVUhGcHdwS1lKU2xCTVBaU2NMb3hsb0pmMl9EeFpsVzNsS01LSzF0QmZCVWlWSWE3SDhMa01yWVpIQXhjZ2tsNWw2V1U5djVBRnE4dw?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Márcio Didier: Na Alepe, deputados ansiosos e o tempo de Raquel",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pWExNaGFDblRnQ3JjRlpON1dfZUdmbVBlN29YMmpyMVpYa2JyVDdoSFlwODIwTWhuSWgxeTBiU3lyYVIxdGItNUhsREd4dmcwemNIRE9vQ3k1S3V1ZGRpM2dYSFpPVHMtTGdTOUlKbUlKZ28?oc=5"
+      "manchete": "Jamildo: Empréstimo de quase R$ 2 bilhões é aprovado por unanimidade na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWtvUHFBVFNPZ0ZpVnktZkhubjRDVmV5X2pkdUd4VlJuWE9YYi1MaXVSc1BIUVlORGZaYzJPQXNEMnByYXZxbXVPYzZWMVJCNVNWYk8yVVFJTkJSV3FvSURsejY3ZWtrdjI1MFF3WXh2Ul9lV3VPcGpaY2JCY2R1WHNXT19aeXhDdnBjRjh1TUY0am5nUFg1UnJaUVEtTTFNXzVV0gGoAUFVX3lxTE5PYVdjUk92V1JmQ1B0NUJ5aUxaeDRVNzhDdTB6Y1JjbHBRUHV4ZGlVTnpWOG1pZkJ4VDZpN3RKWmlkZWpZOUN4WXN1YS1uQ0xZQVA1VDVJNERhdVlUb3U4NEVuaU00VUo3S2ZQX2xQcVQ3enZLcDg3VVhwSEhBTHdxZkJnNFhwMEhiWDVVY3ZWTFlIejhKVzA5R0NFNFE0N3hScnZjQTRSVQ?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "- Blog Dellas: Alepe autoriza Governo de Pernambuco a contratar empréstimo de R$ 1,9 bilhão -",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEo1YXI4TFVrREpjQUUweVF1Mk1TNTBOcE9EQlVORDFKb1BiOHJOYVc1OUN0Vm5rWXZvbHZHYnpnM2Z0NGZwR0FEOXRaNlhaWll5cXZEdjFvcEtyZG5RR2V5cFgzWVdQcFhKOHhaSHB4bmRaeTBvd3hhVzJERDloQmNMM1RSU0d4cnNIdy1FdFVDbEl4WVdKR1h4ajd6b08wYVJV?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog Cenário: Alepe aprova empréstimo de até R$ 1,9 bilhão para o Governo de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTlleDJtNmdvLTFjYkJ4TFgxcVlCcTltVVJ4ZGU4YXhZdzR2YzgxbkNEZHdEaktRdDZRQ3RQMWRCSzVwUG5hMUlySmNzQ2pZU0pTVGcwNmc3eU5UN3RfTW8yQVZZalpFR0haa3pXTW9oOHNzQ3BXSnRnQTFmZVBwc2xNcXdzUS1iR1EwUFNtWl9IVklCMDVReDB5bGstc2tuWkZhN2hMUV9VM1pqVkE?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "CBN Recife: Alepe libera empréstimo de 1,9 bilhão para o Governo de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpPeFdXaXhlbGFpRjR2OTU4LW03VGxNbVpXb1pGM20tYVlJVUxKTVhxN0dIRFlROE1MeFlNYWU0UWQ1c0hPbDQtc1dON0FQdFVsUF9oU3ZBdHlWTDQzRXgzQ0F3WHJKbjlLcmlKQ1RFUER3OXVvQ1FwNGVZclVoUEh6YkRCMUlnQlBQYWtJRHZOOEw2MS14NXJZT3ppQmdvVUFkWnV5dTdQSFlBV3FYMWtiQ19sS1ZMdUE?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Governo de Pernambuco lança edital para concurso da Polícia Penal com 700 vagas",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanVsTTRmdmlESWVuTkxYYU91c1c5N3ZraW1MZnNidlBOU1NVY0ZBWWlheVdqY2hwZFQ3TGN1WnV2YWFuWDZTdVVscTRhSXV6WWtwUVcwMExySFkyQ3VmUndXRDNrdnZBZEt6SW5Mc3c2ZEVUOU1rRUNWdndaNTlpNkFEYmFRMHJ3SENtTXkwR0JhZ1otS0FnNVlsTmZJSktjU1NaekJHQlFwN3pzRUotaF9LNFZPMTd5?oc=5"
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Deputados cobram ações contra seca e crise hídrica",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWFOVkJIdzlJRFVETFhxa0dOQlZQdnhNZU5kTmRYT3h5SzZuZERZOHZxRGlvZ2FnQ2dKcDZXOWdwTUNzbVE5TmJackpSUmZiVFpicTZFZjdoTE03cWx1Um5Sd2Uzeno3MmpPMU1PekRPdTczQjdFWm1OTlBTSmtZMEVOci1mRUtmQUdacGFFNnJqNFh6?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Concurso",
-      "razao_aumento": 66.7,
+      "termo": "Senado mesmo",
+      "razao_aumento": 75.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Focus Concursos",
-        "hora": "2026-11-03T21:33:38Z",
-        "titulo": "Concurso Polícia Penal PE: edital sai dia 4 com 700 vagas",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUdkU0lTWTZseHhMMElrVVM2akN1dldSakkyVVNvXzlxejVlOHE3cTZNWF9RN2F2RjZhcUZrV2tsZUp4UUdFSmlXTDJjME9EWmFJSzQtWERlYWhFbmJrQjNRZ0lqaE1rS3ZSZXVneV9FTWtVWG9nYUZtS0w0bVlSTk5lakIweXQyMU9vN1ZpQi11eEpiWnAyRmE0a3ZmYmNJY0R2SHI5TENwRF81SFVhaHJBaTg?oc=5",
+        "fonte": "VEJA",
+        "hora": "2026-11-04T15:29:00Z",
+        "titulo": "Por que Flávio Bolsonaro voltou a votar no Senado mesmo após deixar o Brasil",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXNFSVUwREYzZlR6TDQ0X0EydDFtNkh3NS1wMXlMOGRtNG1BaTF1M0thMlVMbnM5bC1lRUtWdzFiQWMxVnNwd3JuVThjYm5lenVhYmRZbHJYS214aThrM0h2ZkFzSkdvbjVjWkVHUUdjQjNNS054NFRPZkN0emh3VmdLTzFhOEJNVzJjZFlyNl9WZGl6d0IwZm9FYVFyWkQ5cnBWMV8xQ3ZXTnlXLUt6WC1B?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "concurso da Polícia",
-      "razao_aumento": 49.9,
+      "termo": "mesmo após",
+      "razao_aumento": 75.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Mário Flávio",
-        "hora": "2026-11-03T20:23:06Z",
-        "titulo": "Governo de Pernambuco anuncia concurso da Polícia Penal com 700 vagas e provas em Caruaru",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXdlTnFRLUppaHBFaEgxVExCMjQwLURhOHJhbEpLRTQybl9ydzVDSHNWWlJ3cDY3VjN6UVNJXzBmZm9ZVnJNZDJnZ1UxUVNJaFVrUVhrNFdhQ040R0xFRXJSR1VXNnpyeS10d0xNZEZxRlRmYUdUSEpJWVRsbzY1VVBvcHhzLUtxUFhaM0Jibk1uNnF2ZklXbHhlU3JranQ3NFJHYkpXdk1XQzBGUkpkVUZBZG5XSGxnOGxmM3lJcXk?oc=5",
+        "fonte": "VEJA",
+        "hora": "2026-11-04T15:29:00Z",
+        "titulo": "Por que Flávio Bolsonaro voltou a votar no Senado mesmo após deixar o Brasil",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXNFSVUwREYzZlR6TDQ0X0EydDFtNkh3NS1wMXlMOGRtNG1BaTF1M0thMlVMbnM5bC1lRUtWdzFiQWMxVnNwd3JuVThjYm5lenVhYmRZbHJYS214aThrM0h2ZkFzSkdvbjVjWkVHUUdjQjNNS054NFRPZkN0emh3VmdLTzFhOEJNVzJjZFlyNl9WZGl6d0IwZm9FYVFyWkQ5cnBWMV8xQ3ZXTnlXLUt6WC1B?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "moradias em Igarassu",
-      "razao_aumento": 47.6,
+      "termo": "Senado mesmo após",
+      "razao_aumento": 75.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Diario de Pernambuco",
-        "hora": "2026-11-04T00:19:44Z",
-        "titulo": "Raquel Lyra retoma agenda em Pernambuco com entrega de 128 moradias em Igarassu",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQnBtUE1Cd0RfOTNQbmlhYzhyQTAzb0s1d0FJVEFGTjNsa2p5SEg4dERKOVFudGtaeGlKS205cnl6QnFYek16TDdmR254Njk1ZFJiOGdhS0Q0SEZtYm1hLTQ4Ny1oUVZUalNTT3J2WmtsUXhlRG92MjVuOXhNR3ZXMFdrSUlVZ2dOYU1EbmJMY2k2YXlDNFBXNVlySWpOTVplWnZUQWJ3MlIyaFdoN0cxY1hneTNpMWV6Vk5GTWMwdXpEbmFlQ0ZkQlZWeUQyU2J1R3NRcUYyclJJY0JKWF8yNFhQc0RxRUE?oc=5",
+        "fonte": "VEJA",
+        "hora": "2026-11-04T15:29:00Z",
+        "titulo": "Por que Flávio Bolsonaro voltou a votar no Senado mesmo após deixar o Brasil",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXNFSVUwREYzZlR6TDQ0X0EydDFtNkh3NS1wMXlMOGRtNG1BaTF1M0thMlVMbnM5bC1lRUtWdzFiQWMxVnNwd3JuVThjYm5lenVhYmRZbHJYS214aThrM0h2ZkFzSkdvbjVjWkVHUUdjQjNNS054NFRPZkN0emh3VmdLTzFhOEJNVzJjZFlyNl9WZGl6d0IwZm9FYVFyWkQ5cnBWMV8xQ3ZXTnlXLUt6WC1B?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "até R",
-      "razao_aumento": 47.6,
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -299,50 +329,50 @@
       }
     },
     {
-      "termo": "Derrota",
-      "razao_aumento": 47.6,
+      "termo": "derrota de Trump",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
-        "hora": "2026-11-04T11:15:11Z",
-        "titulo": "Derrota de Trump e vitória de Lula enfraquecem direita nas Américas e vira oportunidade para presidente brasileiro pacificar país",
-        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOdmFaWk9oTFkxWEVaYkdCbFF4VE5hV1RMeFl6RVB1N293c3J0dmJsaGw3QUtRM2lZd1pqdTU0OGJuUzhnSHF4dEJoT1UwNmp1Ynh2X0VvclRQNzdtRG5nRWozdkVFYVZDNGVkcWZielppdTlFY2xLXzdHcERkZzFiQXVQaHpGVHAxZVZnZVZIZmtMNjZaeEgzbmlCODVEUm5nMGhDR0E3ZnJVTGRUSUNJMzVCbU5ZVHJEX3lYVXFOZGoyTU9OVEoxZm1GT0RfamdocmpZakEtMW14OXRHcE8tc0t6T1d0eldtMEg1TWtxSTRPbXRrR2ZybFlwaDAxQ21maUN5NGZsb1RjSUttcEFCZ1d5dHRMbDlWcU11X2xBSGRqc3AzN3fSAbQCQVVfeXFMTTZ3VlZWeHNLMlhJSzFaeUFZWjctNU5mY3NfSVJsRm9vNVVjUUlqYndubzgtSDlYcHZvOENwenV2NWxZSS1UN1VMemFZQjZleUtBMEJxN2hqMVVkM2tEYXFWWEs2RlJWNGpZT3N5djJLRThzaUFyYkJQeXpVMWt0NTl6cVc4ZUFlelZPdFgtaGw5V2paSW5SajIxb1UydmJhcElJNE5UcTZjTUpZZExIam9jSnZ4UFAtY2o4aTgwNGdQc1hWWnZJWlBaNzBkVnRaV0dfWDh0YlNRNFF3YUNxU1lqalhwX2s5T2ZNZnZHOGFXclZHX2JWblR1RXdVQ01TVTFoRlMzVkhCZlZTODlsa2lrRWtZdmYwZG44a1dDMXN0NmQ5V0Jpb00tYXpIcVZnX0pFb20?oc=5",
+        "hora": "2026-11-04T11:13:01Z",
+        "titulo": "Como a derrota de Trump no Congresso pode afetar bolsonaristas que foram morar nos EUA",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHpDWG5LakJIZUFRTDB3cnpGSmUtLXJSTDcxenN5cjh1ZzV2VlhzZGJCREVtM0hQTjVfUHRhRGdma3RuQ2NNT1M0cWZrbURfQmxkQUwtbmtST09aMk85bkplaU8xZmszQVhua1NRbVpqbzE1SmxlVTcwVEtVYVRuTHRUalJwbGZvSE0zVjJRMkhvTk1VcTltVUZlamZuRWZvNVNCM05qWHRpVnlYdjNZLW5uTWREc2prUUHSAcgBQVVfeXFMUHJWS20xbUdVS3dEZ2lNVHN4SDJuckJDd21LUVpvaGExa0ZJT1pwdzlxZzE4ckowZWJhMmlWTks5eGg4ZVg1Nm9rVkstS2tRZlpjcllTdGNGSm9teG5VczNvWTZNWlFtVVVGVkZRZVNVQmJLVnE3UjEyaWJkQjc0eWQtT2dVTU9Lb0pva3ZkTWZrS1QycHRMQUtfRTg3Y2hnTlVWX3kwOGd6M1lWaVhZR2w3ay1DaTk0Q3RaRm8yVC01ZjhoNTZzTnc?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Ações",
-      "razao_aumento": 47.6,
+      "termo": "moradias em Igarassu",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "portalsilvalima.com.br",
-        "hora": "2026-11-04T10:13:01Z",
-        "titulo": "Deputados na Alepe debatem fuga de Flávio Bolsonaro e AÇÕES do Novo contra chapa de Lula",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDQwaDI1dm16aTN4VW55Ym1xVEFqZUJBY2JGMXpTZjFQR3gxM0FQZmNCWVJBSk1Nc2Z3MFBYR2RmWm1tR2VYVFJMaV9aMUtvZmZpeUtDNk80UXpsT1IxSnRfeFlVbjM4VWtPR2g3bk5LZTVkc19FZDh2MV9pdk0zd1M0NGc0X3A4Mm9CVmt5VllyNnljQldUMWJrZmx6cTdOVE50QU1yeXR6VENaaUNmQ3dUYUR0a2ZkVk9COQ?oc=5",
+        "fonte": "Diario de Pernambuco",
+        "hora": "2026-11-04T00:19:44Z",
+        "titulo": "Raquel Lyra retoma agenda em Pernambuco com entrega de 128 moradias em Igarassu",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQnBtUE1Cd0RfOTNQbmlhYzhyQTAzb0s1d0FJVEFGTjNsa2p5SEg4dERKOVFudGtaeGlKS205cnl6QnFYek16TDdmR254Njk1ZFJiOGdhS0Q0SEZtYm1hLTQ4Ny1oUVZUalNTT3J2WmtsUXhlRG92MjVuOXhNR3ZXMFdrSUlVZ2dOYU1EbmJMY2k2YXlDNFBXNVlySWpOTVplWnZUQWJ3MlIyaFdoN0cxY1hneTNpMWV6Vk5GTWMwdXpEbmFlQ0ZkQlZWeUQyU2J1R3NRcUYyclJJY0JKWF8yNFhQc0RxRUE?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "concurso para Polícia",
-      "razao_aumento": 47.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Rádio Cidade 99.7 FM",
-        "hora": "2026-11-03T21:15:00Z",
-        "titulo": "Governo de Pernambuco abre concurso para Polícia Penal com 700 vagas",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjFRWFpIV2JKaTRueDY4UWd4NWsyaDR0V1pvekZucGZfTjF5ZHowV043ZFI2YzdrLVhBRWlKLWtSUVg4QzhIcDg4NzRhd1lVS2tWMjJpTlN3UDlpVzVMRkdJdUkwcW02SktWdUdlQnRuYVh6SWl6SUNNdmplV3I1em1fZExjampjNjdXczBMZlFmZ0tUR25HWktB?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "sessão do Senado",
-      "razao_aumento": 46.9,
+      "termo": "Concurso",
+      "razao_aumento": 66.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
-        "hora": "2026-11-03T21:00:36Z",
-        "titulo": "Nos EUA, Flávio Bolsonaro registra presença em sessão do Senado que discute a PEC da Segurança Pública",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVVRWUM3SzJJTHdveXB4cHN3d1hJaW03T3VOLS1xLXRMRUJQMGU3cV91bkFvSV9VUm0tZDVpbC14X01jbVFyNmxtR1RIekNHNXI1TkdYMnVHdUVzenFWbjF4dWpyNHJQUElIbjVUbWNzTnRORWpoaWpnNUFJbTZzbkxZOGtiNkgyYWR3V0I1M3FsRFhvMmQtQWdmX281QnoyOHVOeXJSS2VpTE14cXA4Yk1makhIcDBG0gHHAUFVX3lxTFBPMzdRWk51MGpyNENTb3I5eUNPNHNhd29GMEZlQ00zOXhzVGhhSFRaUG1zVlc0cTZVSUpmMVpTTU41N1ZISmRpWklvU3RYNDdLR3dhX3hnYUtlZTAyVVA0WU9PbldQUGtOa0hkWVdNMU45M3FlZWI4SFlFaUxCMzFaQnhTcUdLaUlDaUgwWVBLTlVfemU0UTNIZHY3eTJDUkVDS1F4Rkp5NmIycVhENWN2YUNLQ2NBd0JmNlJLeXp4T3VYS3E1T00?oc=5",
+        "hora": "2026-11-04T10:41:57Z",
+        "titulo": "Concurso da Polícia Penal tem 700 vagas de emprego com salários de até R$ 5 mil; veja como se inscrever",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcjdFZVRPSFlkblZKQ1lKZ2VCNUo2eTJGbWtwTTBhZU85cHZmUXhONFNRd3dHUS1lWHhhaURHN3d6cDdoN2dqWWJHXzBYd1VGcHV1Zy1ua2NlNm9vTjZtWGQwV0hvTjJpTkdONnVOMElqb0puUWZHb3hlYnppTU9kejFzSkdfZ192NTh3NmxYVkFGcGppZFkySTJDVExITE5HT0VybDJBeHY4c2p2N0FVNkxIcWZQdzRBR3FIRmZPd2x2SkQxZ0lXNFpjYWtlandCXzVLYjJtb083b3lzRXgzTnhMY2NoZmZLZDl6X1d1OXZ1dmJi0gGDAkFVX3lxTE1URUJFczYyMUtfSm9qanFFaHB4M2ZZX3hEZVNaRHh6aFY4Z0ZudjFqOGhGZFFWREZPS3lhMzFyc1RHeE0wTkJVbFRlMDFES2tsRnRIUlBUai11NDZBaHNaSnpOTnhqWkFUcElaTW1tZzlja2VPVG5xa0lWV1lPdk44VU90NVNPbkhtd2NQOG9UUllXY2Z4eGdnc3VNaGdNWWVuMDBGQldKTEMySmc5Z3dRMklNQWZoSmw1UVNKWS1sR0RKR3VmVFRaaXJKMk9iRm5wd0Z6RFJrQ1JPQ1ZDanVOeUI2WWVzbDFoTm5FRE93UDhXaHBKdzZQd0RNc01VTEktb2s?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Pernambuco oferece",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JC",
+        "hora": "2026-11-04T11:39:00Z",
+        "titulo": "Concurso da Polícia Penal de Pernambuco oferece 700 vagas com salário inicial de R$ 5,6 mil; veja detalhes do edital",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTzU4YnRqeTVnU1MxbWhBZXRsZ2laOFM1dHltc2lONmNKNjNUUFByRjctVEFvS1FMdnh3eV8tT081cHpfODFtUUNCWjVLQU92U3FfSC11Q3NPVG40UU1pMy1MaXgwTXAwemJONUJGZzYyWmo0VjBqQ2d2RzlyTkdKQ1huMVlzRXUwTE51dWRBaXNHdGZxd1d5S3VfWDZLY2wxOTU5bnNFemxvS1g2bF9yQU15OHJVOE8wOGl4d3pSMjJpT3R6V2laamYwRlRqRHZBUDdFUTc2M2l1UEY3Mi1JX1RpT25UQkIzU0F3R0R1RDlldVE?oc=5",
         "peso": 1.0
       }
     }
@@ -351,271 +381,271 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 19.1,
+      "fatia_pct": 18.13,
       "fontes_distintas": 23
     },
     {
-      "termo": "Lula",
-      "peso_relativo": 85.3,
-      "fatia_pct": 16.29,
-      "fontes_distintas": 18
+      "termo": "Flávio",
+      "peso_relativo": 93.9,
+      "fatia_pct": 17.03,
+      "fontes_distintas": 25
     },
     {
-      "termo": "Flávio",
-      "peso_relativo": 82.4,
-      "fatia_pct": 15.73,
-      "fontes_distintas": 20
+      "termo": "Lula",
+      "peso_relativo": 87.9,
+      "fatia_pct": 15.93,
+      "fontes_distintas": 17
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 76.5,
-      "fatia_pct": 14.61,
+      "peso_relativo": 75.8,
+      "fatia_pct": 13.74,
       "fontes_distintas": 20
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 64.7,
-      "fatia_pct": 12.36,
+      "peso_relativo": 54.5,
+      "fatia_pct": 9.89,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "Alepe",
+      "peso_relativo": 51.5,
+      "fatia_pct": 9.34,
       "fontes_distintas": 14
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 55.9,
-      "fatia_pct": 10.67,
-      "fontes_distintas": 13
+      "peso_relativo": 48.5,
+      "fatia_pct": 8.79,
+      "fontes_distintas": 11
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 55.9,
-      "fatia_pct": 10.67,
-      "fontes_distintas": 13
-    },
-    {
-      "termo": "Polícia",
-      "peso_relativo": 47.1,
-      "fatia_pct": 8.99,
-      "fontes_distintas": 15
-    },
-    {
-      "termo": "Penal",
-      "peso_relativo": 47.1,
-      "fatia_pct": 8.99,
-      "fontes_distintas": 15
-    },
-    {
-      "termo": "Polícia Penal",
-      "peso_relativo": 47.1,
-      "fatia_pct": 8.99,
-      "fontes_distintas": 15
+      "peso_relativo": 48.5,
+      "fatia_pct": 8.79,
+      "fontes_distintas": 11
     },
     {
       "termo": "Trump",
-      "peso_relativo": 36.5,
-      "fatia_pct": 6.97,
+      "peso_relativo": 45.5,
+      "fatia_pct": 8.24,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "Penal",
+      "peso_relativo": 33.3,
+      "fatia_pct": 6.04,
+      "fontes_distintas": 11
+    },
+    {
+      "termo": "Polícia",
+      "peso_relativo": 30.3,
+      "fatia_pct": 5.49,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "Polícia Penal",
+      "peso_relativo": 30.3,
+      "fatia_pct": 5.49,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "empréstimo de R",
+      "peso_relativo": 24.2,
+      "fatia_pct": 4.4,
       "fontes_distintas": 8
+    },
+    {
+      "termo": "Alepe aprova",
+      "peso_relativo": 18.2,
+      "fatia_pct": 3.3,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Valverde",
+      "peso_relativo": 17.3,
+      "fatia_pct": 3.13,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "KitKat",
+      "peso_relativo": 16.4,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Grand",
+      "peso_relativo": 15.5,
+      "fatia_pct": 2.8,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Break",
+      "peso_relativo": 15.5,
+      "fatia_pct": 2.8,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Grand Break",
+      "peso_relativo": 15.5,
+      "fatia_pct": 2.8,
+      "fontes_distintas": 1
     },
     {
       "termo": "Igarassu",
-      "peso_relativo": 23.5,
-      "fatia_pct": 4.49,
-      "fontes_distintas": 8
+      "peso_relativo": 15.2,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
     },
     {
-      "termo": "Segurança Pública",
-      "peso_relativo": 23.5,
-      "fatia_pct": 4.49,
-      "fontes_distintas": 7
+      "termo": "até R",
+      "peso_relativo": 15.2,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
     },
     {
-      "termo": "Senado",
-      "peso_relativo": 20.6,
-      "fatia_pct": 3.93,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Segurança",
-      "peso_relativo": 20.6,
-      "fatia_pct": 3.93,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Pública",
-      "peso_relativo": 20.6,
-      "fatia_pct": 3.93,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "PEC da Segurança",
-      "peso_relativo": 20.6,
-      "fatia_pct": 3.93,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "the L",
-      "peso_relativo": 20.6,
-      "fatia_pct": 3.93,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Pernambuco lança",
-      "peso_relativo": 20.6,
-      "fatia_pct": 3.93,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "concurso da Polícia",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.37,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "EUADid",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.37,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EUADid The",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.37,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "EUADid The L",
-      "peso_relativo": 17.6,
-      "fatia_pct": 3.37,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Effect",
-      "peso_relativo": 16.2,
-      "fatia_pct": 3.09,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Jorge",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Texas",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Alepe",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.81,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Lyra entrega",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.81,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Raquel Lyra entrega",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.81,
-      "fontes_distintas": 4
+      "termo": "derrota de Trump",
+      "peso_relativo": 15.2,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
     },
     {
       "termo": "Brasil",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.81,
+      "peso_relativo": 15.2,
+      "fatia_pct": 2.75,
       "fontes_distintas": 5
     },
     {
-      "termo": "lança edital",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.81,
+      "termo": "Concurso da Polícia",
+      "peso_relativo": 15.2,
+      "fatia_pct": 2.75,
       "fontes_distintas": 5
     },
     {
-      "termo": "Pernambuco lança edital",
-      "peso_relativo": 14.7,
-      "fatia_pct": 2.81,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Talarico",
-      "peso_relativo": 14.1,
-      "fatia_pct": 2.7,
+      "termo": "Lens",
+      "peso_relativo": 14.5,
+      "fatia_pct": 2.64,
       "fontes_distintas": 1
     },
     {
-      "termo": "Bolsonaros",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.53,
+      "termo": "Live",
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.47,
       "fontes_distintas": 1
     },
     {
-      "termo": "The Bolsonaros",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.53,
+      "termo": "Vitoria",
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.47,
       "fontes_distintas": 1
     },
     {
-      "termo": "Bolsonaros Effect",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.53,
+      "termo": "Amanha",
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.47,
       "fontes_distintas": 1
     },
     {
-      "termo": "The Bolsonaros Effect",
-      "peso_relativo": 13.2,
-      "fatia_pct": 2.53,
+      "termo": "Vitoria Amanha",
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.47,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Live Da Vitoria",
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.47,
       "fontes_distintas": 1
     },
     {
       "termo": "Spotify",
-      "peso_relativo": 12.4,
-      "fatia_pct": 2.36,
+      "peso_relativo": 12.7,
+      "fatia_pct": 2.31,
       "fontes_distintas": 1
     },
     {
-      "termo": "governadora Raquel",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.25,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "governadora Raquel Lyra",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.25,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Concurso",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.25,
+      "termo": "Comissão",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
       "fontes_distintas": 4
     },
     {
-      "termo": "Kassab",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.25,
+      "termo": "aprova empréstimo",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Alepe aprova empréstimo",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
       "fontes_distintas": 4
     },
     {
       "termo": "Governo Lula",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.25,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Alcolumbre",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.25,
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
       "fontes_distintas": 3
     },
     {
-      "termo": "concurso público",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.25,
+      "termo": "PT",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Fuga de Flávio",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Jair",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Deputado",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Senado",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Senado mesmo",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "mesmo após",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Senado mesmo após",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Concurso",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Pernambuco lança",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.2,
       "fontes_distintas": 4
     }
   ]
