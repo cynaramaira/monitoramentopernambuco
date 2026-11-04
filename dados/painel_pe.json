@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-04T08:00:13Z",
-  "total_analisado": 140,
+  "atualizado_em": "2026-11-04T16:16:10Z",
+  "total_analisado": 137,
   "x_recife": [
     {
-      "termo": "#TheBolsonarosEffect",
+      "termo": "#EUADidTheL",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23TheBolsonarosEffect",
+      "url": "https://x.com/search?q=%23EUADidTheL",
+      "ruido": false
+    },
+    {
+      "termo": "#49NÃOé50",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%2349N%C3%83O%C3%A950",
+      "ruido": false
+    },
+    {
+      "termo": "Trump",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Trump",
       "ruido": false
     },
     {
       "termo": "Texas",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Texas",
-      "ruido": false
-    },
-    {
-      "termo": "#CorridaDasBlogueiras8",
-      "posicao": 3,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23CorridaDasBlogueiras8",
-      "ruido": false
-    },
-    {
-      "termo": "Moledo",
       "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Moledo",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Texas",
       "ruido": false
     },
     {
       "termo": "Talarico",
       "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
+      "variacao": "+1",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Talarico",
       "ruido": false
     },
     {
-      "termo": "Coritiba",
+      "termo": "#TheBolsonarosEffect",
       "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Coritiba",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23TheBolsonarosEffect",
       "ruido": false
     },
     {
-      "termo": "#MasterChefBR",
+      "termo": "Spotify",
       "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23MasterChefBR",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Spotify",
       "ruido": false
     },
     {
-      "termo": "#VisionQuest",
+      "termo": "Bianca Leclerc",
       "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23VisionQuest",
-      "ruido": false
-    },
-    {
-      "termo": "#RoçaAFazenda",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23Ro%C3%A7aAFazenda",
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Bianca%20Leclerc",
       "ruido": false
     },
     {
       "termo": "Democratas",
-      "posicao": 10,
-      "variacao": "+1",
-      "direcao": "sobe",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Democratas",
       "ruido": false
     },
     {
-      "termo": "Kansas",
-      "posicao": 11,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Kansas",
+      "termo": "Tomorrowland",
+      "posicao": 10,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Tomorrowland",
       "ruido": false
     },
     {
-      "termo": "Mississipi",
+      "termo": "Cornyn",
+      "posicao": 11,
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Cornyn",
+      "ruido": false
+    },
+    {
+      "termo": "DESCONTOS",
       "posicao": 12,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=DESCONTOS",
+      "ruido": false
+    },
+    {
+      "termo": "Danica",
+      "posicao": 13,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Danica",
+      "ruido": false
+    },
+    {
+      "termo": "Jorge",
+      "posicao": 14,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Jorge",
+      "ruido": false
+    },
+    {
+      "termo": "#StopBromanceGMMTV",
+      "posicao": 15,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Mississipi",
+      "url": "https://x.com/search?q=%23StopBromanceGMMTV",
       "ruido": false
     },
     {
-      "termo": "Carolina do Sul",
-      "posicao": 13,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Carolina%20do%20Sul",
-      "ruido": false
-    },
-    {
-      "termo": "MAGA",
-      "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=MAGA",
-      "ruido": false
-    },
-    {
-      "termo": "Paraguai",
-      "posicao": 15,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Paraguai",
-      "ruido": false
-    },
-    {
-      "termo": "Wanda",
+      "termo": "Elsa",
       "posicao": 16,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Wanda",
-      "ruido": false
-    },
-    {
-      "termo": "Fernando",
-      "posicao": 17,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Fernando",
-      "ruido": false
-    },
-    {
-      "termo": "Internacional",
-      "posicao": 18,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Internacional",
+      "url": "https://x.com/search?q=Elsa",
       "ruido": false
     },
     {
-      "termo": "Rikardo",
-      "posicao": 19,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Rikardo",
-      "ruido": false
-    },
-    {
-      "termo": "Laranjão",
-      "posicao": 20,
-      "variacao": "+11",
+      "termo": "Cleiton",
+      "posicao": 17,
+      "variacao": "+3",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Laranj%C3%A3o",
+      "url": "https://x.com/search?q=Cleiton",
+      "ruido": false
+    },
+    {
+      "termo": "#ScarletHeartUllaveeEP1",
+      "posicao": 18,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23ScarletHeartUllaveeEP1",
+      "ruido": false
+    },
+    {
+      "termo": "Zelda",
+      "posicao": 19,
+      "variacao": "+9",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Zelda",
+      "ruido": false
+    },
+    {
+      "termo": "Caxias",
+      "posicao": 20,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Caxias",
       "ruido": false
     }
   ],
@@ -167,176 +167,182 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Estou Preparado: Edital da Polícia Penal de Pernambuco (PPPE) Publicado: Oferta de 700 Vagas e Remuneração Inicial de R$ 5.667,92",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWVJhTWN2Tl9uaGNIcnBtbkdNRWVKZndmal9qYTM0YUZoYzBCUXlkYmxuZGctTGxXNDVvS0V6S2dVNkFqczBycDBxUUk2LV8zZEZwWWNCazB1MWs1V0dtWnZoMlpPdlA3MXNTNnItY1VEZ0JrV3Y2dHZxMTNfUDU0MnpPNGU3UlVfbHkzSVRVejkycnVHOExOck1NVm5WejVVUXllS0dOU0RpZExHOFVsQTJKc1A2Nkg2OGRMS1lGVXhJeGtFRWlCQWw1c2NWLVZBZUVYeDQ4ZjZmaVBCc0lhaEdsbU5TZw?oc=5"
+      "manchete": "G1: Concurso da Polícia Penal tem 700 vagas de emprego com salários de até R$ 5 mil; veja como se inscrever",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcjdFZVRPSFlkblZKQ1lKZ2VCNUo2eTJGbWtwTTBhZU85cHZmUXhONFNRd3dHUS1lWHhhaURHN3d6cDdoN2dqWWJHXzBYd1VGcHV1Zy1ua2NlNm9vTjZtWGQwV0hvTjJpTkdONnVOMElqb0puUWZHb3hlYnppTU9kejFzSkdfZ192NTh3NmxYVkFGcGppZFkySTJDVExITE5HT0VybDJBeHY4c2p2N0FVNkxIcWZQdzRBR3FIRmZPd2x2SkQxZ0lXNFpjYWtlandCXzVLYjJtb083b3lzRXgzTnhMY2NoZmZLZDl6X1d1OXZ1dmJi0gGDAkFVX3lxTE1URUJFczYyMUtfSm9qanFFaHB4M2ZZX3hEZVNaRHh6aFY4Z0ZudjFqOGhGZFFWREZPS3lhMzFyc1RHeE0wTkJVbFRlMDFES2tsRnRIUlBUai11NDZBaHNaSnpOTnhqWkFUcElaTW1tZzlja2VPVG5xa0lWV1lPdk44VU90NVNPbkhtd2NQOG9UUllXY2Z4eGdnc3VNaGdNWWVuMDBGQldKTEMySmc5Z3dRMklNQWZoSmw1UVNKWS1sR0RKR3VmVFRaaXJKMk9iRm5wd0Z6RFJrQ1JPQ1ZDanVOeUI2WWVzbDFoTm5FRE93UDhXaHBKdzZQd0RNc01VTEktb2s?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Jamildo: Governo de Pernambuco lança edital com 700 vagas para Polícia Penal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUNSNTFXd3NjSERjMW9SX1VUZmdRNkFPelVvNXJLTmFhZVdZUENoRzk1WDJfd2FqSkFoYzYyOVdiVkM0T3NRWW8tT0Q0Z0lpNmtEM3FibkwzTXEyZlRfbG5TdjdmQUk2Yzh1WnNYcFdOUU0tUThZU3lsaEV5U1ZaeEluWU5vWVlDNnpOdEVrQW9PcGQ2VkxLX2lRNNIBoAFBVV95cUxNVzRfc2lVUTJERS1idmZwTGd3Y2FRT1dYbXlGSFZ4UzZLaGdfYUZaWWJfZUFOUTM5Rkt3Y3JINW1KOHZRNHJDWTJ1aTJxWWJNRHdYV1hBblBIX1RwdFpVWUJvS3V3WVRoVldud000T0hBUXo5cUNJRmhmZWxxYnl6X1l1OTBEeTB2UUNrVXpvX2VwWThaXzUzZWg1eXVzeFRV?oc=5"
+      "manchete": "Governo Federal: PF deflagra operação contra fraude em concurso público em Pernambuco — Polícia Federal",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM19Zd0tHaVl5Z1VtNWxSeUI2S0FiUS1tWHlmQXhsRGVNWGJYQ2dqVzVDekNiNkR6VkhESzhHTGs2Y1lHTWFwQVVVaFFIUC04ZlBJOTU5QXNVMENuMXMtRVN0VG1rcHQtRkdlSnFNSks0Nk1sN3BZUElkSi1kUEllNGxFSGg4ckQ4N0pPcTM5Q1RkTzdMSmljaWZTM0ZFNERmS2ptR2JFWW9wNkZTdzZkcVJoeFhELXZPTWlhbW5XSQ?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Movimento Econômico: Gás Verde conclui em dezembro obras de planta de biometano em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHJoYWZuWXEzdGwxZ0d4Nzh1Znc3cnc0ZE1hREpqSGtMMzE0dWNwZFEwMko1MFVESUdwbHkwSFlNdVhNbzcwRnZpX20tZThuV3NqTGIxRU5fN0JOZFNyQVZwU3JqSVI2TkJFUVZZSmQwRkxEaFA3dnE5cHg4VXQ5bFJEUzNvaW9sN2gtYTd2UkNVaDV6T19yM0F4YU5qNkhXMjQyUUpjQ2UzYjd4WUpFSjBmNU1JNHh1RUFla3VUVEVvMmd1V2NiUUpiMEo?oc=5"
+      "manchete": "CBN Caruaru: Pernambuco lança edital do concurso público da Polícia Penal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1JockxtdHYxT1d0dFd4cXdkZzhxdElYRlNLQnJna1ZqWTl4ems4QUVVTmRoMER5NE5zS2RnUV9LXy1yQ1NQdkc4RzVaNG9kS3dZSU1XMjVDZzdRc3ExUTRJMGZxUXpMdmFTdjlEblFmekpRcjgyeEZjWE9zYjd4cVFXQzZaX2FUQXEtREJ2QUxOSmM3TzVyR2tiRQ?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Quero Bolsa: Polícia Penal de Pernambuco lança concurso com 700 vagas; veja quem pode participar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XbHFsWk5UVW8wX3RwSTZHRFNrdE9acTg5QU0yQ3hpdkR0N1N6OWN1anN5U0FJczJxNzM3V0hmU0RtMm1YRlhkdmljall6c252MUpxQlV1cXp1cGJTdDg0UEFmc2ZiNWk0R3U5NDY5cnVaZw?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "UOL Notícias: PF investiga fraude em concurso de universidade em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTG1qNktNUHB5NFFKYnpIOHdpdnM1QklQTHVuZmF3UjN0NWVKWjlwdGFBVzdBMU9uVkEwRlhXNnZzTXZxd0dWcE1rM3JzYlozUEx6OXJEUUlBYTE2ZUJya0U1azN2R2dTdVZrTXVTdV9SbGZieTY1OHNlaE5vZm5qdndjUEtqWVAwVjByenI5eS0wNEh4Q0tLWWZFRlc2NUFQY3lYVjllSGZXLXBNaDJrZ2JvaG1LNjNUc1ZKVG43bGRHVnVVNUxRbDRvd1c?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Prefeito do Recife toma decisão sobre Jorge e Mateus após pressão",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd05xOURWaEEtZU9WRkNqRElvemdwanVVdzRkbTJVWlBJVjc0bkN3VjBXWGVucGZvRms1N1BPOS1EZHdjcDRSV3FlNnRyWEI3Ni1uem43d3hDOG9FWjQ5TDFXNWZlUkZsNnFjaUxJZzdhXzdoWkFJSzFvMmtaUC1wbXNYMXp1WjFuSW0zelV3YWczZTR0cmFFS3RLdFlKZUR5MnNTaUxvSGJrWEZ5a3BxVkFLU2EtMU9JYTlnWmdmMkZfTHdYSkJKSEFUSTdxOHFVSjNlaHlDOEZPczB2aVcxME1nUEJ6Zw?oc=5"
+      "manchete": "G1: Operação da Receita Federal apreende cigarros eletrônicos, celulares e relógios avaliados em R$ 870 mil no Recife",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONGwzdS10VW0zdUlvb2xueURScWFTNVppd3ktTFNNblQ4U3VrclJSLUZhb2NoVEFOOVJ5eVFNalI2UjlYWXYzYWRJeWxvMHlUTkFIWUhEYzV0WkVmYzZibG56Sll0MXo1bDJMQmRfVlREQTh2TG5vd05ibENKRG9GTy0wQ1ZRUElOdlpqcVhNSmZHdEtaVFE2ejRYQzFRbHBEdXVVLV9sMVBKZWNsR3ZoaDhvMXV0eVJxc1pkQXlTTlloYjk4Z0ZMenREYjhCSkxYWWNmSTNrVGYzZVJraXBlRW1B0gHwAUFVX3lxTFB1MWhEeTAwendfbExYTmppYTRtQmFIc0JMRzYyVDhjOGwtdHFuc3JkMGRWUDdtSHpQdjNWblRGSkZRSGdpSmN4Z3RRampTeTRUdE5KelkxRUd5M1Fjd2dKV0RuVV9VaVBoZXpMbmJZbTkxdVBMVjNqaVZERlo3d2VGZmQyWW9PV1Nvek42NndHUk5RV3dKS01NdDlUcFh5REcxN0UwSmREM3NtQlg0V25CUV9hc1h2TXVXeG53MXpualRzSGVPSDlraTBCZW5iMlFheURJMnNtTHJReHp1U2Myc01WeF9kTEloYlFBeURvTw?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Notícias - Canção Nova: Crianças homenageiam os santos de devoção em Recife - Notícias",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDh6VXR2b0hPdGpqSGhLU3NlVFRHZHlZemNObHZfTUtvT2ZPek9PWUZJWXpUdXozdWFYSmNqejE0U2NyQ3RVMnlEam9yZXhYa0oyd2xublFxeGNnX3RhQVNCSGcwckQzMXBQVzBhd2xtU0o1eGhVanBVVEZFNVJwT2cxdEJuM25Mei1KdDBOQUtGY2F0NWc?oc=5"
+      "manchete": "Jamildo: Prefeitura do Recife vai distribuir até R$ 15.200 em Bônus de Desempenho Educacional para 3,6 mil servidores",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORnBYRXlPM0JCQVdBWEZxR1VGVWJrWEVLNTliV0pSQjRza0lBZXdxek1XZ1hNNjFZMF9NZVVBdHczNDNLelY4RDBNY3VGazE0OWNRMnBTMlhFX25BbEFCVFE2XzJoMURqV2g0RkgxSERFaWZid3Y4QVpOVDlqTTE0Z3hnVUgzS1NvcHlPMFdUME43UlNtTW1DRU9tUENWRFMzNU1sWGVjbmxYdUtWaF9jdkROMGF1QVA4YWFzSXdDVkJBRHdRS1ZiTlptQk03R2tDWml0OExB0gHbAUFVX3lxTE9iQTNpV2EyOTZDemxxendKNGhaNGtpYUxzVUhsZDhUV2VtWkdUbjRJaW9peWctSVhlVjRqN1F2a21ENjByX0dONnNpSUQwOElwVFp6NFRVY2xERnJWU2VDQUlFbHRRREJ2bmZHM2V6ZGJJVjRhWDhGY0tGZF9xRHpGRC1weFVlV2JZUEczSnRxbTNpS3pwc1ZnQUtyUmJzTFpYeWVDQjFXbThRUkdjTzh6NWJPaWw4a2ZoNGhzRUJBZVE5bVc2djYtcWNlNmZfQkFTR1RRSUs5TDRKVQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "RioMar Recife: Confira como foi a semana de estreia do Natal dos Brinquedos RioMar",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlRJUmpsUVNfa3lDenIxZjV0MUlpdXFzR1FZN0xrdTRqRDdGYVJUS3c4ZExZTkJEN2J6MnBmaG9vTWo0SzV6ZkhKVm1mb3Z2aWtKbHdLaXlrdmxYSkphMFpMME1tM1k2cldGUjd3WklHQ2RoYk5IRnU4VU9lN3hoV0VHTkc5cUpCdHRydG95NjFKdEYwa21JdnF3eEpmcjlJam1xY2N5UHQ?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "ICL Notícias: Fortaleza e Recife cancelam shows de Jorge & Mateus após críticas por apoio a Flávio Bolsonaro",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qZDNLc01fWUVTNjJZLVFUa3FUWlRfaVFSenpnbXB3eXBzWmJtUUxwR3liWUdmalhGcE9yc1hSWk05aGtIS2lDLXk2NDNKTy04Um9DcTllTWstNTJDQUdqS3g2RTNpX0ozampoSk9ralN6X0l1dkpzV2dKRQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "JC: Mercado imobiliário da RMR movimenta R$ 2,25 bi e traça estratégias para 2027",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlUwbVZIbHNIa2FfMWFYUzNKZG1hMVpNcllMWDVSTGZpNGcxX09aTWVjV25GdFZQX21tUFBlY2Y1WV9xQnI2aWpVTHFBeERZbjN0S1ZqSm5CLS1yTmJmWlRJVmVOM2ZKOEo5Tjd4TTVyZUZWOVVSTm1mY1FVY0lzUmMtcXlaaEhyVUgzaWNpWVo1cGY0cmVUYi1uZmllYmkzRHBDTHh5eUhTRjRDOHo3U0RCUUdNWW4yeExyZGtqTXRLa1VlTVNjcm5yQndjTUt4MXNF?oc=5"
+      "manchete": "JC: Voto distrital pode melhorar representação da Região Metropolitana na eleição para deputado",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZzQwS0pjY25oQXZQNEFSaHlTUUJQb0lpVGpGTTdPUGVmc05IVlNWTW42bjIxRmN6NlRvVHVaOTRfbGNaX1N0eHY2T1hNdDV2Z2poaGVwTnFBMmZ4eVFSZUtSbklKR0ZWYkw4UnR0N2pTWXl1Y2ZnRUJuQ3ltVFZKQVdIZTZ1VlI1bzI4Ql9PREg0UzRrcS1PS1g0Qmp3VVV2bWhGVE80TzNTLW1Zb0pFb1FDMVpFRVBCYmQxN3g4blFUWjRFX1VqNjB3SEd1amtOZXRIbHBHOVRlSjR4d3djNHk0Zw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "PSD - Partido Social Democrático: Raquel Lyra reassume o governo e entrega obras - PSD",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlNfelNHTTFYc3R5R1MyNDRXa3VqenFqMmY1S09qQ2tCYzF6TUJZekR6WTVKUE1JSVNZRzIzbTdxWGV4MWoyWUNOT0NVRlZtTTJqZ3hkZG93WEpBaGl1MUhxWWQ0LWZvWDA4YnJfZENXN0tSUkM0SUtWSk1kcmRoZQ?oc=5"
+      "manchete": "FalaPE: Prefeito Rodrigo Pinheiro determina que a Fundação de Cultura retifique o edital do São João, diminuindo o prazo máximo de pagamento dos artistas inscritos",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVGpzR0dpLVV2eDRkMkpEdFZDXzVSRWk1M25aMTlMU2Qtc1VXMmd6RXpZV18xTS13YmplZ2NWaXdhamFSeGtBZkw0LU1TRnZ4TkRKejJuRDFKS2NEM2oxU3MtTjZPZFROWnBFdmVUUDZBUG5STDZJY2JnRElCdTRMWXo1RERCSVdITXRNR1JlenlGaUhEVWJ5d1FBWVNMS3g1WWV2a01hZlJIdkpkV1NEclcxYldkZjFqbjBmNVJKenlRM3hPblRtT0xtc2JpMmNzdGdfblhiVFBjelljSWdvdUYtOXFOQnVnc1Vrb2o1WS1OOWkwV3owbGppVi0wdnhBcE1wRQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "- Blog Dellas: Giro Político: Voto distrital pode melhorar representação da Região Metropolitana na eleição para deputado -",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV3h3UzBjNHRSVEtoYlI5dmM5WF9WTXFTRjJIMkpkUVpnZFg4T0gya2FtYi1lWGtHWm5KX0txcEtkUkRpWWVnclVxcm9jd0RMMlVKLUZ2NlE2SDZidDBkdHVneS1xN0pBaGxBTk5Ed0owYllwVWQwTU5LQmR5c2Ftd0haWVp5VnAxMHdDMVQ3RFVQNm9iTEJvZmJCanQ1d1pzRVliOTRhMVdtYzQwUG5WSVhjMXp5ZDBzLWlQcFRiUUN1ekdiQUowdDlqaVo?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Grupo Grial promove oficina gratuita de projetos culturais em cidades pernambucanas",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHdiZHRFOEtNVnhWYWtpQkEtZjhaakNjQS0za3dNb3prcEdVSjRhY3FDNzlPZGJEV25yeGRveFZrbzlsenphRDczdXlTal9lbjNERE5SR1JPaHl4Zmpzam1Yd0tlX2FoMmN3RFNSNG0yOUlnMWFCUGdBOXdrWmVxcWtFY0ZjYTNBbXB5S0Jn0gGOAUFVX3lxTE9Id2JkdEU4S01WeFZha2lCQS1mOFpqQ2NBLTNrd01vemtwR1VKNGFjcUM3OU9kYkRXbnJ4ZG94VmtvOWx6emFENzN1eVNqX2VuM0RETlJHUk9oeXhmanNqbVh3S2VfYWgyY3dEU1I0bTI5SWcxYUJQZ0E5d2taZXFxa0VjRmNhM0FtcHlLQmc?oc=5"
+      "manchete": "JC: Shopee expande rede logística com novo CD em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUxhVHpBUlhQYlRUU2JRLWdtOGw4aTUxVVRHaVk0N1lzRmtkS2xIQWFreWJkNUR0UEVhVFdXNzFqRkpyQUU0QmxUSkRsVjRMUy1Senp2cGQ3Nl9IeWNnaEZCd3ZzNjdMX2s1UVFLa2w3OVlpTWpPUFg1azFDU1pmUUxFeEFHb0t3Z01RcUlfVWs4T2ZIdm9fWENVb3FzQTRTb1A0NFRFZWxTTFh2OVdqd2RUeXJBQmc?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Pós-eleição: deputados discutem fuga de Flávio Bolsonaro, ação contra chapa de Lula e ataques a indígenas",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NaFhNcUhfN1NJV1BqS3pCUzZ1RU5VQlZWcG9ZVlpOVGg3QkNpS1BDRFV5WTVMZTFjR2NQeUh0RWFRWnNxMFBHWUhFTVBpckZTN01vMmZIRVEwbjJEbUhUNVVn?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Denúncias de ataques a povos indígenas e ações judiciais contra a campanha de Lula repercutem no Plenário",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM1UyTzZpQ2dQV0FaaGpfT3FINVNhcjRabU40X1dXY0JwbjFWTmNUZ0N6ZGl3ZkgyMVpNWmNTbDl6VDFYYlZCODlORUcyN1RHanRQYWdXaVVSaHEwNXlFTW9XQ012d2NrUnpGTXlydDM1YWVJbDVhRmpVWTFMdUdiTWhhbi1FaVBkOExMNGV0QnBydHNIVzY5eVY5MUFHZ2p1OGVKM0pxXzZWdERDX3lwQ2xIUGZ0bER5WWItdGNIbU05ZENvSnFkLUxMSEp6dWJvZ052S3pxLTRDTU0zUkE?oc=5"
+      "manchete": "Márcio Didier: Na Alepe, deputados ansiosos e o tempo de Raquel",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pWExNaGFDblRnQ3JjRlpON1dfZUdmbVBlN29YMmpyMVpYa2JyVDdoSFlwODIwTWhuSWgxeTBiU3lyYVIxdGItNUhsREd4dmcwemNIRE9vQ3k1S3V1ZGRpM2dYSFpPVHMtTGdTOUlKbUlKZ28?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Finfa: Em Igarassu, governadora Raquel Lyra entrega 128 casas com entrada garantida pelo programa Morar Bem Pernambuco – Blog do Finfa – A verdade em forma de notícia",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdmxIZThHRmVTTVpqTGpPb1dwUVVXLUJwWThndFpKUVFfMjRaMVFSUjgtNHVTd2RobmlwWkhCdnRhLUVsVEtDX043ZnRIRkxUVzI5a0RMNGM3NHdhNHVxNE1XMEdtcUFhX1RQZFlVaEc1UHpYZ0tGbTVKdlJmbVphTzFHVXJpMld0M0FOa2luOGpFWE1lMmlPejZZeG9WTjM3ZGZ6bDFTVnlXR2ExRVUyUHdhcE5lMEczQVRfb3R4dl9FOUJqVkx6S0tVSk4tTXRCZmN6S2lKS0tjWkNtdjJJMWNVVWo?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Rádio Cidade 99.7 FM: Governo de Pernambuco abre concurso para Polícia Penal com 700 vagas",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjFRWFpIV2JKaTRueDY4UWd4NWsyaDR0V1pvekZucGZfTjF5ZHowV043ZFI2YzdrLVhBRWlKLWtSUVg4QzhIcDg4NzRhd1lVS2tWMjJpTlN3UDlpVzVMRkdJdUkwcW02SktWdUdlQnRuYVh6SWl6SUNNdmplV3I1em1fZExjampjNjdXczBMZlFmZ0tUR25HWktB?oc=5"
+      "manchete": "CBN Recife: Governo de Pernambuco lança edital para concurso da Polícia Penal com 700 vagas",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanVsTTRmdmlESWVuTkxYYU91c1c5N3ZraW1MZnNidlBOU1NVY0ZBWWlheVdqY2hwZFQ3TGN1WnV2YWFuWDZTdVVscTRhSXV6WWtwUVcwMExySFkyQ3VmUndXRDNrdnZBZEt6SW5Mc3c2ZEVUOU1rRUNWdndaNTlpNkFEYmFRMHJ3SENtTXkwR0JhZ1otS0FnNVlsTmZJSktjU1NaekJHQlFwN3pzRUotaF9LNFZPMTd5?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "maior protagonismo",
-      "razao_aumento": 100.0,
+      "termo": "Concurso",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-11-03T12:46:23Z",
-        "titulo": "Kassab diz que Raquel Lyra é a mulher de maior protagonismo na política nacional",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb3V2ZjFVR0V0WV9jOXBMYlZzR3l1V2h4dmstYmxPVUMwWjl6RkJtVWFoTFI2OVl0c0RSS291YWRxRG1OZUJZNzhYMjY1WlNuQzQ3a3FvYUc3bF9QRVpmb0g0dTBnaVl5UzRKNE5RNm51bTdUdExzUllFajU3WFFjVEFnSGFrVDZ0d01ia203Z1VKNFF5OVZzWjhZczdkOUJXcXZJVFpkQVVCbEE?oc=5",
+        "fonte": "Focus Concursos",
+        "hora": "2026-11-03T21:33:38Z",
+        "titulo": "Concurso Polícia Penal PE: edital sai dia 4 com 700 vagas",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUdkU0lTWTZseHhMMElrVVM2akN1dldSakkyVVNvXzlxejVlOHE3cTZNWF9RN2F2RjZhcUZrV2tsZUp4UUdFSmlXTDJjME9EWmFJSzQtWERlYWhFbmJrQjNRZ0lqaE1rS3ZSZXVneV9FTWtVWG9nYUZtS0w0bVlSTk5lakIweXQyMU9vN1ZpQi11eEpiWnAyRmE0a3ZmYmNJY0R2SHI5TENwRF81SFVhaHJBaTg?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "protagonismo na política",
-      "razao_aumento": 100.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-11-03T12:46:23Z",
-        "titulo": "Kassab diz que Raquel Lyra é a mulher de maior protagonismo na política nacional",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb3V2ZjFVR0V0WV9jOXBMYlZzR3l1V2h4dmstYmxPVUMwWjl6RkJtVWFoTFI2OVl0c0RSS291YWRxRG1OZUJZNzhYMjY1WlNuQzQ3a3FvYUc3bF9QRVpmb0g0dTBnaVl5UzRKNE5RNm51bTdUdExzUllFajU3WFFjVEFnSGFrVDZ0d01ia203Z1VKNFF5OVZzWjhZczdkOUJXcXZJVFpkQVVCbEE?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Camaragibe",
-      "razao_aumento": 90.9,
+      "termo": "concurso da Polícia",
+      "razao_aumento": 49.9,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Blog do Mário Flávio",
-        "hora": "2026-11-04T01:23:26Z",
-        "titulo": "Raquel Lyra inaugura segunda Areninha em Camaragibe; investimentos nas duas unidades somam R$ 683,9 mil",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmU2MEsxVjYzOVdaSTFDTEN3a1BkcFpUekR5RDNLWUlKR3FBUGhPQ1JuZFZpNTBxUWZ1V3kxQVh6QkozaFVtMktGQlJWRkpxYzNoRXVHSDg1QUxJdDNWMzhwMjVReDk3ZW5NMnBYN0JWb3R1WFZ4ZER5b0dsTlRpVVh4OHBuLUNrVDV5MU9IRHFPc0dwLWFvVktPTTF1REhqamc3ZmVYcVpxemhSYmpvYzA5R2NUejR4eDRlSjk2bmtBMTBwS0gxN0xWems2UW8?oc=5",
+        "hora": "2026-11-03T20:23:06Z",
+        "titulo": "Governo de Pernambuco anuncia concurso da Polícia Penal com 700 vagas e provas em Caruaru",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXdlTnFRLUppaHBFaEgxVExCMjQwLURhOHJhbEpLRTQybl9ydzVDSHNWWlJ3cDY3VjN6UVNJXzBmZm9ZVnJNZDJnZ1UxUVNJaFVrUVhrNFdhQ040R0xFRXJSR1VXNnpyeS10d0xNZEZxRlRmYUdUSEpJWVRsbzY1VVBvcHhzLUtxUFhaM0Jibk1uNnF2ZklXbHhlU3JranQ3NFJHYkpXdk1XQzBGUkpkVUZBZG5XSGxnOGxmM3lJcXk?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Lyra inaugura",
-      "razao_aumento": 90.9,
+      "termo": "moradias em Igarassu",
+      "razao_aumento": 47.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Mário Flávio",
-        "hora": "2026-11-04T01:23:26Z",
-        "titulo": "Raquel Lyra inaugura segunda Areninha em Camaragibe; investimentos nas duas unidades somam R$ 683,9 mil",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmU2MEsxVjYzOVdaSTFDTEN3a1BkcFpUekR5RDNLWUlKR3FBUGhPQ1JuZFZpNTBxUWZ1V3kxQVh6QkozaFVtMktGQlJWRkpxYzNoRXVHSDg1QUxJdDNWMzhwMjVReDk3ZW5NMnBYN0JWb3R1WFZ4ZER5b0dsTlRpVVh4OHBuLUNrVDV5MU9IRHFPc0dwLWFvVktPTTF1REhqamc3ZmVYcVpxemhSYmpvYzA5R2NUejR4eDRlSjk2bmtBMTBwS0gxN0xWems2UW8?oc=5",
+        "fonte": "Diario de Pernambuco",
+        "hora": "2026-11-04T00:19:44Z",
+        "titulo": "Raquel Lyra retoma agenda em Pernambuco com entrega de 128 moradias em Igarassu",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQnBtUE1Cd0RfOTNQbmlhYzhyQTAzb0s1d0FJVEFGTjNsa2p5SEg4dERKOVFudGtaeGlKS205cnl6QnFYek16TDdmR254Njk1ZFJiOGdhS0Q0SEZtYm1hLTQ4Ny1oUVZUalNTT3J2WmtsUXhlRG92MjVuOXhNR3ZXMFdrSUlVZ2dOYU1EbmJMY2k2YXlDNFBXNVlySWpOTVplWnZUQWJ3MlIyaFdoN0cxY1hneTNpMWV6Vk5GTWMwdXpEbmFlQ0ZkQlZWeUQyU2J1R3NRcUYyclJJY0JKWF8yNFhQc0RxRUE?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "inaugura segunda",
-      "razao_aumento": 90.9,
+      "termo": "até R",
+      "razao_aumento": 47.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Mário Flávio",
-        "hora": "2026-11-04T01:23:26Z",
-        "titulo": "Raquel Lyra inaugura segunda Areninha em Camaragibe; investimentos nas duas unidades somam R$ 683,9 mil",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmU2MEsxVjYzOVdaSTFDTEN3a1BkcFpUekR5RDNLWUlKR3FBUGhPQ1JuZFZpNTBxUWZ1V3kxQVh6QkozaFVtMktGQlJWRkpxYzNoRXVHSDg1QUxJdDNWMzhwMjVReDk3ZW5NMnBYN0JWb3R1WFZ4ZER5b0dsTlRpVVh4OHBuLUNrVDV5MU9IRHFPc0dwLWFvVktPTTF1REhqamc3ZmVYcVpxemhSYmpvYzA5R2NUejR4eDRlSjk2bmtBMTBwS0gxN0xWems2UW8?oc=5",
+        "fonte": "G1",
+        "hora": "2026-11-04T10:41:57Z",
+        "titulo": "Concurso da Polícia Penal tem 700 vagas de emprego com salários de até R$ 5 mil; veja como se inscrever",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcjdFZVRPSFlkblZKQ1lKZ2VCNUo2eTJGbWtwTTBhZU85cHZmUXhONFNRd3dHUS1lWHhhaURHN3d6cDdoN2dqWWJHXzBYd1VGcHV1Zy1ua2NlNm9vTjZtWGQwV0hvTjJpTkdONnVOMElqb0puUWZHb3hlYnppTU9kejFzSkdfZ192NTh3NmxYVkFGcGppZFkySTJDVExITE5HT0VybDJBeHY4c2p2N0FVNkxIcWZQdzRBR3FIRmZPd2x2SkQxZ0lXNFpjYWtlandCXzVLYjJtb083b3lzRXgzTnhMY2NoZmZLZDl6X1d1OXZ1dmJi0gGDAkFVX3lxTE1URUJFczYyMUtfSm9qanFFaHB4M2ZZX3hEZVNaRHh6aFY4Z0ZudjFqOGhGZFFWREZPS3lhMzFyc1RHeE0wTkJVbFRlMDFES2tsRnRIUlBUai11NDZBaHNaSnpOTnhqWkFUcElaTW1tZzlja2VPVG5xa0lWV1lPdk44VU90NVNPbkhtd2NQOG9UUllXY2Z4eGdnc3VNaGdNWWVuMDBGQldKTEMySmc5Z3dRMklNQWZoSmw1UVNKWS1sR0RKR3VmVFRaaXJKMk9iRm5wd0Z6RFJrQ1JPQ1ZDanVOeUI2WWVzbDFoTm5FRE93UDhXaHBKdzZQd0RNc01VTEktb2s?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "segunda Areninha",
-      "razao_aumento": 90.9,
+      "termo": "Derrota",
+      "razao_aumento": 47.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Mário Flávio",
-        "hora": "2026-11-04T01:23:26Z",
-        "titulo": "Raquel Lyra inaugura segunda Areninha em Camaragibe; investimentos nas duas unidades somam R$ 683,9 mil",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmU2MEsxVjYzOVdaSTFDTEN3a1BkcFpUekR5RDNLWUlKR3FBUGhPQ1JuZFZpNTBxUWZ1V3kxQVh6QkozaFVtMktGQlJWRkpxYzNoRXVHSDg1QUxJdDNWMzhwMjVReDk3ZW5NMnBYN0JWb3R1WFZ4ZER5b0dsTlRpVVh4OHBuLUNrVDV5MU9IRHFPc0dwLWFvVktPTTF1REhqamc3ZmVYcVpxemhSYmpvYzA5R2NUejR4eDRlSjk2bmtBMTBwS0gxN0xWems2UW8?oc=5",
+        "fonte": "G1",
+        "hora": "2026-11-04T11:15:11Z",
+        "titulo": "Derrota de Trump e vitória de Lula enfraquecem direita nas Américas e vira oportunidade para presidente brasileiro pacificar país",
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOdmFaWk9oTFkxWEVaYkdCbFF4VE5hV1RMeFl6RVB1N293c3J0dmJsaGw3QUtRM2lZd1pqdTU0OGJuUzhnSHF4dEJoT1UwNmp1Ynh2X0VvclRQNzdtRG5nRWozdkVFYVZDNGVkcWZielppdTlFY2xLXzdHcERkZzFiQXVQaHpGVHAxZVZnZVZIZmtMNjZaeEgzbmlCODVEUm5nMGhDR0E3ZnJVTGRUSUNJMzVCbU5ZVHJEX3lYVXFOZGoyTU9OVEoxZm1GT0RfamdocmpZakEtMW14OXRHcE8tc0t6T1d0eldtMEg1TWtxSTRPbXRrR2ZybFlwaDAxQ21maUN5NGZsb1RjSUttcEFCZ1d5dHRMbDlWcU11X2xBSGRqc3AzN3fSAbQCQVVfeXFMTTZ3VlZWeHNLMlhJSzFaeUFZWjctNU5mY3NfSVJsRm9vNVVjUUlqYndubzgtSDlYcHZvOENwenV2NWxZSS1UN1VMemFZQjZleUtBMEJxN2hqMVVkM2tEYXFWWEs2RlJWNGpZT3N5djJLRThzaUFyYkJQeXpVMWt0NTl6cVc4ZUFlelZPdFgtaGw5V2paSW5SajIxb1UydmJhcElJNE5UcTZjTUpZZExIam9jSnZ4UFAtY2o4aTgwNGdQc1hWWnZJWlBaNzBkVnRaV0dfWDh0YlNRNFF3YUNxU1lqalhwX2s5T2ZNZnZHOGFXclZHX2JWblR1RXdVQ01TVTFoRlMzVkhCZlZTODlsa2lrRWtZdmYwZG44a1dDMXN0NmQ5V0Jpb00tYXpIcVZnX0pFb20?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Raquel Lyra inaugura",
-      "razao_aumento": 90.9,
+      "termo": "Ações",
+      "razao_aumento": 47.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Mário Flávio",
-        "hora": "2026-11-04T01:23:26Z",
-        "titulo": "Raquel Lyra inaugura segunda Areninha em Camaragibe; investimentos nas duas unidades somam R$ 683,9 mil",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmU2MEsxVjYzOVdaSTFDTEN3a1BkcFpUekR5RDNLWUlKR3FBUGhPQ1JuZFZpNTBxUWZ1V3kxQVh6QkozaFVtMktGQlJWRkpxYzNoRXVHSDg1QUxJdDNWMzhwMjVReDk3ZW5NMnBYN0JWb3R1WFZ4ZER5b0dsTlRpVVh4OHBuLUNrVDV5MU9IRHFPc0dwLWFvVktPTTF1REhqamc3ZmVYcVpxemhSYmpvYzA5R2NUejR4eDRlSjk2bmtBMTBwS0gxN0xWems2UW8?oc=5",
+        "fonte": "portalsilvalima.com.br",
+        "hora": "2026-11-04T10:13:01Z",
+        "titulo": "Deputados na Alepe debatem fuga de Flávio Bolsonaro e AÇÕES do Novo contra chapa de Lula",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDQwaDI1dm16aTN4VW55Ym1xVEFqZUJBY2JGMXpTZjFQR3gxM0FQZmNCWVJBSk1Nc2Z3MFBYR2RmWm1tR2VYVFJMaV9aMUtvZmZpeUtDNk80UXpsT1IxSnRfeFlVbjM4VWtPR2g3bk5LZTVkc19FZDh2MV9pdk0zd1M0NGc0X3A4Mm9CVmt5VllyNnljQldUMWJrZmx6cTdOVE50QU1yeXR6VENaaUNmQ3dUYUR0a2ZkVk9COQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Lyra inaugura segunda",
-      "razao_aumento": 90.9,
+      "termo": "concurso para Polícia",
+      "razao_aumento": 47.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Mário Flávio",
-        "hora": "2026-11-04T01:23:26Z",
-        "titulo": "Raquel Lyra inaugura segunda Areninha em Camaragibe; investimentos nas duas unidades somam R$ 683,9 mil",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmU2MEsxVjYzOVdaSTFDTEN3a1BkcFpUekR5RDNLWUlKR3FBUGhPQ1JuZFZpNTBxUWZ1V3kxQVh6QkozaFVtMktGQlJWRkpxYzNoRXVHSDg1QUxJdDNWMzhwMjVReDk3ZW5NMnBYN0JWb3R1WFZ4ZER5b0dsTlRpVVh4OHBuLUNrVDV5MU9IRHFPc0dwLWFvVktPTTF1REhqamc3ZmVYcVpxemhSYmpvYzA5R2NUejR4eDRlSjk2bmtBMTBwS0gxN0xWems2UW8?oc=5",
+        "fonte": "Rádio Cidade 99.7 FM",
+        "hora": "2026-11-03T21:15:00Z",
+        "titulo": "Governo de Pernambuco abre concurso para Polícia Penal com 700 vagas",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjFRWFpIV2JKaTRueDY4UWd4NWsyaDR0V1pvekZucGZfTjF5ZHowV043ZFI2YzdrLVhBRWlKLWtSUVg4QzhIcDg4NzRhd1lVS2tWMjJpTlN3UDlpVzVMRkdJdUkwcW02SktWdUdlQnRuYVh6SWl6SUNNdmplV3I1em1fZExjampjNjdXczBMZlFmZ0tUR25HWktB?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "sessão do Senado",
+      "razao_aumento": 46.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-11-03T21:00:36Z",
+        "titulo": "Nos EUA, Flávio Bolsonaro registra presença em sessão do Senado que discute a PEC da Segurança Pública",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVVRWUM3SzJJTHdveXB4cHN3d1hJaW03T3VOLS1xLXRMRUJQMGU3cV91bkFvSV9VUm0tZDVpbC14X01jbVFyNmxtR1RIekNHNXI1TkdYMnVHdUVzenFWbjF4dWpyNHJQUElIbjVUbWNzTnRORWpoaWpnNUFJbTZzbkxZOGtiNkgyYWR3V0I1M3FsRFhvMmQtQWdmX281QnoyOHVOeXJSS2VpTE14cXA4Yk1makhIcDBG0gHHAUFVX3lxTFBPMzdRWk51MGpyNENTb3I5eUNPNHNhd29GMEZlQ00zOXhzVGhhSFRaUG1zVlc0cTZVSUpmMVpTTU41N1ZISmRpWklvU3RYNDdLR3dhX3hnYUtlZTAyVVA0WU9PbldQUGtOa0hkWVdNMU45M3FlZWI4SFlFaUxCMzFaQnhTcUdLaUlDaUgwWVBLTlVfemU0UTNIZHY3eTJDUkVDS1F4Rkp5NmIycVhENWN2YUNLQ2NBd0JmNlJLeXp4T3VYS3E1T00?oc=5",
         "peso": 1.0
       }
     }
@@ -345,271 +351,271 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 17.58,
-      "fontes_distintas": 21
+      "fatia_pct": 19.1,
+      "fontes_distintas": 23
     },
     {
       "termo": "Lula",
-      "peso_relativo": 87.5,
-      "fatia_pct": 15.38,
-      "fontes_distintas": 16
+      "peso_relativo": 85.3,
+      "fatia_pct": 16.29,
+      "fontes_distintas": 18
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 84.4,
-      "fatia_pct": 14.84,
-      "fontes_distintas": 19
+      "peso_relativo": 82.4,
+      "fatia_pct": 15.73,
+      "fontes_distintas": 20
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 75.0,
-      "fatia_pct": 13.19,
-      "fontes_distintas": 19
+      "peso_relativo": 76.5,
+      "fatia_pct": 14.61,
+      "fontes_distintas": 20
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 65.6,
-      "fatia_pct": 11.54,
-      "fontes_distintas": 17
+      "peso_relativo": 64.7,
+      "fatia_pct": 12.36,
+      "fontes_distintas": 14
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 62.5,
-      "fatia_pct": 10.99,
-      "fontes_distintas": 16
+      "peso_relativo": 55.9,
+      "fatia_pct": 10.67,
+      "fontes_distintas": 13
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 62.5,
-      "fatia_pct": 10.99,
-      "fontes_distintas": 16
-    },
-    {
-      "termo": "PEC da Segurança",
-      "peso_relativo": 40.6,
-      "fatia_pct": 7.14,
-      "fontes_distintas": 11
+      "peso_relativo": 55.9,
+      "fatia_pct": 10.67,
+      "fontes_distintas": 13
     },
     {
       "termo": "Polícia",
-      "peso_relativo": 37.5,
-      "fatia_pct": 6.59,
-      "fontes_distintas": 11
+      "peso_relativo": 47.1,
+      "fatia_pct": 8.99,
+      "fontes_distintas": 15
     },
     {
       "termo": "Penal",
-      "peso_relativo": 37.5,
-      "fatia_pct": 6.59,
-      "fontes_distintas": 11
+      "peso_relativo": 47.1,
+      "fatia_pct": 8.99,
+      "fontes_distintas": 15
     },
     {
       "termo": "Polícia Penal",
-      "peso_relativo": 37.5,
-      "fatia_pct": 6.59,
-      "fontes_distintas": 11
+      "peso_relativo": 47.1,
+      "fatia_pct": 8.99,
+      "fontes_distintas": 15
     },
     {
-      "termo": "Segurança",
-      "peso_relativo": 37.5,
-      "fatia_pct": 6.59,
-      "fontes_distintas": 11
+      "termo": "Trump",
+      "peso_relativo": 36.5,
+      "fatia_pct": 6.97,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Igarassu",
+      "peso_relativo": 23.5,
+      "fatia_pct": 4.49,
+      "fontes_distintas": 8
     },
     {
       "termo": "Segurança Pública",
-      "peso_relativo": 28.1,
-      "fatia_pct": 4.95,
+      "peso_relativo": 23.5,
+      "fatia_pct": 4.49,
       "fontes_distintas": 7
     },
     {
       "termo": "Senado",
-      "peso_relativo": 28.1,
-      "fatia_pct": 4.95,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Pública",
-      "peso_relativo": 21.9,
-      "fatia_pct": 3.85,
+      "peso_relativo": 20.6,
+      "fatia_pct": 3.93,
       "fontes_distintas": 6
     },
     {
-      "termo": "Bolsonaros",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.3,
+      "termo": "Segurança",
+      "peso_relativo": 20.6,
+      "fatia_pct": 3.93,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Pública",
+      "peso_relativo": 20.6,
+      "fatia_pct": 3.93,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "PEC da Segurança",
+      "peso_relativo": 20.6,
+      "fatia_pct": 3.93,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "the L",
+      "peso_relativo": 20.6,
+      "fatia_pct": 3.93,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Pernambuco lança",
+      "peso_relativo": 20.6,
+      "fatia_pct": 3.93,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "concurso da Polícia",
+      "peso_relativo": 17.6,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "EUADid",
+      "peso_relativo": 17.6,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "EUADid The",
+      "peso_relativo": 17.6,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "EUADid The L",
+      "peso_relativo": 17.6,
+      "fatia_pct": 3.37,
       "fontes_distintas": 1
     },
     {
       "termo": "Effect",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.3,
-      "fontes_distintas": 1
+      "peso_relativo": 16.2,
+      "fatia_pct": 3.09,
+      "fontes_distintas": 2
     },
     {
-      "termo": "The Bolsonaros",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.3,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Bolsonaros Effect",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.3,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "The Bolsonaros Effect",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.3,
-      "fontes_distintas": 1
+      "termo": "Jorge",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.87,
+      "fontes_distintas": 4
     },
     {
       "termo": "Texas",
-      "peso_relativo": 17.8,
-      "fatia_pct": 3.13,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Corrida",
-      "peso_relativo": 16.9,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Blogueiras8",
-      "peso_relativo": 16.9,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Corrida Das Blogueiras8",
-      "peso_relativo": 16.9,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Moledo",
-      "peso_relativo": 15.9,
-      "fatia_pct": 2.8,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Igarassu",
-      "peso_relativo": 15.6,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Kassab",
-      "peso_relativo": 15.6,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Pernambuco lança",
-      "peso_relativo": 15.6,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Talarico",
       "peso_relativo": 15.0,
-      "fatia_pct": 2.64,
+      "fatia_pct": 2.87,
       "fontes_distintas": 1
     },
     {
-      "termo": "Coritiba",
-      "peso_relativo": 14.1,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Master",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Chef",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Master Chef",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Chef BR",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Master Chef BR",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lyra reassume",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Raquel Lyra reassume",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "governadora Raquel",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
+      "termo": "Alepe",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.81,
       "fontes_distintas": 4
     },
     {
       "termo": "Lyra entrega",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "governadora Raquel Lyra",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.81,
       "fontes_distintas": 4
     },
     {
       "termo": "Raquel Lyra entrega",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "lança edital",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Pernambuco lança edital",
+      "peso_relativo": 14.7,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Talarico",
+      "peso_relativo": 14.1,
+      "fatia_pct": 2.7,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonaros",
+      "peso_relativo": 13.2,
+      "fatia_pct": 2.53,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "The Bolsonaros",
+      "peso_relativo": 13.2,
+      "fatia_pct": 2.53,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Bolsonaros Effect",
+      "peso_relativo": 13.2,
+      "fatia_pct": 2.53,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "The Bolsonaros Effect",
+      "peso_relativo": 13.2,
+      "fatia_pct": 2.53,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Spotify",
+      "peso_relativo": 12.4,
+      "fatia_pct": 2.36,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "governadora Raquel",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.25,
       "fontes_distintas": 3
     },
     {
+      "termo": "governadora Raquel Lyra",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Concurso",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Kassab",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 4
+    },
+    {
       "termo": "Governo Lula",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.25,
       "fontes_distintas": 4
     },
     {
       "termo": "Alcolumbre",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 2
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 3
     },
     {
-      "termo": "presença em sessão",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Jorge",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.2,
+      "termo": "concurso público",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.25,
       "fontes_distintas": 4
     }
   ]
