@@ -1,181 +1,169 @@
 {
-  "atualizado_em": "2026-11-06T00:11:44Z",
-  "total_analisado": 151,
+  "atualizado_em": "2026-11-06T06:52:19Z",
+  "total_analisado": 156,
   "x_recife": [
     {
-      "termo": "#LiveDoExercitoExplode",
+      "termo": "#EliminaçãoAFazenda",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23LiveDoExercitoExplode",
+      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
       "ruido": false
     },
     {
-      "termo": "#LoungeDasBlogueiras",
+      "termo": "Kaio Jorge",
       "posicao": 2,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23LoungeDasBlogueiras",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Kaio%20Jorge",
       "ruido": false
     },
     {
-      "termo": "Paraguai",
+      "termo": "olivia",
       "posicao": 3,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Paraguai",
+      "url": "https://x.com/search?q=olivia",
       "ruido": false
     },
     {
-      "termo": "Remo",
+      "termo": "#loungedasblogueiras",
       "posicao": 4,
-      "variacao": "+14",
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Remo",
-      "ruido": false
-    },
-    {
-      "termo": "#19hsTemLiveDaVitoria",
-      "posicao": 5,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%2319hsTemLiveDaVitoria",
-      "ruido": false
-    },
-    {
-      "termo": "#LiveDoLulaComSeuExercito",
-      "posicao": 6,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23LiveDoLulaComSeuExercito",
-      "ruido": false
-    },
-    {
-      "termo": "Arias",
-      "posicao": 7,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Arias",
-      "ruido": false
-    },
-    {
-      "termo": "OUÇA AGORA BI FESTINHA",
-      "posicao": 8,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=OU%C3%87A%20AGORA%20BI%20FESTINHA",
-      "ruido": false
-    },
-    {
-      "termo": "Vitor Roque",
-      "posicao": 9,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Vitor%20Roque",
-      "ruido": false
-    },
-    {
-      "termo": "#ANobrezaDoAmor",
-      "posicao": 10,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23ANobrezaDoAmor",
+      "url": "https://x.com/search?q=%23loungedasblogueiras",
       "ruido": false
     },
     {
       "termo": "Melody",
-      "posicao": 11,
-      "variacao": "-2",
-      "direcao": "cai",
+      "posicao": 5,
+      "variacao": "+3",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Melody",
       "ruido": false
     },
     {
-      "termo": "New York Times",
-      "posicao": 12,
+      "termo": "Arroyo",
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Arroyo",
+      "ruido": false
+    },
+    {
+      "termo": "Cruzeiro",
+      "posicao": 7,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Cruzeiro",
+      "ruido": false
+    },
+    {
+      "termo": "Giannis",
+      "posicao": 8,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Giannis",
+      "ruido": false
+    },
+    {
+      "termo": "#QuemAmaCuida",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23QuemAmaCuida",
+      "ruido": false
+    },
+    {
+      "termo": "Bruno Rodrigues",
+      "posicao": 10,
       "variacao": "-6",
       "direcao": "cai",
-      "url": "https://x.com/search?q=New%20York%20Times",
+      "url": "https://x.com/search?q=Bruno%20Rodrigues",
       "ruido": false
     },
     {
-      "termo": "Mackenzie",
-      "posicao": 13,
-      "variacao": "-5",
+      "termo": "#LiveDoExercitoExplode",
+      "posicao": 11,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23LiveDoExercitoExplode",
+      "ruido": false
+    },
+    {
+      "termo": "Elenice",
+      "posicao": 12,
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Mackenzie",
+      "url": "https://x.com/search?q=Elenice",
       "ruido": false
     },
     {
-      "termo": "Maurício",
+      "termo": "Bahia",
+      "posicao": 13,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Bahia",
+      "ruido": false
+    },
+    {
+      "termo": "#Britney25",
       "posicao": 14,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Maur%C3%ADcio",
+      "url": "https://x.com/search?q=%23Britney25",
       "ruido": false
     },
     {
-      "termo": "Master",
+      "termo": "Kitty",
       "posicao": 15,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Master",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Kitty",
       "ruido": false
     },
     {
-      "termo": "SAROCHA HUSH IN LIMA",
+      "termo": "Lucas Silva",
       "posicao": 16,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=SAROCHA%20HUSH%20IN%20LIMA",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Lucas%20Silva",
       "ruido": false
     },
     {
-      "termo": "Manoel",
+      "termo": "Flow",
       "posicao": 17,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Manoel",
+      "variacao": "+7",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Flow",
       "ruido": false
     },
     {
-      "termo": "O NYT",
+      "termo": "campus drivers",
       "posicao": 18,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=O%20NYT",
+      "url": "https://x.com/search?q=campus%20drivers",
       "ruido": false
     },
     {
-      "termo": "Andreas Pereira",
+      "termo": "Brigitte",
       "posicao": 19,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Andreas%20Pereira",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Brigitte",
       "ruido": false
     },
     {
-      "termo": "Santiago Peña",
+      "termo": "Remo",
       "posicao": 20,
-      "variacao": "-8",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Santiago%20Pe%C3%B1a",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Remo",
       "ruido": false
     }
   ],
   "google_trends": [
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "VEJA: Eleições 2026: Apuração Estadual em tempo real - Pernambuco - 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXA5R3pTWmF6UTFjekVxTi1na2VrNTJCQi12S2dGdnBJVW9Xd0xNZjdMalNmMDRjM2hGeTZ1aFdaM2JoY1FOYmV3R1o3aFhwUzRfZnUyd2dWZjVTQ3pYdkdueVM3SFZzSV9nTlF0d1MwQXhkN1FibU5oN0x4VmNyOXV5MU0?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "- Blog Dellas: “Pernambuco está pronto para ser líder da nova economia do Nordeste” destaca Raquel Lyra durante encontro com investidores em São Paulo -",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa3V4enFmdWJDYl9NLTBMN0FVQURjd1RBeVpiWE12d2kzUWVaRkNDaWl2cUtCYkVReV84QWNZVUNnMF94UjdBNy0wSTRJRW4yZTI2NzZUR1FzdmN0S3hCQmFpbVVYRHp5ZWxweG9UbmI1NGhGSkFzMDJyaUE3UFpGZFRLTGxVU2Z3RC1hOFlHdzBUM2pSeWQzWHU5Vk05OEs0Z3oxUWlCQTVscmhJN05oYkJtUzJwRUpKdTlDM1NMMmk2ZGVNOTNTNWtVd1dsWjZ4V2RrZGUtOUdjMWxfMWNpMVdzR2FmanQ3d3ZuM0J1RUVRZw?oc=5"
-    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -185,14 +173,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Tribunal Regional Eleitoral de Pernambuco: Eleitores podem ser atendidos em qualquer cartório eleitoral ou central de atendimento de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeF9BS0hFQk1IdWgwakxXTi1seW1OaTVaQVI4YS1ocVdPS2Eta0VpZ1liUTMxbUdkUU85N0kzcDA4ZWh0YmFZY3c3NEg4bGJTWkl1ZkF4RmpEemhmZUpyOTNieXNjcG5iY05sc0h0bExZT1ZJQTR1dGVqN1ZYUFVNUXJQVmMxVklreVBuYTRCUVFUMXFXR1M0eWxhdmRWT0NnZ3NpUE04Vk9nVnY3WUs1SW9vc2hUV2JOc1BKcWdJall0d196dzFFMFg2cnhXVzhLTnpRMW9la2tFbmQ1ajE0WjdNVlRIZWp4cGxCd1ZfU3JWa0k?oc=5"
+      "manchete": "www.gov.br: Conheça o perfil dos participantes do Enem 2026 em Pernambuco — Ministério da Educação",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeUNRd2NCMmp3dXQ0eEVqckljRkxUSkNjdE1MWEVjaWV3MFhiZTBraWRNQkxzbGU4LXJROFVnMFJxclVOcU9JMUNTX2x4em14dlU5TDBrMV9mV0tTNGZjRXdiR2h6TGQ5UzJmTjJ0bkkzSThjR3FzWGQ4amx2SzZQc21obmFxM1VpOFB3b0FKYXk3VVg5ME5XLVlSSUxkY1ppdS1MSm8xcHBDNVZKQXJ5aWRPVnNJLVVQdkNaSUhsSQ?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Raquel Lyra e presidente da Petrobras tratam sobre investimentos para Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVE3UHNhS2RLVVhEVFlSQkx3Y2ZSRGhpY0NmNnBuc3pIWVRlRVV3NTVkeXpoWXJfdTlqdDhHY0VYdGNhWVVSZjlGanNYZzVDVUJhcWhHS1ZzMFNZcHlVSzNPSm1sU3RhT2xKakZXLXpsNHpGRTRQTTNQZEFBWi10WGp4T2t2eEVta0RIU3U4OV9adXNWMzRfX2lILWlVUk9PVER6VndTMHFhMTZYT0t4T0dwV04tNVhpSGhPSDQxaG1RTGIxX2Q1bUloeWdPZw?oc=5"
+      "manchete": "- Blog Dellas: Entre janeiro e outubro, Pernambuco registra menor número de roubos violentos em 16 anos -",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEdkQ0pka1ExZUh4U0o3dmljMFlmc1VzM0VnMkFuZ1BaaERMMlFyLXdvbVcySktHVTd0ZFBJNFFLVTBqblludUtRaVRNcVFLUjRXdEFHWEhTakJzOFVNay1fb2lLY2ViemJZcDMwWFo3bWFJTXdJeDd4dkNKc2pBc2JYb0hWNXJ4NEI5Q1Q4X21GQ0lGb1FvLU9xODF5OUswLUNzS0tsamcwenlFZzdRMTA2YUs?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Márcio Didier: Após ampliar bancadas, PT avalia aliança com PSB e futuro em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aV1V5cHhEUXFBbXNMMmg1by1OcHdUWHVuZE5nNjVKS3F3NXNHLUduTWc1b3JwNnE3T3ZNNHJsM0N2d3BfWS1CdVBvcnFkdlJoZ0NWQzlaVzJYSW9lM1ViVGtSRmVfYmZpcVRSaWJwdHJ1RHB1OXNWTg?oc=5"
     },
     {
       "termo": "Recife",
@@ -207,64 +201,16 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEZnczNCRFNJdmpDZTQydHQ4bFBsZ0pVRzNLekg4OGR3YmZJbUQ0eDlQZGNQLVpUWkk1SC02SG16RUhyemE4ZHdmdXdFYWRrUlBXOTRYNkRXUTJQNnFSN01iM2Q5UmRpRjJ6aHdiQTR2RWtOc2ZhNWN5Nmh5eGo3ekpqQmg4RkVOd0d4R1dkTHhFZG1QcUFIbmRaLUFQbXBNVjB3SExKbU9obDBZY29WQWVwcjhzc3llaUQwRW9XZ0VGcGdrd2c?oc=5"
     },
     {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Quero Bolsa: Melhores cursos de ADS em Recife: Guia 2026",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JUlpwNTZiWG85U1ZFVVpNMThtNTNUYXpMMDFJQ1J4Z08xc1piY1U5XzBxdEtzQU1hbUJoT3Vic0ZnYWhhbUR4Yk4wSHFVazV2aDd6NGVGQjc0VTlUdjI1OWFVMFRNMXVFMkxQbW1CZ2pCendL?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Prefeitura do Recife destaca avanços na habitação durante o ADEMIFÓRUM 2026",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnc0WW9lbFZuaG1fNVI3Q1gyWGRpSnpCWUVtT2MtbFFGT2llLTY0cHJqMWlYY21wWUNaYk9xZ1hBcS1qdTM0eFItMTk5MVhxT3UwUGxJQXN2b21YVEJ5S0RMQmN1ZkhDbHh0SjgxMG9ESG1sUDdMYlFVaGhmNFRLZEJVYzhJMFN6R1c3SmR1TGUtX3JGR19SNmJCYzlkSWxUR0tnWEwtMkZDdXJpRmkybWQyaEQwRU1n0gG4AUFVX3lxTE9udzRZb2VsVm5obV81UjdDWDJYZGlKekJZRW1PYy1sUUZPaWUtNjRwcmoxaVhjbXBZQ1piT3FnWEFxLWp1MzR4Ui0xOTkxWHFPdTBQbElBc3ZvbVhUQnlLRExCY3VmSENseHRKODEwb0RIbWxQN0xiUVVoaGY0VEtkQlVjOEkwU3pHVzdKZHVMZS1fckZHX1I2YkJjOWRJbFRHS2dYTC0yRkN1cmlGaTJtZDJoRDBFTWc?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: H&M inaugura no RioMar Recife",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xQW5hMklfQWhpZ0t5RjBnM09jcE50bTZDc0ZMN0FlY1NDeU9CNjJ5Q0hPTVMxTWZGTFhsYkVORGxBNEVkOEF5RDdvVUliV0ZWTFFrU290Tks1eVppOGJfLXRRS3FqZmsteGR0RXI4bTRaNDQta3BzSjFR?oc=5"
-    },
-    {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Diario de Pernambuco: Fórum Imobiliário Brasileiro debate desafios do setor e futuro da habitação em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbVhVZks2c0Q4OE95bWp0bndGQUdrSUNlTXRXZnNXUGpPVGlvQ19FSGVlVDhFb2lOVEZoOUZLTUlvY0h4TV9PSlBGSnBHVlluNVlVQWU0T3dSSkNiR25KSU8zM0kwNExuVXhWUldPekFwVF82bFp2Rk8tM3Utc1hLT3hPaVRqRG1zMV9xa2ZYV3ExQ1I0T1A2bUtPTFdfZ083ODFiUFlaZ25hRm9aVzM5aHBRRlVVWnBDbm5uU0FncVVMNUh5QVpmbTVjWUpNck8wVU5DSEtrQjJ5bVNyb0l5Ti1NVVFIQzVCMGRUNmFUdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc0xxRlF4ZW9OdUtpSHVmNkRFVWc4VFlKeGU3aGRvbGRHMVVjMHZlU2pMZ1dWWVlqeUVWODJsMDk5NFFsMy10NFdlZEFjNjFmTVkzTnlPYXNld3liMl9ITFI5djRxMWtlQVFUWm93MjZDQWQ3VG1YQk1xY2h0Y2E4ZmRteUNYMFcxc0VSZlY0LVJQTXdBZXVFOU9tRl9ITUstODBrNVlYWTAzNUxweXA3OEhZWGk4VmRmUW9UMUJ4aEQ0RnUwMXB1SWFRSHU3REpHV2NJVjdLWkpubnA0NzNKbHk1TmQxMU16dWg1SUpVZUtaZ01u?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "JC: Com IA, levantamento mostra por que a habitação social não sai do papel na RMR",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbmtpekIzRzZ2bkdYa2Ztei1BdDhkMnFLaEZMMWktWTd5aDBjQmRKbGJJNTVYbmRrLUgxdG95dkxVaDNfU1ZIU0ZadkZsVDdwTVh6UmpUWEg0WWJydmI2MjhXTVR3VHd2a3J1NFMyTmJkVklmTkdaVUVuUEJvb25MMmhFbUt4VGRaMmkzQ1JESXcxaXotYWhLNk13VTI0OUJFeGhHeDV4eDlLeERCa2dweXh1OFpURTVQa0MzalVBRjdoNDZhbnd2MkZKTG5nZjBMdUtrTg?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Prefeitura do Recife participa do Ademifórum 2026",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnFLZmdQUTZiYVRUeWJvTXhpMGd4RXFQUk1yNlh5NS16MnJUVzAya2lnLTFCWWYyWGpHdDUwQWQwb1A5UFlWQzc2bmxLUWZKVWV2Q1c1dGdtTTZkSVBfRkxFZXdBbmpOb3NfSXRGYUFzLXF3X2txeGR2VmFZTUhzTFpMaw?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Blog Nossa Voz: Caged setembro 2026: Pernambuco lidera geração de empregos no nordeste e ocupa 2º lugar no Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ISEhZS1Yxb1owaEdKSVozb1lQcHh1MUJGT2oxcTNYX1ItQzhZcThqeXdJTzduWTJZd0Jpc1hldHdYd1FseHBLc2NJbUstbUUydmhRVQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Homem da Meia-Noite se inspira no Sertão para o tema do Carnaval 2027",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnF2NHZ6eDNlSzBHdGZEblBSSHpXREljSE90aEdLbXBiZzdzWmt0Z1YtT2NjQW9JOWdTWS1BLUlZMTNQeGtON2lTeS12ZEsxdWs2REdKNHl1QUpWVFM4bTNXOXVsQ2o1Q2xZVnBYaWZMM2FZR1F4NDROZGZGQ2tSWmYxV0JoUzExVi1lMmNsbldWQ2FkdkJWbUozWjNnVkpqU2E2NDllVjZmeXN6NDN2N29TckZtOHPSAbcBQVVfeXFMT0ZxdjR2engzZUswR3RmRG5QUkh6V0RJY0hPdGhHS21wYmc3c1prdGdWLU9jY0FvSTlnU1ktQS1JWTEzUHhrTjdpU3ktdmRLMXVrNkRHSjR5dUFKVlRTOG0zVzl1bENqNUNsWVZwWGlmTDNhWUdReDQ0TmRmRkNrUlpmMVdCaFMxMVYtZTJjbG5XVkNhZHZCVm1KM1ozZ1ZKalNhNjQ5ZVY2ZnlzejQzdjdvU3JGbThz?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Alepe homenageia mulheres de Tejucupapo e lança 3ª temporada do Sagas Pernambucanas",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uODNWYTRfSTVmM0VlN1cyQ2lqVmJJMXd1cDNVVTVWM1ZGWUVDaWJUZUJUQ052NktTbkI4dHNFa2Mxek9XMHVqb0pENEFZczZmVElMcU8xZ1NTejdtTkRzS2ZR?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Alepe aprova aumento de até 80% em verbas de gabinete para deputados com cargos de liderança",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUdOVzhPTDRubkExLVRQMFR1ajVDOWFWTmdMc3QzbGhFVjY1U1R1OHAxQUNlNWRyaWpuNnJKdTBtbmFjWlhJOFZFQUFLckVRckZOeXBoOEdTV21KbmkyV0V6TWhJTmlkV0RjODd3aHg2cmtVQWJHM1BTSDRDUXhiZXhKSy1GT2xscnR1dHVaUHpYallrMkN6Q2R4TzVDUUF2X2ZzVUpXU0U1bGVJRHfSAbwBQVVfeXFMUEZrZ0tNcnh6cXlHSWtYMHd2dEIyRGFoNE9RcHBwMU9tNnZRa2pmUHlfaUVpNnh5Qi1mbE1nYnlJVzZtNVAtcG5SeHo0M0kya2FJUXdlNURhMFhMVmdHQnpkYzB4T3c0NUtNUzhqSWFCOXFqYjM3S0s4TGZESXgtVGk2Sk1lNEFnNHpUeTVsMDdmYVM4dUIzY2JRcC1uamp4Y3lJS25jQjlQbW1DVl93RFIwQU1McHNSTEhCNDc?oc=5"
+      "manchete": "JC: Feira gratuita reúne empresas, oportunidades de seleção e capacitação profissional, na Região Metropolitana do Recife",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVGE0NmxJRW5URFBSaDZUVTZ2eUVfd2lKQzZoOFhmM3FJcFUyVDN4ZU5Xbk9kdkpjdFpPUklJYVZ5X2t6eXhoZUlEREhoOV9sbmF4Yi1TcDNMaE1uUG5xUXZ3MmNaYldFTTdmYWN4VktMeEwySHBWNU9xeVVrOHN3VkxNV0xoTHN1ckdXMDRBS2RwTVpDLXBCMzBNQk5CNS1nUXpRWk9JTU1ySXNwQTJfaUN0RVVJY3ZRclk2ZGFOU29wNnF6TUYtaUY2WENveENKVURpeWJTT1JWZ1ZTcFFIN0lBamZJYjBRa0txTHBZX1k5TkFaeG1r?oc=5"
     },
     {
       "termo": "Alepe",
@@ -287,14 +233,14 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Movimento Econômico: Alepe autoriza Governo de Pernambuco a contratar empréstimo de R$ 1,9 bilhão",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlZTMmNYazBpdGF3ckV0MEpZdXY2aV9pMTFudFRZUjBvaWFxZE9PMGZvZVNXZnF2aF8wSGNKSkhwYmlkWGJZZnJuU0IzQ1RBRVBNZ3JPa2VYTUdsNmlRNVgtWWpFMEtVUThyT3hTZUI5eFI5QzY0eEk4b19JWTBacElabTNXdGtuS0lJREFqUkQwb21HbG1BSm8tT3FJSHJUdkFTbkNyWmNCQWNOVGFnZzlrdnN1TXdyMzFWRFQ3c1Zmb3VOa25ON1hEMDRRMjYyNUJicndn?oc=5"
+      "manchete": "Rádio Cidade 99.7 FM: Governo de Pernambuco firma parceria com UPE para desenvolver inteligência artificial na PGE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnFFZXJlcXBfSmwwMWNYZ2lKYk9KdE1hUHNEN0xUckRDaml5MFY4OGRIVV81ZUpmNUJNandzRmdCeTdYWjFxQ1dob3Z0YjVfbzJFSy1aWERLS0pDZDFFUnlQWjlFVzlKalgzdHRtTTA1VXNlUkN6VnhqYnVvd1ZNNVltcWg0aWpGRnBtdHRianJDelFFY2ZzUjZ4NUdUekFzNHJSZ3BPYUs0MXRWSHdLZktQX2dXUTFMT2c?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Rádio Cidade 99.7 FM: Governo de Pernambuco firma parceria com UPE para desenvolver inteligência artificial na PGE",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnFFZXJlcXBfSmwwMWNYZ2lKYk9KdE1hUHNEN0xUckRDaml5MFY4OGRIVV81ZUpmNUJNandzRmdCeTdYWjFxQ1dob3Z0YjVfbzJFSy1aWERLS0pDZDFFUnlQWjlFVzlKalgzdHRtTTA1VXNlUkN6VnhqYnVvd1ZNNVltcWg0aWpGRnBtdHRianJDelFFY2ZzUjZ4NUdUekFzNHJSZ3BPYUs0MXRWSHdLZktQX2dXUTFMT2c?oc=5"
+      "manchete": "Márcio Didier: Raquel apresenta Pernambuco a investidores e projeta liderança na nova economia do Nordeste",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05eXVBblp2Rms5YzZEYUgtdUN3dDlIRnBnZVFaZHYtWVdOb1BwbnlPblZPNTBsbFBvQlFyRHJLTFhYYldTZ0FkSTVHOVdPUDVyQ2RhRVR5NVNxdUMwQTktZy1kSXNLdTdnMVRqcmR0TjRsWGkzV2tDWWx3?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -305,32 +251,14 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Jamildo: Arena Pernambuco terá troca de gramado em contrato de quase R$ 5 milhões para Copa de 2027",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHlPMm5kVWRjSi1vWnIzZHdtckJpNGhhSW9TQTZib3FOUmxvQnJzWkdBNFhrSkJkeDJfZnBNSnBfQkpXb3V2UHpJTlRpZUpzUTFvdDMyTG9IQzl2UzQ3b25VRkpCbGgxTDVlVU5yLURXWTdMSWxUVnlua01rckx1UnVvNDdIRERMTGVfNkV5MVNjbVVDN3RWSHJVb2ZtV1hrUGItczg5dE96YUJidjIwZ2E0S2R2cmdFMV9Wbklid1NvU01wUXpCaFY5bEhlZGgxS3NV0gHYAUFVX3lxTE1yMVdKd1hwY2dfa0w0WDJjNGJfWDJIODJTdFMwaXVQUWNhS3U3YVhnM3dEX1hfTDg3cjNwMGdmYk9uVFd0MTlFQnZRX041MnR6TU92V1J2Wmx0MS1uWUhvRkxBYXktREpqRGFtU3RiOGFOMFFxNzBrUGRSNE8yTFB4cjZCRXBKc0ZWWV9POHZOaVNXQ2d1NE1WeDVxcHk3YWJEM0lvMnRVaUwxM0FEOXNGQzBYVHBQTlRPTmJnQ01ITUVDT2luai1ZQ0E4RFRkTDZlRnRoSzdxLQ?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "PE Notícias: Governo de Pernambuco recebe até a próxima terça-feira propostas de artistas para Carnaval e São João 2027",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHpHcF9kZ1MzbzFlMUkxTDluR3gzakotcmo1LTEweU42aW8xYXRrcFdMWFZRWlMxa2lYMXpfb21hRVNFT3doVFNFTURLWVZQaDJtdUw3aThUS0U4N25XRThFTTlOdWxHSks0ZjZhWTZHN1lZeERtT2xJLUJvdFhfblBGQ2lBV2pvaDdZREZiWFBVcEtlNmxSb3FRWmFVX1lsV2dqT3hzSHBVMmhvdHFaOFlvdW1hcS05OVk5SjRoUHFSem8?oc=5"
+      "manchete": "Blog da Renata Gondim: ”Pernambuco está pronto para ser líder da nova economia do Nordeste e destino de novos negócios ”, destaca Raquel Lyra durante encontro com investidores em São Paulo",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZXl6TWxEVXZpaFFLSVY2R01NMDFDbW1GU1hxUUlubXE0VEVxeG9mSkFYcXdkSnZMcndSeFVLdm5OOXZQWm5obUxzVXk1N2xjcm5UNGU1NTZJT2Z2WXlXUWJNZUwwaFF1czdUVVg4U04tdnR5bGhKNDJhNXNfMTRzdlZTeHRoTXdhV2FRUWRTWDRHcXVLVUhpWU9wWURCRWRTSXdWaXVxbEk0TDI3UC1wVElEYkRjOEhwT21FRjFlclZJdU5NNXBaUl9RS2lHcHAtUHBsdlJoOTZXTEZERjloZHVVN0ZJaS05RTZQUFdicWtSbUR3bUlEYW5pQWNDVFpjd2hiOTFGb3pkbEZFbFREMUJIVlIyUFdqQ3c?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "TSE",
-      "razao_aumento": 81.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-11-05T19:35:00Z",
-        "titulo": "Mendonça extingue ação do TSE que discutia quebras de sigilo de Lula e de Flávio Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa0QteE9oOE9CZk5vNi1CX3drTjhXM3pSZmZKNXJCODZoWldaVS1WUlJ4T0x0SGVlTTdTSVVBZHRPN2Zoclh2Vlo0bTFBRnVfbTFpcTZsVkNjanVTRjEtaUJBbV9nNTgzaHZrZXo1X21XUWh0anpwbF9nMU9nOGY5VzlMdnU5T2tqUVdqRXgtTzNGNkVucG1OZlhQRmE1Z1JhV2tNZVByVzJjQmJJc0l0VGNneGMtanBVSVdZRENjV2JWbWhmV25EQTE0V3NYZU5JdkZPR0NXOA?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
       "termo": "Alckmin",
-      "razao_aumento": 67.6,
+      "razao_aumento": 100.8,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -341,74 +269,86 @@
       }
     },
     {
-      "termo": "aprova projeto",
-      "razao_aumento": 62.5,
+      "termo": "TSE",
+      "razao_aumento": 99.3,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Jamildo",
-        "hora": "2026-11-05T11:31:33Z",
-        "titulo": "Emendas Pix: Alepe aprova projeto de Débora Almeida que facilita liberação",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZU9wZ2p0ZGdmREE2YzM0NTB0UnV0MDJWQk4xNC1oZ3M1dHZIVjFsOUhxM1IycDFDdVNPbGVMZFE3SHQwRFhvMGhNbGRrdGozWVZzZkZCV0Rfb1JXenY1SDgxMzYxc3p2THNFUTluZEZtdDRybjZzYU5fcHNpZDF5MmtRaTRqOFNGUE15ZnJqclJTQkgwT18way1nYkdWWVF3RlcyeVFCcmM4OWPSAbABQVVfeXFMUG8tZ1pGTnEyTHg1VWswUTRId2VMd3h6N1lQM0wxNTUzVVN1UndhSkY4S18wVEVGY3NNNzl6M2lmSUVPelpwUzVEa1FoZG02b0Rab1U0a0llRVY1c2tJN2dFQnB1bUxGNWtidXdPeGtEM3IyMnExUG1qUEpOQlltb0J1eEhfWjMwS0J5djl0M1ZRcVp3QW5mY2JNNm9jOWVrbWQxRGZpbmQtTDFNLW9Zb1Y?oc=5",
+        "fonte": "G1",
+        "hora": "2026-11-05T21:40:30Z",
+        "titulo": "TSE admite ação do Novo contra Lula e Alckmin por abuso de poder político",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0JJZFI0STJ4aTVTRlFSZmxjRWt5Z1hjQ0hoa0RlcVktWi1ic0xDeGJpcldKU3pQeWZFQ0t2LUVwdGhtbFdYamhPUFV5Q2tsYmZmZG8zTzNtZFlBbHZ6Yjg4Q3ZYYU5oeEFHdlpxNkR6OXhsZkJMMnR0ZXczcnlRek9yZDhtdEk4MWNlU2x2bnpadWM5V2JOUkFxSkNOemcwaXRVTVp2b2g0ZE92VUM4d2VCUDVyZlhlcjNnRjNwaDNjZU4wekRr0gHWAUFVX3lxTE10ajROOV9SZE1RSkJzMTlNUENRTGJ1bm9oRDVfaGJZSnZhQ1hSaDdleGl0UFVRV1RKYnlJb3FPWTV5Z0EtNGUtV20xV253bWtMenFZUTNvd21NRzBuSXZZd2JyMlczdmlDdXVKYXZBdGJjWkx5VEo0WVRyOUliNmt5eXB0SlZYUlczdV9fSExScFBMQjJnNDVPNks4UmVYOC1Rb2hsRjJydnVPUG1qMFhoWDFSd2wxdXI5RWJrV3Jmay1HUXVXN2VHbmdZOHdVOEhNYTdQYlE?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Alepe aprova projeto",
-      "razao_aumento": 62.5,
+      "termo": "admite ação",
+      "razao_aumento": 85.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Jamildo",
-        "hora": "2026-11-05T11:31:33Z",
-        "titulo": "Emendas Pix: Alepe aprova projeto de Débora Almeida que facilita liberação",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZU9wZ2p0ZGdmREE2YzM0NTB0UnV0MDJWQk4xNC1oZ3M1dHZIVjFsOUhxM1IycDFDdVNPbGVMZFE3SHQwRFhvMGhNbGRrdGozWVZzZkZCV0Rfb1JXenY1SDgxMzYxc3p2THNFUTluZEZtdDRybjZzYU5fcHNpZDF5MmtRaTRqOFNGUE15ZnJqclJTQkgwT18way1nYkdWWVF3RlcyeVFCcmM4OWPSAbABQVVfeXFMUG8tZ1pGTnEyTHg1VWswUTRId2VMd3h6N1lQM0wxNTUzVVN1UndhSkY4S18wVEVGY3NNNzl6M2lmSUVPelpwUzVEa1FoZG02b0Rab1U0a0llRVY1c2tJN2dFQnB1bUxGNWtidXdPeGtEM3IyMnExUG1qUEpOQlltb0J1eEhfWjMwS0J5djl0M1ZRcVp3QW5mY2JNNm9jOWVrbWQxRGZpbmQtTDFNLW9Zb1Y?oc=5",
+        "fonte": "G1",
+        "hora": "2026-11-05T21:40:30Z",
+        "titulo": "TSE admite ação do Novo contra Lula e Alckmin por abuso de poder político",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0JJZFI0STJ4aTVTRlFSZmxjRWt5Z1hjQ0hoa0RlcVktWi1ic0xDeGJpcldKU3pQeWZFQ0t2LUVwdGhtbFdYamhPUFV5Q2tsYmZmZG8zTzNtZFlBbHZ6Yjg4Q3ZYYU5oeEFHdlpxNkR6OXhsZkJMMnR0ZXczcnlRek9yZDhtdEk4MWNlU2x2bnpadWM5V2JOUkFxSkNOemcwaXRVTVp2b2g0ZE92VUM4d2VCUDVyZlhlcjNnRjNwaDNjZU4wekRr0gHWAUFVX3lxTE10ajROOV9SZE1RSkJzMTlNUENRTGJ1bm9oRDVfaGJZSnZhQ1hSaDdleGl0UFVRV1RKYnlJb3FPWTV5Z0EtNGUtV20xV253bWtMenFZUTNvd21NRzBuSXZZd2JyMlczdmlDdXVKYXZBdGJjWkx5VEo0WVRyOUliNmt5eXB0SlZYUlczdV9fSExScFBMQjJnNDVPNks4UmVYOC1Rb2hsRjJydnVPUG1qMFhoWDFSd2wxdXI5RWJrV3Jmay1HUXVXN2VHbmdZOHdVOEhNYTdQYlE?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Recife abre",
-      "razao_aumento": 62.5,
+      "termo": "TSE admite",
+      "razao_aumento": 85.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-05T14:24:00Z",
-        "titulo": "Recife abre matrícula para novatos na Rede Municipal de Ensino e anuncia mais mil vagas em creches; veja prazos e como participar",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOFZZYUhoVUVXTllmVWFERjdOSTNscTB5U3c4aXRobmJxZ00xVk5sd2JpZGU3eWhfMmNsMTl4U0c2cXV1dWpZTkpFcmpIelNZVmwwNWNKM3VSN2lLbFF5R0dDRWx6NS1FT0lZVi1ZWDdPRTdrZlNseWE4d0NfMnZ4amFaRHk3WlhTQTlCeGtnTVJqUF9rWHN2U3NNaVVtTEZsVHhaenpGRFhtN2RZekJiTWZSUUJSUVNzREhoajdOTGNqTklrTFZDRWZxaE4xYUZpc3o5SGFzNmZaUVcwZUtUN1I0Rm9TZVFVOG5ON1NDREFDY3BMeWUzcmJ4RWw3enIzY1RIQ19ncnFlSndZbjAydGtjZC1zbEVDSGc?oc=5",
+        "fonte": "G1",
+        "hora": "2026-11-05T21:40:30Z",
+        "titulo": "TSE admite ação do Novo contra Lula e Alckmin por abuso de poder político",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0JJZFI0STJ4aTVTRlFSZmxjRWt5Z1hjQ0hoa0RlcVktWi1ic0xDeGJpcldKU3pQeWZFQ0t2LUVwdGhtbFdYamhPUFV5Q2tsYmZmZG8zTzNtZFlBbHZ6Yjg4Q3ZYYU5oeEFHdlpxNkR6OXhsZkJMMnR0ZXczcnlRek9yZDhtdEk4MWNlU2x2bnpadWM5V2JOUkFxSkNOemcwaXRVTVp2b2g0ZE92VUM4d2VCUDVyZlhlcjNnRjNwaDNjZU4wekRr0gHWAUFVX3lxTE10ajROOV9SZE1RSkJzMTlNUENRTGJ1bm9oRDVfaGJZSnZhQ1hSaDdleGl0UFVRV1RKYnlJb3FPWTV5Z0EtNGUtV20xV253bWtMenFZUTNvd21NRzBuSXZZd2JyMlczdmlDdXVKYXZBdGJjWkx5VEo0WVRyOUliNmt5eXB0SlZYUlczdV9fSExScFBMQjJnNDVPNks4UmVYOC1Rb2hsRjJydnVPUG1qMFhoWDFSd2wxdXI5RWJrV3Jmay1HUXVXN2VHbmdZOHdVOEhNYTdQYlE?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "bilhão para Pernambuco",
-      "razao_aumento": 62.5,
+      "termo": "Nordeste",
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "TV Guararapes",
-        "hora": "2026-11-05T13:22:00Z",
-        "titulo": "Alepe aprova empréstimo de R$ 1,9 bilhão para Pernambuco",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3VmakhOZzhUdTdFZWxGczdrd213d3RNcjBfUHdqa1lxLTl2NjdTZnJXTk8zR012QjF2RE5SSGZkbmJxOE1FRXRvY0ZXVHdfUFJuRkt6ZktZNnRvM0xwNWt4SUc0RVM3WVowcHN0VTNmSWIwSUhDX2xlUWtuRUVWam11QlRZaTRGamxhLXJkaU9JY2w0Q2prSWZIV1NudkNvbU5xUzdNNlBuNEdPNk1ReA?oc=5",
+        "fonte": "- Blog Dellas",
+        "hora": "2026-11-06T00:04:00Z",
+        "titulo": "“Pernambuco está pronto para ser líder da nova economia do Nordeste” destaca Raquel Lyra durante encontro com investidores em São Paulo -",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa3V4enFmdWJDYl9NLTBMN0FVQURjd1RBeVpiWE12d2kzUWVaRkNDaWl2cUtCYkVReV84QWNZVUNnMF94UjdBNy0wSTRJRW4yZTI2NzZUR1FzdmN0S3hCQmFpbVVYRHp5ZWxweG9UbmI1NGhGSkFzMDJyaUE3UFpGZFRLTGxVU2Z3RC1hOFlHdzBUM2pSeWQzWHU5Vk05OEs0Z3oxUWlCQTVscmhJN05oYkJtUzJwRUpKdTlDM1NMMmk2ZGVNOTNTNWtVd1dsWjZ4V2RrZGUtOUdjMWxfMWNpMVdzR2FmanQ3d3ZuM0J1RUVRZw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "abre matrículas",
-      "razao_aumento": 62.5,
+      "termo": "economia do Nordeste",
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-11-05T15:42:00Z",
-        "titulo": "Recife abre matrículas de estudantes novatos para a rede municipal de ensino em 2027",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWg2RWtLbDk5Wmpmc19jZzQtbkJzd3E2SWZESExIR0l0OTlhanBBRGhXVE5qMjVYMVYwTHZpdlczQ3JLVkVGM2M3c1JuM2dGcmJ4Z2lwd1RPSDlXWEtHazdGNkhVWmQybEpkeVhNOG9NY3NNWlpfOU5ERGJLTHA3VXlCeXRhMDRPUnp3dV9ScTlYbjVRVmZjVVNWalRqdnNoekJQSUNFTklneG5mVDdJMm56RdIBswFBVV95cUxNTWg2RWtLbDk5Wmpmc19jZzQtbkJzd3E2SWZESExIR0l0OTlhanBBRGhXVE5qMjVYMVYwTHZpdlczQ3JLVkVGM2M3c1JuM2dGcmJ4Z2lwd1RPSDlXWEtHazdGNkhVWmQybEpkeVhNOG9NY3NNWlpfOU5ERGJLTHA3VXlCeXRhMDRPUnp3dV9ScTlYbjVRVmZjVVNWalRqdnNoekJQSUNFTklneG5mVDdJMm56RQ?oc=5",
+        "fonte": "- Blog Dellas",
+        "hora": "2026-11-06T00:04:00Z",
+        "titulo": "“Pernambuco está pronto para ser líder da nova economia do Nordeste” destaca Raquel Lyra durante encontro com investidores em São Paulo -",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa3V4enFmdWJDYl9NLTBMN0FVQURjd1RBeVpiWE12d2kzUWVaRkNDaWl2cUtCYkVReV84QWNZVUNnMF94UjdBNy0wSTRJRW4yZTI2NzZUR1FzdmN0S3hCQmFpbVVYRHp5ZWxweG9UbmI1NGhGSkFzMDJyaUE3UFpGZFRLTGxVU2Z3RC1hOFlHdzBUM2pSeWQzWHU5Vk05OEs0Z3oxUWlCQTVscmhJN05oYkJtUzJwRUpKdTlDM1NMMmk2ZGVNOTNTNWtVd1dsWjZ4V2RrZGUtOUdjMWxfMWNpMVdzR2FmanQ3d3ZuM0J1RUVRZw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Recife abre matrículas",
-      "razao_aumento": 62.5,
+      "termo": "Lula e Alckmin",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Folha PE",
-        "hora": "2026-11-05T15:42:00Z",
-        "titulo": "Recife abre matrículas de estudantes novatos para a rede municipal de ensino em 2027",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWg2RWtLbDk5Wmpmc19jZzQtbkJzd3E2SWZESExIR0l0OTlhanBBRGhXVE5qMjVYMVYwTHZpdlczQ3JLVkVGM2M3c1JuM2dGcmJ4Z2lwd1RPSDlXWEtHazdGNkhVWmQybEpkeVhNOG9NY3NNWlpfOU5ERGJLTHA3VXlCeXRhMDRPUnp3dV9ScTlYbjVRVmZjVVNWalRqdnNoekJQSUNFTklneG5mVDdJMm56RdIBswFBVV95cUxNTWg2RWtLbDk5Wmpmc19jZzQtbkJzd3E2SWZESExIR0l0OTlhanBBRGhXVE5qMjVYMVYwTHZpdlczQ3JLVkVGM2M3c1JuM2dGcmJ4Z2lwd1RPSDlXWEtHazdGNkhVWmQybEpkeVhNOG9NY3NNWlpfOU5ERGJLTHA3VXlCeXRhMDRPUnp3dV9ScTlYbjVRVmZjVVNWalRqdnNoekJQSUNFTklneG5mVDdJMm56RQ?oc=5",
+        "fonte": "G1",
+        "hora": "2026-11-05T21:40:30Z",
+        "titulo": "TSE admite ação do Novo contra Lula e Alckmin por abuso de poder político",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0JJZFI0STJ4aTVTRlFSZmxjRWt5Z1hjQ0hoa0RlcVktWi1ic0xDeGJpcldKU3pQeWZFQ0t2LUVwdGhtbFdYamhPUFV5Q2tsYmZmZG8zTzNtZFlBbHZ6Yjg4Q3ZYYU5oeEFHdlpxNkR6OXhsZkJMMnR0ZXczcnlRek9yZDhtdEk4MWNlU2x2bnpadWM5V2JOUkFxSkNOemcwaXRVTVp2b2g0ZE92VUM4d2VCUDVyZlhlcjNnRjNwaDNjZU4wekRr0gHWAUFVX3lxTE10ajROOV9SZE1RSkJzMTlNUENRTGJ1bm9oRDVfaGJZSnZhQ1hSaDdleGl0UFVRV1RKYnlJb3FPWTV5Z0EtNGUtV20xV253bWtMenFZUTNvd21NRzBuSXZZd2JyMlczdmlDdXVKYXZBdGJjWkx5VEo0WVRyOUliNmt5eXB0SlZYUlczdV9fSExScFBMQjJnNDVPNks4UmVYOC1Rb2hsRjJydnVPUG1qMFhoWDFSd2wxdXI5RWJrV3Jmay1HUXVXN2VHbmdZOHdVOEhNYTdQYlE?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "TSE admite ação",
+      "razao_aumento": 71.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-11-05T21:40:30Z",
+        "titulo": "TSE admite ação do Novo contra Lula e Alckmin por abuso de poder político",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0JJZFI0STJ4aTVTRlFSZmxjRWt5Z1hjQ0hoa0RlcVktWi1ic0xDeGJpcldKU3pQeWZFQ0t2LUVwdGhtbFdYamhPUFV5Q2tsYmZmZG8zTzNtZFlBbHZ6Yjg4Q3ZYYU5oeEFHdlpxNkR6OXhsZkJMMnR0ZXczcnlRek9yZDhtdEk4MWNlU2x2bnpadWM5V2JOUkFxSkNOemcwaXRVTVp2b2g0ZE92VUM4d2VCUDVyZlhlcjNnRjNwaDNjZU4wekRr0gHWAUFVX3lxTE10ajROOV9SZE1RSkJzMTlNUENRTGJ1bm9oRDVfaGJZSnZhQ1hSaDdleGl0UFVRV1RKYnlJb3FPWTV5Z0EtNGUtV20xV253bWtMenFZUTNvd21NRzBuSXZZd2JyMlczdmlDdXVKYXZBdGJjWkx5VEo0WVRyOUliNmt5eXB0SlZYUlczdV9fSExScFBMQjJnNDVPNks4UmVYOC1Rb2hsRjJydnVPUG1qMFhoWDFSd2wxdXI5RWJrV3Jmay1HUXVXN2VHbmdZOHdVOEhNYTdQYlE?oc=5",
         "peso": 1.0
       }
     }
@@ -417,272 +357,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 15.54,
-      "fontes_distintas": 18
+      "fatia_pct": 15.58,
+      "fontes_distintas": 19
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 90.0,
-      "fatia_pct": 13.99,
+      "peso_relativo": 90.3,
+      "fatia_pct": 14.07,
       "fontes_distintas": 17
     },
     {
       "termo": "Lula",
-      "peso_relativo": 88.3,
-      "fatia_pct": 13.73,
-      "fontes_distintas": 15
-    },
-    {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 76.7,
-      "fatia_pct": 11.92,
-      "fontes_distintas": 15
+      "peso_relativo": 87.1,
+      "fatia_pct": 13.57,
+      "fontes_distintas": 17
     },
     {
       "termo": "Alepe",
-      "peso_relativo": 70.0,
-      "fatia_pct": 10.88,
-      "fontes_distintas": 18
+      "peso_relativo": 71.0,
+      "fatia_pct": 11.06,
+      "fontes_distintas": 19
     },
     {
-      "termo": "Alepe aprova",
-      "peso_relativo": 50.0,
-      "fatia_pct": 7.77,
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 67.7,
+      "fatia_pct": 10.55,
       "fontes_distintas": 15
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 43.3,
-      "fatia_pct": 6.74,
-      "fontes_distintas": 12
+      "peso_relativo": 54.8,
+      "fatia_pct": 8.54,
+      "fontes_distintas": 16
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 40.0,
-      "fatia_pct": 6.22,
-      "fontes_distintas": 11
+      "peso_relativo": 48.4,
+      "fatia_pct": 7.54,
+      "fontes_distintas": 15
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 40.0,
-      "fatia_pct": 6.22,
+      "peso_relativo": 48.4,
+      "fatia_pct": 7.54,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "Alepe aprova",
+      "peso_relativo": 48.4,
+      "fatia_pct": 7.54,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "TSE",
+      "peso_relativo": 35.5,
+      "fatia_pct": 5.53,
       "fontes_distintas": 11
     },
     {
       "termo": "João",
-      "peso_relativo": 33.3,
-      "fatia_pct": 5.18,
+      "peso_relativo": 32.3,
+      "fatia_pct": 5.03,
       "fontes_distintas": 8
     },
     {
+      "termo": "Alckmin",
+      "peso_relativo": 32.3,
+      "fatia_pct": 5.03,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 29.0,
+      "fatia_pct": 4.52,
+      "fontes_distintas": 9
+    },
+    {
       "termo": "Campos",
-      "peso_relativo": 26.7,
-      "fatia_pct": 4.15,
+      "peso_relativo": 25.8,
+      "fatia_pct": 4.02,
       "fontes_distintas": 7
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 26.7,
-      "fatia_pct": 4.15,
+      "peso_relativo": 25.8,
+      "fatia_pct": 4.02,
       "fontes_distintas": 7
-    },
-    {
-      "termo": "TSE",
-      "peso_relativo": 26.7,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 26.7,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Times",
-      "peso_relativo": 25.7,
-      "fatia_pct": 3.99,
-      "fontes_distintas": 6
     },
     {
       "termo": "empréstimo de R",
-      "peso_relativo": 23.3,
-      "fatia_pct": 3.63,
+      "peso_relativo": 22.6,
+      "fatia_pct": 3.52,
       "fontes_distintas": 7
-    },
-    {
-      "termo": "Alckmin",
-      "peso_relativo": 23.3,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Live",
-      "peso_relativo": 23.3,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Exercito",
-      "peso_relativo": 23.3,
-      "fatia_pct": 3.63,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Paraguai",
-      "peso_relativo": 21.3,
-      "fatia_pct": 3.32,
-      "fontes_distintas": 2
     },
     {
       "termo": "admite ação",
-      "peso_relativo": 20.0,
-      "fatia_pct": 3.11,
-      "fontes_distintas": 6
+      "peso_relativo": 22.6,
+      "fatia_pct": 3.52,
+      "fontes_distintas": 7
     },
     {
-      "termo": "Explode",
-      "peso_relativo": 20.0,
-      "fatia_pct": 3.11,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Exercito Explode",
-      "peso_relativo": 20.0,
-      "fatia_pct": 3.11,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Live Do Exercito",
-      "peso_relativo": 20.0,
-      "fatia_pct": 3.11,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Vitória",
-      "peso_relativo": 19.3,
-      "fatia_pct": 3.01,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Live da Vitória",
-      "peso_relativo": 19.3,
-      "fatia_pct": 3.01,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Lounge",
-      "peso_relativo": 19.0,
-      "fatia_pct": 2.95,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Blogueiras",
-      "peso_relativo": 19.0,
-      "fatia_pct": 2.95,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lounge Das Blogueiras",
-      "peso_relativo": 19.0,
-      "fatia_pct": 2.95,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Remo",
-      "peso_relativo": 17.0,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
+      "termo": "TSE admite",
+      "peso_relativo": 22.6,
+      "fatia_pct": 3.52,
+      "fontes_distintas": 7
     },
     {
       "termo": "Petrobras",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 5
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Lula e Alckmin",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "TSE admite ação",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Trump",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.02,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Kaio",
+      "peso_relativo": 18.4,
+      "fatia_pct": 2.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Jorge",
+      "peso_relativo": 18.4,
+      "fatia_pct": 2.86,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Kaio Jorge",
+      "peso_relativo": 18.4,
+      "fatia_pct": 2.86,
+      "fontes_distintas": 1
     },
     {
       "termo": "presidente da Petrobras",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
       "termo": "aprova projeto",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
       "termo": "Alepe aprova projeto",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
       "termo": "aprova empréstimo",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
       "termo": "Alepe aprova empréstimo",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
-      "termo": "Lula e Alckmin",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "termo": "PSB",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
-      "termo": "TSE admite",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "termo": "chapa Lula",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
-      "termo": "TSE admite ação",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Trump",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "termo": "Times",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
       "termo": "Recife abre",
-      "peso_relativo": 16.7,
-      "fatia_pct": 2.59,
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.51,
       "fontes_distintas": 5
     },
     {
-      "termo": "York",
-      "peso_relativo": 15.7,
-      "fatia_pct": 2.44,
+      "termo": "Melody",
+      "peso_relativo": 15.5,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Arroyo",
+      "peso_relativo": 14.5,
+      "fatia_pct": 2.26,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Cruzeiro",
+      "peso_relativo": 13.5,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "PT",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.01,
       "fontes_distintas": 3
     },
     {
-      "termo": "New York",
-      "peso_relativo": 15.7,
-      "fatia_pct": 2.44,
+      "termo": "Lula Alckmin",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.01,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "chapa Lula Alckmin",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.01,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "fugiu do Brasil",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.01,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Tereza",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.01,
       "fontes_distintas": 3
     },
     {
-      "termo": "York Times",
-      "peso_relativo": 15.7,
-      "fatia_pct": 2.44,
+      "termo": "Senado",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.01,
       "fontes_distintas": 3
     },
     {
-      "termo": "New York Times",
-      "peso_relativo": 15.7,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 3
+      "termo": "vagas em creches",
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.01,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Giannis",
+      "peso_relativo": 12.6,
+      "fatia_pct": 1.96,
+      "fontes_distintas": 1
     }
   ]
 }
