@@ -1,169 +1,175 @@
 {
-  "atualizado_em": "2026-11-07T22:42:16Z",
-  "total_analisado": 130,
+  "atualizado_em": "2026-11-08T02:26:00Z",
+  "total_analisado": 131,
   "x_recife": [
     {
-      "termo": "#AVigília",
+      "termo": "Bahia",
       "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23AVig%C3%ADlia",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Bahia",
       "ruido": false
     },
     {
-      "termo": "Carlos Vinicius",
+      "termo": "#AVigilia",
       "posicao": 2,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23AVigilia",
+      "ruido": false
+    },
+    {
+      "termo": "Gwayne",
+      "posicao": 3,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Gwayne",
+      "ruido": false
+    },
+    {
+      "termo": "eileen",
+      "posicao": 4,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=eileen",
+      "ruido": false
+    },
+    {
+      "termo": "Bran",
+      "posicao": 5,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Bran",
+      "ruido": false
+    },
+    {
+      "termo": "Mael",
+      "posicao": 6,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Carlos%20Vinicius",
+      "url": "https://x.com/search?q=Mael",
+      "ruido": false
+    },
+    {
+      "termo": "Minda",
+      "posicao": 7,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Minda",
+      "ruido": false
+    },
+    {
+      "termo": "#AnittaNoMultishow",
+      "posicao": 8,
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23AnittaNoMultishow",
       "ruido": false
     },
     {
       "termo": "Igor Gomes",
-      "posicao": 3,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 9,
+      "variacao": "-4",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Igor%20Gomes",
       "ruido": false
     },
     {
-      "termo": "Renan Lodi",
-      "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Renan%20Lodi",
-      "ruido": false
-    },
-    {
-      "termo": "#MorroDeSãoPauloDosBrasileiros",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23MorroDeS%C3%A3oPauloDosBrasileiros",
-      "ruido": false
-    },
-    {
-      "termo": "Novorizontino",
-      "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Novorizontino",
-      "ruido": false
-    },
-    {
-      "termo": "#ItacareDosBrasileiros",
-      "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23ItacareDosBrasileiros",
-      "ruido": false
-    },
-    {
-      "termo": "Natanael",
-      "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Natanael",
-      "ruido": false
-    },
-    {
-      "termo": "Villasanti",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Villasanti",
-      "ruido": false
-    },
-    {
-      "termo": "MARQUEZINE IN THE GENTLEMEN",
+      "termo": "MILENA COM CLUB SOCIAL SNACK",
       "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=MARQUEZINE%20IN%20THE%20GENTLEMEN",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=MILENA%20COM%20CLUB%20SOCIAL%20SNACK",
       "ruido": false
     },
     {
-      "termo": "Bernard",
+      "termo": "gremio",
       "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Bernard",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=gremio",
       "ruido": false
     },
     {
-      "termo": "Interlagos",
+      "termo": "Copa do Brasil",
       "posicao": 12,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Interlagos",
+      "variacao": "-5",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Copa%20do%20Brasil",
       "ruido": false
     },
     {
-      "termo": "Alonso",
+      "termo": "Renato",
       "posicao": 13,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Alonso",
-      "ruido": false
-    },
-    {
-      "termo": "Valverde",
-      "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Valverde",
-      "ruido": false
-    },
-    {
-      "termo": "Fortaleza",
-      "posicao": 15,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Fortaleza",
-      "ruido": false
-    },
-    {
-      "termo": "Lando Norris",
-      "posicao": 16,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Lando%20Norris",
-      "ruido": false
-    },
-    {
-      "termo": "#FreenVelvetDreamLucid",
-      "posicao": 17,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23FreenVelvetDreamLucid",
-      "ruido": false
-    },
-    {
-      "termo": "#MrFanboyEP11",
-      "posicao": 18,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23MrFanboyEP11",
-      "ruido": false
-    },
-    {
-      "termo": "Bortoleto",
-      "posicao": 19,
-      "variacao": "+1",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Bortoleto",
+      "url": "https://x.com/search?q=Renato",
       "ruido": false
     },
     {
-      "termo": "SAROCHA LUCID SAO PAULO",
-      "posicao": 20,
-      "variacao": "-1",
+      "termo": "Dudu",
+      "posicao": 14,
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=SAROCHA%20LUCID%20SAO%20PAULO",
+      "url": "https://x.com/search?q=Dudu",
+      "ruido": false
+    },
+    {
+      "termo": "Barba",
+      "posicao": 15,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Barba",
+      "ruido": false
+    },
+    {
+      "termo": "Marban",
+      "posicao": 16,
+      "variacao": "-8",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Marban",
+      "ruido": false
+    },
+    {
+      "termo": "Atlético",
+      "posicao": 17,
+      "variacao": "-7",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Atl%C3%A9tico",
+      "ruido": false
+    },
+    {
+      "termo": "#ProtejamAnaElisa",
+      "posicao": 18,
+      "variacao": "+10",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23ProtejamAnaElisa",
+      "ruido": false
+    },
+    {
+      "termo": "O COLISEU",
+      "posicao": 19,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=O%20COLISEU",
+      "ruido": false
+    },
+    {
+      "termo": "Zuri",
+      "posicao": 20,
+      "variacao": "+13",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Zuri",
       "ruido": false
     }
   ],
   "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Defesa Civil orienta fazer kit de 72h de sobrevivência e assusta internautas; entenda",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR3I1QUJUcHhjMkU3RWMyWU5rb1J2Q3dZbHY3VkJiSmZON1ZGclVLZGVJYVg2b0JpU05DTGg4UWR0Nnc1cUY5TlQxVUNDcWt5OWhpT3dzbWhaSWlDTTRfMEtVM0dIc0ZRaUVDMTdVRTZmb0UwdExIYUZhajNseVUxa1BJVGt3R2RQWE41YXFFQ0d5Q3NaNUM4ZDdPN1JZa0hFMzRkQlk3cVgteHhiRXQxMl85ZEpIQ3k0WjdVVTN5eHJTcUxtcHYxVkllU1lnRlkwR0RzTDF3b244MnRPMk1SSnZDWU1LQQ?oc=5"
+    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -185,14 +191,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Passageiro fica ferido após ônibus ser atingido por pedrada no Recife",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmRHRTdIbDktMlJHOGlrWmdxRG9NV1JoN2xUYlhBc3d3VGdzdl9ta191QW1ncDh2YXBVa0hyVmVubDJMQVdOaXVCNXd5Wmd4VExuYjdobzRCNGt5M25rS2hGeE5RMXJkc2tkdS0zYl9fTzJCUWotN3RkTHlQTEk2eXZOR0hQVjZJMVNGNTJWRkVqY24wRkNDek5UTU1KM2hJLVVIcDd4WGVqZElselhua3pvNG5iTzlDU0owUXpsRVYtaXhJSmMxcTJubU9iTU5OeGfSAdIBQVVfeXFMT2ZkR0U3SGw5LTJSRzhpa1pncURvTVdSaDdsVGJYQXN3d1Rnc3ZfbWtfdUFtZ3A4dmFwVWtIclZlbmwyTEFXTml1QjV3eVpneFRMbmI3aG80QjRreTNua0toRnhOUTFyZHNrZHUtM2JfX08yQlFqLTd0ZEx5UExJNnl2TkdIUFY2STFTRjUyVkZFamNuMEZDQ3pOVE1NSjNoSS1VSHA3eFhlamRJbHpYbmt6bzRuYk85Q1NKMFF6bEVWLWl4SUpjMXEybm1PYk1OTnhn?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: 201 anos de histórias",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjhCV3NKZFJ0dFR1V2VxVzNXZjVmTnVQTzJzNTExY2EtSWRIOW5wTW9ja0tkeF90dnhQM1dTYjJPMlpjT2RsTFE0SlRuQUY2SW1VdmE0SnhZZ0ZUdXoyOWsyNm1TRXpkNU1weGZFdHlQd0dBVUVEWWpHMVV6bHJ1WFlxWTJvUU12bEFrU0JWUFNhRlRrTnd3eW9ocTlDLVNCTzNLZEFxVTVhQ2wtV1ozZHRsU0Y?oc=5"
+      "manchete": "Terra: Programa Receita Cidadã entrega quase 11 mil itens ao IMIP em parceria com Secretaria de Ressocialização de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWG5HdFNiejFlcENabk1SY21WRDBSVW53Z1psUDRHWDduM3Vxb2lPcWo3dm1lakw4QnZRZjNXVDFDNXN5djVYVEgxdlFHX2VRM2o2a0laSGZlZGF0U3NMdXhPWDh6SS1lRURfeHZDY2lCbFdYa2FyNTJPS3MybUhUbDdfSndQQUlaaWZRc0FBdEMzZUVvbFp4MUFmdFVkLXdWdzdWeUpjcmpKeklaY3dMeGNhaU03cGVvMlFWUFlLbjNJejVIdmx3cVdib1puLVRtczRsaHhKY0pDQ1pudXpoOGQ2N2lKc3NtdGpKTnFwZDBMWXJLZkwxREJIdzczckU3TDhacW5abFhiVVlub2xYZTZ4RElWODdOVndhUXg4WkNuUjkzU3VaMlBVemtWN0liODd0RGp2LTQ?oc=5"
     },
     {
       "termo": "Recife",
@@ -215,14 +215,14 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: 4ª Bienal Black reúne 125 artistas e ocupa espaços culturais do Recife a partir deste sábado (7)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORi1IQktkdTFXRjNwdFYtb2dOWWRxVTZMSDl5OU8xdXVxTlFTQXc0QjBQbkMyWXFuSnR0TktJWVFMQmxrMS1lNjZnWndtYWNwdnVRejlBbU1JbzVIcU52S0xjamstWUgtdWFpcnN3T3VDUEZhUkdvblhnT0VuQUJQUHJKS1BiVzlMemstTHpxdVVHcXZsOS02N0xKMUtQZlMtZmZQdHdzUUZLQVc0ZHhyV2pTcC1VMHE4RG1qS05RVUFWOEwtVzc1emlmQXJHMWdBMWxJQw?oc=5"
+      "manchete": "band.com.br: Recife e Salvador lideram buscas por viagens no fim de ano",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXQ0NG9Xc3FXUWc4LU5sa3Q0TWs2eEZrdVE3OGtDOFRpdmNNTVU3MFlhekRTSEpJcDloZFJabDJONGF0ZmxCa1ljM0ktZEZsclFLUVEzRk1fX0ZfT0lya3NpNWtGVzU4c0VTbFBWZ09wVUx3MDgwV2V6N0c1eGpUdWNZeXRPYjQ3Vy15bGtzR3p0M3NNNEpWM0VzdF9OanlOWXAxd2xpM3NfcUNtZzM1aA?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Jamildo: Prefeitura do Recife abre consulta para mudar Lei de Edificações, sobre obras e reformas na capital",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHVzNXBTWWxoTG5QMkl0T1ZBYUNjaV9vLXU3TFNKNjlNazNRNlg3RGZEcm44b3lnMWYtME5reDRzaWZNMW5fTGZFa1BlbVdTZ04zUVl5UFNCdVV6ajlQclpqMFJpa3JBT29IcXgwMFVkVUVrTmVtcEQ1U2NxU0o5Vlo1Q2hvZk1wUHdDdGlOdHBaa0k4UW1OdXZTV2Uxb041MWh4SUtqZVEyem9FMmVvNDVRX0ItazN6ZFRUOFVxZUtJNWpwX3hha2xBd9IB0AFBVV95cUxQQ1ZWczVGWDFOSDVOSjh2U01Ua1otRTBxZmlrUnY4NHp3MkpyMm1SQmJEY3UySGtxZzFmSVpGWmYydEtPWjY4eGpTT0xFUzBjOXhXMzZqS3A1U2daaUwxbTNpTjFCVGlZV29PVTRHUlQ0V0w3bUF4ME4xdDBJQUtWRm9KS01Wak80bS1oOWNrWVFUQlFhc1lvNnRrUE9SdFBxUG1NRWNJUm55TjI1aU4wX2djdG1FSUdvQ0NTUGNFTTB5X1FQWHBscnhtQ2N4cG13?oc=5"
+      "manchete": "Terra: Oficina gratuita no Recife ensina idosos a utilizar inteligência artificial nesta quinta-feira (5)",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSWlIYzM0NEJqNEJiQnYzRnBXejIxaXhlNGhMZ0VINE9qOHR0MWxuaGdIZ0JVTXVOdnR6Vk9CeVB5THRPTktLRWxNQlFaLU0zb1hWTGhUaERiT3VvZ1VmUHhzTEtNem5SNGlDcm5uVnAweVhJQ3lJRjR1c3plRG1vektzSVVobnUwOEExRjFqbVVzUEgtX2MxVllhdHRrZXhNcVpCcEY5Yk9rem1yNU1iYkNaUlo4eHp0UkpVMVdlclpJdi1hOGJxMUxMWGhOeUM2bDkyNDltQmFQU2pYRFhVY3YzVjRfMlg0eFRqQlVHMGN3eWJPU2MzMUNwWlF2RmZDQTltWDdoS0MxVUhPY0JGcUNKWU1uZGM2bWEw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -243,52 +243,22 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUU5NNG1TLXVVdUZoc2pWOFNzRGdIbWswNWNzVlZJX25XVHhkYXdnYVkxcFZvWEt2RjljS0lLTjNTeklES0o5TExXUkMwRGxhRDA3ZU9WdFlveDJSalFHWklLenBNbk9mN3BrMkJaQnI0Z25IS3QwMndfdVhZWktkS0hla2lGR0ZWTE9JcDBScU5pQVZ2U2RjTzZOc3JlZW9wS3ZObjRCaTBselNycGFYRnY3eDNaRjlJeDVUczE3YnkxY3BrZTRwc1BxWG4zanpETFU0aHZ3?oc=5"
     },
     {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "PE Notícias: Aumento de verba para 47 gabinetes da Alepe impacta em R$ 13,1 milhões/ano e foi votado fora das regras da Casa, diz blog",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYTdBSjlJV3VBQ0FGcFdnNFdiOGJwLUlWMEluckJ3UVliSUlNcjdEbjY5YXhqUERZb2pUN1ZEVXFZRjRQb0ZUUm5MV0EtUENJbkl0Tk53VDNrUWhTVy00NGgwNEMxU2R1b2tKSnZXcjY3Qk1uZjdXWFlFR3ZlNTJkV1FaMWM0ME0xNWxOY3NVNWxrUWU4cUV0bmNqbmtUMktieUNHTjEzczFZUjBGZnlsVVozY0ZwWEkwUnowRFNXYnRVaGJENUxzR1ZSTmJlcDh4cWctTXpIdWphX1p0MEstaUI5c2o?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Mário Flávio: Simulação do voto distrital misto colocaria Anderson Luiz e outros quatro nomes na Alepe",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVy1GaG11SXNyVHJjdGdfUjVzV2VYMzJrQ2piUU5OWFhUeVN4SnlHTmliTkFVZGJHUlVhZHctVzBqNkVqNHpSZ1d4c1p2MWxmY21neDRBR19NQmN2X1hQZTktQ3E4enRyYTFta0pYbF9Fb0NZN2ZCQ3Z3OGFPT0ZmRjJQR2dVVEtYQzJoS3pfTWxXTkxmOVBWeHZqUW45NDg1a1NvSURRT19QcTdtTGF4UnR0ZDBMREhxOGx1RXVoTQ?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Alberes Xavier: Lula deverá ampliar negociações com Centrão diante de Congresso mais conservador",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVRTblpLaGp0T1RXc1R2RXZOUEpBUmtCRUpOUWFxLXhXSENKcm9UeXlydkQzOWpuTDczVEpNSENoSFlCMjk3eld6ZG8zZjNzYkFIZTNNcTJSMExsWHlVMnNQYUxUVmY4OFRBZjhuOFVraldMOFlNZ0tWelFhb0RJMHdtb1dYemlHVDRwOG50Ni1kWFU2ZHVLYU1uWG9kUnA1SDBZTGRRa2xFbUN1RHhFMUZES0dYTUpxZ0I4QldoZlRva3ZCVUdWWEs5Zw?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Erbi: Deputados aprovam em 30 segundos aumento de até 80% em verba de gabinete para quem tem cargos de liderança na casa",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEIwNE9aMkpMZVVUUzI4TUxUUHcyLXAzS2JxWGcwU0RKRTNyRHlzV3F1LXJNQlM4Ukl6MEQtTmJ5dTVIcmZJZHgtQ0JZOGx4cGc1MDF6QUphSzA2UU9oUmlLY1k3UnIxaFdSN0MyM2lIMEwzZmlZSXp1VUhGeVZ0cFRvWnFkLVljNnlwWGw1Tk40aEJPTkkzUVU5Q2llRmVOSTdSWjBoV1FDcjFabUFZR3NXdm1XMHhvOF9UbUdMdE0wU3hiaFFDSVhzZUpJSmhlaTU5a0pFYw?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Governo de Pernambuco e empresa são condenados a pagar R$200 mil por morte de técnico no HR",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdGtXQlVRdlRYbkpvNE9qd3lJSGhsZ3huS0tINGNBTGU5ekV3czY2LVRvR195OFJNTnZqQ0RHLXdiRmdqN2lGTW1CaHhiMlF2Tlc1M0pmWVBxUDlfY2xObU1kME50N2JLRi14WXkxXzQ4bnd0T2NxOEFZelE0UUphRS1RME5IaUkxZXVnTFVLeHFkZ2pBdWNXaThPU2dleWtwQ3JacXNIVGhNZ3owLUdRcVFnQjJ0djlxWkxJZk1LS3VOcUNfS1M4?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Jamildo: Cursos técnicos nas ETEs: Governo de Pernambuco abre mais de 9 mil vagas em cursos fora do ensino médio",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOai1KaXZ3WVBQRnV4czMyTWxWOHNfYWcyWjREclc2SXg4UjFaR0Q2aDVUSk1JdjBndUE4NEp4YS1pZGN3eHpoeFh5d3RtUjl5b004WVBSNk0ySEQ3bmtpckhNUTY3SEplNFZrOFdDT3JWc05yYnoxdHZaWTd1dTZOVWdvbnBabEc5cXRXSE1NOU44RGZwSWdYMnY2b2stQWx4OUlkV3BMb1FqZ04zeUFhT3kyU0MyaVBLRjVjdC1DSklkMzRCV0hJSUhTSU9KclI5NWfSAdcBQVVfeXFMTlJpU01ycW93TlRueURMNGVkX2FQS3dJN3ZDd1lhYzZlcUxHSjdQWGxYWThYS0hkWXAwUUctZGZYcFZWX1FXYldEZFAzZlNaV1FQbjdZcGRibzlBaDY5SWdBOHZsalgyQ05hc3Z5NWwyY08zX2podTRLX2VwMXotQnZyckgwcnVJT25lcU5RZDFvamNRTUhOLTN0alg1Mlh2R0NwZGI5by1sWVkyQVYxbTV4aUM4MFNBSnQ0VWNDQWZMcUJ1VW5xWXZGbVdzYWU0TmhqRWFuLUk?oc=5"
-    },
-    {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
       "manchete": "Márcio Didier: Governo do Estado exonera mais de 100 pessoas na Casa Civil. Aliados dos Ferreiras encabeçam lista",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HYUpGTWZZNlY2WjNEdHR2T09CQnhwRktoUHZRV1JaVlpNdC1ocXl1a3hqWnByTDRLdEJFOXpoV2Q3VkU0REQ1cFFjQ2VFOExENlBVT2FsZktfYUNCTy1kTEtyQS16TmhpNnpwclpxZ2Rwek83MktN?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "JC: Governo de Pernambuco promove reformulação na Casa Civil e exonera mais de 100 pessoas",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDN1RGpDczBYeHZicFg1Z2NwM040WlEtNHpFcnRyanJ0NUJkWWZFaFdCbU5JYk43aUFIMXFUVVRmcWliTi1kTVhMY2pSZjFsdUlWQ0R3ZnVyQ3pfOEVvbmZkcFZrSzJza0Z3WTN0NVU5T1hmSWFpYkRxUFV3ZFd0QzE4S0dLd3N1X1BfM3l1UV9zbTRhcjg3T2JCMEdfazF1Rm82dXVZLVd0U0FDZlJaX2M3T20wQjl0Q2gzZ25QRGdQN19QZ3lrY0JjWW1xQQ?oc=5"
     }
   ],
   "picos": [
     {
       "termo": "Turquia",
-      "razao_aumento": 80.6,
+      "razao_aumento": 76.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Gazeta do Povo",
@@ -299,86 +269,86 @@
       }
     },
     {
-      "termo": "PL",
-      "razao_aumento": 76.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-11-07T09:26:41Z",
-        "titulo": "Saída de Michelle do PL Mulher engaja mais que busca por arma de Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejBzbkR3UVB6NXRpLWpfY2MxRVdYVmgtclBOdkZ6Sy1Xd3NXQzBKc1h0a1NaQjNITVJrLWEtTHFtcEJmeXJWYXVTSzZWUFJ1M1lQMjNaelNCTUhrLXhESlhHQXBQUjdYd0l5ODctVUNSdzllYVpMcHJBSUNBSXdZaDNBNFlaY3NlNnl5UkpjTlpMdDdCb2tLYUJRZWZ1VE9LdXp4dEVVVnBnXzFNVE1ESzRnbw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "condenados a pagar",
-      "razao_aumento": 68.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Cariri em Ação",
-        "hora": "2026-11-07T11:54:04Z",
-        "titulo": "Governo de Pernambuco e empresa são condenados a pagar R$ 200 mil por morte de técnico em manutenção de elevador de hospital",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNU0lYWW1PdkUtdTFweEtyejBjb2dZVmtWLVJJZV9RYnpXVzFTcjVTeHJQSjRPQ0ZEVTYxczhTNXpjWFp5cm9WMTg1VExiTF9xMXgyT2VlZmh6eHh6aWdDOEN0Z3l5WUM0NVd6d0dfX3NFeVdrYWdQOU5iNjFaUThXSlQ1T1VERmVzY2Q0WXVGb2pEajhXZ1pVUlFLTG1QVVA4eDZKbDUtWVI2TlRHNVlDMVo2cW5fR3UwOW9PVWtTb2dXNG11NU1NNmxNcWtFQ0U0S1c3WW5YMm1FMTNYM2ZWdFE2YU1mbHBsel9LMkRSdWtyRTc1ZkNIcGJR?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Janones",
-      "razao_aumento": 64.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Gazeta do Povo",
-        "hora": "2026-11-07T19:31:00Z",
-        "titulo": "Janones irá à COP31 com Lula e fará live da Turquia",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0lqUG82ekt0NG9GWktIN0JrT0JVcnk4R0xpZ182a1B4Q3RJR3o0Q0Zaem9oRlpWVklEMzV6bW5VWTdybzhMUHVRV2hEVUVEZVFhak5kc0MxVE1CdVNUd0xtMFBjMmFGV09oMjl4eG8xV29LY3dsdV9zem51eFlTdFRiOUZGWUVUcktwS0p6czVZMVFOMUJsNWFVbw?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Casa",
+      "termo": "Washington",
       "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "PE Notícias",
-        "hora": "2026-11-07T11:15:47Z",
-        "titulo": "Aumento de verba para 47 gabinetes da Alepe impacta em R$ 13,1 milhões/ano e foi votado fora das regras da Casa, diz blog",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYTdBSjlJV3VBQ0FGcFdnNFdiOGJwLUlWMEluckJ3UVliSUlNcjdEbjY5YXhqUERZb2pUN1ZEVXFZRjRQb0ZUUm5MV0EtUENJbkl0Tk53VDNrUWhTVy00NGgwNEMxU2R1b2tKSnZXcjY3Qk1uZjdXWFlFR3ZlNTJkV1FaMWM0ME0xNWxOY3NVNWxrUWU4cUV0bmNqbmtUMktieUNHTjEzczFZUjBGZnlsVVozY0ZwWEkwUnowRFNXYnRVaGJENUxzR1ZSTmJlcDh4cWctTXpIdWphX1p0MEstaUI5c2o?oc=5",
+        "fonte": "Brasil 247",
+        "hora": "2026-11-07T18:22:34Z",
+        "titulo": "Washington Post descreve Flávio Bolsonaro à deriva nos EUA após a derrota e fuga do Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUVBnMkNLRFo4V0w2cXdScjhLYVFyLTkxMmZRSzF2Wmt2bjEzMTV2VGw3clVlek5saVBqYTBSakdQbVRmYWlnSzdPaWZoc0tqV2xocUJjSW54VVVweVlrYjJSRDFVT1FOcTdJbXNscnBxSjJEd1FBbzQ1MHBJdEN1YVMxOE1ITmt4Y0lWU01ZS2U2T19VT2hpZjhfT3hKTHVIclFoRExpN0ZORFJZMlNwQUdsd2lTbmx4enBKWG9HMjE?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Anderson",
-      "razao_aumento": 59.2,
+      "termo": "Post",
+      "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Jamildo",
-        "hora": "2026-11-07T09:52:31Z",
-        "titulo": "Raquel Lyra exonera do Governo nomes vinculados ao PL de Anderson Ferreira",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSERvdzI2UUliTGpwdWRaS0hmV1o4ZEx1UklacURJcEI0bldJMldUcGRueDltQVdUY0xmOGpYamdUa2YtZ25rMkZvVW5XVzFIc3lFX0Z5MFZWQUp1VjhSSE5BNmZRZzIwcm1idVBkVFlXbzRWZGpyUmJCUmJHUjBDdXdJTUM5V2JBeXNHd25oR0h6T2liUnRZZlF1SE45bnF2LURkUFZHOXBpX0l3ZmM2NFJn0gGyAUFVX3lxTFBIRG93MjZRSWJManB1ZFpLSGZXWjhkTHVSSVpxRElwQjRuV0kyV1RwZG54OW1BV1RjTGY4alhqZ1RrZi1nbmsyRm9VbldXMUhzeUVfRnkwVlZBSnVWOFJITkE2ZlFnMjBybWJ1UGRUWVdvNFZkanJSYkJSYkdSMEN1d0lNQzlXYkF5c0d3bmhHSHpPaWJSdFlmUXVITjlucXYtRGRQVkc5cGlfSXdmYzY0Umc?oc=5",
+        "fonte": "Brasil 247",
+        "hora": "2026-11-07T18:22:34Z",
+        "titulo": "Washington Post descreve Flávio Bolsonaro à deriva nos EUA após a derrota e fuga do Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUVBnMkNLRFo4V0w2cXdScjhLYVFyLTkxMmZRSzF2Wmt2bjEzMTV2VGw3clVlek5saVBqYTBSakdQbVRmYWlnSzdPaWZoc0tqV2xocUJjSW54VVVweVlrYjJSRDFVT1FOcTdJbXNscnBxSjJEd1FBbzQ1MHBJdEN1YVMxOE1ITmt4Y0lWU01ZS2U2T19VT2hpZjhfT3hKTHVIclFoRExpN0ZORFJZMlNwQUdsd2lTbmx4enBKWG9HMjE?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Bolsonaro admite",
+      "termo": "Washington Post",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Brasil 247",
+        "hora": "2026-11-07T18:22:34Z",
+        "titulo": "Washington Post descreve Flávio Bolsonaro à deriva nos EUA após a derrota e fuga do Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUVBnMkNLRFo4V0w2cXdScjhLYVFyLTkxMmZRSzF2Wmt2bjEzMTV2VGw3clVlek5saVBqYTBSakdQbVRmYWlnSzdPaWZoc0tqV2xocUJjSW54VVVweVlrYjJSRDFVT1FOcTdJbXNscnBxSjJEd1FBbzQ1MHBJdEN1YVMxOE1ITmt4Y0lWU01ZS2U2T19VT2hpZjhfT3hKTHVIclFoRExpN0ZORFJZMlNwQUdsd2lTbmx4enBKWG9HMjE?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "abre consulta",
       "razao_aumento": 58.8,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CBN",
-        "hora": "2026-11-07T09:09:33Z",
-        "titulo": "Flávio Bolsonaro admite em entrevista que não tem prova de fraude nas eleições",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnh5djBhRkgwdHdESU1pVGVZaktHd0xKYU96NkNScE1kMVNkQXMzWWIwMU1YM2M1TnJhOVRaWXV3VFNqUGtXVnZzN3lDYzlyN2JjZ0ZMX3g4NkVKNXliS2lmd1k1Y290ZFBNVXZvbjVhVnd1VldqTlktMGRsalduaWVMSnFDMDlnVWFpZGVpV3dycDRZUF9vYlhjMDhSWFNuamhuZU13cUdVZnlubkJ6NjFEczFLdXVqbDBBVWtiRThFVG9SVFVFbFpVcUcxMzDSAd4BQVVfeXFMT25uNjcwU00wLXVlWnlaMGFyMExwLTQyMlZrb2VfRjRibG05TGQxZV9FTWNXNFNpSkFIaVVLUWdTVFFJTk9ZTVhLV3FRMDZyLVR6R0o4QnBGcEZyR1c2SW05bGhkSW04bTV1T19fQ0JuWTg1dk9PNGxsTXg4WTFlVVVmZXFITTJzUUxqZG9zUmM0UFlkSFB1NHI5anU0VVkwUUlzZkZzeVN6a0FfYnZScTJzQ3dnY2x2YVRhSlBwMU05dE5wQ1BkUEliNDFLUnp6empKTkM2bFV4RGVXYkRR?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-07T13:36:00Z",
+        "titulo": "Prefeitura do Recife abre consulta pública sobre nova lei para construir, reformar e regularizar imóveis",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX0NEdUpMaGVsY3VPbUwxNW9zNmFYWHd5VmMxMmdqSFRBd0xwemFaM3ZPZmdDSXdpMHlzZHg0VlB6OXRJc1ltRUJvU3BBWGpGanI4T3RwVlVRbW5sTG9hdVhnTEtIeDNTd2xfU0ZkeWcxOXh3YVJhMURpaS16Q0VzMlRDaUZBaWc3MlhQS0VJWHBod0hhTmg5S1RxbGlSM0xxbEEtcVJGR0hPQmZFTGxFZC1kWXJKMmZ3Y0tFRnJYRG9KREZhMzVqNVhjUkpXVWtpMXR3ZGZJcmhpbElSc0piM2g2SG1KS1k?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Flávio Bolsonaro admite",
+      "termo": "Recife abre consulta",
       "razao_aumento": 58.8,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CBN",
-        "hora": "2026-11-07T09:09:33Z",
-        "titulo": "Flávio Bolsonaro admite em entrevista que não tem prova de fraude nas eleições",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnh5djBhRkgwdHdESU1pVGVZaktHd0xKYU96NkNScE1kMVNkQXMzWWIwMU1YM2M1TnJhOVRaWXV3VFNqUGtXVnZzN3lDYzlyN2JjZ0ZMX3g4NkVKNXliS2lmd1k1Y290ZFBNVXZvbjVhVnd1VldqTlktMGRsalduaWVMSnFDMDlnVWFpZGVpV3dycDRZUF9vYlhjMDhSWFNuamhuZU13cUdVZnlubkJ6NjFEczFLdXVqbDBBVWtiRThFVG9SVFVFbFpVcUcxMzDSAd4BQVVfeXFMT25uNjcwU00wLXVlWnlaMGFyMExwLTQyMlZrb2VfRjRibG05TGQxZV9FTWNXNFNpSkFIaVVLUWdTVFFJTk9ZTVhLV3FRMDZyLVR6R0o4QnBGcEZyR1c2SW05bGhkSW04bTV1T19fQ0JuWTg1dk9PNGxsTXg4WTFlVVVmZXFITTJzUUxqZG9zUmM0UFlkSFB1NHI5anU0VVkwUUlzZkZzeVN6a0FfYnZScTJzQ3dnY2x2YVRhSlBwMU05dE5wQ1BkUEliNDFLUnp6empKTkM2bFV4RGVXYkRR?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-07T13:36:00Z",
+        "titulo": "Prefeitura do Recife abre consulta pública sobre nova lei para construir, reformar e regularizar imóveis",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX0NEdUpMaGVsY3VPbUwxNW9zNmFYWHd5VmMxMmdqSFRBd0xwemFaM3ZPZmdDSXdpMHlzZHg0VlB6OXRJc1ltRUJvU3BBWGpGanI4T3RwVlVRbW5sTG9hdVhnTEtIeDNTd2xfU0ZkeWcxOXh3YVJhMURpaS16Q0VzMlRDaUZBaWc3MlhQS0VJWHBod0hhTmg5S1RxbGlSM0xxbEEtcVJGR0hPQmZFTGxFZC1kWXJKMmZ3Y0tFRnJYRG9KREZhMzVqNVhjUkpXVWtpMXR3ZGZJcmhpbElSc0piM2g2SG1KS1k?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "após morte",
+      "razao_aumento": 58.8,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-11-07T13:00:18Z",
+        "titulo": "Governo de PE e empresa de elevadores são condenados a pagar R$ 200 mil após morte no Hospital da Restauração em 2024",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRWs1Z3d1MG1XZUZaWXI3UmNaN0JKMDQ0OWVQSkJQQXAtaGVkVUtILWV2eHlPTDJNVF81NkZ2Nm1GUGQ5dVBKUWkzS2xjdGExRjNCWHk4djBMTzUzLVJ5ZlhQbmd4M1laUmJiLUl3Q0MwYkFnSUptUTVSRVl3TjJCMWZyMm5UYVJzWWVYZkVYYnJISVM4UWpKREcyTDFNalNBTTFrZEl1RDl1N0trNjN4Q1J4MHFjay1LQkhMMWRhLUJkcGI3b044Tm5Hb3E4czFRczh3ZGl5NXdnMWZG?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Nunes",
+      "razao_aumento": 55.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Poder360",
+        "hora": "2026-11-07T20:41:23Z",
+        "titulo": "“Não sabe do que fala”, diz Flávio sobre aval de Nunes Marques à eleição",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0JVRUVGcVBMZjNoWE1xSFZCRkdUcFdpYWpralN6Y2tvSG1Ybm1fS1M4MHhQZWwyQXRJbE5VTzFwOGs3bWFITTJWcVBUUFNiMV9zQUM4US1DTl8zVTBEN1NCeXBPSTFxdUNCbGZwWG9lUWcyRURGU2Z4SXFDdnZtcTZjUFdBNmoyQzl5NmdiQmFGVnYxN2dyV1F4OGJXb0NwSXhoM3dQdWNVYjBvMWRyMTdHNnQ5MXNDN0E?oc=5",
         "peso": 1.0
       }
     }
@@ -387,272 +357,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 18.6,
+      "fatia_pct": 18.39,
       "fontes_distintas": 22
     },
     {
-      "termo": "Lula",
-      "peso_relativo": 93.8,
-      "fatia_pct": 17.44,
-      "fontes_distintas": 25
+      "termo": "Flávio",
+      "peso_relativo": 90.6,
+      "fatia_pct": 16.67,
+      "fontes_distintas": 19
     },
     {
-      "termo": "Flávio",
-      "peso_relativo": 87.5,
-      "fatia_pct": 16.28,
-      "fontes_distintas": 21
+      "termo": "Lula",
+      "peso_relativo": 81.2,
+      "fatia_pct": 14.94,
+      "fontes_distintas": 22
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 68.8,
-      "fatia_pct": 12.79,
+      "peso_relativo": 71.9,
+      "fatia_pct": 13.22,
       "fontes_distintas": 18
     },
     {
       "termo": "Raquel",
       "peso_relativo": 25.0,
-      "fatia_pct": 4.65,
+      "fatia_pct": 4.6,
       "fontes_distintas": 7
     },
     {
       "termo": "João",
-      "peso_relativo": 25.0,
-      "fatia_pct": 4.65,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Campos",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.49,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.49,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Turquia",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.49,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Trump",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.49,
-      "fontes_distintas": 6
+      "peso_relativo": 21.9,
+      "fatia_pct": 4.02,
+      "fontes_distintas": 7
     },
     {
       "termo": "Brasil",
+      "peso_relativo": 20.9,
+      "fatia_pct": 3.85,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Bahia",
       "peso_relativo": 18.8,
-      "fatia_pct": 3.49,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "AVigília",
-      "peso_relativo": 18.8,
-      "fatia_pct": 3.49,
+      "fatia_pct": 3.45,
       "fontes_distintas": 1
     },
     {
-      "termo": "Paulo",
-      "peso_relativo": 18.1,
-      "fatia_pct": 3.37,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Brasileiros",
-      "peso_relativo": 18.1,
-      "fatia_pct": 3.37,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Carlos",
+      "termo": "AVigilia",
       "peso_relativo": 17.8,
-      "fatia_pct": 3.31,
+      "fatia_pct": 3.28,
       "fontes_distintas": 1
     },
     {
-      "termo": "Vinicius",
-      "peso_relativo": 17.8,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Carlos Vinicius",
-      "peso_relativo": 17.8,
-      "fatia_pct": 3.31,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Igor",
+      "termo": "Gwayne",
       "peso_relativo": 16.9,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Gomes",
-      "peso_relativo": 16.9,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Igor Gomes",
-      "peso_relativo": 16.9,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Renan",
-      "peso_relativo": 15.9,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lodi",
-      "peso_relativo": 15.9,
-      "fatia_pct": 2.97,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Renan Lodi",
-      "peso_relativo": 15.9,
-      "fatia_pct": 2.97,
+      "fatia_pct": 3.1,
       "fontes_distintas": 1
     },
     {
       "termo": "PL",
       "peso_relativo": 15.6,
-      "fatia_pct": 2.91,
+      "fatia_pct": 2.87,
       "fontes_distintas": 5
     },
     {
-      "termo": "Janones",
+      "termo": "Campos",
       "peso_relativo": 15.6,
-      "fatia_pct": 2.91,
+      "fatia_pct": 2.87,
       "fontes_distintas": 5
     },
     {
-      "termo": "TSE",
+      "termo": "João Campos",
       "peso_relativo": 15.6,
-      "fatia_pct": 2.91,
+      "fatia_pct": 2.87,
       "fontes_distintas": 5
     },
     {
-      "termo": "são condenados",
-      "peso_relativo": 15.6,
-      "fatia_pct": 2.91,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Morro",
+      "termo": "Bran",
       "peso_relativo": 15.0,
-      "fatia_pct": 2.79,
+      "fatia_pct": 2.76,
       "fontes_distintas": 1
     },
     {
-      "termo": "São Paulo",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Morro De São",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Paulo Dos Brasileiros",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Novorizontino",
+      "termo": "Mael",
       "peso_relativo": 14.1,
-      "fatia_pct": 2.62,
+      "fatia_pct": 2.59,
       "fontes_distintas": 1
     },
     {
-      "termo": "Itacare",
+      "termo": "Minda",
       "peso_relativo": 13.1,
-      "fatia_pct": 2.44,
+      "fatia_pct": 2.41,
       "fontes_distintas": 1
     },
     {
-      "termo": "Itacare Dos Brasileiros",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lyra",
+      "termo": "Casa",
       "peso_relativo": 12.5,
-      "fatia_pct": 2.33,
+      "fatia_pct": 2.3,
       "fontes_distintas": 4
     },
     {
-      "termo": "Raquel Lyra",
+      "termo": "Janones",
       "peso_relativo": 12.5,
-      "fatia_pct": 2.33,
+      "fatia_pct": 2.3,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Turquia",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.3,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "PT",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.3,
       "fontes_distintas": 4
     },
     {
       "termo": "Washington",
       "peso_relativo": 12.5,
-      "fatia_pct": 2.33,
+      "fatia_pct": 2.3,
       "fontes_distintas": 4
     },
     {
       "termo": "Post",
       "peso_relativo": 12.5,
-      "fatia_pct": 2.33,
+      "fatia_pct": 2.3,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Trump",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.3,
       "fontes_distintas": 4
     },
     {
       "termo": "Washington Post",
       "peso_relativo": 12.5,
-      "fatia_pct": 2.33,
+      "fatia_pct": 2.3,
       "fontes_distintas": 4
     },
     {
-      "termo": "empresa são",
+      "termo": "Nunes",
       "peso_relativo": 12.5,
-      "fatia_pct": 2.33,
+      "fatia_pct": 2.3,
       "fontes_distintas": 4
     },
     {
-      "termo": "empresa são condenados",
+      "termo": "Marques",
       "peso_relativo": 12.5,
-      "fatia_pct": 2.33,
+      "fatia_pct": 2.3,
       "fontes_distintas": 4
     },
     {
-      "termo": "Natanael",
+      "termo": "Nunes Marques",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.3,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "são condenados",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.3,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Pernambuco e empresa",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.3,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Multishow",
       "peso_relativo": 12.2,
-      "fatia_pct": 2.27,
+      "fatia_pct": 2.24,
       "fontes_distintas": 1
     },
     {
-      "termo": "Villasanti",
+      "termo": "Igor",
       "peso_relativo": 11.2,
-      "fatia_pct": 2.09,
+      "fatia_pct": 2.07,
       "fontes_distintas": 1
     },
     {
-      "termo": "MARQUEZINE",
-      "peso_relativo": 10.3,
-      "fatia_pct": 1.92,
+      "termo": "Gomes",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.07,
       "fontes_distintas": 1
     },
     {
-      "termo": "GENTLEMEN",
-      "peso_relativo": 10.3,
-      "fatia_pct": 1.92,
+      "termo": "Igor Gomes",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.07,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "MILENA",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "CLUB",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "SOCIAL",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "SNACK",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "CLUB SOCIAL",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "SOCIAL SNACK",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "MILENA COM CLUB",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "CLUB SOCIAL SNACK",
+      "peso_relativo": 10.3,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.72,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Anderson",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.72,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.72,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Civil",
+      "peso_relativo": 9.4,
+      "fatia_pct": 1.72,
+      "fontes_distintas": 3
     }
   ]
 }
