@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-08T20:45:30Z",
-  "total_analisado": 104,
+  "atualizado_em": "2026-11-09T00:50:40Z",
+  "total_analisado": 101,
   "x_recife": [
     {
-      "termo": "Norris",
+      "termo": "Carlos Miguel",
       "posicao": 1,
-      "variacao": "+3",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Carlos%20Miguel",
+      "ruido": false
+    },
+    {
+      "termo": "Abel",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Abel",
+      "ruido": false
+    },
+    {
+      "termo": "Gomez",
+      "posicao": 3,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Gomez",
+      "ruido": false
+    },
+    {
+      "termo": "O Vasco",
+      "posicao": 4,
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Norris",
+      "url": "https://x.com/search?q=O%20Vasco",
+      "ruido": true
+    },
+    {
+      "termo": "Piton",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Piton",
+      "ruido": false
+    },
+    {
+      "termo": "#PronunciamentoLula",
+      "posicao": 6,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23PronunciamentoLula",
+      "ruido": false
+    },
+    {
+      "termo": "Léo Jardim",
+      "posicao": 7,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=L%C3%A9o%20Jardim",
+      "ruido": false
+    },
+    {
+      "termo": "#DançaDosFamosos",
+      "posicao": 8,
+      "variacao": "+13",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23Dan%C3%A7aDosFamosos",
+      "ruido": false
+    },
+    {
+      "termo": "Giay",
+      "posicao": 9,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Giay",
+      "ruido": false
+    },
+    {
+      "termo": "Lescano",
+      "posicao": 10,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Lescano",
       "ruido": false
     },
     {
       "termo": "#Enem2026",
-      "posicao": 2,
-      "variacao": "-1",
-      "direcao": "cai",
+      "posicao": 11,
+      "variacao": "+4",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=%23Enem2026",
       "ruido": false
     },
     {
-      "termo": "Verstappen",
-      "posicao": 3,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Verstappen",
-      "ruido": false
-    },
-    {
-      "termo": "VIVA O SUS",
-      "posicao": 4,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=VIVA%20O%20SUS",
-      "ruido": false
-    },
-    {
-      "termo": "Taylor",
-      "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Taylor",
-      "ruido": false
-    },
-    {
-      "termo": "Ferrari",
-      "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Ferrari",
-      "ruido": false
-    },
-    {
-      "termo": "karlie kloss",
-      "posicao": 7,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=karlie%20kloss",
-      "ruido": false
-    },
-    {
-      "termo": "Interlagos",
-      "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Interlagos",
-      "ruido": false
-    },
-    {
-      "termo": "#F1naGlobo",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23F1naGlobo",
-      "ruido": false
-    },
-    {
-      "termo": "Sistema Único de Saúde",
-      "posicao": 10,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Sistema%20%C3%9Anico%20de%20Sa%C3%BAde",
-      "ruido": false
-    },
-    {
-      "termo": "Antonelli",
-      "posicao": 11,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Antonelli",
-      "ruido": false
-    },
-    {
-      "termo": "Mahomes",
+      "termo": "greys anatomy",
       "posicao": 12,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Mahomes",
-      "ruido": false
-    },
-    {
-      "termo": "Russell",
-      "posicao": 13,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Russell",
-      "ruido": false
-    },
-    {
-      "termo": "Ana Castela",
-      "posicao": 14,
-      "variacao": "+1",
+      "variacao": "+7",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Ana%20Castela",
+      "url": "https://x.com/search?q=greys%20anatomy",
       "ruido": false
     },
     {
-      "termo": "Blake",
-      "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Blake",
-      "ruido": false
-    },
-    {
-      "termo": "Manchester United",
-      "posicao": 16,
+      "termo": "Marlon Freitas",
+      "posicao": 13,
       "variacao": "-4",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Manchester%20United",
+      "url": "https://x.com/search?q=Marlon%20Freitas",
       "ruido": false
     },
     {
-      "termo": "Hadjar",
-      "posicao": 17,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Hadjar",
+      "termo": "Zé gotinha",
+      "posicao": 14,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Z%C3%A9%20gotinha",
       "ruido": false
     },
     {
-      "termo": "#BrazilGP",
-      "posicao": 18,
+      "termo": "Copa do Brasil",
+      "posicao": 15,
       "variacao": "-5",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23BrazilGP",
+      "url": "https://x.com/search?q=Copa%20do%20Brasil",
       "ruido": false
     },
     {
-      "termo": "Chiefs",
-      "posicao": 19,
-      "variacao": "+6",
+      "termo": "#Domingão",
+      "posicao": 16,
+      "variacao": "+16",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Chiefs",
+      "url": "https://x.com/search?q=%23Doming%C3%A3o",
       "ruido": false
     },
     {
-      "termo": "Zé Gotinha",
-      "posicao": 20,
+      "termo": "Robert Renan",
+      "posicao": 17,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Z%C3%A9%20Gotinha",
+      "url": "https://x.com/search?q=Robert%20Renan",
+      "ruido": false
+    },
+    {
+      "termo": "O Palmeiras",
+      "posicao": 18,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=O%20Palmeiras",
+      "ruido": true
+    },
+    {
+      "termo": "Piquerez",
+      "posicao": 19,
+      "variacao": "-7",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Piquerez",
+      "ruido": false
+    },
+    {
+      "termo": "Thiago Mendes",
+      "posicao": 20,
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Thiago%20Mendes",
       "ruido": false
     }
   ],
@@ -173,26 +173,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "CNN Brasil: Tsunami no Brasil: Estudo mostra como o mar avançou até 4 km continente adentro no litoral de Pernambuco após terremoto em Portugal",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanIweno0TUxGTlNJSDFVRXI3WG5oQWtreVJOSGhWSnR2Z25sc0Z5UDZteF9heXE0MUVTRHhCanVBaGdHMGhZZ2NuM3ZuZUN3dnlxdGpKbTBkZVNrbE9rWkpYaGhaeERhSlVmeFVSR2I1V3V0R2tIeTc3ak14SUhlMjEya2NGRzRjLUFZdVk4MUVXdkF3SWdNLWEzMFNyZzQ1b0p1dUlsUERQUloyMzRaRzhfVWtFVHFuR240VlVycnVRUEZGdUZVV3FBR1FfRHB1M3F1MVl0ZWZDdHJkNEN4SVFhNmFBbGd4amJ0Z2xXTkdKMWd5Nlh0TFlfVy1hTFU3MTJJ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
       "manchete": "JC: Sintepe e estudantes cobram climatização em escolas estaduais de Pernambuco",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThCR243WDJ5ZllzRkNfVUUzUzJ5Q01PZU02WEE0bEtSam1oRU5BdVVubzdqMlhldDB2VzBub2ZBdlpVZUZHZkRqMW9LSGJRY0ZfRzVHc0lOYmE2OVR4R3BBQWpHRHFSZWhUdXBTMlBQZm5GakR1ZGxKMHZKZXJEYzFydlZOZUp2TkpsYjhobkJ3SlF5dGs1bWxpZXo2RTFickg3LWIxWHBmd1NnemtHTHR4Zmh5ajltNENib0JnLUtaMjZtY19jblhoVWRzUHNpWGxZ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "- Blog Dellas: Governo de Pernambuco promove reformulação na Casa Civil e exonera mais de 100 pessoas -",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXVqYUZ5NG5fSllSWWJvdVZfU21NN01HNHVHS3dlYXFPWEZzcDVKc0hzZ2E4TV9SWEhNZUV0Y2JJdE1Lc3NRRnJvQl9oN29kSDlkQXJqT29sT09RV0VrQzdPblRScjRMSnZCazBDNEhpemFPQXZmbXlGSHZGck9uMUc5RG1obXV1Ym1WZHc2REF4Yk1HMGxlNFpQMVV0VUFWN2tfRUxUUzlRS0JoNXA2akI1TQ?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Na mata sul de Pernambuco, comunidade enfrenta ameaças e pistoleiros, mas mantém ocupação em engenho falido",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2ZpWmlKUzJpM1N1TmdpZzlSUFlRQ2JZMjUzQ24wZi1SUDItNzBZWVMxRE5GQmNJU21yTlZROU9rS1R2M01GTzJ4a3dnUXlwRmZlNXB3YmFLMkRHR3M5VlJYeVJZbzZjM0VJdDZsY3p4NUZHVWUyTHlaaTYtUVF0anB4TDh0aFdoMF95VE1ITDRJN3RVRW9ueDY2R250VzF6WjlhU2o0clk4VExyYi1iMlI5UHlMb0hEdEpyenMzaVpXSzZDdXduMnYzSnZHOTRJSENNalhkUXYxbzVHV1JCY0JmUQ?oc=5"
     },
     {
       "termo": "Recife",
@@ -203,8 +185,8 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Enem 2026: mães formam 'arquibancada' na calçada à espera dos filhos que encaram 1º dia de provas no Recife",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNBMnJVeTRNQktZUU1CeXZDVmJLZ19NT1NhUE5CM2FJMDlxQkVUUU5BeS04WlNQZm8zVG53bE1JbHR0TEdHaEZSTWdwM3dwOHJVblh6UzNjekNBUEhVRzZocmE1NnR6V2lfN3hOUWY5UDZERXpxZmZ6RkxobjYtRlpONjkzaXRlTURwb2hPRGRKZ0FyMUxrMV9Ud9IBqgFBVV95cUxOX08tUFFUcVNYRVFYVWRYR1ZpMEh6X040LUlLMEsyU1FkUUR3cmJFLXR4bGhnVDBEdzYyNDVrUTIzV2FaeWFrTk5HRXAxS2NoMmlhUGNNOFl5Ujh3cGMwMU1mMkQyT3Z0TlIyOFZ2ZzVWaW5tWno4R2RQelFVSVFkeDRrelpTTnhMQ2hkNUdNNExEQ05PRkxMRjFEMEdHWEMxelZZZDduTldsUQ?oc=5"
+      "manchete": "G1: Candidatos se dividem sobre 1º dia de provas do Enem no Recife; VÍDEO",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWlySTRnRHN3cFpPMGlJVnZna3BTZEVwVjU3MFVnUUtBQUN4RlFac01sbXp0QTVySlplX2d6d0ZxdmtrTWpTblpadjlIMTZ4alluMWhhMk82ck1heXNfN05nNHBER1pCRHlJc1F4WlVqLTNiUE9rQTRpME8zMnNfeGZIWnplTHV0bGtzMkItSDNQWTQwTTVLeGhMRndZNmhiRmxDbVBTOHk5SlJnM1JYcGxlVUV3eHM?oc=5"
     },
     {
       "termo": "Recife",
@@ -215,14 +197,20 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Midiamax: Fundadora do Grupo Guerreiros, Lucélia morre aos 44 anos em Recife",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjNhN19ta01xNmVIV2k5MnlyN3dURmFJQS1FbEdkSDBxQTk2Y290VVZRcl9rVXpqWjR0RjZaTG56VGJLaUFHZmgxcUxpUV9kUWd5REloalhUNHlLV04xcEJaS0NSblk1SmxpSlIzQUVEX29MSGxvcEpGTW51aTFidEoycG9uanMxUVpIa21vUFJrZTVYdXZCVFJXWmNpRndZZmFrQ2Fn?oc=5"
+      "manchete": "TV Guararapes: Ansiedade e correria marcam o primeiro dia do Enem no Recife",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHJlc052M3AySEVNdG9OeWhtaW5Ib3Fid0N0cXpjWGtiWDVFSmx0NVZxM0tuTzlyZVVoZHdJWGRSM1FIaUVDTm1feWtwWXB3VGhjLVJPaloxMmZlSU1FZnBWcUxZRVlmUlN2RnpjdFlka1h4UENtWk16ZElpZmxxTXhxd0E0aGs2amtub3hFNndabkJOQWNLZ3l1S3F1eUVMUVpxX2M3WEs5bFlH?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Bandeirantes Mídia comemora 70 anos com evento no Recife",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmRrVHBKZEZVajFJQXZHT196OV93U2M2WUVVYzhUVjFzTkpPVDRWd2R0N29UXzJNNHhQQ0RNSE1HR3dYSHpJeFl1dmQzdlNsd181T0Y5eU9CTXBkd1BoaE5EajFWT1N1LXVISVlRVF90MVZfTkRta19BdjQ4cHJJd25CZGNLYllLZWgtSg?oc=5"
+      "manchete": "Midiamax: Fundadora do Grupo Guerreiros, Lucélia morre aos 44 anos em Recife",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjNhN19ta01xNmVIV2k5MnlyN3dURmFJQS1FbEdkSDBxQTk2Y290VVZRcl9rVXpqWjR0RjZaTG56VGJLaUFHZmgxcUxpUV9kUWd5REloalhUNHlLV04xcEJaS0NSblk1SmxpSlIzQUVEX29MSGxvcEpGTW51aTFidEoycG9uanMxUVpIa21vUFJrZTVYdXZCVFJXWmNpRndZZmFrQ2Fn?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Terra: Jovem de 24 anos morre após ser atingido por trator durante trabalho em Moreno, no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbEhyM0lON2lMbnd4Y1pCaEJoSnNLUlVsSGFHS1RKdTJva3A5Ykt4Ym01STE2RlVGclZxTzlYcmhUajdneEtDMzlNcDF1UVlvcXBRd0dxQ3hKZTNtekxIMXNkdWdDTHBqU0l2WXdnMHVRY0p3Sks2OVhjZ0NNM0c0czg1dHh1VkdrNkVPbEtvVlJkbzUyOHRJQnZzVTYzakowMGRYX21pb1dJZ3hJbS1DOHFRLXhBYWJ1aXJrY1dvVEZOZTJ1UjBSeW50alpoQlhqckwxV29jWEhDdUxhZElVYzZIQzMyUTdwQ3Rlb3hySjRjQi0yTlpSNmpHaXNyZ3BMWDl1QWFDMDl2NGRyaFdBNkoxQmtxektYTUE?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -239,116 +227,62 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "JC: Fortaleza terá Tarifa Zero nos fins de semana em 2027, enquanto Grande Recife sequer discute o assunto",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPd05Ycno1SHp1em85b0x4UnVNMlpvdS1Jc0l1a1Z3dTNQYjVUUmVsdHZRQm5XVWVVTXJxdnVvNC1GZEdsdk4xY2xSOFNIcW1TbTRSWXhfWGNnd0FHRUt5UW5VZzFpeEVJWTBIcWF5M2k3STR6NWZoanNDcWFPdjBSWFE4RUthVTA0Z003OTY5cXI5U1ZTY0UtUnFyNks2YUhiWnhSUlRsR3NZX2ltRXFkZDI5Ml8zU05Pb3VyZ1RWS2w3ZVVoalJCUE10TTd2Y3hPWm1sQVZJb0JvMnA2bWNsUmVJT0RIWm1lQTJvMmVhZjh6d1lfRVBpWkU3N1Q0Y2NMNVI3YW9UNkd4WjEwM3dmM09iYVd3NmwycXg0?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
       "manchete": "Francês News: Enem 2026: Pernambuco terá ônibus grátis e metrô aberto neste domingo; veja como usar",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjVRT0hPa3ZWVEp3OHpjQUtLMjFkbE90NTZ1dHRObFRvTjlWR3pUcjBxRVJnMHJ6Z0lNNDdSNUQwdDlpcU50b25FWGdacHJfUE1Nc2JMUVJfd1lKWlFrT3JJUUItOFUtQ0NoVnE3QVZiZERwR2ZUUjFTNVhWMGthYXZxUnJWQ3ZMVFhkc1p5ZjVYM3FRYW9PaU9tQ3ktS0tzR3U5ekFUV29Sd1lmdjhZX3FhaUpfUUltdjNScDF0eHFCR0tmRVJESlNXQXU?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Terra: Pernambuco terá temperaturas de até 39°C e tempo sem chuva neste domingo (8); confira previsão",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaDdOLVlyR0JJQTBOQllyX2tkbHVxaFBMM0ZYRWtyd21SV3k5eDJuSHR3eWM1SkRfUU5OcV9VSE5NZ3Fva1Z6aXY1N0hoUjMwaW1WYUR3UVFQRmdEdTIxSVpQa0Q0b01KU1F2TWVuTUlTcEJYYzBNbDhaOTBQQ2d0VU9aeDJTQlV6UzNleTk3eWU1aHpjMGVCQzh6NFBBeW9VbkVLTTRmN3VpREpGVnlPVV9MVTNDYW53dlJvM2R0Ny0zUVZacFdEMXFWZTNldklLRWhyM1ZHUnJNcW9JNXJyUUtfUk8zblVGYXBvanUyUnF1WERGZkc1dE1iZXl2RFZlaThWVGRLcGhBYWY0ejNCTVJ2d0RyVk0?oc=5"
-    },
-    {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Roberto Gonçalves: Em 30 segundos, deputados da Alepe aprovam aumento de até 80% em verbas de gabinete para deputados com cargos de liderança",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQ1g3ZWlKQnZ2dmZPZHNJZTd4Smd5VktsMjIzTEZrSU9oWHJQeDZXck1OZ20zWU1mdEZJbWlrZnB0RWhoQTBfQ3A1TnRINFZPUS1rQ3UyVkhqWVNSN1MtS3dFMDZVRFhrT2k0OXdwNVc1aE80dXE3RTNFU2prRUNuVnJTZjdWdzNEZ1paX3RGM0ZMcE5vQXBlYU0zQWtrMERYaHBkWHQwdXZCTUllMlIxamRNUzNWSjkzTFd3SzlXVUkydnpVN0I5YVpXWHktMGtBamZ1LTdDWlRndTVMRDRKTUpvaE15bUdScFJzWDFIbUV0SkhsMWc?oc=5"
+      "manchete": "Márcio Didier: Álvaro e Gabriel Porto participam de eventos em Brejão e Canhotinho",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15Mkl0c25UYzl4VExOemxmSmN0bGdKTDRTWnNzWUFhRlRIVGZubnlMWDd1R3NlX09sMW4xX2pudDdhQ0t3YVQ1MzAtdUpBaHV0VkZ4S0dNYTdQWTVsUUZpWkZ5WHp5VE9oMTFMQTk1NWR0MnVWRmUxbVVR?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
       "manchete": "PE Notícias: Governo de Pernambuco anuncia resultado de edital de R$ 6 milhões voltado a pessoas com deficiência",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXzNJOUJjZGRoekRUWlpGeGczWW96RExFRzhXX29VU1JKNEs3NWpJVElYTi04M05qWlB1X3J4LVlqSExINGRmNnQ5b2VzYVBOUXhKbEZyWlpwSUZxUnljdXA2MzJSSEhHX0FaOVVITmN6SVJ6ZjFUcFdxU1lYYWMtamZLdXM1OXpSNGpFMTAzdHdiMUlDYmUyV0hiTkczMEVyWW8wcllvMW9SX2pkcGhPaEhmV3FmalBUQ2ZwMjNNa0FyWWo5YXVSLW5B?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Cariri em Ação: Raquel Lyra exonera 146 servidores comissionados do Governo de Pernambuco; aliados do PL estão na lista",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUJZUjVHUldqeXBpbkRBZUNoRGhfLTJDU0xuMDVkVkcxQ0pYODhYeEM2Y3JYQWJrN0VtQjVBMC1KNVhfUHY1eTIyUXhCLTVkYmVLcVZtSjFHYWxhdFRRVXpKNElEZVNyOEE5SnQ3VnIyWHdxYWp6U2lybDEzYWw0VXZscFh3d1hiSm4wTzZsU19Xdm90b0c5VVY5ZXhleHl2ekRiQmxqLVRrYXBDeDVhS0NoWVp1YTh1SHI5eXRjNVNHcmFRbWQ0akJib2RiRFBndFlBdVV0YldRTTFCS1E?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Bolsonaro aos EUA",
-      "razao_aumento": 89.6,
+      "termo": "Guerreiros",
+      "razao_aumento": 79.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "GZH",
-        "hora": "2026-11-08T13:42:21Z",
-        "titulo": "Quaest aponta que 62% reprovam ida de Flávio Bolsonaro aos EUA após a eleição",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa1hCTVotSG16aS1LdXJYNWhXWDU2Q0QxTk8wbHgzSXFDaTB0dHN6eFhaOVNxUEFnQUI4eHNqRXhfR2U5NFFkOTFadlNCVmpGM1dnTm43MGxaQk9ialFNbHMzRmUtQ0xraklyOHFSeXdGOTdLNE9lMjlqRmRka3lZMndRVVF3MmE1amZ6MkxhV19tdGh0b2VzcERwajlIcnU5LTlKZ2hvTzZPNDJYNGNHZmE2NFVHWjVXaHcyRTdDWmxaRi1lbUFzaEgxUjhraEtYVVVKRWxNUlpNWDV3aXNnb3oyOExxWG5RVTZXX3BEd25INmczMWVB?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-08T11:53:00Z",
+        "titulo": "Guerreiros do Passo: Morre Lucélia Albuquerque, cofundadora do Guerreiros do Passo, grupo que levou o frevo de rua a Cannes",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdWdtQ3NuZE9zRkVHemlpQncwemdBVHMzQkZ2cl9NOUFYX3E4OGNyZ0lHd1lLMWw5TjZFX3M1T3J5UC13WjFSaFVzYlNMN2V2U1BCSUJZVE95VWZqcTMxR2pTbXhrck80NE5GNTl4TlBFM18wVnFOXzVia3Rhb1NXMnJCZVB6bEVLbzlVVmloWlRFelY1bVJHMzFKWlZZRDN5R25qOXBTeE1rS2xXSHpYRnBJckFEQ3R6b05KeTNjRHVPQTNXVWw1VHZGOVBJcFZGSm1pQTlzUGo0Mko0Ty02T0FMS3M0TzJCRmNMSWpJVjU1Ry1EQXJRTmhn?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Bolsonaro aos",
-      "razao_aumento": 74.7,
+      "termo": "Passo",
+      "razao_aumento": 79.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "GZH",
-        "hora": "2026-11-08T13:42:21Z",
-        "titulo": "Quaest aponta que 62% reprovam ida de Flávio Bolsonaro aos EUA após a eleição",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa1hCTVotSG16aS1LdXJYNWhXWDU2Q0QxTk8wbHgzSXFDaTB0dHN6eFhaOVNxUEFnQUI4eHNqRXhfR2U5NFFkOTFadlNCVmpGM1dnTm43MGxaQk9ialFNbHMzRmUtQ0xraklyOHFSeXdGOTdLNE9lMjlqRmRka3lZMndRVVF3MmE1amZ6MkxhV19tdGh0b2VzcERwajlIcnU5LTlKZ2hvTzZPNDJYNGNHZmE2NFVHWjVXaHcyRTdDWmxaRi1lbUFzaEgxUjhraEtYVVVKRWxNUlpNWDV3aXNnb3oyOExxWG5RVTZXX3BEd25INmczMWVB?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-08T11:53:00Z",
+        "titulo": "Guerreiros do Passo: Morre Lucélia Albuquerque, cofundadora do Guerreiros do Passo, grupo que levou o frevo de rua a Cannes",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdWdtQ3NuZE9zRkVHemlpQncwemdBVHMzQkZ2cl9NOUFYX3E4OGNyZ0lHd1lLMWw5TjZFX3M1T3J5UC13WjFSaFVzYlNMN2V2U1BCSUJZVE95VWZqcTMxR2pTbXhrck80NE5GNTl4TlBFM18wVnFOXzVia3Rhb1NXMnJCZVB6bEVLbzlVVmloWlRFelY1bVJHMzFKWlZZRDN5R25qOXBTeE1rS2xXSHpYRnBJckFEQ3R6b05KeTNjRHVPQTNXVWw1VHZGOVBJcFZGSm1pQTlzUGo0Mko0Ty02T0FMS3M0TzJCRmNMSWpJVjU1Ry1EQXJRTmhn?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Flávio Bolsonaro aos",
-      "razao_aumento": 74.7,
+      "termo": "Guerreiros do Passo",
+      "razao_aumento": 79.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "GZH",
-        "hora": "2026-11-08T13:42:21Z",
-        "titulo": "Quaest aponta que 62% reprovam ida de Flávio Bolsonaro aos EUA após a eleição",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa1hCTVotSG16aS1LdXJYNWhXWDU2Q0QxTk8wbHgzSXFDaTB0dHN6eFhaOVNxUEFnQUI4eHNqRXhfR2U5NFFkOTFadlNCVmpGM1dnTm43MGxaQk9ialFNbHMzRmUtQ0xraklyOHFSeXdGOTdLNE9lMjlqRmRka3lZMndRVVF3MmE1amZ6MkxhV19tdGh0b2VzcERwajlIcnU5LTlKZ2hvTzZPNDJYNGNHZmE2NFVHWjVXaHcyRTdDWmxaRi1lbUFzaEgxUjhraEtYVVVKRWxNUlpNWDV3aXNnb3oyOExxWG5RVTZXX3BEd25INmczMWVB?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "primeira pesquisa",
-      "razao_aumento": 52.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "VEJA",
-        "hora": "2026-11-08T11:21:00Z",
-        "titulo": "Quaest: O que a primeira pesquisa pós-eleição mostra sobre Flávio Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHBGcmo3WXVvaHFSSjFPOXlsVjg0OXJWSDJ4al9wb3gwVUt5cEpIQVpZMF9tdVZGNWNnaU9HNFExVXZWZ3ZZY1JjekVnaVVJUHo5SDNoMElmVzkzREpxRkJySkNTNkROVmNaNnUzb2lhb1Vod1Roa2NMTEM3dmFCV0NlblIwdHBkSGJacHh3MTU3emJCeGtEcmpmSUp4UUpaR0U5bzF5OHd3dWVR?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "após a eleição",
-      "razao_aumento": 52.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-11-08T12:38:32Z",
-        "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa0ZnS1FFVGpvczJDeWt2VW95THdILVRVUzNEd0VpTXFKSXlSRkw2NVR5SHY5M1VIRmxrMU52QkhpX3hWMEJsVEI4OG5yYTFEeVdaSXl4cjU5cWlHbmZoNm5nMzhwT1hxYlVqN2VPaFNfb0dMREl4YjlNVGprWl9ESXdpeWlpOFJvRk5tY3NVc1h3endJeDBZVW8zN1JtbTgyUmE2WkpqUXJITzBtQTU5WG9xd1FabnlsQlJnTm0zRk5wbjdqWC1XLW1USXJWSTVDbmg5cU04RGNGNEZFZG5FU0tDODdoZ9IB9AFBVV95cUxOZkhfc0MwSXJFaGFiSzJ6aXVPYXl3WVZNM3dvUldkVUFCWXVYenVOSWJqdFl0dnN5MGQtY2U3cHNOZHA2WlJjaGVMVU5kc0tOWGFlZjhVQmpSYVVlYzlBTjNnbzhrbGxXUnpHZ1BzUHlLc1BraGxRZHpPLVJlM1BIZ3E3ZU1KYngyNks2alZHSzd3TFBZeGNyMjFEZ0o2RUhCX1pjRG1MaVNkWGhoZklXWHRaWFp6YlNFTVhvaC12Wlg2SThEY3JVRVo1UkstZnNsRmN5dWZCMDBxd0VDRWgydzJhSExyLXJBWkt5VDlhRFRFNlJt?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "sala de monitoramento",
-      "razao_aumento": 52.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Agência Brasil",
-        "hora": "2026-11-08T13:57:00Z",
-        "titulo": "Lula acompanha primeiro dia do Enem em sala de monitoramento do Inep",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMU5FSXJRekVSNnJrTGxITFRUUXdYcTJpN1J1a2tXT1haVk1kSTd5VVpDNkNqMHJQX21naTZNbGdVQjloelU0Q0ZOQ21NUjBqQTFxWnpzRGVyNEljbFZNdnNpWUg1OUtHWl9EdWd1Zm83alBnYVpEc0pNcXduOC0xY1hrSWZWQ3dyVDBtRk5YNTk3TjA5RzUtempaaFlBUVJFdWtKSDNrZ215YmptdUZvZ1p5cm9qVkE1Qzc4WF90NXNXbVZZb1RHQkFFejBVcUFRNkI5YnI4eWlMWWZxNmZ3?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-08T11:53:00Z",
+        "titulo": "Guerreiros do Passo: Morre Lucélia Albuquerque, cofundadora do Guerreiros do Passo, grupo que levou o frevo de rua a Cannes",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdWdtQ3NuZE9zRkVHemlpQncwemdBVHMzQkZ2cl9NOUFYX3E4OGNyZ0lHd1lLMWw5TjZFX3M1T3J5UC13WjFSaFVzYlNMN2V2U1BCSUJZVE95VWZqcTMxR2pTbXhrck80NE5GNTl4TlBFM18wVnFOXzVia3Rhb1NXMnJCZVB6bEVLbzlVVmloWlRFelY1bVJHMzFKWlZZRDN5R25qOXBTeE1rS2xXSHpYRnBJckFEQ3R6b05KeTNjRHVPQTNXVWw1VHZGOVBJcFZGSm1pQTlzUGo0Mko0Ty02T0FMS3M0TzJCRmNMSWpJVjU1Ry1EQXJRTmhn?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Jair Bolsonaro",
-      "razao_aumento": 50.0,
+      "razao_aumento": 69.1,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Estadão",
@@ -359,288 +293,324 @@
       }
     },
     {
-      "termo": "Lucélia",
-      "razao_aumento": 47.6,
+      "termo": "Bolsonaro aos EUA",
+      "razao_aumento": 67.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-08T11:53:00Z",
-        "titulo": "Guerreiros do Passo: Morre Lucélia Albuquerque, cofundadora do Guerreiros do Passo, grupo que levou o frevo de rua a Cannes",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdWdtQ3NuZE9zRkVHemlpQncwemdBVHMzQkZ2cl9NOUFYX3E4OGNyZ0lHd1lLMWw5TjZFX3M1T3J5UC13WjFSaFVzYlNMN2V2U1BCSUJZVE95VWZqcTMxR2pTbXhrck80NE5GNTl4TlBFM18wVnFOXzVia3Rhb1NXMnJCZVB6bEVLbzlVVmloWlRFelY1bVJHMzFKWlZZRDN5R25qOXBTeE1rS2xXSHpYRnBJckFEQ3R6b05KeTNjRHVPQTNXVWw1VHZGOVBJcFZGSm1pQTlzUGo0Mko0Ty02T0FMS3M0TzJCRmNMSWpJVjU1Ry1EQXJRTmhn?oc=5",
+        "fonte": "Opera Mundi",
+        "hora": "2026-11-08T15:00:04Z",
+        "titulo": "Fuga de Flávio Bolsonaro aos EUA é rejeitada por 62% dos brasileiros, diz Quaest",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDVwcGM3NlNxNTlhQjJDaXdLR05wOU9DaUV5Q1dmdU55Q3NSRENKa2hVVkNaWldGZm55VzdyaG1ONm9yVC04YVFEZ2xncjFCell2aTkzdHpjcGtwYTVETm0zYjNYQ3F5V3FWRjYtaTRSMW5QMzZ0RGgtSWdVMVlUd2gyMGJEbW5FQ1RRQlR2Yk1yN29Da2lIemFubXNyUE1xMEE5UGVVbHc3N2dSTVByVTlaNS1xU1k?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "vaquinha virtual",
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "CNN Brasil",
+        "hora": "2026-11-08T19:56:37Z",
+        "titulo": "PT abre vaquinha virtual para quitar despesas da campanha de Lula",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGhDM2kzdzVQWU05cktpQWlac3hVNXlWRkd0c0hqNnByTkt4Q1BuTmxpQm1ta0IzMlZtRG14MXdXVmJCRzgxdGQwb2ZJT2wyQUZXSXB2bnZRd3FObzV2c1JjQ05mQXVhOEwtcXpXV09Id1FtN3FlTTFrTjd0WEo0SlhkV3YtS1hZakZLOGNQenJ3dUhlb2ZWQVFYVzg0anYtTE5CRURJWQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "fugir da justiça",
+      "razao_aumento": 66.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "www.correiodamanha.com.br",
+        "hora": "2026-11-08T19:27:00Z",
+        "titulo": "Quaest: Flávio Bolsonaro saiu do Brasil para fugir da Justiça, diz 56% dos brasileiros",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZGVIQVBpLU5RcVNUdkRQczRZbUlQbmNrUWFUcXhZNHlSb3dNb1ZDVktQMENkVDNxOTVEb1BCTmI5SUZ5ODYtZ2kzZkM4U0JacVB6c3poWW4xM1UyVXpiNUVwTERpYndEbzVQTU81aEQ2WHlrZEJjWUZWSTQ4cjgzRHhKdzdqRmlodTFmV2VwYTlDYWtFeUE1LUhpYkVDRkZ2Ylc2eHE2YXhudVZ2eFY5Y0FLaGNTenRPbERfOEJtRW5BSUsycGlVRDRGS2RkZ3BlWGN5RHlpRjhISzlBNUJPUlZ4Mm1FZjk1?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "responsabilidade fiscal",
+      "razao_aumento": 61.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-11-08T23:30:43Z",
+        "titulo": "Lula diz que se preocupa com dívida pública e juros e reafirma responsabilidade fiscal",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVc5VlNjRldHZm9kdlBKRWkzc1Y4SFlCMXNKeHN5WVJKVVFiVXhVU0JsTE5tUVRHZWxPWXRYQWJFOTdCRmZoQ2JDZVM1SXQ0U2NtUFpJZXlSRV9xTEMzZzFuLUw3cTh2NUpWWVdzMWtyci1IQlFmMWpvMEV3WEhaZzEzVkhQV0hqQmJMTWwydUR2cjUzYkdNTVhuTjA5cHdOMXA5aE9BTzVjWUctRGNrWlJmWdIBwgFBVV95cUxQVnhUM3J6clhkWlg3Vzd6T2UybUF0S185RVE5UDNOejJKRGRJTW5BRjVwemltTG83SzdDc0tzYmwwSWxFTHJhN2tSZXhwRjVkVlhOMWViYmthYl82ZE9uakg3NldwanJJX28waGxkNnNxZV9PSlBabGRVRUdhaHNUNmxOSVRZamhxSTZfUTZOenFfeVR5Z0RnQUJ0NlFabmFiYktSS0ZkekNDQXhWSkpWNkp4cVo2TE9oR3VfbERZOW1zQQ?oc=5",
         "peso": 1.0
       }
     }
   ],
   "nuvem": [
     {
-      "termo": "Flávio",
+      "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 21.77,
-      "fontes_distintas": 20
+      "fatia_pct": 21.79,
+      "fontes_distintas": 21
+    },
+    {
+      "termo": "Flávio",
+      "peso_relativo": 98.4,
+      "fatia_pct": 21.43,
+      "fontes_distintas": 15
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 90.6,
-      "fatia_pct": 19.73,
-      "fontes_distintas": 18
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 78.1,
-      "fatia_pct": 17.01,
+      "peso_relativo": 91.8,
+      "fatia_pct": 20.0,
       "fontes_distintas": 15
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 75.0,
-      "fatia_pct": 16.33,
-      "fontes_distintas": 16
+      "peso_relativo": 75.4,
+      "fatia_pct": 16.43,
+      "fontes_distintas": 13
     },
     {
       "termo": "Quaest",
-      "peso_relativo": 43.8,
-      "fatia_pct": 9.52,
-      "fontes_distintas": 12
+      "peso_relativo": 32.8,
+      "fatia_pct": 7.14,
+      "fontes_distintas": 10
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 21.9,
-      "fatia_pct": 4.76,
+      "peso_relativo": 23.0,
+      "fatia_pct": 5.0,
       "fontes_distintas": 4
     },
     {
-      "termo": "João",
-      "peso_relativo": 18.8,
-      "fatia_pct": 4.08,
-      "fontes_distintas": 4
+      "termo": "Carlos",
+      "peso_relativo": 23.0,
+      "fatia_pct": 5.0,
+      "fontes_distintas": 2
     },
     {
-      "termo": "Enem",
-      "peso_relativo": 18.8,
-      "fatia_pct": 4.08,
-      "fontes_distintas": 4
+      "termo": "Brasil",
+      "peso_relativo": 22.3,
+      "fatia_pct": 4.86,
+      "fontes_distintas": 6
     },
     {
-      "termo": "Norris",
-      "peso_relativo": 18.8,
-      "fatia_pct": 4.08,
+      "termo": "Miguel",
+      "peso_relativo": 19.7,
+      "fatia_pct": 4.29,
       "fontes_distintas": 1
     },
     {
-      "termo": "Enem2026",
-      "peso_relativo": 17.8,
-      "fatia_pct": 3.88,
+      "termo": "Carlos Miguel",
+      "peso_relativo": 19.7,
+      "fatia_pct": 4.29,
       "fontes_distintas": 1
     },
     {
-      "termo": "Verstappen",
-      "peso_relativo": 16.9,
-      "fatia_pct": 3.67,
+      "termo": "Abel",
+      "peso_relativo": 18.7,
+      "fatia_pct": 4.07,
       "fontes_distintas": 1
     },
     {
-      "termo": "VIVA",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "VIVA O SUS",
-      "peso_relativo": 15.9,
-      "fatia_pct": 3.47,
+      "termo": "Gomez",
+      "peso_relativo": 17.7,
+      "fatia_pct": 3.86,
       "fontes_distintas": 1
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.4,
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.57,
       "fontes_distintas": 4
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.4,
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.57,
       "fontes_distintas": 4
     },
     {
+      "termo": "João",
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.57,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "responsabilidade fiscal",
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.57,
+      "fontes_distintas": 5
+    },
+    {
       "termo": "Lucélia",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.4,
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.57,
       "fontes_distintas": 5
     },
     {
       "termo": "Albuquerque",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.4,
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.57,
       "fontes_distintas": 5
     },
     {
       "termo": "Lucélia Albuquerque",
-      "peso_relativo": 15.6,
-      "fatia_pct": 3.4,
+      "peso_relativo": 16.4,
+      "fatia_pct": 3.57,
       "fontes_distintas": 5
     },
     {
-      "termo": "Taylor",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.27,
+      "termo": "Piton",
+      "peso_relativo": 15.7,
+      "fatia_pct": 3.43,
       "fontes_distintas": 1
     },
     {
-      "termo": "Ferrari",
-      "peso_relativo": 14.1,
-      "fatia_pct": 3.06,
+      "termo": "Pronunciamento",
+      "peso_relativo": 14.8,
+      "fatia_pct": 3.21,
       "fontes_distintas": 1
     },
     {
-      "termo": "karlie kloss",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.86,
+      "termo": "Pronunciamento Lula",
+      "peso_relativo": 14.8,
+      "fatia_pct": 3.21,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Jardim",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Léo Jardim",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
       "termo": "Campos",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.86,
       "fontes_distintas": 3
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.86,
       "fontes_distintas": 3
     },
     {
-      "termo": "Brasil",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
+      "termo": "Justiça",
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.86,
       "fontes_distintas": 3
-    },
-    {
-      "termo": "Bolsonaro aos",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "aos EUA",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Flávio Bolsonaro aos",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Bolsonaro aos EUA",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
-      "fontes_distintas": 4
     },
     {
       "termo": "Guerreiros",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.86,
       "fontes_distintas": 4
     },
     {
       "termo": "Passo",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.86,
       "fontes_distintas": 4
     },
     {
       "termo": "Guerreiros do Passo",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.72,
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.86,
       "fontes_distintas": 4
     },
     {
-      "termo": "Interlagos",
-      "peso_relativo": 12.2,
-      "fatia_pct": 2.65,
+      "termo": "Dança",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.79,
       "fontes_distintas": 1
     },
     {
-      "termo": "F1na",
-      "peso_relativo": 11.2,
-      "fatia_pct": 2.45,
+      "termo": "Famosos",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.79,
       "fontes_distintas": 1
     },
     {
-      "termo": "Globo",
-      "peso_relativo": 11.2,
-      "fatia_pct": 2.45,
+      "termo": "Dança Dos Famosos",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.79,
       "fontes_distintas": 1
     },
     {
-      "termo": "F1na Globo",
-      "peso_relativo": 11.2,
-      "fatia_pct": 2.45,
+      "termo": "Giay",
+      "peso_relativo": 11.8,
+      "fatia_pct": 2.57,
       "fontes_distintas": 1
     },
     {
-      "termo": "Sistema",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.24,
+      "termo": "Lescano",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "Único",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.24,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Saúde",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.24,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Sistema Único",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.24,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Único de Saúde",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.24,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Brasília",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.04,
+      "termo": "neste domingo",
+      "peso_relativo": 9.8,
+      "fatia_pct": 2.14,
       "fontes_distintas": 3
     },
     {
-      "termo": "primeira pesquisa",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.04,
+      "termo": "Jair",
+      "peso_relativo": 9.8,
+      "fatia_pct": 2.14,
       "fontes_distintas": 3
     },
     {
-      "termo": "após a eleição",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.04,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "pesquisa Quaest",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.04,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Antonelli",
-      "peso_relativo": 9.4,
-      "fatia_pct": 2.04,
+      "termo": "Enem2026",
+      "peso_relativo": 9.8,
+      "fatia_pct": 2.14,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "greys anatomy",
+      "peso_relativo": 8.9,
+      "fatia_pct": 1.93,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Marlon",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.71,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Freitas",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.71,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Marlon Freitas",
+      "peso_relativo": 7.9,
+      "fatia_pct": 1.71,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Zé gotinha",
+      "peso_relativo": 6.9,
+      "fatia_pct": 1.5,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lyra exonera",
+      "peso_relativo": 6.6,
+      "fatia_pct": 1.43,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Raquel Lyra exonera",
+      "peso_relativo": 6.6,
+      "fatia_pct": 1.43,
+      "fontes_distintas": 2
     }
   ]
 }
