@@ -1,192 +1,204 @@
 {
-  "atualizado_em": "2026-11-09T00:50:40Z",
-  "total_analisado": 101,
+  "atualizado_em": "2026-11-09T07:55:05Z",
+  "total_analisado": 99,
   "x_recife": [
     {
-      "termo": "Carlos Miguel",
+      "termo": "kehlani",
       "posicao": 1,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=kehlani",
+      "ruido": false
+    },
+    {
+      "termo": "gaby amarantos",
+      "posicao": 2,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=gaby%20amarantos",
+      "ruido": false
+    },
+    {
+      "termo": "Doran",
+      "posicao": 3,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Doran",
+      "ruido": false
+    },
+    {
+      "termo": "#ProvaDeFogo",
+      "posicao": 4,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23ProvaDeFogo",
+      "ruido": false
+    },
+    {
+      "termo": "#JIN_Birthday",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23JIN_Birthday",
+      "ruido": false
+    },
+    {
+      "termo": "#JINBDAY",
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23JINBDAY",
+      "ruido": false
+    },
+    {
+      "termo": "#JinDay2026",
+      "posicao": 7,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23JinDay2026",
+      "ruido": false
+    },
+    {
+      "termo": "STREAM FOR JIN",
+      "posicao": 8,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=STREAM%20FOR%20JIN",
+      "ruido": false
+    },
+    {
+      "termo": "Blaz",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Blaz",
+      "ruido": false
+    },
+    {
+      "termo": "taemin",
+      "posicao": 10,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=taemin",
+      "ruido": false
+    },
+    {
+      "termo": "#NFLnoSportv",
+      "posicao": 11,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23NFLnoSportv",
+      "ruido": false
+    },
+    {
+      "termo": "Shidou",
+      "posicao": 12,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Shidou",
+      "ruido": false
+    },
+    {
+      "termo": "Carlos Miguel",
+      "posicao": 13,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=Carlos%20Miguel",
       "ruido": false
     },
     {
-      "termo": "Abel",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Abel",
-      "ruido": false
-    },
-    {
-      "termo": "Gomez",
-      "posicao": 3,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Gomez",
-      "ruido": false
-    },
-    {
-      "termo": "O Vasco",
-      "posicao": 4,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=O%20Vasco",
-      "ruido": true
-    },
-    {
-      "termo": "Piton",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Piton",
-      "ruido": false
-    },
-    {
-      "termo": "#PronunciamentoLula",
-      "posicao": 6,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23PronunciamentoLula",
-      "ruido": false
-    },
-    {
-      "termo": "Léo Jardim",
-      "posicao": 7,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=L%C3%A9o%20Jardim",
-      "ruido": false
-    },
-    {
-      "termo": "#DançaDosFamosos",
-      "posicao": 8,
-      "variacao": "+13",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23Dan%C3%A7aDosFamosos",
-      "ruido": false
-    },
-    {
-      "termo": "Giay",
-      "posicao": 9,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Giay",
-      "ruido": false
-    },
-    {
-      "termo": "Lescano",
-      "posicao": 10,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Lescano",
-      "ruido": false
-    },
-    {
-      "termo": "#Enem2026",
-      "posicao": 11,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23Enem2026",
-      "ruido": false
-    },
-    {
-      "termo": "greys anatomy",
-      "posicao": 12,
-      "variacao": "+7",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=greys%20anatomy",
-      "ruido": false
-    },
-    {
-      "termo": "Marlon Freitas",
-      "posicao": 13,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Marlon%20Freitas",
-      "ruido": false
-    },
-    {
-      "termo": "Zé gotinha",
+      "termo": "Milla",
       "posicao": 14,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Z%C3%A9%20gotinha",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Milla",
       "ruido": false
     },
     {
-      "termo": "Copa do Brasil",
+      "termo": "Tina",
       "posicao": 15,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Copa%20do%20Brasil",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Tina",
       "ruido": false
     },
     {
-      "termo": "#Domingão",
+      "termo": "Kelela",
       "posicao": 16,
-      "variacao": "+16",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23Doming%C3%A3o",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Kelela",
       "ruido": false
     },
     {
-      "termo": "Robert Renan",
+      "termo": "Bears",
       "posicao": 17,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Robert%20Renan",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Bears",
       "ruido": false
     },
     {
-      "termo": "O Palmeiras",
+      "termo": "Oner",
       "posicao": 18,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=O%20Palmeiras",
-      "ruido": true
-    },
-    {
-      "termo": "Piquerez",
-      "posicao": 19,
-      "variacao": "-7",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Piquerez",
+      "url": "https://x.com/search?q=Oner",
       "ruido": false
     },
     {
-      "termo": "Thiago Mendes",
+      "termo": "Avaí",
+      "posicao": 19,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Ava%C3%AD",
+      "ruido": false
+    },
+    {
+      "termo": "Serginho e Alfredo",
       "posicao": 20,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Thiago%20Mendes",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Serginho%20e%20Alfredo",
       "ruido": false
     }
   ],
   "google_trends": [
     {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Mega-Sena: aposta feita em Pernambuco ganha mais de R$ 23 mil na quina",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPclZQQng0UGlpd0ZRbzVKUHBBOGZJMkxMRVVUS3d5MEdWd0pRZXp4V0IyQWE4QWtpa0hxQ2ZfNW1PMUlSTTlwaTAxblR4NVFoUzNSZm01MkdCbjAweHVyeVBuRHpDX1pqRE1odEVrcHRDeFAxZ1hSclQyYlJ2VVJaaFJzYjBiSEh5U0FHeEEydER6QVBlaUlXTkxDN3VuY1VZOVJIa2VRMFc1VlNZOU9MVVlJdTRjTGY0NDRxR3ZXTHhCQlVoeUNJ0gHWAUFVX3lxTFBEdVEwMHdiamZBZ3lJT3FPTUFNNjFSQlJtaFlob2cyNUNIaGNka001U0lvQkpyUG5VR2llWmoyb1poc0I5eGpJb0NxTzJSSE5kbFhtcGIwYzVaYTdSb0NUajljaFVxRWJsOWh4clp1VkdQdDFHSTBTLUtuVjdJMGFDMkIxOXd4N3ZHUWRFT2hfc3E3VzNqRi0taXlNRzBsTWMxS1diTUlJWXVCZjlwLUNQM1ZfdnlIQ0xmSm1WcGN1cjNCamZJSm9nVE96SGhQYm55bXlDSmc?oc=5"
+      "termo": "frevo",
+      "volume": "▲ 200+",
+      "manchete": "Lucélia Albuquerque, passista de frevo e fundadora do grupo Guerreiros do Passo, morre aos 44 anos, no Recife",
+      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/08/morre-lucelia-albuquerque-frevo-guerreiros-do-passo.ghtml"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "JC: Sintepe e estudantes cobram climatização em escolas estaduais de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThCR243WDJ5ZllzRkNfVUUzUzJ5Q01PZU02WEE0bEtSam1oRU5BdVVubzdqMlhldDB2VzBub2ZBdlpVZUZHZkRqMW9LSGJRY0ZfRzVHc0lOYmE2OVR4R3BBQWpHRHFSZWhUdXBTMlBQZm5GakR1ZGxKMHZKZXJEYzFydlZOZUp2TkpsYjhobkJ3SlF5dGs1bWxpZXo2RTFickg3LWIxWHBmd1NnemtHTHR4Zmh5ajltNENib0JnLUtaMjZtY19jblhoVWRzUHNpWGxZ?oc=5"
+      "manchete": "- Blog Dellas: Em Pauta: Campanha Papai Noel dos Correios já promove adoção de cartinhas em Pernambuco -",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekoxQ01wVzFWQ1g1Z1JVVUViaFJHd3VhQXJJMjI3eHIwMjc2UjBWNHg5Zm8zdVg0UVZkVTZxaVlDWlBUOUJCQ3dWQXFEN3RoMC1OZGtmaDV3czFiYkVaaG51MlNTR0lLRmJqd052cGhKYS13WGFjcmlZeU1yczZQRzlSQ1gxejNYSkF5blpvRDE0WjhnNGROVGVhS09tMV9ibTcyMUI1a0ZBSmFzakJmTVZ0cw?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Correio Braziliense: Concurso Público da PM e Bombeiros de Pernambuco terão inscrições encerradas em novembro",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUWNXUThkY21scEpnSDJUMUx3R2l0MTY5clhMNjFUaDVSNUszYzd3bGFsNWY3Mk1BMkQyOGNUT1hBYlphSmo5RzhhSDdEQWp3aHdpVEMxdTBXYmRHeXlhX1VLMlVTc0hJM0dQSjZCUUJ5djFFR0RxdEsyYm1WazJKTUhmQno5MHBIRkxiOW5TSVR6T05vVy1BQmFoejNmSmc4czF1Nks0Z09VZTRuYjc2SUJRR28zTWtqX2tEMUxiS0JrZGFFOW45M1pKUlZVSjNXVnl1OVE3RzFTaUlFVGpVNmJpT1lDMmdzMExtX3htS3d1ajZJc0t2WlE0MDV4NGdKNE40eExyN20?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Olhar Direto: LUCIANO DUQUE DE GODOY SOUSA (PODE) — Deputado Estadual · Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0dHejhtM3REVW5DdkNHNFdNV1hoRThwWElTQnhBVHBaaC0zU1B2UWoxMExsWWFwSklBRUhJNmd0N3cxUmZzendQRVJMVXMwdlpqYlphZnZQTG1DRl9iRHhYeVlfRF9FMUluTHJhQnJFQ2FYUkQ0T2ZpNDM5TENlSW8yTlJfdloyMHJN?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Let's Make inaugura quiosque no RioMar Recife",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDJhZ0UtUUt1Ylg5ZnQ3a1ZsVnZhdlNLSHEwOHFPS21sckwwcGlzVGhaLWM5QlZ0ZTlvUUROWm5pTnQ4UGIyal9aLUtodzVPcXZldkdfOXo3SDNmaWtjZWp1ZGlYZlhvSF96cVllSUJTa3Y0YzR0ZklsQTZqc0dyZmYxY2NrbHFOVjNGNnpkWQ?oc=5"
+      "manchete": "G1: 'Interessante', 'inesperado', 'cansativa': candidatos do Recife se dividem sobre 1º dia do Enem e elogiam tema da redação",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWlySTRnRHN3cFpPMGlJVnZna3BTZEVwVjU3MFVnUUtBQUN4RlFac01sbXp0QTVySlplX2d6d0ZxdmtrTWpTblpadjlIMTZ4alluMWhhMk82ck1heXNfN05nNHBER1pCRHlJc1F4WlVqLTNiUE9rQTRpME8zMnNfeGZIWnplTHV0bGtzMkItSDNQWTQwTTVLeGhMRndZNmhiRmxDbVBTOHk5SlJnM1JYcGxlVUV3eHPSAcYBQVVfeXFMUGxtOHVvWjFySmxyWW0wSlFnUnVabUpkNV9TUVVyMmwtX1FKMFBvcnZpNzBiT1NBMEhoOG11SjIyclk0VFJhbHFoUDEwQjI1YXBIS2J2UTk5eFNwdFdiRWZQVXpDWlRWRjBrcE93Q0dfYTdYVFB1aWozV2V2aFVCcWJqTkNpV2ZHZjkwMGhsY0tVdXFZZnJFRFJWTkpyLXBBUW1tQ2M0UTNWeDR6cEsyTDlZMzJnczI0RFhhdHRfZ1g2X0dSbkd3?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Candidatos se dividem sobre 1º dia de provas do Enem no Recife; VÍDEO",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWlySTRnRHN3cFpPMGlJVnZna3BTZEVwVjU3MFVnUUtBQUN4RlFac01sbXp0QTVySlplX2d6d0ZxdmtrTWpTblpadjlIMTZ4alluMWhhMk82ck1heXNfN05nNHBER1pCRHlJc1F4WlVqLTNiUE9rQTRpME8zMnNfeGZIWnplTHV0bGtzMkItSDNQWTQwTTVLeGhMRndZNmhiRmxDbVBTOHk5SlJnM1JYcGxlVUV3eHM?oc=5"
+      "manchete": "Portal NE9: Nordeste ganha loja de gigante com 4 mil lojas pelo mundo; confira onde",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0t0ZVF3bENjTDFJMExDNEppNVRJaTB1OEtwR2xKamc5VkU2SnJGN0wwNEZTWnlJai1Fb0tuRjZ0RVU4ckJyeEVyRk9mSVRMTWxoQTBORXFvejlJTEU4d05rV21hWnNTd2JySklkMkdGZ2NJZmY3WWhrR0VGT0xfRElvdWxQODgyT3hXaWVWYWNXT2N1dmxvcWtNS1lVVURUeGNlTkpnT0xpVDVWMTVTMjIxNDZnTTBXOUktSjQ0eC1vazdVS1B0ckotUHY2NFdlNVZxUFBEWTRmeWs?oc=5"
     },
     {
       "termo": "Recife",
@@ -201,12 +213,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHJlc052M3AySEVNdG9OeWhtaW5Ib3Fid0N0cXpjWGtiWDVFSmx0NVZxM0tuTzlyZVVoZHdJWGRSM1FIaUVDTm1feWtwWXB3VGhjLVJPaloxMmZlSU1FZnBWcUxZRVlmUlN2RnpjdFlka1h4UENtWk16ZElpZmxxTXhxd0E0aGs2amtub3hFNndabkJOQWNLZ3l1S3F1eUVMUVpxX2M3WEs5bFlH?oc=5"
     },
     {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Midiamax: Fundadora do Grupo Guerreiros, Lucélia morre aos 44 anos em Recife",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjNhN19ta01xNmVIV2k5MnlyN3dURmFJQS1FbEdkSDBxQTk2Y290VVZRcl9rVXpqWjR0RjZaTG56VGJLaUFHZmgxcUxpUV9kUWd5REloalhUNHlLV04xcEJaS0NSblk1SmxpSlIzQUVEX29MSGxvcEpGTW51aTFidEoycG9uanMxUVpIa21vUFJrZTVYdXZCVFJXWmNpRndZZmFrQ2Fn?oc=5"
-    },
-    {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Terra: Jovem de 24 anos morre após ser atingido por trator durante trabalho em Moreno, no Grande Recife",
@@ -219,16 +225,22 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVlTN1ZlNzZHWFN2ZkE3ZmViZnkxYkp1bVNEaEhhRjlvbE0yaVlnWXBEZDlzR3djUlBUTmdfSWwwSUIyd3RpUFgyNlZaUTJsclcyQUNfZy04bVluamFYb0xsTGI2bktJbDhGS2FvcmxobV9HbmwyOW5sRnZXc3VlZ3RXN1gwTFg2U05PNTY3SEFHVmkxSkd0cXlPM0tabkFWTWhJ?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Jovem morre após trator tombar durante trabalho em engenho de Moreno, no Grande Recife",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYkV2bGQyazBOZEdXOFo4NkM3djdMSGdyWEI1NGQ5d29VbGRDZkJOazd4YlFzR2hoek9aUFdLeWY2THN4azBLd3NNQ0tZNm12QkdNN29LMHVXbVo1T3J1dDZQMVQtcldIUXJ2ckdLNGpQWkxQNVJVMFRqcThTNXFPNkJWT3F6cUhXaVVuejNzOFNGMTc1SmNScU1Ebkl4TGhOc2RkTEhkV2JRRm8taF84cXZVdWRHOW5WdGxWd3hBY283T0ZrajQyN1RvRUlZS2lEU3plLWRncmtOQUd3UHBmQVd3RVlJRVZoTzhreW1B?oc=5"
+      "manchete": "- Blog Dellas: Giro Político: Ação de Raquel sobre o PL tem a ver com disputa pela mesa da Alepe e pode ser estendida -",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0xRakJrcElpSVFaWXoyMXRPV3JMcENQdHZ1bEdVVmpfQVp3OG53S19sbDBzc0FXVy0zX2xBbjVnSUdBVE1RalVLcUVqX19ZOU5BdEtwSmJlTmlBU0twZkdlcl9ETHV2SkF4OWg3SlpDRDBnZ0ZaZkJxUWEtbFFVd2VmSjU0ZHFxSDZOVUdPNmxqVzRWN2swZmhnam4zZHoySUYzMzEzeGMtNTliSkExM1JoeGpCX1otZ05Nenc0Z19jRWNkX2tB?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Francês News: Enem 2026: Pernambuco terá ônibus grátis e metrô aberto neste domingo; veja como usar",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjVRT0hPa3ZWVEp3OHpjQUtLMjFkbE90NTZ1dHRObFRvTjlWR3pUcjBxRVJnMHJ6Z0lNNDdSNUQwdDlpcU50b25FWGdacHJfUE1Nc2JMUVJfd1lKWlFrT3JJUUItOFUtQ0NoVnE3QVZiZERwR2ZUUjFTNVhWMGthYXZxUnJWQ3ZMVFhkc1p5ZjVYM3FRYW9PaU9tQ3ktS0tzR3U5ekFUV29Sd1lmdjhZX3FhaUpfUUltdjNScDF0eHFCR0tmRVJESlNXQXU?oc=5"
+      "manchete": "Blog do Alberes Xavier: Coluna da segunda-feira: Resiliência política de Roberta Arraes se traduz em vitória nas urnas e garante representatividade do Sertão na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPUXpCWE1jOFFldENLUVVhbjRnUVh2VGNoZUpFSWJ3dXduNGFqOElhOHV1UVhoaXdXYVUyM0JVUWV1OFNLaUUzOFV5cjNzT3VieFR3YUUxZk9PQTBadF9SLXQxQnAwVEVFd0M4WVAxOWFiNEFnMTFHbzR3UHlOT2dZSDdCZ1BRZ0JMNjFwWlRJQURDOHlIMEZTMERBaDI5dF80dS13VGJ6c1VTeGJFQWZRNWgyVkd3Y0ZhMmpLUm5DdEFYcWF6UGdFVXlhZkI0WUFHVHdkNUxjNk5DbXhMZHhoaE55RGoxdlpyQ2ZnZl9kWXhfd0hIaVR3Ql9hdWJtdEZPTDFNaVd5Z2xVR0NOQVFWSnRRSmVrUGktRFRuSw?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Blog Edmar Lyra: Coluna desta segunda-feira",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82UDV0QUJtd0hDdzNYVVd0Y0xicFM4VzBwOFVYSmtZQi01MUVhSlBKSDFmdV9QTmNSNTNabDhJVVlQVDRWNDhMbW80Yk9XV3YySTM2aGozU3NfTkhFZi1XU2x1RnJIb1Y3?oc=5"
     },
     {
       "termo": "Alepe",
@@ -239,104 +251,104 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "PE Notícias: Governo de Pernambuco anuncia resultado de edital de R$ 6 milhões voltado a pessoas com deficiência",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXzNJOUJjZGRoekRUWlpGeGczWW96RExFRzhXX29VU1JKNEs3NWpJVElYTi04M05qWlB1X3J4LVlqSExINGRmNnQ5b2VzYVBOUXhKbEZyWlpwSUZxUnljdXA2MzJSSEhHX0FaOVVITmN6SVJ6ZjFUcFdxU1lYYWMtamZLdXM1OXpSNGpFMTAzdHdiMUlDYmUyV0hiTkczMEVyWW8wcllvMW9SX2pkcGhPaEhmV3FmalBUQ2ZwMjNNa0FyWWo5YXVSLW5B?oc=5"
+      "manchete": "CBN Recife: Coluna da segunda | Por trás da campanha",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkNmZG9fUXlKMTctY1J3dUN3OW9Vc0VaZ1FwZWVLUHNubExtUXhzTXphT2tXWm9LbHRtb01venVQVWxfbjhvbTY3M05yNWdzcTY1MFlJS1B0RGotV2YyOXRGaElvM0R3UGctSXhYc29UazQzZ2E4VkVGUVNHLThkdUpsYlM4Tlk5T2dJNVRtZU9uRjVxM1E?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Guerreiros",
-      "razao_aumento": 79.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-08T11:53:00Z",
-        "titulo": "Guerreiros do Passo: Morre Lucélia Albuquerque, cofundadora do Guerreiros do Passo, grupo que levou o frevo de rua a Cannes",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdWdtQ3NuZE9zRkVHemlpQncwemdBVHMzQkZ2cl9NOUFYX3E4OGNyZ0lHd1lLMWw5TjZFX3M1T3J5UC13WjFSaFVzYlNMN2V2U1BCSUJZVE95VWZqcTMxR2pTbXhrck80NE5GNTl4TlBFM18wVnFOXzVia3Rhb1NXMnJCZVB6bEVLbzlVVmloWlRFelY1bVJHMzFKWlZZRDN5R25qOXBTeE1rS2xXSHpYRnBJckFEQ3R6b05KeTNjRHVPQTNXVWw1VHZGOVBJcFZGSm1pQTlzUGo0Mko0Ty02T0FMS3M0TzJCRmNMSWpJVjU1Ry1EQXJRTmhn?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Passo",
-      "razao_aumento": 79.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-08T11:53:00Z",
-        "titulo": "Guerreiros do Passo: Morre Lucélia Albuquerque, cofundadora do Guerreiros do Passo, grupo que levou o frevo de rua a Cannes",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdWdtQ3NuZE9zRkVHemlpQncwemdBVHMzQkZ2cl9NOUFYX3E4OGNyZ0lHd1lLMWw5TjZFX3M1T3J5UC13WjFSaFVzYlNMN2V2U1BCSUJZVE95VWZqcTMxR2pTbXhrck80NE5GNTl4TlBFM18wVnFOXzVia3Rhb1NXMnJCZVB6bEVLbzlVVmloWlRFelY1bVJHMzFKWlZZRDN5R25qOXBTeE1rS2xXSHpYRnBJckFEQ3R6b05KeTNjRHVPQTNXVWw1VHZGOVBJcFZGSm1pQTlzUGo0Mko0Ty02T0FMS3M0TzJCRmNMSWpJVjU1Ry1EQXJRTmhn?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Guerreiros do Passo",
-      "razao_aumento": 79.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-08T11:53:00Z",
-        "titulo": "Guerreiros do Passo: Morre Lucélia Albuquerque, cofundadora do Guerreiros do Passo, grupo que levou o frevo de rua a Cannes",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdWdtQ3NuZE9zRkVHemlpQncwemdBVHMzQkZ2cl9NOUFYX3E4OGNyZ0lHd1lLMWw5TjZFX3M1T3J5UC13WjFSaFVzYlNMN2V2U1BCSUJZVE95VWZqcTMxR2pTbXhrck80NE5GNTl4TlBFM18wVnFOXzVia3Rhb1NXMnJCZVB6bEVLbzlVVmloWlRFelY1bVJHMzFKWlZZRDN5R25qOXBTeE1rS2xXSHpYRnBJckFEQ3R6b05KeTNjRHVPQTNXVWw1VHZGOVBJcFZGSm1pQTlzUGo0Mko0Ty02T0FMS3M0TzJCRmNMSWpJVjU1Ry1EQXJRTmhn?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Jair Bolsonaro",
-      "razao_aumento": 69.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Estadão",
-        "hora": "2026-11-08T10:08:12Z",
-        "titulo": "Flávio encontra ator americano que interpreta Jair Bolsonaro no filme ‘Dark Horse’",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDl5QVhQdGpDem9MVFhOZzBiMk1fRHVpamVtT3hrM1hNcjB6Y3VvS000d1VIczk1ZXJ3Q3VhV0lkam9fWDF5OGF3VXBTcnN6UWp0aGVNLXZUWUtUZkZpTWtJcVplTHRpY3lpSnIzcjBXdjhVdk5CSWl3QTFSS2dpanJxZ2dvZGZrdjE1U2xhMXBwY0lvbzBVWFd6N2pPNjVrOVZpY3ZZR1pxNGsweTZpNTgySkowN2sxN201cEpWMnhqamRXaTk0cmZB?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Bolsonaro aos EUA",
-      "razao_aumento": 67.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Opera Mundi",
-        "hora": "2026-11-08T15:00:04Z",
-        "titulo": "Fuga de Flávio Bolsonaro aos EUA é rejeitada por 62% dos brasileiros, diz Quaest",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDVwcGM3NlNxNTlhQjJDaXdLR05wOU9DaUV5Q1dmdU55Q3NSRENKa2hVVkNaWldGZm55VzdyaG1ONm9yVC04YVFEZ2xncjFCell2aTkzdHpjcGtwYTVETm0zYjNYQ3F5V3FWRjYtaTRSMW5QMzZ0RGgtSWdVMVlUd2gyMGJEbW5FQ1RRQlR2Yk1yN29Da2lIemFubXNyUE1xMEE5UGVVbHc3N2dSTVByVTlaNS1xU1k?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "vaquinha virtual",
-      "razao_aumento": 66.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-11-08T19:56:37Z",
-        "titulo": "PT abre vaquinha virtual para quitar despesas da campanha de Lula",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGhDM2kzdzVQWU05cktpQWlac3hVNXlWRkd0c0hqNnByTkt4Q1BuTmxpQm1ta0IzMlZtRG14MXdXVmJCRzgxdGQwb2ZJT2wyQUZXSXB2bnZRd3FObzV2c1JjQ05mQXVhOEwtcXpXV09Id1FtN3FlTTFrTjd0WEo0SlhkV3YtS1hZakZLOGNQenJ3dUhlb2ZWQVFYVzg0anYtTE5CRURJWQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "fugir da justiça",
-      "razao_aumento": 66.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "www.correiodamanha.com.br",
-        "hora": "2026-11-08T19:27:00Z",
-        "titulo": "Quaest: Flávio Bolsonaro saiu do Brasil para fugir da Justiça, diz 56% dos brasileiros",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZGVIQVBpLU5RcVNUdkRQczRZbUlQbmNrUWFUcXhZNHlSb3dNb1ZDVktQMENkVDNxOTVEb1BCTmI5SUZ5ODYtZ2kzZkM4U0JacVB6c3poWW4xM1UyVXpiNUVwTERpYndEbzVQTU81aEQ2WHlrZEJjWUZWSTQ4cjgzRHhKdzdqRmlodTFmV2VwYTlDYWtFeUE1LUhpYkVDRkZ2Ylc2eHE2YXhudVZ2eFY5Y0FLaGNTenRPbERfOEJtRW5BSUsycGlVRDRGS2RkZ3BlWGN5RHlpRjhISzlBNUJPUlZ4Mm1FZjk1?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "responsabilidade fiscal",
-      "razao_aumento": 61.4,
+      "termo": "morre aos",
+      "razao_aumento": 125.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
-        "hora": "2026-11-08T23:30:43Z",
-        "titulo": "Lula diz que se preocupa com dívida pública e juros e reafirma responsabilidade fiscal",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVc5VlNjRldHZm9kdlBKRWkzc1Y4SFlCMXNKeHN5WVJKVVFiVXhVU0JsTE5tUVRHZWxPWXRYQWJFOTdCRmZoQ2JDZVM1SXQ0U2NtUFpJZXlSRV9xTEMzZzFuLUw3cTh2NUpWWVdzMWtyci1IQlFmMWpvMEV3WEhaZzEzVkhQV0hqQmJMTWwydUR2cjUzYkdNTVhuTjA5cHdOMXA5aE9BTzVjWUctRGNrWlJmWdIBwgFBVV95cUxQVnhUM3J6clhkWlg3Vzd6T2UybUF0S185RVE5UDNOejJKRGRJTW5BRjVwemltTG83SzdDc0tzYmwwSWxFTHJhN2tSZXhwRjVkVlhOMWViYmthYl82ZE9uakg3NldwanJJX28waGxkNnNxZV9PSlBabGRVRUdhaHNUNmxOSVRZamhxSTZfUTZOenFfeVR5Z0RnQUJ0NlFabmFiYktSS0ZkekNDQXhWSkpWNkp4cVo2TE9oR3VfbERZOW1zQQ?oc=5",
+        "hora": "2026-11-08T15:09:40Z",
+        "titulo": "Lucélia Albuquerque, passista de frevo e fundadora do grupo Guerreiros do Passo, morre aos 44 anos, no Recife",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODVIU0NSeFBWRzY1aEd2aXVGUWVrVFFzdWMySVJpaGJRSzhwWHpkLU1EUzNKQnIwNi1oeGFKY0dnQzEzX0FMVEFQWW9uV3g3Ym9OY2ViSXUwd0NjV0dZNFVUZHdGZWZkUEpUVHRBR3hwQzdZVzd6bGJHLXUwTWlMSUJHYXo5a1pvSS1sTVhKU2hZMEl6NkFycW5QbnUwaGJQOWxiLXBaeHFRSnpYNFk5aNIBvwFBVV95cUxOcmFvOHpSYlJLNWxjM1hWSGttN0pOamlra2Z0WmczNlNmbURIXzc0LVpiS2xvbDRjMGZLNGQ4ZlJkWHFGMGhKc1djRTR1OWdmdWRacVd1YTVwZ2Jwd0Z0YnhlVHU3Z3ZGdy01ZF90U2dZVkxORjVZN0g5R1NkdVVSMWFCd1YwNFVxSTNJNjk2TThtN3JkWlJZYWFQSjJMLUFxNlJyMXdkZmNkNmNMeGtIUFNFd2hEZURtZXBybXY2cw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Morre",
+      "razao_aumento": 125.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JC",
+        "hora": "2026-11-08T11:53:00Z",
+        "titulo": "Guerreiros do Passo: Morre Lucélia Albuquerque, cofundadora do Guerreiros do Passo, grupo que levou o frevo de rua a Cannes",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdWdtQ3NuZE9zRkVHemlpQncwemdBVHMzQkZ2cl9NOUFYX3E4OGNyZ0lHd1lLMWw5TjZFX3M1T3J5UC13WjFSaFVzYlNMN2V2U1BCSUJZVE95VWZqcTMxR2pTbXhrck80NE5GNTl4TlBFM18wVnFOXzVia3Rhb1NXMnJCZVB6bEVLbzlVVmloWlRFelY1bVJHMzFKWlZZRDN5R25qOXBTeE1rS2xXSHpYRnBJckFEQ3R6b05KeTNjRHVPQTNXVWw1VHZGOVBJcFZGSm1pQTlzUGo0Mko0Ty02T0FMS3M0TzJCRmNMSWpJVjU1Ry1EQXJRTmhn?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "TRE MG",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-11-08T19:01:00Z",
+        "titulo": "Brasília Hoje: TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSE13MUpZeU9TV1d3QzZJN1dUQzVvWVBuWGdqb2laVm94UjhmMWZKT1dsaDZDZHZCNUxsNVNEZ2pzVEVpOUtxR1dxbGhfN1B2LXZKbC00M2tabFlSM283LTQyWjdNNE5UTHFDSjhiZ0diaGZYa0Q2b2huR1lwMnR4ZDNncXNSZXlNdUQ3OVJma1ZxUkY0NjdVZWl4Y3A5ZnVWWHBzUGtPZjQ3MzE0cjVRX2s3aHlSdnFEZ1N4d3B3Qkd5cnQ2c21TenVlQ1QwZy1pVHRIblRxTzJFMGVsMzJSbGlPM1pEckY2TUg0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "MG suspende",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-11-08T19:01:00Z",
+        "titulo": "Brasília Hoje: TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSE13MUpZeU9TV1d3QzZJN1dUQzVvWVBuWGdqb2laVm94UjhmMWZKT1dsaDZDZHZCNUxsNVNEZ2pzVEVpOUtxR1dxbGhfN1B2LXZKbC00M2tabFlSM283LTQyWjdNNE5UTHFDSjhiZ0diaGZYa0Q2b2huR1lwMnR4ZDNncXNSZXlNdUQ3OVJma1ZxUkY0NjdVZWl4Y3A5ZnVWWHBzUGtPZjQ3MzE0cjVRX2s3aHlSdnFEZ1N4d3B3Qkd5cnQ2c21TenVlQ1QwZy1pVHRIblRxTzJFMGVsMzJSbGlPM1pEckY2TUg0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "suspende investigação",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-11-08T19:01:00Z",
+        "titulo": "Brasília Hoje: TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSE13MUpZeU9TV1d3QzZJN1dUQzVvWVBuWGdqb2laVm94UjhmMWZKT1dsaDZDZHZCNUxsNVNEZ2pzVEVpOUtxR1dxbGhfN1B2LXZKbC00M2tabFlSM283LTQyWjdNNE5UTHFDSjhiZ0diaGZYa0Q2b2huR1lwMnR4ZDNncXNSZXlNdUQ3OVJma1ZxUkY0NjdVZWl4Y3A5ZnVWWHBzUGtPZjQ3MzE0cjVRX2s3aHlSdnFEZ1N4d3B3Qkd5cnQ2c21TenVlQ1QwZy1pVHRIblRxTzJFMGVsMzJSbGlPM1pEckY2TUg0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "deputada eleita",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-11-08T19:01:00Z",
+        "titulo": "Brasília Hoje: TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSE13MUpZeU9TV1d3QzZJN1dUQzVvWVBuWGdqb2laVm94UjhmMWZKT1dsaDZDZHZCNUxsNVNEZ2pzVEVpOUtxR1dxbGhfN1B2LXZKbC00M2tabFlSM283LTQyWjdNNE5UTHFDSjhiZ0diaGZYa0Q2b2huR1lwMnR4ZDNncXNSZXlNdUQ3OVJma1ZxUkY0NjdVZWl4Y3A5ZnVWWHBzUGtPZjQ3MzE0cjVRX2s3aHlSdnFEZ1N4d3B3Qkd5cnQ2c21TenVlQ1QwZy1pVHRIblRxTzJFMGVsMzJSbGlPM1pEckY2TUg0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "eleita após",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-11-08T19:01:00Z",
+        "titulo": "Brasília Hoje: TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSE13MUpZeU9TV1d3QzZJN1dUQzVvWVBuWGdqb2laVm94UjhmMWZKT1dsaDZDZHZCNUxsNVNEZ2pzVEVpOUtxR1dxbGhfN1B2LXZKbC00M2tabFlSM283LTQyWjdNNE5UTHFDSjhiZ0diaGZYa0Q2b2huR1lwMnR4ZDNncXNSZXlNdUQ3OVJma1ZxUkY0NjdVZWl4Y3A5ZnVWWHBzUGtPZjQ3MzE0cjVRX2s3aHlSdnFEZ1N4d3B3Qkd5cnQ2c21TenVlQ1QwZy1pVHRIblRxTzJFMGVsMzJSbGlPM1pEckY2TUg0?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "após denúncia",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-11-08T19:01:00Z",
+        "titulo": "Brasília Hoje: TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSE13MUpZeU9TV1d3QzZJN1dUQzVvWVBuWGdqb2laVm94UjhmMWZKT1dsaDZDZHZCNUxsNVNEZ2pzVEVpOUtxR1dxbGhfN1B2LXZKbC00M2tabFlSM283LTQyWjdNNE5UTHFDSjhiZ0diaGZYa0Q2b2huR1lwMnR4ZDNncXNSZXlNdUQ3OVJma1ZxUkY0NjdVZWl4Y3A5ZnVWWHBzUGtPZjQ3MzE0cjVRX2s3aHlSdnFEZ1N4d3B3Qkd5cnQ2c21TenVlQ1QwZy1pVHRIblRxTzJFMGVsMzJSbGlPM1pEckY2TUg0?oc=5",
         "peso": 1.0
       }
     }
@@ -345,271 +357,271 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 21.79,
-      "fontes_distintas": 21
+      "fatia_pct": 17.61,
+      "fontes_distintas": 16
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 98.4,
-      "fatia_pct": 21.43,
-      "fontes_distintas": 15
+      "peso_relativo": 100.0,
+      "fatia_pct": 17.61,
+      "fontes_distintas": 13
     },
     {
       "termo": "Bolsonaro",
-      "peso_relativo": 91.8,
-      "fatia_pct": 20.0,
-      "fontes_distintas": 15
+      "peso_relativo": 96.0,
+      "fatia_pct": 16.9,
+      "fontes_distintas": 14
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 75.4,
-      "fatia_pct": 16.43,
+      "peso_relativo": 88.0,
+      "fatia_pct": 15.49,
       "fontes_distintas": 13
     },
     {
       "termo": "Quaest",
-      "peso_relativo": 32.8,
-      "fatia_pct": 7.14,
-      "fontes_distintas": 10
+      "peso_relativo": 32.0,
+      "fatia_pct": 5.63,
+      "fontes_distintas": 8
     },
     {
-      "termo": "Raquel",
-      "peso_relativo": 23.0,
-      "fatia_pct": 5.0,
-      "fontes_distintas": 4
+      "termo": "responsabilidade fiscal",
+      "peso_relativo": 28.0,
+      "fatia_pct": 4.93,
+      "fontes_distintas": 7
     },
     {
-      "termo": "Carlos",
-      "peso_relativo": 23.0,
-      "fatia_pct": 5.0,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 22.3,
-      "fatia_pct": 4.86,
+      "termo": "Lucélia",
+      "peso_relativo": 24.0,
+      "fatia_pct": 4.23,
       "fontes_distintas": 6
     },
     {
+      "termo": "Albuquerque",
+      "peso_relativo": 24.0,
+      "fatia_pct": 4.23,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Lucélia Albuquerque",
+      "peso_relativo": 24.0,
+      "fatia_pct": 4.23,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "gaby amarantos",
+      "peso_relativo": 22.8,
+      "fatia_pct": 4.01,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Doran",
+      "peso_relativo": 21.6,
+      "fatia_pct": 3.8,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Prova",
+      "peso_relativo": 20.4,
+      "fatia_pct": 3.59,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fogo",
+      "peso_relativo": 20.4,
+      "fatia_pct": 3.59,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Prova De Fogo",
+      "peso_relativo": 20.4,
+      "fatia_pct": 3.59,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Raquel",
+      "peso_relativo": 20.0,
+      "fatia_pct": 3.52,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Guerreiros",
+      "peso_relativo": 20.0,
+      "fatia_pct": 3.52,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Passo",
+      "peso_relativo": 20.0,
+      "fatia_pct": 3.52,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Guerreiros do Passo",
+      "peso_relativo": 20.0,
+      "fatia_pct": 3.52,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Birthday",
+      "peso_relativo": 19.2,
+      "fatia_pct": 3.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "JIN Birthday",
+      "peso_relativo": 19.2,
+      "fatia_pct": 3.38,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "JINBDAY",
+      "peso_relativo": 18.0,
+      "fatia_pct": 3.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Day2026",
+      "peso_relativo": 16.8,
+      "fatia_pct": 2.96,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Jin Day2026",
+      "peso_relativo": 16.8,
+      "fatia_pct": 2.96,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "STREAM",
+      "peso_relativo": 15.6,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "STREAM FOR",
+      "peso_relativo": 15.6,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "FOR JIN",
+      "peso_relativo": 15.6,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "STREAM FOR JIN",
+      "peso_relativo": 15.6,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Blaz",
+      "peso_relativo": 14.4,
+      "fatia_pct": 2.54,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Carlos",
+      "peso_relativo": 13.6,
+      "fatia_pct": 2.39,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Coluna",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "PL",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "dívida pública",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "morre aos",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Morre",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "NFLno",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Sportv",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "NFLno Sportv",
+      "peso_relativo": 12.0,
+      "fatia_pct": 2.11,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Shidou",
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.9,
+      "fontes_distintas": 1
+    },
+    {
       "termo": "Miguel",
-      "peso_relativo": 19.7,
-      "fatia_pct": 4.29,
+      "peso_relativo": 9.6,
+      "fatia_pct": 1.69,
       "fontes_distintas": 1
     },
     {
       "termo": "Carlos Miguel",
-      "peso_relativo": 19.7,
-      "fatia_pct": 4.29,
+      "peso_relativo": 9.6,
+      "fatia_pct": 1.69,
       "fontes_distintas": 1
     },
     {
-      "termo": "Abel",
-      "peso_relativo": 18.7,
-      "fatia_pct": 4.07,
+      "termo": "Milla",
+      "peso_relativo": 8.4,
+      "fatia_pct": 1.48,
       "fontes_distintas": 1
     },
     {
-      "termo": "Gomez",
-      "peso_relativo": 17.7,
-      "fatia_pct": 3.86,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lyra",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.57,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.57,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.57,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "responsabilidade fiscal",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.57,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Lucélia",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.57,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Albuquerque",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.57,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Lucélia Albuquerque",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.57,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Piton",
-      "peso_relativo": 15.7,
-      "fatia_pct": 3.43,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Pronunciamento",
-      "peso_relativo": 14.8,
-      "fatia_pct": 3.21,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Pronunciamento Lula",
-      "peso_relativo": 14.8,
-      "fatia_pct": 3.21,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Jardim",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Léo Jardim",
-      "peso_relativo": 13.8,
-      "fatia_pct": 3.0,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Campos",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Justiça",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Guerreiros",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Passo",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Guerreiros do Passo",
-      "peso_relativo": 13.1,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Dança",
-      "peso_relativo": 12.8,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Famosos",
-      "peso_relativo": 12.8,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Dança Dos Famosos",
-      "peso_relativo": 12.8,
-      "fatia_pct": 2.79,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Giay",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.57,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lescano",
-      "peso_relativo": 10.8,
-      "fatia_pct": 2.36,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "neste domingo",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.14,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Jair",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.14,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Enem2026",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.14,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "greys anatomy",
-      "peso_relativo": 8.9,
-      "fatia_pct": 1.93,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Marlon",
-      "peso_relativo": 7.9,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Freitas",
-      "peso_relativo": 7.9,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Marlon Freitas",
-      "peso_relativo": 7.9,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Zé gotinha",
-      "peso_relativo": 6.9,
-      "fatia_pct": 1.5,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lyra exonera",
-      "peso_relativo": 6.6,
-      "fatia_pct": 1.43,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Raquel Lyra exonera",
-      "peso_relativo": 6.6,
-      "fatia_pct": 1.43,
+      "termo": "segunda feira",
+      "peso_relativo": 8.0,
+      "fatia_pct": 1.41,
       "fontes_distintas": 2
     }
   ]
