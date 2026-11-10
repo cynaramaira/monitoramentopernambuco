@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-09T18:44:19Z",
-  "total_analisado": 139,
+  "atualizado_em": "2026-11-10T02:03:30Z",
+  "total_analisado": 160,
   "x_recife": [
     {
       "termo": "Globo",
@@ -11,155 +11,155 @@
       "ruido": false
     },
     {
-      "termo": "Ceará",
+      "termo": "#LulaNaCOP31",
       "posicao": 2,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23LulaNaCOP31",
+      "ruido": false
+    },
+    {
+      "termo": "#LaNaMinhaTerra",
+      "posicao": 3,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23LaNaMinhaTerra",
+      "ruido": false
+    },
+    {
+      "termo": "Rony",
+      "posicao": 4,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Cear%C3%A1",
+      "url": "https://x.com/search?q=Rony",
       "ruido": false
     },
     {
       "termo": "James Gunn",
-      "posicao": 3,
+      "posicao": 5,
       "variacao": "=",
       "direcao": "igual",
       "url": "https://x.com/search?q=James%20Gunn",
       "ruido": false
     },
     {
-      "termo": "DC Studios",
-      "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=DC%20Studios",
-      "ruido": false
-    },
-    {
-      "termo": "Jeremy Latcham",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Jeremy%20Latcham",
-      "ruido": false
-    },
-    {
-      "termo": "#FocusOnYourEternity",
+      "termo": "#9ANOSDEJAO",
       "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23FocusOnYourEternity",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%239ANOSDEJAO",
+      "ruido": false
+    },
+    {
+      "termo": "Edinho",
+      "posicao": 7,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Edinho",
       "ruido": false
     },
     {
       "termo": "Superman",
-      "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 8,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Superman",
       "ruido": false
     },
     {
-      "termo": "Man of Tomorrow",
-      "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Man%20of%20Tomorrow",
-      "ruido": false
-    },
-    {
-      "termo": "Maicon",
+      "termo": "ERTHAL PROTAGONISTA",
       "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Maicon",
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=ERTHAL%20PROTAGONISTA",
       "ruido": false
     },
     {
-      "termo": "Nvidia",
+      "termo": "Elisa",
       "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Nvidia",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Elisa",
       "ruido": false
     },
     {
-      "termo": "Lula da Silva",
+      "termo": "Otoniel",
       "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Lula%20da%20Silva",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Otoniel",
       "ruido": false
     },
     {
-      "termo": "#JINBDAY",
+      "termo": "Marvel",
       "posicao": 12,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23JINBDAY",
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Marvel",
       "ruido": false
     },
     {
-      "termo": "#JIN_Birthday",
+      "termo": "Inquérito",
       "posicao": 13,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23JIN_Birthday",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Inqu%C3%A9rito",
       "ruido": false
     },
     {
-      "termo": "HOJEMESMO",
+      "termo": "hayley",
       "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=HOJEMESMO",
-      "ruido": false
-    },
-    {
-      "termo": "STREAM FOR JIN",
-      "posicao": 15,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=STREAM%20FOR%20JIN",
-      "ruido": false
-    },
-    {
-      "termo": "Supergirl",
-      "posicao": 16,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Supergirl",
-      "ruido": false
-    },
-    {
-      "termo": "#JinDay2026",
-      "posicao": 17,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23JinDay2026",
+      "url": "https://x.com/search?q=hayley",
       "ruido": false
     },
     {
-      "termo": "LinkedIn",
+      "termo": "#Engatilhadas",
+      "posicao": 15,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23Engatilhadas",
+      "ruido": false
+    },
+    {
+      "termo": "Batman",
+      "posicao": 16,
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Batman",
+      "ruido": false
+    },
+    {
+      "termo": "Ulisses",
+      "posicao": 17,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Ulisses",
+      "ruido": false
+    },
+    {
+      "termo": "tinder",
       "posicao": 18,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=LinkedIn",
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=tinder",
       "ruido": false
     },
     {
-      "termo": "Croc",
+      "termo": "#iFoodNaKingsLeague",
       "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Croc",
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23iFoodNaKingsLeague",
       "ruido": false
     },
     {
-      "termo": "Snyder",
+      "termo": "Aquino",
       "posicao": 20,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Snyder",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Aquino",
       "ruido": false
     }
   ],
@@ -173,86 +173,86 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Confira ao vivo a reunião plenária desta segunda (9)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVF1SDZqVmgxcENfSXdDNTVJTUI4dm9qWDZNVlBNTG0yTklpWEo3Y25Ua0hkRzhXTWpPN09pbFd6cVhJYy1COENRNEVKcHFLYUI2NzlqNEQyUGctN1E2STg0YXJtZEhqcTdCemJST3JBV21TSzRpOGNwTHQ0WE9sMFhmeG45MEF3TUxzR0xGcXFlNXUt?oc=5"
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Reajustes da Compesa são criticados no Plenário",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeUJEd2hCcTZ4dlluZWVwMHlfRlRTbFNSM2lmb2JZUGsyZGw0WlltUHpJazBicnNSNVhoVkdabWtRTkRNbnJwU2c5eEl2cjVaTG1YLXNPYWpxSm1nd3RQTC1tQzZPQkhTSlBXOVV1MnlTUjlDTEZmZHhPQ3ZPd3pjSDh5RWxqTkliaVZLYzZ5VQ?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Casa Cor: CASACOR Pernambuco 2026: fique por dentro da mostra com o anuário digital",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXNTZW8tYjdjTE1La01RUmRrTGNTR2V1NnM2NXV2RWwxZzVWeXlFMHplM1J6bnJoYUdMU0FBVllMQWlNQTd6d24xZEhRODU0V3ZnV3dUVTJ5ZEZHWjJ0d25FUS1RcTZ5bno4VjdoSzFzZ1Q2TlBtNEtyTTBLMmRsbTViUGVuMUJDNy1FNG4zVk9NMDhLbjNhOA?oc=5"
+      "manchete": "Folha PE: Mercado segurador em Pernambuco cresce 8% no primeiro semestre de 2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFljREFONXdPeDNZbGtOUWxDa1Nuenh5Z0ltWDBWdUp4TkpWLVphcUVXZjA3eHFDVVJYajVJbW1PM0FtZFk1cHBwRGFOb3pwbUs5aHNMeGJpVjBJekRfdkpEVlFhRXRYUWFyWkZhYkF4NzdLQWdsejc3YW1TWVhwM9IBgAFBVV95cUxOdFljREFONXdPeDNZbGtOUWxDa1Nuenh5Z0ltWDBWdUp4TkpWLVphcUVXZjA3eHFDVVJYajVJbW1PM0FtZFk1cHBwRGFOb3pwbUs5aHNMeGJpVjBJekRfdkpEVlFhRXRYUWFyWkZhYkF4NzdLQWdsejc3YW1TWVhwMw?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "OAB-PE: Janielly Nunes é escolhida desembargadora do TJPE pelo Quinto Constitucional - OAB-PE",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjlrSW52a1JmMndoRkFjUTBZRkNVMDNUWUhWd2d6WVRrTzV1cnZKdFZyQU1ZVmM5bnJUbnRwV3JPZkZESU5pbV93dF9mdW92WHVGbGZSdmxJbmhnV2dOWFFmajZrUFR5MzlJbXc2Yk1oYlJwaWcwaFI0M2oxQmNlNlBxanY1bHk2azFFVU9reWN1Q0RjWWotY0diaW9RN1FUeW1GRlJpX1NnRVA1d3RZ?oc=5"
+      "manchete": "Tribunal de Justiça do Estado do Ceará: Cearense é empossada juíza do TJCE após permuta com a Justiça de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEQ5U21QQnhHNzJ1UFBIOEttWThrak9KZGt2SkZ4aEQxTlZZbW5CN2htQWw2ejV4ZkNtYUhmcUMycnlXQ3FXWUNTYWgwcDkxcW9LdkVfZ1MtNGw1bExZeWk3M2NjRGhLVHhaUi1GMW1hM19DVVlLTms4XzhBUHJkTi14M3N4YkEtc3d1MmFyeTBfNmtkb0hqZEk3Vkc0S1FYdkFQazZVaXlWMXZ6VkE?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Governo de Pernambuco alerta para risco de falta de água em Pernambuco com avanço do El Niño",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMXBJT0Q1UFV2dFBnanhaNEFKNkpDLUVNZlZoSmRXWjlHZjdmR3MyQ1hWbm5Hdlo1ZDFqaVlISXJsT3VCR2VCYlhDNGNpckppYnpETWtDTTYyZ3d0U2Y4a1ExeEJuV0ZQMWRBRDZQamUyeUpMaTRLYUxONmVCQjJzYjFhVnFiQW5OOVRWbjFCc1RlWkMxbWRDSm9CcG0teEt3bUR2WkRjMkQ0Y0hsbWxDSXZ3RWN0M0hrZEJVa0QtMGltYzRnRVdXQXdad3FGbEhZOHhtZUdmRGFwNFIzeFRkLUROdy1oVEF0MXFzZmYxTXg2Nl9OdWVzVkQwcS1zLUZOVzB6aDVyU3VRaFRnZEhpWmxYZ2JFdw?oc=5"
+      "manchete": "TJPE: TJPE reúne prefeitos e lança programa para levar o Judiciários aos 184 municípios de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVVpDNjZ2eDhEek5tSHZ1UVI3OXpCeUUtekpZRkxySF8zMDVYdEhQM1M4RUhHenJtTDNpSTM4Rl85YWZ2ZVFDeFEydFFFRlRCX3loZUJ5clhzUVVhMVQxSzB5b0lISlpZNi0wdHlJcmY0QTdRU2dvUGFidG5oZlBqQV9NTHRGYkZ4bTlkQzdKbzBDZXNDY2lZM2hPYjR4VG1JaW9oYWZIbFhDQXhxaDVRcFlWQnZ6S1dyWi1XT2pmd0tCQUJWcnB2aWhyeTNUbkhQNWRHN0hXdkg2a29FUjlUclJaTEFSV1ZMS21n?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Nigeriano é preso em flagrante no Aeroporto do Recife ao tentar viajar para Europa com passaporte falso",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWnpGTzhyNlhadnZuNGF6bkJtbnIzZXJ1amVCTm9HNVhnMWhWMk5xOEZacjhkRG1LZWxzME1mV3NZWFlvb2JqSThOZWJ0bzVOY0JxdGNtUl9wVS1xNV9wY2lTemJjOWkyWjNHUjl0cVl2OW1KQzV6WWRfSkxRbUl2S0FHWFZSOWFVenpFQ193LTFEa2JiTlJnM3pOWlBsWGlnZkU2MzVTNmtka0NmaFQ2SlZmUUxIaTB1azVkXzEtMjhieGt4SGVNZWQxekVmYUxaUWJuVFBPT3A4SXRXVUh5SFBuTXYtWXNYc29sT3pLVlRyVlQ4Ujl4UE1sUW1US2k5OHfSAZACQVVfeXFMTlV4XzNocjY5NUFUWkduS2IwY09LTF8ybGhiaHFURUxiYng0UFFMVmEtMHVxa0czNlphczFtZXFKSDdFYW5QcWh0bDBsRVRobE9aWF92NE9XZlN3d3duUmJONmw5UHEzZHV1YkxPcERYZ0psNUNtSmtLRkFzczEzRnNweWxEOUxwQVVGTWpCSWZOaS1McXhoQWw4ZjN1NHpYdWdRenBsZTh2c191QlI5UmtjUWdITHVQQzg3Z3FmYkZvQ3o5Wm9iMDIteGE4R09BM2dhNDVha1RUWTIyMHBxRHJzZWV0OXhCc0JycWtMVGlCQzdUeV9oQ2dDMFFZaTBNYW1YX1FuTEVGSG42cHU1VlQ?oc=5"
+      "manchete": "G1: Incêndio atinge centro de distribuição da Ambev no Grande Recife; VÍDEO e FOTOS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnhWVVBMRnpXVWJzYXFGcW9DVXVmS2RBU2VIY09QSVY5aVA3Y3E3cHJkaUhJemRmMm9jREZFN1QxTUJIZC1yMjliS0hlUnJmQURnaWxJMUZoM1JMbjNVM3llNlNRbU5vX3hJTlc3TFo2Nm9KWnQ3dXhYa2NOZXNuQVVQZkVxZUNha2NOSkd2QU5EUnl6Vl9LT2Nhdkx0bTgyRmh3QTdLMTRBR2MtSFM3RVkxUU9QNjdJQmk2ZExoZmpfb0hPTXV2RkNR0gHYAUFVX3lxTE1LS2RjdG5EaElIZ2JjRG1wMmZXQU9iamtJdHFjNkJDY1JfUzM1SjZfUVBxWlhvY3lSaFBQa19aeDFkeWd2SkZaU3pjdDZuSHVhLXhPVE12WGJkVDVpLVlFMVplR3FLdmZ0YzZyYzJJcnFuLTM5TE1VSE9ZQVlMU0lsMkVxZThHNlliNnhtRmh2ZzA5ZDBUdjRudVlidDJxYXp2YUlQSHBLOGRBcm5qMW9GY1E0SVh3ZnIweVdsZk5BNmZab3FqdUVVMVQ4cFdQbW5qWEY4QXhFNg?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "GOV.BR: PRF inicia nova etapa para construção da Delegacia da PRF no Recife",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQck9JN3pRUTZlWVZBRU94bUxvODZGWWN4dFVkcEgwMElFS1dmSEI4RTJWUnJ3X1p4TE9LcjhTOVM2emVoYWNLSXVTWWtnVHZRTHBaY0FRQXFwVHJ1N00wZmlncDdSUWx4Zzcyb2l0YmRNRnNiS0lXTDNzWGVWVkxsaTNKVzNDWXpQaEFvUjcxLXRuYTJVV1FYYU01NHVqS2pHV2NQX3hQSzEwOWFhLUkwSXI2TGNSRjdpLVVTSGR5MHR4MUQ5aXJGN3U1RWVKTTVONm5CX1gydw?oc=5"
+      "manchete": "CBN Recife: “Doe um Par, Entre em Campo”: Recife mobiliza população em campanha de solidariedade",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVXNuWUs5cE9fcXlUUTFqSEZnaHpwVkFYTlZUakhWZHdXZEhySnBLakJwb2x5LVBZVElMa2RFcFFJcG1sZ3h6TW8yYWE1NGlrYTBWeTRLNURWV0JPOUkzQ2Z1MlBoUE9LeFV3d1dTS3hCQTNZVTNTWWVRQzM1Q21ySHBxYk41bDNCSmRSSEM3aWJERkJKbmFCS0pkTUpfRzNBSXJPY0hpeXhYbmhCT253UDQ0ZVJialQ2d1o5TWhaVV9kOEg5bHowZ2ZFM1NoUQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: Prefeitura do Recife lança Caderneta Agroecológica nesta terça (10)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmduYjJ6OURiWGM1RDhrUjdSZWVpNlA4OHBTX2gwRVIwNEhKeEtpN0poR1FxR1BTc21ib2RMamt5VGlHdy0ySmNsVWlSZjJGOW5GeC00dTBjb0w1Z1ctWUdHR3Bpbk5BVkZOTWRCMnM2QlJUUm1EdnlHUWdWN3ozazROUDFTNGMzejV1N0FHcndqdUxlMTZIbGJLbnhoV2JtcDEtRS1B?oc=5"
+      "manchete": "Terra: Recife abre consulta pública sobre nova lei para construir, reformar e regularizar imóveis",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaVNvWFNKZm51WUd5MVYtbWQ5eFlJYUdqS3dWZWR0bG5teExGWHUzWHp6WVZMUmVMWnZ4SV9pc1lkZ1YtYVpQbHRIOUl5b0tqdklKZHExRFBSMGZoZEh1bnc3MXQzZnE1ZS0zYVJ4MVR1T3c3OF9vN1JwNHdtT2I4NU0zNnFVREdVT2tqb2dHd2JnWDVWMWtTZmpFcDVoc3dzd0llbzRlYnoyWHFEZU5iYzNjdHNpQmNQd2N1UXNndm02cXlqRmdqQVp5VjkxWW1Yc0UxdmtKTGxid1l5Z0NlRnhYR0xkc1c4YkZ1ZG0waXYzS2tPTlVOVEpGdHFFbVhiU2Y3RE9VLVp0OTY5bW95OHhB?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "TV Guararapes: Recife lança Caderneta Agroecológica nesta terça (10)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVNmNFZKN1BqeHVKTWFOcDFUNkVSSVpXWTczdVdBUkR5cnlVNkNHQkRua3ZaLWVsV0FlbmI1c21BYjlHWkFxVHE4XzJWMUt1Ni16MTB6eGI1SllQVDd5YXBVajR6RTJLT3hBZjRVcEI0WnlQN19LQURDTnRoSHp2d0ZFUnc2NXBtandtbHlhdWZuX2hBb05NVnR3NktZVUxKWTZjYjlIdXljWTJ0OXNF?oc=5"
+      "manchete": "Movimento Econômico: Do Agreste ao shopping, Rota do Mar chega ao Recife com marca esportiva Hausport",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVMtZHo2dkpzNlVJWjZzVzFibW9PckZ3bGRYVTAtWGhvUWxNOW5maUV6c3VCLTUxZHVLQmZHRTVoUGdQRWNWcm9fM1pUM3NnX2U4aml2Q1JRQThNemNPN1RDWE4wQnlEdDM3NUFwai1yVmZwUlltZk5tdk1hbDBMdy1IOUJxc1BkLXRxV1FRZUFkRXVhNkx2bGJCcTZ5d2RJMVRVanAwa2JfTUlzenY0NmNvVmdkam52bV9QLW9OWXIxdHFjV2RQM1JfZm0zTkk?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Gazeta do Povo: Voo direto Curitiba-Recife estreia com ocupação máxima",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CTnJ2ZXFUUm1fSTdrMFp6SFROWHZSa0ZFYkI5V1p3NUtMOXNQV0Jaek0wYVlyaUh5THNYVjdiXzVodEJvQ2FLQlpMcUk4QWItVGdpdmFQTEREQVpCUUdMX294NzhfSHBWNnA0SUc0QTJFRFNOc0t3?oc=5"
+      "manchete": "Folha PE: Bairro do Recife recebe últimos ajustes para o REC'n'Play 2026; veja imagens",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWZnT2FPMERPYVpsZnRzckMwSXAzME15TW8taVc1WkUxWHBpNENxN2NqcVNCQjNNbmF6UHdWVzZxTzUxYnhoN3hUUHU0RnZZdUtqV1RMMFc1UnNRQS1Hend6aUNUN09LV1hWeHNnVTdTc20ySTZKTC1lOXZqMS1zaVJ4TExqV0dRdE80TjVJel81M0lIVEHSAZoBQVVfeXFMTUdPcGFNYlhQSlp0NnhtanB5TkNBTkpncjdKRjRKdnAyaTBGZnc5WnpCOHgxSXNxeU5fZXFoM0FjRHF2VjdFUFZjaElIdVZFWW1QY2kxM0dFMWpzX2RDbTdwS0tSVUp0dUJ2ZGRvdm4zSy12VmNjRGc0S2QtNGV3ZWZRM05WWTU4VHowR0pmemhybW4xRmlPYnRYQQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Movimento Pró-Criança leva espetáculo Transformando Vidas ao Teatro do Parque nesta quarta (11)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUFplQVdsWDJ4dzNSVXpyN0ZzZkpKLUNDM0tFWjBHMHcwTG9DUWtiay1YOHNZNmxPbkhPWVhVdHFIZTh1ZGtScGd4MGM2bk5YZ1ZBWFZFSFNZS3BmNm1uQzBFS1BEMG1sRkxRejNsNTBvamIteEt3Z0dTU2hqbWpYdnFPUWJYaUpfaW95ZDltRGIxVWkyUkxrNkRrTmVFTWV1WGZ3OThXX3IxV0XSAasBQVVfeXFMUFBaZUFXbFgyeHczUlV6cjdGc2ZKSi1DQzNLRVowRzB3MExvQ1FrYmstWDhzWTZsT25IT1lYVXRxSGU4dWRrUnBneDBjNm5OWGdWQVhWRUhTWUtwZjZtbkMwRUtQRDBtbEZMUXozbDUwb2piLXhLd2dHU1Noam1qWHZxT1FiWGlKX2lveWQ5bURiMVVpMlJMazZEa05lRU1ldVhmdzk4V19yMVdF?oc=5"
+      "manchete": "Rádio Cidade 99.7 FM: Passageira é assassinada dentro de carro por aplicativo na Região Metropolitana do Recife",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeU5sdEVVa294MC1ZUHBnN24yaUdqZy1VUzNlbERwejRPWDJFXy04XzFfN1FiZ2Jaa2JEcm5yaVFXay1pSFYtd0twODRfQkVuUEdhNHFLdkR3RHVSUTByUURHd2l3bGFWSzZncEpHYzZXbDRSVEJmRkxLN2RiZVJQdG5lMkV3eGRDMzM1R3ZiOHB3X21CdWl5SjVmNjlBcVdJTjBySUFKbEVSTzQtMDdKVXladnhJQQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "FalaPE: Diego Cabral destaca investimentos em Camaragibe e defende criação de consórcio metropolitano",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3B0OEpCUjk2MUVDT0FMaEFKSTd6SVg0blBOMzEtbVNFVUdIbW5QTjBnOUt2OFJOd2R6MFVBbHFjQTdTV0t3V2ZGQjcyLWZaRTBrR1dWNEU0by0xNzlfdkJWOW9XZXZPMTlEVVVDc2xzbUVfTnhNS2xvcUs5Zkx4QnQzSG5aWVhDTFlHQVYtR1dESVp2QlZWZzBEdDBLc3NILU51aVFVU3FjUW5xNkdkT0dZcw?oc=5"
+      "manchete": "Diario de Pernambuco: Banhistas tomam 'banho de choque' na praia de Brasília Teimosa e viralizam nas redes",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaGFxYlc2SmctMkliVURpQlFNOXY1VmpFS09yMkZYcHNaWmNvXzBhZEtZTjNTWHhSY002S19tREJjb1NVT09RTE0wUGxUeExlZXgxS1dBSnFVbERlZVdnY1FrRDNjZjh4ZXBDempxdXE4QTViclJaWm1uNWNXNDhwMzlLWVk1YWRvbWpVOW9jWXJ4dTRXd19JT0toemlrTGc0ODBfQld6RVdCZmlCOUNvQU9GdXFSRVdka3l0ekhHTF9OU0UyOTI5RW1Sd2VFOUJVQ3VhaVBleGgxSmt6SW9LWndOQlFqaUJQaVE?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "al1.com.br: Escritores negros pernambucanos ganham espaço em circuito de leitura no Recife",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlkyUE1jOV9lcVpFNkhMa1hQTHRTUW1jUDV6NXdBV0U1RGZTSEpCTTI1cGdZZFh0Z3ZKaWRsTGI4eDdJSkx5YjRoS00xRGdMR3NpSFo0T0M4eGt6bVVlVk05bWZLOFNCdTBfemUwMlNKSE5xblo4T3AxOW1lSmdWRDlVVllKSnNfOVpRU1Z3WXdkZjFZYkd4RVVncmhWakl1NHdMVXVoSG9lNW9DSDMtYldrclVZY2xQRjVDLU5Obw?oc=5"
+      "manchete": "Folha PE: Cesta básica sobe em outubro e registra variações de preço de mais de 200% na RMR, aponta Procon-PE",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Rl9IQ0FxNV9iVUo4UHlMTmRyUms1eUFKamtTZUNFcEtYdWxVa2VNQXVISy15d1VYUGY3ZmlJVGMzZkZ1TWU4a3M5cGhfd3ZGMnktRVJfUThRN01BNnd0MS1wLW9pNE9odjMzZUoxbHQwbW9zWFQ0OHAtT3JxRmvSAX9BVV95cUxQdUZfSENBcTVfYlVKOFB5TE5kclJrNXlBSmprU2VDRXBLWHVsVWtlTUF1SEsteXdVWFBmN2ZpSVRjM2ZGdU1lOGtzOXBoX3d2RjJ5LUVSX1E4UTdNQTZ3dDEtcC1vaTRPaHYzM2VKMWx0MG1vc1hUNDhwLU9ycUZr?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "JC: Oitavas de final do Pernambucano 2026/27: veja confrontos, datas, horários e locais dos jogos",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQanZqTlNHU0VUZ2NaenoteWxUUDh3SXR1MklreFNDNjVtcFFSRERDYU9FZnB6Z3BLTEtNYnVYTGJXLXlHdGc4eUhBd2Y5WVE0Zl9WLWo0dmZ4dVh4VGNTVXY1T3RmUGV4dUFPM1V6WVBoaFQwd2xiR2hEV1BCRjRnYjhmVWJTcVZWaVpXakMxWkppWDZ3VFRtb1dYWTE2T1lTUzdjMGFRb0JBaFE1U2ZpWGpfR0w3N0lncGVzTDNPTTZPVXFOVEpFUzA5c0VGTVZvUTRObUZlUWdOQzdyUUM0Q1RwY1VrR2ZP?oc=5"
+      "manchete": "CBN Recife: Incêndio atinge centro de distribuição da Ambev no Cabo de Santo Agostinho, no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGJrZnZDT0tyR1dZdFZ1MktpQ3NmTThkcUMwZmd5enJnNmRiazVSbElUYWFWQ0l5dVFheGU0NzVSY1BCR216OG5ReVA5b2w5UXNaSWhZT0NNRnpfT3E0dl9laVlLU1FjbVlRbEd5SGhKclZxSmpNdThIdzA0R3hxQ2MyaEhwRFMzaE54OXZIZTUzb1h5aExJU0l3MWY2WjdESHR1Wnh5ZXJ4ZER1WG1kdXU1cWd6ejBHOXZQSjRDUjU3Z0VDMWNpVQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "PE Notícias: Fortaleza terá Tarifa Zero nos fins de semana em 2027, enquanto Grande Recife sequer discute o assunto",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdUxJYXNsTlAwRWVSTHVXcmNsZG5JSjYzbU9MNVAydU5UZEdjc1RlbTlSeW5RMFV2SWk1eHlEdDBOMWFjNnNaR0dYaWZPazd3aVNHZzhqUldvMXZJSTB4Wk1qcHlnSjBPdWs2YkVpNEMyRV9Ma1RRdWZRRjVRbDBzREdkbkM1RW84bWlBYVQtMjNUaThicXRUaGQ2bktWRlF5ajRPNHNWeVlJa0JIQ3dpaVI0RkJJd25JRGRYMjhaV1EzcXQwR0pxalRTc0Qxdw?oc=5"
+      "manchete": "Terra: Incêndio atinge centro de distribuição da Ambev, no Cabo de Santo Agostinho",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOLUpGZDhEY3dab0ZBU1BSbjBFbmRiUXgtT2FobkFjNXJnZ2tZMjU2aFpLUm1HX0o3MnJzV1MzSkFfbzVpQ2RBMDlzNzBKd0E5MG1iZzdERHNuWFgzM29XQkhaWFhRd0gzdGZJeWhfMXVSQWhBM0RQLWUxUGpiR0prenc5TGRadXNkQUpSUGRZTHNrazJQRE8xQ0I0U3MteHAxcDJ0c1h0TFNKWEhVTVYzX3ZSQno1QmdQcFRhdUEtTnZLYW1ya25JSTdnRDlCQkFCZzZzYlFiQi04Z2RmbWF2bkozVnJ0bXI3ei1WQVJ6UUVrUWwybkhFaWVXRW84UQ?oc=5"
     },
     {
       "termo": "Alepe",
@@ -263,14 +263,14 @@
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Jornada Antirracista da Alepe traz promotora cotada para ser primeira ministra negra no STF",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOUFaTENCbU5kZmxGby1BTmZDdU1ibXE1TVlFQTZWWDFMYVFSZnI1SVNFeWdXUkFtMzNzREhKalh5aUE3V09xOXFkVGZ5N3dULTZ5MENxVXdKNG4xS3RnTl8xa0dFenRMTkJyb1FlZlc1UUdwMmVZaEN1OHhMZTNkR0F0a3VxS0ZXcjJUeXQ4b1RsV29WTTFZN3RRak5kLXZ0X2Z5SW1QclpXXzIxVGttWFYxYXBoYWp0aDh1NXpmWUs0empxMXJDblRGZzlER3U5Z1cycDdWcFZGMUpLNE1raHJn?oc=5"
+      "manchete": "Diario de Pernambuco: Jornada Antirracista da Alepe traz promotora cotada como primeira ministra negra no STF",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdEN6cDU3alVnWTlCeE9EYzFiZWhSaG9Zd19RcGt1bEZyc25obFBlaTJWdHJsZzJyMzN5TXpLbDhEZGw4aGFMOTM3QXR6bUQtQVEzQzNEMTV2Q0NMMTBEQUFJNFl3aWFGQjlZWGZPMjhaMWdmQzRpZnh2ckJGRDJQVTNDWEs4VnY0TkFKNXZQTU90bE1EWWV1MWVZWnJaOC1xLVZlQUhWUG9IRWlPZnZLelJhTlNSNXJ5WjZ6UGF5R1kwMlFkZy1hZW9wc0FCRFpmUngwSWV5c3lOZlhQTjV3YUhRNzhXWkFOT19uWA?oc=5"
     },
     {
-      "termo": "Alepe",
+      "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: Jornada Antirracista da Alepe recebe promotora cotada para ocupar vaga no STF",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1lNVEs3Mm5PbWIzalgtQ2ZvRGt1UXFMU1lHcFJlbmN5YURkYWNHUE9JN2NYVUNkRF9BMG1uRDNsQUNhZFAwOUxXSVZFbFFWRWJMcVJUWUc1ek5zTUhnOEtDWEhYYUFacWg2OUwwQlZjVmlFYXBlNDhvdWY3amFOTE01WDJYQ0pISUllWkFLSG5KaGZveG1OSWg1YlA2Ul94QTljTGdwZVpHanE4UEhndGp0S0FYUQ?oc=5"
+      "manchete": "Terra: Governo de Pernambuco alerta para risco de falta de água em Pernambuco com avanço do El Niño",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMXBJT0Q1UFV2dFBnanhaNEFKNkpDLUVNZlZoSmRXWjlHZjdmR3MyQ1hWbm5Hdlo1ZDFqaVlISXJsT3VCR2VCYlhDNGNpckppYnpETWtDTTYyZ3d0U2Y4a1ExeEJuV0ZQMWRBRDZQamUyeUpMaTRLYUxONmVCQjJzYjFhVnFiQW5OOVRWbjFCc1RlWkMxbWRDSm9CcG0teEt3bUR2WkRjMkQ0Y0hsbWxDSXZ3RWN0M0hrZEJVa0QtMGltYzRnRVdXQXdad3FGbEhZOHhtZUdmRGFwNFIzeFRkLUROdy1oVEF0MXFzZmYxTXg2Nl9OdWVzVkQwcS1zLUZOVzB6aDVyU3VRaFRnZEhpWmxYZ2JFdw?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -281,38 +281,62 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "Blog Edmar Lyra: Em encontro com servidores, governadora Raquel Lyra destaca resultados da gestão e agradece ao funcionalismo público",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWXN0QWVhVGZvRU9ZUFVObXdUbGpxVEo2Y3o4SndBZGozRjJkU3p4c0d3U1hHby12enZkWVhIdzVzeElrdTRYb2ZybXhLRHpIeGl4VWRsSjFNZk1wUEt2ZFdtRk1qWWZkbzZWZjd0WWwweTZRQTd0c0Fwd2dhaGdISEVOc0pMWDEtWWF1NFdrNE14b0lOTlZpZmEyRnZBaU1WdHJVYzRjajBGTk85ZXpLVDVXMEFxaVdmd2ZMYndsWEVheEpiZnVyVE5NSXlxLWU2WG45MTkzZzdYUQ?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Blog do Mário Flávio: Raquel Lyra reúne servidores e destaca ações de valorização do funcionalismo em Pernambuco",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2xEQjhDbjRJcWJrYkVzOTU0SkdYbjJ3d2h5a3ZndGh0TVhIVWpTSGZfQWk1TWhZN3ctcVhNbHd6Yk9WUmhkemhaS0pDVGdfdk8wM283cV85QWhqVC1RNlRhWGtYcFR3eGdWNXo1RXR0VzhFSE9NM2t5R240ZjFNTFdORG1NWEdnSEVYNlQ0cmlCSERGanpyZlRkcDNYbUdPTG9NbjFzcVJydjVxb01od2c3NGN1dm05eVF5SUtOVlpQQQ?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "TV Nova Nordeste: Cortejo com manifestações da cultura popular de Pernambuco na programação do REC’n’Play 2026",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVnIycjB6a3BoUHZtdEk5NENvVnVmUEpXeTVzaUVvWnRCejhCZ083U2dZZk5GX3pkVWtOSTRVY1VONTZhdnMxbjl5ZzRyTHRlSDhwd09RcVJEWWV5c3pUeXU4MngwUGNGbHZXZXprT2hwVDZ3NUdQLW8yMVJMLTlpbUhYZnZXWTV0c1dibHBEZW9CN2pzTlFWd1pvcmtPaEZGOS1OVmFfdDZBUWNDcUVDVS0tbklDY08xVVpKSlVuLWxiNlEzdVE?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Info Newss: Em encontro com servidores, governadora Raquel Lyra destaca resultados da gestão em Pernambuco e agradece ao funcionalismo público",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc0p2NXlITXIzb3pZaUJ5ZnFDZWphRFZ2aDNLNDZsYXRyRFZEeF9IZ05WeUJ2ZlVBQkpYazYzWmk1S1ZMSXV2d3g5WnRNSHpCOFFiZ19Mei1acEJaUElSNjBQMjdLZ3dTMlFSNzRnYkVEU29INFRfbDRMQ1BRRHE1dWI3bHFBRWhSMWE0NHkzTkFqMTM0NkhZNnpORk5uR1lORl9aQ2JwNnZPakdnRHF1YkdPZ3A2UEllakF4UUFrbWNOZF9ZajZSSzdHc1RBaUFFQWR1cGJpT2F5VE9rMmN5R1Z2LW9SZGs?oc=5"
+      "manchete": "Márcio Didier: Raquel agradece a servidores e destaca nomeações e reajustes de categorias",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Hak1YdVNOWUVvMjBfUVdhNWNYUUc2MkVzSXI2b0VpR0JqU3Y4WEV2dGphQ3FqZ2NPeUNhc0R2WXJNU1h1RG0zWUhvTXZUSjE4aDZTb0ppM3VTX0QwWFpuS0wyX0QyWWU1NUlHZ3hpSE5OOERsZkliTHNGZFgydDA?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "disputa pela",
-      "razao_aumento": 125.0,
+      "termo": "manifestações tradicionais",
+      "razao_aumento": 90.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Roberto Gonçalves",
-        "hora": "2026-11-09T08:03:38Z",
-        "titulo": "Direita dividida na disputa pela Prefeitura do Recife em 2028",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmtzT2lqYmZubGhCNERWVURoX05RQUItT0VrdXlEbWUyYnY0NHZxREt6NmlSZ3Nwbmk4TzQ5MTBIUFhubm53Qjd6eHNiSHNZT2Y2XzdnZmx1VU9wcmJ6T2VNR2FYQ0ZXdU5USDUyRWh4R0doWGNvUU5JM1BpcDJrQzhCMlBLRjFISkx2RU43Yk1FdXBNLVYzSWRUMlo2anF2OEFiTzBCYw?oc=5",
+        "fonte": "Blog do Mário Flávio",
+        "hora": "2026-11-09T12:52:56Z",
+        "titulo": "Governo de Pernambuco lança edital de R$ 2 milhões para premiar 100 grupos e manifestações tradicionais do Carnaval",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVhyRE5yamRka05NLU9UV2JJZk15TjZEUDFmS3BzOUJzVndIb0VPYzNlS2toUzVLd29kUURZamxhRUc3NWNIZXpOOHhFY0RteW1DcG1hekhLNF9pLW9MMUR6ZzJfWHdEdy1IemVtTm9yalBXclBFaERYOWpESVdLeWpkQ0hZU19TTXVsZUMxZEE5ZzJnU0xjX2ZxYXZYYVpOMEZuXzdMdWVfbmdhRzFCMjg2b3dHZWhrRkN5ZUp1cENHcC1GSUNzYzBhcWEtdm55RmpVeERnNlUyQlVXRC1rY3F3?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Janielly",
+      "razao_aumento": 80.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-11-09T15:09:20Z",
+        "titulo": "Raquel escolhe advogada Janielly Nunes para vaga de desembargadora no TJPE",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclNxclZLQkI2Tm9uV0VBeU5FdGRUdDc3WXpYVzhvTEdPVVB2QlRRS1AyaUMyWDdHLUhRWlJKU3hjbVlreGszRmc3NGRSVHR5SmFqYWlQeVdNSE9JUXQ5R2J5ZGhHUkFwVHlyMEF4Vi0wTm9kWGl1b3NPd2F6Z25RQVFkXzJJX0JGWG1udjlWLTZVT2p3V05IQXpyRXJEX0hrMTFyLQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Janielly Nunes",
+      "razao_aumento": 80.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Ricardo Antunes",
+        "hora": "2026-11-09T15:09:20Z",
+        "titulo": "Raquel escolhe advogada Janielly Nunes para vaga de desembargadora no TJPE",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclNxclZLQkI2Tm9uV0VBeU5FdGRUdDc3WXpYVzhvTEdPVVB2QlRRS1AyaUMyWDdHLUhRWlJKU3hjbVlreGszRmc3NGRSVHR5SmFqYWlQeVdNSE9JUXQ5R2J5ZGhHUkFwVHlyMEF4Vi0wTm9kWGl1b3NPd2F6Z25RQVFkXzJJX0JGWG1udjlWLTZVT2p3V05IQXpyRXJEX0hrMTFyLQ?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "TJPE",
-      "razao_aumento": 97.6,
+      "razao_aumento": 75.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Jamildo",
@@ -323,74 +347,50 @@
       }
     },
     {
-      "termo": "Janielly",
-      "razao_aumento": 83.3,
+      "termo": "desembargadora do TJPE",
+      "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Ricardo Antunes",
-        "hora": "2026-11-09T15:09:20Z",
-        "titulo": "Raquel escolhe advogada Janielly Nunes para vaga de desembargadora no TJPE",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclNxclZLQkI2Tm9uV0VBeU5FdGRUdDc3WXpYVzhvTEdPVVB2QlRRS1AyaUMyWDdHLUhRWlJKU3hjbVlreGszRmc3NGRSVHR5SmFqYWlQeVdNSE9JUXQ5R2J5ZGhHUkFwVHlyMEF4Vi0wTm9kWGl1b3NPd2F6Z25RQVFkXzJJX0JGWG1udjlWLTZVT2p3V05IQXpyRXJEX0hrMTFyLQ?oc=5",
+        "fonte": "Jamildo",
+        "hora": "2026-11-09T15:24:06Z",
+        "titulo": "Raquel escolhe Janielly Nunes como nova desembargadora do TJPE",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXc5YVJUdGFoYVhXM0hxNklObWJZSXN5cE93WHNwZk1RNFBTMDRnTHY4RFZwc0lyZGlRWXZJTGpveE94U2RBWnFobGtKZnVrbEhMdWFmWkZ2TzZBd0h4UkVOcHhoTW1QM3ZySjJlX2pETE9JM1VPdll6MnNoVnNQMEhubXpjYy1iQnNfR3VCLVpHbm01dTkyNVFvb3FXT3RM0gGgAUFVX3lxTFBFdzlhUlR0YWhhWFczSHE2SU5tYllJc3lwT3dYc3BmTVE0UFMwNGdMdjhEVnBzSXJkaVFZdklMam94T3hTZEFacWhsa0pmdWtsSEx1YWZaRnZPNkF3SHhSRU5weGhNbVAzdnJKMmVfakRMT0kzVU92WXoyc2hWc1AwSG5temNjLWJCc19HdUItWkdubTV1OTI1UW9vcVdPdEw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Janielly Nunes",
-      "razao_aumento": 83.3,
+      "termo": "Jornada",
+      "razao_aumento": 52.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog do Ricardo Antunes",
-        "hora": "2026-11-09T15:09:20Z",
-        "titulo": "Raquel escolhe advogada Janielly Nunes para vaga de desembargadora no TJPE",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclNxclZLQkI2Tm9uV0VBeU5FdGRUdDc3WXpYVzhvTEdPVVB2QlRRS1AyaUMyWDdHLUhRWlJKU3hjbVlreGszRmc3NGRSVHR5SmFqYWlQeVdNSE9JUXQ5R2J5ZGhHUkFwVHlyMEF4Vi0wTm9kWGl1b3NPd2F6Z25RQVFkXzJJX0JGWG1udjlWLTZVT2p3V05IQXpyRXJEX0hrMTFyLQ?oc=5",
+        "fonte": "Blog Cenário",
+        "hora": "2026-11-09T13:15:00Z",
+        "titulo": "Jornada Antirracista da Alepe recebe promotora cotada para ocupar vaga no STF",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1lNVEs3Mm5PbWIzalgtQ2ZvRGt1UXFMU1lHcFJlbmN5YURkYWNHUE9JN2NYVUNkRF9BMG1uRDNsQUNhZFAwOUxXSVZFbFFWRWJMcVJUWUc1ek5zTUhnOEtDWEhYYUFacWg2OUwwQlZjVmlFYXBlNDhvdWY3amFOTE01WDJYQ0pISUllWkFLSG5KaGZveG1OSWg1YlA2Ul94QTljTGdwZVpHanE4UEhndGp0S0FYUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Ação",
-      "razao_aumento": 83.3,
+      "termo": "Antirracista",
+      "razao_aumento": 52.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-09T09:28:42Z",
-        "titulo": "Terezinha Nunes: Ação de Raquel sobre o PL tem a ver com disputa pela mesa da Alepe e pode ser estendida",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblQwNmxJS01vU0ZPOWZ6QUcySkdNUWIxc2JYZEVScGxQa1lJQjVVamJqdTJhUHozTUJmbldZR0VjeXlLUXc2YUpxRmZ4c2pxaDA4dU9fTWFuUEJ1SVF2QWJQMWxYX3hXQ0k0bTkyeUhqeTJKTUo3YlRWVHd1VWpubWdiZFFVZ1o2dWszQWVncWRKU1oxbmZxb2ZSMHhJZUducnA4dnB3bk9IUkd3RHl4a2hzTmtHSTJCSVVHUy1jUjktWWZRdDktU3pWMGVUdzBZanFsa3Zrc3pLU0pOSDFPcmRBX01nMTAtUXREcjE2SHJlZnM?oc=5",
+        "fonte": "Blog Cenário",
+        "hora": "2026-11-09T13:15:00Z",
+        "titulo": "Jornada Antirracista da Alepe recebe promotora cotada para ocupar vaga no STF",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1lNVEs3Mm5PbWIzalgtQ2ZvRGt1UXFMU1lHcFJlbmN5YURkYWNHUE9JN2NYVUNkRF9BMG1uRDNsQUNhZFAwOUxXSVZFbFFWRWJMcVJUWUc1ek5zTUhnOEtDWEhYYUFacWg2OUwwQlZjVmlFYXBlNDhvdWY3amFOTE01WDJYQ0pISUllWkFLSG5KaGZveG1OSWg1YlA2Ul94QTljTGdwZVpHanE4UEhndGp0S0FYUQ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "pela Mesa",
-      "razao_aumento": 83.3,
+      "termo": "Jornada Antirracista",
+      "razao_aumento": 52.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-09T09:28:42Z",
-        "titulo": "Terezinha Nunes: Ação de Raquel sobre o PL tem a ver com disputa pela mesa da Alepe e pode ser estendida",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblQwNmxJS01vU0ZPOWZ6QUcySkdNUWIxc2JYZEVScGxQa1lJQjVVamJqdTJhUHozTUJmbldZR0VjeXlLUXc2YUpxRmZ4c2pxaDA4dU9fTWFuUEJ1SVF2QWJQMWxYX3hXQ0k0bTkyeUhqeTJKTUo3YlRWVHd1VWpubWdiZFFVZ1o2dWszQWVncWRKU1oxbmZxb2ZSMHhJZUducnA4dnB3bk9IUkd3RHl4a2hzTmtHSTJCSVVHUy1jUjktWWZRdDktU3pWMGVUdzBZanFsa3Zrc3pLU0pOSDFPcmRBX01nMTAtUXREcjE2SHJlZnM?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Ação de Raquel",
-      "razao_aumento": 83.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-09T09:28:42Z",
-        "titulo": "Terezinha Nunes: Ação de Raquel sobre o PL tem a ver com disputa pela mesa da Alepe e pode ser estendida",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblQwNmxJS01vU0ZPOWZ6QUcySkdNUWIxc2JYZEVScGxQa1lJQjVVamJqdTJhUHozTUJmbldZR0VjeXlLUXc2YUpxRmZ4c2pxaDA4dU9fTWFuUEJ1SVF2QWJQMWxYX3hXQ0k0bTkyeUhqeTJKTUo3YlRWVHd1VWpubWdiZFFVZ1o2dWszQWVncWRKU1oxbmZxb2ZSMHhJZUducnA4dnB3bk9IUkd3RHl4a2hzTmtHSTJCSVVHUy1jUjktWWZRdDktU3pWMGVUdzBZanFsa3Zrc3pLU0pOSDFPcmRBX01nMTAtUXREcjE2SHJlZnM?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "disputa pela Mesa",
-      "razao_aumento": 83.3,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-09T09:28:42Z",
-        "titulo": "Terezinha Nunes: Ação de Raquel sobre o PL tem a ver com disputa pela mesa da Alepe e pode ser estendida",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblQwNmxJS01vU0ZPOWZ6QUcySkdNUWIxc2JYZEVScGxQa1lJQjVVamJqdTJhUHozTUJmbldZR0VjeXlLUXc2YUpxRmZ4c2pxaDA4dU9fTWFuUEJ1SVF2QWJQMWxYX3hXQ0k0bTkyeUhqeTJKTUo3YlRWVHd1VWpubWdiZFFVZ1o2dWszQWVncWRKU1oxbmZxb2ZSMHhJZUducnA4dnB3bk9IUkd3RHl4a2hzTmtHSTJCSVVHUy1jUjktWWZRdDktU3pWMGVUdzBZanFsa3Zrc3pLU0pOSDFPcmRBX01nMTAtUXREcjE2SHJlZnM?oc=5",
+        "fonte": "Blog Cenário",
+        "hora": "2026-11-09T13:15:00Z",
+        "titulo": "Jornada Antirracista da Alepe recebe promotora cotada para ocupar vaga no STF",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1lNVEs3Mm5PbWIzalgtQ2ZvRGt1UXFMU1lHcFJlbmN5YURkYWNHUE9JN2NYVUNkRF9BMG1uRDNsQUNhZFAwOUxXSVZFbFFWRWJMcVJUWUc1ek5zTUhnOEtDWEhYYUFacWg2OUwwQlZjVmlFYXBlNDhvdWY3amFOTE01WDJYQ0pISUllWkFLSG5KaGZveG1OSWg1YlA2Ul94QTljTGdwZVpHanE4UEhndGp0S0FYUQ?oc=5",
         "peso": 1.0
       }
     }
@@ -399,272 +399,272 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 15.93,
-      "fontes_distintas": 17
-    },
-    {
-      "termo": "Flávio",
-      "peso_relativo": 96.6,
-      "fatia_pct": 15.38,
-      "fontes_distintas": 17
-    },
-    {
-      "termo": "Bolsonaro",
-      "peso_relativo": 93.1,
-      "fatia_pct": 14.84,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 72.4,
-      "fatia_pct": 11.54,
-      "fontes_distintas": 16
+      "fatia_pct": 16.68,
+      "fontes_distintas": 20
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 69.0,
-      "fatia_pct": 10.99,
-      "fontes_distintas": 14
+      "peso_relativo": 83.1,
+      "fatia_pct": 13.86,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Bolsonaro",
+      "peso_relativo": 83.1,
+      "fatia_pct": 13.86,
+      "fontes_distintas": 16
+    },
+    {
+      "termo": "Flávio",
+      "peso_relativo": 80.1,
+      "fatia_pct": 13.37,
+      "fontes_distintas": 16
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 51.7,
-      "fatia_pct": 8.24,
-      "fontes_distintas": 11
+      "peso_relativo": 62.3,
+      "fatia_pct": 10.4,
+      "fontes_distintas": 15
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 51.7,
-      "fatia_pct": 8.24,
-      "fontes_distintas": 11
+      "peso_relativo": 62.3,
+      "fatia_pct": 10.4,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 62.3,
+      "fatia_pct": 10.4,
+      "fontes_distintas": 14
     },
     {
       "termo": "Nunes",
-      "peso_relativo": 34.5,
-      "fatia_pct": 5.49,
-      "fontes_distintas": 10
+      "peso_relativo": 38.6,
+      "fatia_pct": 6.44,
+      "fontes_distintas": 13
     },
     {
       "termo": "TJPE",
-      "peso_relativo": 31.0,
-      "fatia_pct": 4.95,
-      "fontes_distintas": 7
+      "peso_relativo": 38.6,
+      "fatia_pct": 6.44,
+      "fontes_distintas": 10
     },
     {
       "termo": "Alepe",
-      "peso_relativo": 31.0,
+      "peso_relativo": 29.7,
       "fatia_pct": 4.95,
       "fontes_distintas": 9
     },
     {
-      "termo": "Globo",
-      "peso_relativo": 24.1,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 2
+      "termo": "COP31",
+      "peso_relativo": 25.8,
+      "fatia_pct": 4.31,
+      "fontes_distintas": 4
     },
     {
       "termo": "Janielly",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.3,
-      "fontes_distintas": 6
+      "peso_relativo": 23.7,
+      "fatia_pct": 3.96,
+      "fontes_distintas": 8
     },
     {
       "termo": "Janielly Nunes",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.3,
+      "peso_relativo": 23.7,
+      "fatia_pct": 3.96,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "desembargadora do TJPE",
+      "peso_relativo": 23.7,
+      "fatia_pct": 3.96,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "governo Lula",
+      "peso_relativo": 20.8,
+      "fatia_pct": 3.47,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Campos",
+      "peso_relativo": 17.8,
+      "fatia_pct": 2.97,
       "fontes_distintas": 6
     },
     {
-      "termo": "Quaest",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.3,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Ceará",
-      "peso_relativo": 19.7,
-      "fatia_pct": 3.13,
+      "termo": "Globo",
+      "peso_relativo": 17.8,
+      "fatia_pct": 2.97,
       "fontes_distintas": 1
     },
     {
+      "termo": "Lula Na COP31",
+      "peso_relativo": 16.9,
+      "fatia_pct": 2.82,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Terra",
+      "peso_relativo": 16.0,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Elisa",
+      "peso_relativo": 15.7,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Rony",
+      "peso_relativo": 15.1,
+      "fatia_pct": 2.52,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 14.8,
+      "fatia_pct": 2.48,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "João Campos",
+      "peso_relativo": 14.8,
+      "fatia_pct": 2.48,
+      "fontes_distintas": 5
+    },
+    {
       "termo": "James",
-      "peso_relativo": 18.6,
-      "fatia_pct": 2.97,
+      "peso_relativo": 14.2,
+      "fatia_pct": 2.38,
       "fontes_distintas": 1
     },
     {
       "termo": "Gunn",
-      "peso_relativo": 18.6,
-      "fatia_pct": 2.97,
+      "peso_relativo": 14.2,
+      "fatia_pct": 2.38,
       "fontes_distintas": 1
     },
     {
       "termo": "James Gunn",
-      "peso_relativo": 18.6,
-      "fatia_pct": 2.97,
+      "peso_relativo": 14.2,
+      "fatia_pct": 2.38,
       "fontes_distintas": 1
     },
     {
-      "termo": "Studios",
-      "peso_relativo": 17.6,
-      "fatia_pct": 2.8,
+      "termo": "Edinho",
+      "peso_relativo": 12.5,
+      "fatia_pct": 2.08,
       "fontes_distintas": 1
-    },
-    {
-      "termo": "DC Studios",
-      "peso_relativo": 17.6,
-      "fatia_pct": 2.8,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "desembargadora do TJPE",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 5
     },
     {
       "termo": "PL",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.75,
-      "fontes_distintas": 5
+      "peso_relativo": 11.9,
+      "fatia_pct": 1.98,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Jeremy",
-      "peso_relativo": 16.6,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
+      "termo": "nesta terça",
+      "peso_relativo": 11.9,
+      "fatia_pct": 1.98,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Latcham",
-      "peso_relativo": 16.6,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Jeremy Latcham",
-      "peso_relativo": 16.6,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Focus",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Your",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Eternity",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Focus On",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "On Your",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Your Eternity",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Focus On Your",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "On Your Eternity",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Superman",
-      "peso_relativo": 14.5,
-      "fatia_pct": 2.31,
-      "fontes_distintas": 1
+      "termo": "Ação",
+      "peso_relativo": 11.9,
+      "fatia_pct": 1.98,
+      "fontes_distintas": 4
     },
     {
       "termo": "disputa pela",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.2,
+      "peso_relativo": 11.9,
+      "fatia_pct": 1.98,
       "fontes_distintas": 4
     },
     {
       "termo": "Marques",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.2,
+      "peso_relativo": 11.9,
+      "fatia_pct": 1.98,
       "fontes_distintas": 4
     },
     {
-      "termo": "STF",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Jornada",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Antirracista",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.2,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Jornada Antirracista",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.2,
+      "termo": "Recife lança",
+      "peso_relativo": 11.9,
+      "fatia_pct": 1.98,
       "fontes_distintas": 4
     },
     {
       "termo": "manifestações tradicionais",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.2,
+      "peso_relativo": 11.9,
+      "fatia_pct": 1.98,
       "fontes_distintas": 4
     },
     {
-      "termo": "Tomorrow",
-      "peso_relativo": 13.4,
-      "fatia_pct": 2.14,
+      "termo": "Superman",
+      "peso_relativo": 11.6,
+      "fatia_pct": 1.93,
       "fontes_distintas": 1
     },
     {
-      "termo": "Man of",
-      "peso_relativo": 13.4,
-      "fatia_pct": 2.14,
+      "termo": "ERTHAL",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.78,
       "fontes_distintas": 1
     },
     {
-      "termo": "of Tomorrow",
-      "peso_relativo": 13.4,
-      "fatia_pct": 2.14,
+      "termo": "PROTAGONISTA",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.78,
       "fontes_distintas": 1
     },
     {
-      "termo": "Man of Tomorrow",
-      "peso_relativo": 13.4,
-      "fatia_pct": 2.14,
+      "termo": "ERTHAL PROTAGONISTA",
+      "peso_relativo": 10.7,
+      "fatia_pct": 1.78,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "Lyra destaca",
+      "peso_relativo": 8.9,
+      "fatia_pct": 1.49,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Raquel Lyra destaca",
+      "peso_relativo": 8.9,
+      "fatia_pct": 1.49,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Lyra escolhe",
+      "peso_relativo": 8.9,
+      "fatia_pct": 1.49,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Raquel Lyra escolhe",
+      "peso_relativo": 8.9,
+      "fatia_pct": 1.49,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Mesa",
+      "peso_relativo": 8.9,
+      "fatia_pct": 1.49,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "pela Mesa",
+      "peso_relativo": 8.9,
+      "fatia_pct": 1.49,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Ação de Raquel",
+      "peso_relativo": 8.9,
+      "fatia_pct": 1.49,
+      "fontes_distintas": 3
     }
   ]
 }
