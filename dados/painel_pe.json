@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-13T03:24:03Z",
-  "total_analisado": 154,
+  "atualizado_em": "2026-11-13T11:33:23Z",
+  "total_analisado": 165,
   "x_recife": [
     {
       "termo": "#LatinGRAMMY",
@@ -11,53 +11,159 @@
       "ruido": false
     },
     {
-      "termo": "#EliminaçãoAFazenda",
+      "termo": "#loungedasblogueiras",
       "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
-      "ruido": false
-    },
-    {
-      "termo": "Anitta",
-      "posicao": 3,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Anitta",
-      "ruido": true
-    },
-    {
-      "termo": "#loungedasblogueiras",
-      "posicao": 4,
-      "variacao": "-1",
-      "direcao": "cai",
       "url": "https://x.com/search?q=%23loungedasblogueiras",
       "ruido": false
     },
     {
-      "termo": "Tina",
-      "posicao": 5,
-      "variacao": "+3",
+      "termo": "#YokoAtPUCCI",
+      "posicao": 3,
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Tina",
+      "url": "https://x.com/search?q=%23YokoAtPUCCI",
       "ruido": false
     },
     {
-      "termo": "Urias",
+      "termo": "#ExigimosDesculpasProLula",
+      "posicao": 4,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23ExigimosDesculpasProLula",
+      "ruido": false
+    },
+    {
+      "termo": "#EliminaçãoAFazenda",
+      "posicao": 5,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
+      "ruido": false
+    },
+    {
+      "termo": "Sexta-feira 13",
       "posicao": 6,
+      "variacao": "+5",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Sexta-feira%2013",
+      "ruido": false
+    },
+    {
+      "termo": "elise",
+      "posicao": 7,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=elise",
+      "ruido": false
+    },
+    {
+      "termo": "The Body",
+      "posicao": 8,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=The%20Body",
+      "ruido": false
+    },
+    {
+      "termo": "anya",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=anya",
+      "ruido": false
+    },
+    {
+      "termo": "lisbeth",
+      "posicao": 10,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=lisbeth",
+      "ruido": false
+    },
+    {
+      "termo": "Wanda",
+      "posicao": 11,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Wanda",
+      "ruido": false
+    },
+    {
+      "termo": "Outlook",
+      "posicao": 12,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Outlook",
+      "ruido": false
+    },
+    {
+      "termo": "Murilo",
+      "posicao": 13,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Murilo",
+      "ruido": false
+    },
+    {
+      "termo": "Nvidia",
+      "posicao": 14,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Nvidia",
+      "ruido": false
+    },
+    {
+      "termo": "QUEM AMA HOMOFOBIA",
+      "posicao": 15,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=QUEM%20AMA%20HOMOFOBIA",
+      "ruido": false
+    },
+    {
+      "termo": "Microsoft",
+      "posicao": 16,
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Microsoft",
+      "ruido": false
+    },
+    {
+      "termo": "Suzane",
+      "posicao": 17,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Suzane",
+      "ruido": false
+    },
+    {
+      "termo": "Agro",
+      "posicao": 18,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Agro",
+      "ruido": false
+    },
+    {
+      "termo": "Valdemar",
+      "posicao": 19,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Valdemar",
+      "ruido": false
+    },
+    {
+      "termo": "oliveira martins",
+      "posicao": 20,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Urias",
+      "url": "https://x.com/search?q=oliveira%20martins",
       "ruido": false
     }
   ],
   "google_trends": [
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "TCEES: Experiências do ES, do Pará e de Pernambuco inspiram cidades mais acolhedoras para as crianças",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOT2RoMlpMcVNMRzZJOGkxNXJSQThVZURhU01Pb19CN2hUNk91dFRUUVlaYjRBMTdnUnZKSVRRNkRsQVFRWFBfcUpTYWRNT2lWYlczczZ4RzlqVnFLb280WjQ4b0lmTGRsbkV2eWNjNHVkSE9faTFUdVktVU1Oc0UxWW5mUVA0NUszaGgtN1FwVEg3VVV3MlRZaXMzcDFHZUx4c3hhVkJjM2tubmdRX0RxOEpacjRZWGt1TGZlWUl1V004ZmZ6b2lHaUYtUDVkMkVXRGIxUUxkVzJ6YVlpd2V1Vkx3ai1FUF9aby12cDVsVmdsNXVaeWQzaElIUUc3U05pUThfZTlOX0NvcUVLRFo4?oc=5"
-    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -67,20 +173,26 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Governo Federal: PF investiga comércio de anilhas falsas para aves silvestres em Pernambuco — Polícia Federal",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTGtqc2l4bGRFR0RTVHU0a1JnTjA2Vy1yZXlad2JwY1FyLXRaMndXWmNxWUsxMVB6QTFCTE01ZGJUamxJck1BdG9sVXFtdjRuR2NEbkh1RTN5T3B2cDN5RklOQ0ktZUwzQ1BLWWJFaWtqbEw0YlE3SS10TkNGTzd2dkJodHNsRFA0UDZlanZ4ZGdjLVQydUhQdkN1ZkpJU3hQc3ZraG9ZVVBJYzBlVEpRUG1xMDJvRW5jSkh2Vmg3UHNTQ3BhTEpn?oc=5"
+      "manchete": "G1: Grammy Latino: pernambucanos vencem 5 categorias e se destacam em prêmio internacional; saiba quem são",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaHVNM2RGUDlGTDV6Y2RLSjdDYUEzMTV4cXNJTUxCN2wyMTYtQXdpSGdQSGJ3Tl9QWkZ4SlBET2FhQzZrTjdNak1kSnQtdWlvMlc0bDUtbXREMDBKcXlXc3YyWmx0RlJaVU5ZTlNkZEh1R01CZGF0NEhoRTZacTZtTlVkSW4zVVE2dXBHNEFLYUw5UXN1NFdqRF9RejFtYko2MklaTndpRmsyZDN5MXR2ek50cnRYRWs0c3Y0RkZjdVVhT1RlNlNhUHB5aG4tel9VZjZrd3UyODY0VmFJM0xFTXlZcjVIbWJheWpNTV9PNHUwZ9IBgAJBVV95cUxQMm1xOUY4U0Z0a3VySmFDd21TR1NYWEVQQzlaZGdwekFkUWdQVlFzQ0ktcUxYNlNxMTVldlBSQjFBUFJnSk8wejViUU5OT1d6aFg4QlpEby1nNktXdlYzamZ1SmUxaWY4TC1rd0tvOVJqekdxSFFHMV9fVkprWmRZdGI4M2FYd2VaUGNuNVVQQjlzVTRpaTV6YjZSQ2hHYXUwOWx2TWhxQ0FZb0hUQXhvb0RldXRXVzE4RnhBcHJ2OUJ2STdzNGc5b243dGY4OF9tY0JfMkZwZndYSHJ5cVU0TFhVdXBuZFNWYk1ybl9KRTB4cGxLTTNtQk5YM29aOE8x?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): SEE promove capacitação do Conselho Estadual de Alimentação Escolar para fortalecer o controle social do PNAE em Pernambuco – SEE",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdUI0dGFkdUlSRFJTdUZWSmpCQ05GbW5HUlBJZTZWQjJyU002OVdzZlVGcDFrcG9ka1Rna3c1UGhrcjE0NkpQZW1VQjNLRXRJY21uU0tvTG83T2RSOTFPWVBPdzVTbXZkY0oyTmhnbmZwTExYUDBFT0plaXNselo5Z0l5SHlLQThGclViNllBSEYyNkg0V1RHWjlDQ0xUTVFqMmU5VWhrcENpOWtUTk5OQWI0ZVlPbGxxY0RjZVU0NmpBY19TQTRCRFdQVUwyVGVYdUw0ZGZDcnpGSXh4cF9YUzdNVi10ZlFZclRFaENLWQ?oc=5"
+      "manchete": "CBN Recife: Seis em cada dez municípios de Pernambuco registraram episódios de seca entre 2021 e 2024, aponta IBGE",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmdsMHFTeHdrSG5lRERLVHV6VVB1T2Z6ZXZGb0V0SWRQbDNCQjdFYVM4SWNWZTFUdUk3dEplSGZHRkNmdlJUMi1tR3Y0SmRSeVBETFk2MFdfVkozQnpGU0dvSDJEQVk2N3NzU01XN2VBRDhPdGFTWWhpUEpBa2trRmk0Ml9seE5kRmc4UW80dWI2X2d3eXlHeG9BQ3NwZVEyeTA0QXpXZTJJZmVxUkdhZXZVSmxTampZaks4cnNEM1kzWThfTDQ3NEN3RWJUTFo3OGJhMDln?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Manifestantes de movimento por moradia invadem sede da prefeitura do Recife; VÍDEO",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbWVvekFEbC0yaUtRTXdXU0VDYk5qOTVnNWpiTi1OZzFkdWlkVF9KMVg2UTU3Q1YyQ2Z1V0JPNXk5eEc1cHNSbjFCTTNTcUZVY0ZZUG9hRkFLckZsUm5ZRmU2NnZ3cEFQRzR5M1c2WVZ3UHFxM2RsZjExWFBpd3N5YTRUd1J4enJ0eGVKdU84M24zeVExNHZrbm1yckVwNEF6bFFPWkZOWUViQXlfT19raVZwVEFGUlFnOGtXd0h5TG1rT2cza1FRRXNtLUxUZ2t3UVRUS3g0MXHSAecBQVVfeXFMUDgtZ0lrbmtZUWVyUE94Zm5pN2ZHQlF1QlFNTEJ5b0h0N09xNXRpZWt6ZVBzM2NUWDNxVzNRS2tENm54UnAtbjdvZlAtczFjby1tM2lRc21zMGZ0cllyOS1lY293ODQxVk9pMEItVzlYdGZPdTNueUt3d29xN1N0MU9pZmtnWFQxUlFsbWVKNTI0Z01DalFMSFZ3ZVN6a3EwNExRa3hMOHVKb3o3X3hWSzBNUVpKQklFTTJnMmtoVVRUeUNjVkVhSWFwSEY5aTlZRTNxeVM5cDBhZS0tLXkxdVVTYnJNN1hJ?oc=5"
+      "manchete": "Exame: Ele trocou o Sul por Recife após um carnaval e agora vai faturar R$ 1 bilhão com tecnologia na saúde",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ3cwVGJiZHdtX0RzeDdXTjJrV2JJV0thTmVRNG9vLWMzSXdPR29sMFVGSVVnU2VZZkdjNUtFbnU0VjhfdzZtVzExVEZBSmU5Q0ZpRnJCMlJRZGhkQW1hSWN3ejBiTGRoQ0ZXZ0t4Qm9iLVZISHhpSmtnVGVNRk5TZjVGN3hzd2QzeGx2TjB1aXpUWDdSdWRqYzV3ZERqNFN5NXRNc1I4Ry1QSmZQTm05TUlNcElUcTRPbjI1U25QcFItbGN0SGc?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Shows de Fábio Jr. e José Augusto, Almério, Tarcísio do Acordeon e Filipe Ret, festival de teatro, feira literária infantil e mais: veja agenda cultural",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQeVZTbVk4ZC1iY3Zid2N6TWlLOWUxd2NVVVBPMF94eUZDZ013dnFKTm1Mak16MERNZDhrdTczU0s0aEF2NkdBTGVZdFRZYzFwYTVCeVVRWU9wVTluYjFMVC1CTnc0dXBSOXcyYXVpOW1xc01OanQzMHJyeTRQVGg2UTJEcWhONkU2NmlDbUE4cUxfQkloMnFyMFlQamRpV0tEaDROMjN6dmdQalZpVnZIVTJmY0VsT2lIVVJ0WE1BQjZyRG43LXBBWTNWcXB5Z1ZLcm9wRVZKbHFhdk1BSWk1VERScEQteDExaGw3N0JTek1xak1ONDB1WEs4WEpYb1ExZ2ZKVko3VnNPZFVFUF9JT29nVnRrTnFUZC1mcG4yM3Q1YjNqQXVIQ0YxTkFUMDR5RUtqb3djU0VxRG5YNUQxek1aWmp0NVZKVUxuONIB2wJBVV95cUxPOVZoM1BMOV9oWndqOVF1V2ZBNjRmYmJsc3dacHItTlZmNUNEYlQ2UV81MnQ1TXNxSWFWcXRxSW9KMjRBaWtycXQ0MExuRS1CR0hNMWtqclIydzJNR0c0SkRCNW9TTkpaMVBTdFR3UEtlT0NSMV9zcG5qLTl0MU1pbkpSQUhBZE1DUGsxOEpyZHlKQmx5M2JDZE9fX0tuUm5QYTlzQVp4TEVkOG1tdHdza0VzckJqd2MtUjRlc0dUSTJPOEtxVC1BYkQ4c0FHb2NETWJQaDhUcEpCYXp1dmpDbFBGUUNieDl1S01kVUk4cG1QQVZWSENLNUx2NTdyWjBSWUFLOEtPeFZjTWdUZ0RYMVZFd3lGVUMyUEYxZmxIZGUwWmxldC11QllJeFkxMGttNDBuQkRXcWszdHlvbDZaNkRrUmFkRDVULVFFSDFnS01FN0E5enZpd1ZqTQ?oc=5"
     },
     {
       "termo": "Recife",
@@ -91,110 +203,26 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Sindlojas Recife comemora 85 anos reforçando defesa do comércio da cidade",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTUU3Vk41Rkt2a2c2SWNiOWhXSnUtc1BnTnNKUENQREUxVXZxbTdicVBKQ25INS1FcnZBemRpUlNKLWRINzJ6WjVBVkFYTVcxNEJWeGhsV0VWQ0YyVlVoR3NPWHRwS2wzclFuQk42S2J6ZDFnN3lNNWhXUdIBe0FVX3lxTE5mTUU3Vk41Rkt2a2c2SWNiOWhXSnUtc1BnTnNKUENQREUxVXZxbTdicVBKQ25INS1FcnZBemRpUlNKLWRINzJ6WjVBVkFYTVcxNEJWeGhsV0VWQ0YyVlVoR3NPWHRwS2wzclFuQk42S2J6ZDFnN3lNNWhXUQ?oc=5"
+      "manchete": "Correio do Povo Penedo: Agenda cultural do Grande Recife: shows, teatro e exposições",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakZFWFd3bGpadEl6N1dKZ3U3dG96VnBHVHNGWnI0N1VzU0ZVb2FLNHpBUmdUV1BLaWgwRUlEQ29jYTFTUWR6UUpPZVZRSVR3SkpKR0lPS0V6aTFFSHBFbC0yaUxxdmhXSDlqbjhmUEdud1pMclFpU0dvdmdybk0za2ZLMmxVUElCSlhrSUU2N2kzdnNvcnFrVWstbDhRY3lCa0drNlU0c2k0RFo1NGc?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Cinemark RioMar: Confira as estreias da semana",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXZodjFRaEFUTHU0dGE1Nm14Qk9VdDJSUUVNR1ZjX3BWenBITHE3TGFTcjU4N3ZvRTZBa1V1Qm0zZm85NlRmSWw2LWxBckFDRm5JbW1NYlF1M28yNU9rTW03cWJIZVY2V21JR1VyalRZckVZQmFiR1pUemthMmsxbFYtZTN5ZWgxUE1F?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Inflação na Região Metropolitana do Recife supera média nacional em outubro de 2026, aponta IBGE",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUFE3Rk1RV3RmTldnQUxyS1JTWnFaeXhrTDZWeC1SX3pGZGtIb085b25CQWlpLVNYUWVuTWxDeGtEeXMzRGdGZ3RmSGhTOUdQOEZQcmJZbHgxUWtvalo5MkRBb004c3M0eXlaSjRHUHBNMkw2cUhERTFGRXgxaVRXczFuN2I1bU9kN2p1SE8yaXRIb0RHX0U3b1pSdWFjUGZZUDhuSVRCV3FTREttdlc2MWphYlFoUkwtSHUwb0tiLVN1M1g5dll2d25YbkJaUQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "SINDSEP-PE: Os desafios do transporte público brasileiro - SINDSEP-PE",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDh4blN1c0VUZ2xsUE5yMEhzX2JEOFlzclJzaGhZNzRjOEVyTkdpMUN0dEY1VDNQWUJzSGptWE1xMm9zU2F0azlfZG5SUl9lWUNHVVN0V0xiUl9hcER6aVA5M2gyT21YaUdteUZjNmdURXVVY3A2QlZIZ284c3MtSEc1UkFfTFhwRFV0bTZEUTc1alNzOFhTWVRzWlAzUQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Suspeito de liderar ataques por domínio territorial em Olinda é preso em flat de Porto de Galinhas",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUlGU3ZDZjQ3ODVKVUhFOG1MZlZrcEN4emlsaXYyVHhKTzFMSDZMUDVQODBJa080V2pFaGtwc0VqRDZjS1dxWGJ3NlNHT0x3bFYxcUdGb1piOUFuRHI4clpiVW5lRUlhY2prb2M5MV9TYmJLeFRPVnR1UmE0SDRVbTJ4YWRRbEhqUVg0V2wyUUdUeHhZNEFlVUdvVEstVVdiUTFkVnRuVTJmcXctLUo0M3BHOGZNU0nSAbcBQVVfeXFMUFlJRlN2Q2Y0Nzg1SlVIRThtTGZWa3BDeHppbGl2MlR4Sk8xTEg2TFA1UDgwSWtPNFdqRWhrcHNFakQ2Y0tXcVhidzZTR09Md2xWMXFHRm9aYjlBbkRyOHJaYlVuZUVJYWNqa29jOTFfU2JiS3hUT1Z0dVJhNEg0VW0yeGFkUWxIalFYNFdsMlFHVHh4WTRBZVVHb1RLLVVXYlExZFZ0blUyZnF3LS1KNDNwRzhmTVNJ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "PE Notícias: Governo de Pernambuco avança com obras do Arco Metropolitano na ligação com a BR-232",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMS1ObEpyanVlNWtaM3lCQjUxc1poTG4zUzZIT3hYQVNHTWk3NmtxMmsteHBZdWUyLVJSajVkbHhhdGlHTWVRRFNJRXEtb1ZMUVJMMXpiZWZIZ0tLZWlUSG80MVIyM0Y4MDd5UVVNWGlVQ25NTkhFVjRSM2YzMDFOLWd1TVJSa2ZqNmt6VkVkT2VURVV4M2tKSHQ2cVdYYzRNNE1fbmFPZFpjSUFEQ3lYZnpobFFzZEE?oc=5"
+      "manchete": "- Blog Dellas: Projeto valoriza ateliês e cria rota cultural no Centro do Recife -",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkJ1UW9vLTZqaFIxSTNpTUVmbWhNQU8tTHVKZnVRUlpHTUlfS2pwazJOMXUtWVUxS2o2TTRuSUpibmlGS3NOaUdKWXRCaGJFSlBaR1VGb1QzX2RxRXdmakVOZFlNaTNlNkhRMUVYRkVldFNpdGsweGFmbnBoaE0tWTVidVdXcFJvY1V6ZFdRNV8ydmt4QXVB?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
       "manchete": "TJPE: Justiça Itinerante do TJPE oferece orientação jurídica e sessões de conciliação e mediação no evento “Juntos nos Cuidamos” da Alepe",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOaHRtTDFkRExHb1VaNEpKcDZQVVV3V3hJcHI4NmRUaExqckdGNTdDSGhGUkE0WWJOdEVGanRRQUpiWUdJUUFLT19PcGtWUkVWRUZ0TjVSdV9PMWxmZTFoZFdVZjYxRWpIcnZPa1FyNEJSRTFzSGpLbWd5QlJrdlpkcnVBRmpsXy00czZ6ajRsSmQyd0o0djVTbUdnOHE3XzAwOHdwSUxzSUt0bHRvSTV5cFZ4U29NZThrYVZ0SEN4MVJydEZVT0x1SkplV3RnTzNLMTUxY2pQN0xoTFdRYjdoU2ttUTM3UlhURVd4OTd5d1ltVFdhcFpVVFA4Q1I1RFlVNmdHRlUzWV9NY3dlUjA2VHk1dXN1RXJDSE8zdEZoYjVXN2dESzZucm9oaGZmRmRtVUZLb1hrODF6dw?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Universidade de Pernambuco - UPE: UPE participa de homenagem póstuma a cientistas pernambucanos na Alepe - Universidade de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFAtTWZJb3hiUjhDeUpEV2JLT1N3Y1NXQlpZOXpWOHJxMWdiQ3hRN1ZWNlYyQlJOaUpIVGI4bGxVWnQtcWtqM3dKM2xtaXdsd3JuaVJZd0Y2QlFiQ1JSRkF0RC11VVp1RVBzNFBFNnpKYXVZVUh4YzJIWXhYWUhmblBZNndaLW9sSno5ckQwRQ?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): SEE apresenta Relatório Anual de Indicadores de 2025 em reunião extraordinária na Alepe",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGE1T3BmZ3pTa0pKNTZNUWJVQjFlVFIzdERVUTlDT2ZIRjB0MVltSG4tQk4yNmV0eTJSMnl5RElac2RGV2pPTlRxQlFRZktqTFZxRGduOWdGSXk1MU1iSGEzbFloZXZyWTdQRHM2MWpiT3ppcmxoNjliUUF2NEJPNWg2OW5QYTVoUzhiZGVWT3dUUFdPWTRzWEtkR3ktLWZXQ2thWnMwaDV1cjJtLU83QTFaclVjR0dXOU5KUmhDZw?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Governo de Pernambuco leva o Juntos pela Cidadania a Olinda com oferta de serviços gratuitos neste sábado (14)",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTHhQY015alFYYkY5S2Fmb0N4VjFZeFcwYnl1WEMxd0pXWGxDd2MtTHBkMVlla2V1bXNwa1pDWnJpSEZYbVhBSTZCbTBreHJyZGloZWZZdGNjSW9vWGtpOXlMNTktS2pBajc4OGlvUEhPUnV6MTRzLUE2bHBmdVVXWlZfODVIcDB6WnNWS0wzS1cyR0VWbmVNbEhYbDBVekpoVGJ1bGV3X3M5UGs0SW5vNzhKdDZRODJDd3k1dy03VE1XSWVsNnh2WnZEVTk4LUc4UmQ1SFAzaUF0OTFHazVLVng3dzg5MWJGVV9GQWNOZmhIUlk?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Márcio Didier: Raquel defende protagonismo de Pernambuco na nova economia durante o REC’n’Play",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15QVNGcXp2S1Z5T0sxLURLR1ZEQkdmQ3F1QnFQVXNNUm1HX0FpQWZVcTloZXJrUEtiOHNjVmp4T2RvY0FIUXNMS0Fva0FfQkRiOXdKTXltWnI2NkxWZWN0bVFnS1dya2RlR2xJM1N3Q3FqNjNLeURPVzFB?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Movimento Econômico: Raquel Lyra promete fazer do governo de PE o principal cliente do Porto Digital",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3NNbGpRZEJKbmxBM1VZbl9ZNVh5Z0I3X01xRS1LdzJjV0FCcWJ5SmxQM1ItOTJxajQtX1lBbFF5T3JaWWtPclBJRDBFaVFYUXR1UUxyQm4zTktDX0pIdjJlbEFtSWhiZk5VeGlOT0JiT0ZWNTlRZzA4bU1LTkttR3l4TzdncHJGZUpybHNBb3l3MS1GNWlzUUhISVZDMzRoQ0J1MVRiRTBwWDFkWDEzaVhtRC04OTBlMEQzMWUzY1JpRkpTcXJYaXU4QVpSZw?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "PE Notícias: Governo de Pernambuco oferece condições especiais para regularização de débitos de ICMS, IPVA, ITCMD e taxa de incêndio",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmdLVmozWjEtOVRzcVNrdHF5dlhZUVNieW44UjhjMlB4WEtWRmVtazJwNGdqNnUxZThyODRzYWxBMHlPM0NYekcyV243bWQ3ZWlDQ0lWYVJqcmtaUGtiQ3pvZ3AyRzA2djlnYmdXTkZSMngyQjRybjV4REJ1Wnc4bEtLWjFmQlVNT2pHeVJma1ZiZWY2QnVWeEJJX2RRUkJKcXhROGNtUm5OU1NnV05pOHJoYWxtNERQWkR2Y1hGQTV3ZS04bkxmNmQyNFcxQnhkbjdQVzIxMlZEUGFGbHpzUEMzTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gxBVV95cUxOYW8tdlJvd0M3Z3VFdWpBU1g5aVk2WFNwYnRoZGpzNDRZanFwQXUzMTF6XzVPY1g2RENka1VQVjdVc05Ual9BQ0F4RXV0Y1hFVkxHbkhDVG94dElkQ2dHVnBLUEFhSXUtek00WWxrUjRTQTk2SEw0cmVLQ1BlSjFib3VNblZuQzFXQnhkTDJMYklOOGJ2UVlONDBiOVdLSWJTWkdlN3pmSG5hbUQ0UTg2N3pDbTVCekFVVDA0WkFobjQzX204SzAxS0lUUG11Wl8zcnlMTmtHelhGVkFXRjJUdVItdGIxejlzWW1IOVpkc1Q1LXZfdWk1SE55Yzk3OF9fRXlhZGFIdjJZNU9tR1VTUWRHV1hYTjVBcVBIV1BXMXI1ZnVlY00tTC1XYmg2Zk92RG1FTnJSVzhYTVRwX0hhMDhjSm5oMGFLOUhFbHZPUDNGM3lZX3I5MjFiSXZLVi1WRGpRUS1fTjE4M0hRX0NCT0RlQUNMV1RZZEh3ZWdMQkhJaVdFOFlQcEZJdXVKdU4zRUxMeDJwS2RVcUdHNjZNRnZrTF80LTlhX0VCbVlmOWlMQjRfNVB1eWNBbE82UXhhNXRnTDlISnF6TmtwSDdkbVV6RWVEelZBMHBJQUxVMnRUTHdZTjN3WXNOT0dPVGZQSmd6eUV4ZzZkRVVfazRaVjJsNzFQWTNrLWpGMkhOUy1BSjRubUYyUkgweWJTZ3M4MU1kMmQ5Nmp0SmdBRk1TVDJhRzdZTUhqR3M0YTdua1VJWURlOUF4RFlMZU9WTFhRZ0hNNC1DSWN1d1d6cDU3clNwN0JOY194YmpiUnJSWFJ5Vm9UUXhQRmY5WDRVeEd0enRrejZjb0xkYzFBMDJ0WGFFRDZlLUlJMGNsbzBEZGxaeG55QW55dHZBX2FPRVBHNV8yWXVCUDhPZUJyTFpVZmI5N1ZHLVZBN21Rcmk2MHFtb2dkRDQ5R2wwTDV4NHpVa2NBQjlCdk84NngzZUlhRVlPSVAwaDJ1aDVHU1pjcV9sN3FnekxmQjZSaTR6ZFE5a0pEaDRVNHpQRVRrbnVEN0hZVWZVVXktY1RFUzRjMzRfekNPc09sVml6MS1sQUhMbWZUZlFXMmNUYXd1bzA0MzRIQmdmaFcwSk02Y0tBNjdxOXB0WVd5WjE5TGJCbUI4dXBQWnYwZG9RNS1XcVJDLVVEUU9nNnZfTVRhU3puakFQVjAxbVQwZXU2NE5sZEFuQnhabFVQWUFBZk9sQXE3Y19IempwZzN2QV9IZGEzV0JNQjNMSXdFM2E3VDNwUjd0TFJWMl9DTmFjRFU3M2xpdmxJek5KbXFKTE5KZVVDOFN0a2JONnpoaXNOTnR6elBnV3J2N2ZBU2oxNWFEanZ0a2NnWjB2aHllMjBITTY4WWpxUFRRMWVZY2pCVVBVbGcwSU04Yk5DMWpvOWRoMXZqUExRTHZ5STJkVXNqUHJzQ0dqdjBuanc5Q2xkbmk0cGpITnhFWUFuYm5aUllxdXRCWi1kMkNsN3NIUWphbzFUS0M0VlNCeTlidUZrMWhpY0theko5WG83S2xVZUFPbWh2V0J1bTBTS1AzaXdWcl95cFJ0SHZmSWM3cEVMWjliOXZldGdib2dUR0xqSVU5aEYxWFFUUmxyOVFGbDhQMjFqVGFPVktzaG0wc1dRTXV4NlNLVDZ3aDNJdlAzdzI2bGdNblRyWjhHcUdZMXE4RHlHY092RGZnblNlRFV5QlFwVzhOcnZqaThDeVlTeWF5cDB3bjJIQWNoamRZYTNZRnBxVmlHMG9ObGJLdm94TmZhc2pwV0NXSFdWUHVZZTlJNjhBSGYzU3lsZjlrNG52SmI4TnBGNnU1ZFhrV1VkM2owby1HMHJpZzg0ZWdxaVdYdFRyZDI3MXR2Y0pZRzQ0aXNIQXRqZU5nWkg5RGMtSG5QR1NmeEFWS2hYVWdsZGVEazRvN1lyQjFlR2ZEM3N5NktZWl9Wa053cGNTbEpHbHNIbXIzLU96a1JHNWhzUERJTEI2a1c4WEtnZDlXZEptRk1FeHBwbUpQSXRTVk53cG1Yc0dsTFpERGFEOFF6amQybFJSZXU2eXVnMDg3SUVoaXh2YzR0VjJSSEdFZUt6OHQ0OTRZNC1BN0trVVVCZ016UDhtSUtB?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "fiscal do governo",
-      "razao_aumento": 120.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-11-12T17:36:24Z",
-        "titulo": "Entenda o 'plano Moretti', proposta de ajuste fiscal do governo Lula",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeDh2aDFrNXJYZHIxZVFYdUxGTTFHaWxaczV3ZGlRbHRfb0IwQ3hsWWp5STBOM1FvRy1WdUhaVU1zejdWNTd6YlVSV1pzZGRDZkd3aXNFMXV1YXJSYnVnSVdXRzB6anJJeUxnNDQwV2huMEJMam5IYWp2OGZNNEpzQ3Bid0hvd3FJMXB3N1ZoekxrUDJoa3d0UHluLUV2YTBjWG0tNkpFLVdFMVVPTXFkVW1rMnkzZDR6S3FMb2w5cmJIUQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "revisão criminal",
-      "razao_aumento": 106.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-11-12T23:04:53Z",
-        "titulo": "PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNXzNwNjlPSFQyQUs2c0ZjMEZsN09aMjQtZE5UWFp5Q0ZIU3hFSW0tR1VoaFlldjQzWkR6Qm1NZDd2VFJrazJwZUk1YUtOZ0pQenBsbDY5QzhyREZrbEdiM0NiSDBrMHBwYzNBU3pIRlB3dmFHcGFVcXpZYVhzNmdvcnpRU25nV2pka2xLendNcVhiS0laX2dEMXh2emRQMnhKblh5M3d5ckx0b0ZIaG1BWlpsb2x0ZzVLY3BPT2Y0WHZVZlFVUHlpTWg5NjdFVU9TWDdOT1J30gHkAUFVX3lxTE4wWDNDalgwQXVwLUQ1MWgwbHNDLXNPdGZOLUoyWWxjWHV4cXZJcUJ6OThmTklWWUlNUnJWYWdzM1dCWHlVQ0RkQnU0Q0d6Vi1vazJNMENvZFhGZFdDdlVDZHUyV1B6dlFwdkwwUlQ1dDJHMEZyUnR5VVFkX2xhdFhIcUtrUjhyMlFKQzd2X09TTGNGbVBpN25BYXNlM2tCd1ZET1ByVHdvTnpwbEpPWGNObUV2bmo1MnNPWFdpVnQ2czNzb3lQRHNhSlVIVm9haEdxVW0tck1HSHZFZnJsZ29Zdm9oTg?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
       "termo": "PGR se manifesta",
-      "razao_aumento": 106.1,
+      "razao_aumento": 111.2,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "O GLOBO",
@@ -205,43 +233,31 @@
       }
     },
     {
-      "termo": "segurança de Pernambuco",
-      "razao_aumento": 100.0,
+      "termo": "condenação de Bolsonaro",
+      "razao_aumento": 83.3,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-11-12T09:26:33Z",
-        "titulo": "Raquel Lyra entrega 133 viaturas e 365 equipamentos de comunicação para forças de segurança de Pernambuco",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGtMVDNWVlFkbk9pOHJYcWVNQjhtTENqM1JtRFpBWkJQQi1aejFTYTNsNVp0TVlDRnMyNldBV0ZoWV9XenJOTE9fM3hUNnNIU3FIMHdzYmdKVEVuMnI3bGlpanRZb1NrU3pjU2R3UTJtNGpEZ0I0bnVWT3MtckZSRnpCT1NaT3pDSnVKakFUOGxRMGR3UHBhUFloS1FKMkpja2gwRjZJTmZqLVQ3UVp4bnBpbDAwdGw1V1B1OFl5V0hJLXY2SDBPalAweC0?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "hora": "2026-11-12T23:19:00Z",
+        "titulo": "PGR se manifesta contra revisão criminal da condenação de Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2RuQWllNGFUMmx5UGNPM2xJZXpIdW0tcW9ka1U4cmxXcFQyLXBncnV5MWNNTkZBME5KWnNNaVdtNU1icW1yX3JHVW40QlBFbmhXR0F3a1h1dUNuNlRCaWhjWjFXYnR0Ny16SlNaLU1BUHJ2Wml1cTVZcnh6bExrNkUySDFmWFVpczZQWERBMVZMc01tZVZhRXNWTWVnUnVfUDBtSkhsLUluUi1KLUlDWg?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "EQUIPAMENTOS DE COMUNICAÇÃO",
-      "razao_aumento": 100.0,
+      "termo": "sede da prefeitura",
+      "razao_aumento": 68.2,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-11-12T09:26:33Z",
-        "titulo": "Raquel Lyra entrega 133 viaturas e 365 equipamentos de comunicação para forças de segurança de Pernambuco",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGtMVDNWVlFkbk9pOHJYcWVNQjhtTENqM1JtRFpBWkJQQi1aejFTYTNsNVp0TVlDRnMyNldBV0ZoWV9XenJOTE9fM3hUNnNIU3FIMHdzYmdKVEVuMnI3bGlpanRZb1NrU3pjU2R3UTJtNGpEZ0I0bnVWT3MtckZSRnpCT1NaT3pDSnVKakFUOGxRMGR3UHBhUFloS1FKMkpja2gwRjZJTmZqLVQ3UVp4bnBpbDAwdGw1V1B1OFl5V0hJLXY2SDBPalAweC0?oc=5",
+        "fonte": "G1",
+        "hora": "2026-11-12T16:20:32Z",
+        "titulo": "Manifestantes de movimento por moradia invadem sede da prefeitura do Recife; VÍDEO",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbWVvekFEbC0yaUtRTXdXU0VDYk5qOTVnNWpiTi1OZzFkdWlkVF9KMVg2UTU3Q1YyQ2Z1V0JPNXk5eEc1cHNSbjFCTTNTcUZVY0ZZUG9hRkFLckZsUm5ZRmU2NnZ3cEFQRzR5M1c2WVZ3UHFxM2RsZjExWFBpd3N5YTRUd1J4enJ0eGVKdU84M24zeVExNHZrbm1yckVwNEF6bFFPWkZOWUViQXlfT19raVZwVEFGUlFnOGtXd0h5TG1rT2cza1FRRXNtLUxUZ2t3UVRUS3g0MXHSAecBQVVfeXFMUDgtZ0lrbmtZUWVyUE94Zm5pN2ZHQlF1QlFNTEJ5b0h0N09xNXRpZWt6ZVBzM2NUWDNxVzNRS2tENm54UnAtbjdvZlAtczFjby1tM2lRc21zMGZ0cllyOS1lY293ODQxVk9pMEItVzlYdGZPdTNueUt3d29xN1N0MU9pZmtnWFQxUlFsbWVKNTI0Z01DalFMSFZ3ZVN6a3EwNExRa3hMOHVKb3o3X3hWSzBNUVpKQklFTTJnMmtoVVRUeUNjVkVhSWFwSEY5aTlZRTNxeVM5cDBhZS0tLXkxdVVTYnJNN1hJ?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "forças de segurança",
-      "razao_aumento": 72.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-11-12T09:26:33Z",
-        "titulo": "Raquel Lyra entrega 133 viaturas e 365 equipamentos de comunicação para forças de segurança de Pernambuco",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGtMVDNWVlFkbk9pOHJYcWVNQjhtTENqM1JtRFpBWkJQQi1aejFTYTNsNVp0TVlDRnMyNldBV0ZoWV9XenJOTE9fM3hUNnNIU3FIMHdzYmdKVEVuMnI3bGlpanRZb1NrU3pjU2R3UTJtNGpEZ0I0bnVWT3MtckZSRnpCT1NaT3pDSnVKakFUOGxRMGR3UHBhUFloS1FKMkpja2gwRjZJTmZqLVQ3UVp4bnBpbDAwdGw1V1B1OFl5V0hJLXY2SDBPalAweC0?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "pedido de revisão",
+      "termo": "revisão criminal",
       "razao_aumento": 66.7,
       "gatilho": {
         "rede": "Imprensa",
@@ -253,288 +269,324 @@
       }
     },
     {
-      "termo": "condenação de Bolsonaro",
-      "razao_aumento": 60.6,
+      "termo": "Lula após",
+      "razao_aumento": 62.5,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Folha de S.Paulo",
-        "hora": "2026-11-12T23:19:00Z",
-        "titulo": "PGR se manifesta contra revisão criminal da condenação de Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2RuQWllNGFUMmx5UGNPM2xJZXpIdW0tcW9ka1U4cmxXcFQyLXBncnV5MWNNTkZBME5KWnNNaVdtNU1icW1yX3JHVW40QlBFbmhXR0F3a1h1dUNuNlRCaWhjWjFXYnR0Ny16SlNaLU1BUHJ2Wml1cTVZcnh6bExrNkUySDFmWFVpczZQWERBMVZMc01tZVZhRXNWTWVnUnVfUDBtSkhsLUluUi1KLUlDWg?oc=5",
+        "hora": "2026-11-13T00:56:00Z",
+        "titulo": "Brasília Hoje: Flávio Bolsonaro vota contra ajuste do governo Lula após ter prometido corte de gastos",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQODV5TlFNT2trbFQyM0ktWDNra2VFeVd0SHgzcUdmR3Z6djR1U3UxalJDWmZaOEQ2QjBXX3FpRGNnRFVDZkE3TTdjSFYxeWVLYVJiRThvdzJvWlcxUGM4RFU2LVU1eTc3QmthVEZ2ZmY0Smc3dTExUlJxUUJaZk5UTHdJTmpUbkdZeGZqODZ1a3lGTlJFT2JaMnVfUkdwWUhLYjNPamJYUXhIYkFwUjRGc0lleXRyUFFFOXBOSTJNeTUwN01falJOZTZabWw4THl2ZWVnc0R3OWpLNy15cFRQcUlrLUg?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "manifesta contra revisão",
+      "razao_aumento": 55.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-12T23:05:34Z",
+        "titulo": "PGR se manifesta contra revisão criminal de Bolsonaro e defende manutenção de condenação por tentativa de golpe",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGIyMk1kaE9MYkFLTUxVemUycTB3OWQySTRiclVpa1Y3RnFjalo1UGg5Y1lsQl8zRlVMYkFHNEJhTTJlaWwyYi0wa2xzQUxaZE12Q1FaeEgwUzNsVlM0R0RLRFgxTHY1TGNuWkYwaXNQMkl5REpkaXN2bFc5X2R3aHN3VnFieGdrbnZYajl6aGExcnFhZ0RWNG81QUQzSjJZcFJJVTR1b1czVlJWM04wUzNTdl9oTWhhdmZKc3BYY2U0VmtMdVhaZkJQeUwwM0J5czBpdGY3NVFaZkN4bExWY1hvcFI1YW5EYXpZNzVQNkNPWWJ1eGFLQmdPZG9XUWvSAY4CQVVfeXFMUGZxNThFSHRzSXl3bzBsSTV0b1dqSnQtVzNIc1NkYUppTWNIenNZRm1ScTZXZFpoRVpfMmtKc1R3NmNQaElOSHBNS0M1WWNuWG04WkZlOFRDWGdBVTNGVnRVUm8wQW5EYVN0YWlBMG1vSjV6VGRSU1dOTjRiOVpYZFVwcUtLRHJqUnN3SzAyc2FMczJRWDRVTHZVSl9FMWo0dEMxcDMwejI5ZjNxa0xOMW53QnhhbzhyaS1xSE5ZdlFOY3p3bjNncWxvWUg5SGVtclQ5M3BOTGJuX1pDYVlmMHhQYjJCMS1ZLVR2ajhtdVVUbE01eW5ITDEwYnN1cHdpSFBYMDhSb3VYSG9nRVRn?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "condenação de Jair",
+      "razao_aumento": 55.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "G1",
+        "hora": "2026-11-12T23:04:53Z",
+        "titulo": "PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNXzNwNjlPSFQyQUs2c0ZjMEZsN09aMjQtZE5UWFp5Q0ZIU3hFSW0tR1VoaFlldjQzWkR6Qm1NZDd2VFJrazJwZUk1YUtOZ0pQenBsbDY5QzhyREZrbEdiM0NiSDBrMHBwYzNBU3pIRlB3dmFHcGFVcXpZYVhzNmdvcnpRU25nV2pka2xLendNcVhiS0laX2dEMXh2emRQMnhKblh5M3d5ckx0b0ZIaG1BWlpsb2x0ZzVLY3BPT2Y0WHZVZlFVUHlpTWg5NjdFVU9TWDdOT1J30gHkAUFVX3lxTE4wWDNDalgwQXVwLUQ1MWgwbHNDLXNPdGZOLUoyWWxjWHV4cXZJcUJ6OThmTklWWUlNUnJWYWdzM1dCWHlVQ0RkQnU0Q0d6Vi1vazJNMENvZFhGZFdDdlVDZHUyV1B6dlFwdkwwUlQ1dDJHMEZyUnR5VVFkX2xhdFhIcUtrUjhyMlFKQzd2X09TTGNGbVBpN25BYXNlM2tCd1ZET1ByVHdvTnpwbEpPWGNObUV2bmo1MnNPWFdpVnQ2czNzb3lQRHNhSlVIVm9haEdxVW0tck1HSHZFZnJsZ29Zdm9oTg?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "anulação da condenação",
+      "razao_aumento": 55.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Valor Econômico",
+        "hora": "2026-11-12T23:22:59Z",
+        "titulo": "PGR se manifesta contra pedido de anulação da condenação de Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXB3YlU5SUY5dFRxSW1ZZkxYOGdaWnBtZEF2aVE5Wl8wbzloOFJGa21wa3BLSUhuOUE2b3h0WE1NUm83aGNiNTdTdU9kM3NyXzFDSjhIa1RyVmlYbU9QeVRCd18tUTN0N1I1UUVVczdkeTFNZTYxTkpPWGVOOUcwc2xGN2wxSkdwTEp0b0pVMnJOOUNRQW50NXlCa1V4S0hEYXh5S2tfVzVUc0hCRkdz0gG-AUFVX3lxTFBuNFdYZDU5b2ZSRjBhd2l3SldZdVc2TEJJNXhrOTN2LXB5U214Z0dwLTB5NUZqWmwwNGpiUEFhc1lrZ1lQb056TS1SRVdxSEFkNDVBbHQzTlJnWUVvVXIweEVGVHYyTFh4VHN5TjcyYUMxQ1FTWUNGQUZfTF8tTm1Nek5wdDZPNE9vcmdkanRGWmpsQW9JSWlYYi1uT3hMbGg4UFdNWHNOUWdyRzNDVUFfcEtvZXdtd3h6SlZQemc?oc=5",
         "peso": 1.0
       }
     }
   ],
   "nuvem": [
     {
-      "termo": "Bolsonaro",
+      "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 20.56,
-      "fontes_distintas": 32
+      "fatia_pct": 18.01,
+      "fontes_distintas": 22
     },
     {
-      "termo": "Lula",
-      "peso_relativo": 83.3,
-      "fatia_pct": 17.13,
-      "fontes_distintas": 20
+      "termo": "Bolsonaro",
+      "peso_relativo": 97.0,
+      "fatia_pct": 17.48,
+      "fontes_distintas": 29
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 80.6,
-      "fatia_pct": 16.56,
+      "peso_relativo": 70.1,
+      "fatia_pct": 12.62,
       "fontes_distintas": 21
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 69.4,
-      "fatia_pct": 14.28,
-      "fontes_distintas": 19
+      "peso_relativo": 64.7,
+      "fatia_pct": 11.65,
+      "fontes_distintas": 20
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 69.4,
-      "fatia_pct": 14.28,
-      "fontes_distintas": 19
+      "peso_relativo": 64.7,
+      "fatia_pct": 11.65,
+      "fontes_distintas": 20
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 58.3,
-      "fatia_pct": 11.99,
+      "peso_relativo": 64.7,
+      "fatia_pct": 11.65,
       "fontes_distintas": 20
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 55.6,
-      "fatia_pct": 11.42,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Alepe",
-      "peso_relativo": 30.6,
-      "fatia_pct": 6.28,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "governo Lula",
-      "peso_relativo": 27.8,
-      "fatia_pct": 5.71,
-      "fontes_distintas": 9
+      "peso_relativo": 56.6,
+      "fatia_pct": 10.19,
+      "fontes_distintas": 18
     },
     {
       "termo": "ajuste fiscal",
-      "peso_relativo": 25.0,
-      "fatia_pct": 5.14,
-      "fontes_distintas": 9
+      "peso_relativo": 32.3,
+      "fatia_pct": 5.83,
+      "fontes_distintas": 11
     },
     {
-      "termo": "fiscal do governo",
-      "peso_relativo": 19.4,
-      "fatia_pct": 4.0,
-      "fontes_distintas": 7
+      "termo": "Alepe",
+      "peso_relativo": 21.6,
+      "fatia_pct": 3.88,
+      "fontes_distintas": 8
     },
     {
-      "termo": "Brasil",
-      "peso_relativo": 19.4,
-      "fatia_pct": 4.0,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "revisão criminal",
-      "peso_relativo": 19.4,
-      "fatia_pct": 4.0,
+      "termo": "PL",
+      "peso_relativo": 18.9,
+      "fatia_pct": 3.4,
       "fontes_distintas": 7
     },
     {
       "termo": "PGR se manifesta",
-      "peso_relativo": 19.4,
-      "fatia_pct": 4.0,
+      "peso_relativo": 18.9,
+      "fatia_pct": 3.4,
       "fontes_distintas": 7
     },
     {
+      "termo": "Play",
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "REC n",
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "n Play",
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "REC n Play",
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "governo Lula",
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "revisão criminal",
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 5
+    },
+    {
       "termo": "Latin",
-      "peso_relativo": 16.7,
-      "fatia_pct": 3.43,
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
       "fontes_distintas": 1
     },
     {
       "termo": "GRAMMY",
-      "peso_relativo": 16.7,
-      "fatia_pct": 3.43,
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
       "fontes_distintas": 1
     },
     {
       "termo": "Latin GRAMMY",
-      "peso_relativo": 16.7,
-      "fatia_pct": 3.43,
+      "peso_relativo": 16.2,
+      "fatia_pct": 2.91,
       "fontes_distintas": 1
     },
     {
-      "termo": "Play",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.86,
+      "termo": "sexta feira",
+      "peso_relativo": 14.8,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Yoko",
+      "peso_relativo": 14.6,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "PUCCI",
+      "peso_relativo": 14.6,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Yoko At",
+      "peso_relativo": 14.6,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "At PUCCI",
+      "peso_relativo": 14.6,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Yoko At PUCCI",
+      "peso_relativo": 14.6,
+      "fatia_pct": 2.62,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Exigimos",
+      "peso_relativo": 13.7,
+      "fatia_pct": 2.48,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Desculpas",
+      "peso_relativo": 13.7,
+      "fatia_pct": 2.48,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Exigimos Desculpas",
+      "peso_relativo": 13.7,
+      "fatia_pct": 2.48,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Desculpas Pro Lula",
+      "peso_relativo": 13.7,
+      "fatia_pct": 2.48,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Marília",
+      "peso_relativo": 13.5,
+      "fatia_pct": 2.43,
       "fontes_distintas": 5
     },
     {
-      "termo": "REC n",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.86,
+      "termo": "Senado",
+      "peso_relativo": 13.5,
+      "fatia_pct": 2.43,
       "fontes_distintas": 5
     },
     {
-      "termo": "n Play",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.86,
+      "termo": "condenação de Bolsonaro",
+      "peso_relativo": 13.5,
+      "fatia_pct": 2.43,
       "fontes_distintas": 5
     },
     {
-      "termo": "REC n Play",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 5
+      "termo": "Sexta",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.18,
+      "fontes_distintas": 1
     },
     {
       "termo": "Lyra entrega",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.86,
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
       "fontes_distintas": 3
     },
     {
       "termo": "Raquel Lyra entrega",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Jair",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Jair Bolsonaro",
-      "peso_relativo": 13.9,
-      "fatia_pct": 2.86,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Tina",
-      "peso_relativo": 13.3,
-      "fatia_pct": 2.74,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Urias",
-      "peso_relativo": 12.5,
-      "fatia_pct": 2.57,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Transnordestina",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "PL",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Marília",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "COP31",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Senado",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "pedido de revisão",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "condenação de Bolsonaro",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "manifesta contra revisão",
-      "peso_relativo": 11.1,
-      "fatia_pct": 2.28,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "PT",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "aliados de Lula",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Zona",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
       "fontes_distintas": 3
     },
     {
       "termo": "Play 2026",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 3
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
+      "fontes_distintas": 4
     },
     {
       "termo": "n Play 2026",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 3
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
+      "fontes_distintas": 4
     },
     {
-      "termo": "forças de segurança",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Arraes",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Marília Arraes",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
+      "termo": "Transnordestina",
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
       "fontes_distintas": 3
     },
     {
       "termo": "PSB",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
-      "fontes_distintas": 2
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Senado aprova",
-      "peso_relativo": 8.3,
-      "fatia_pct": 1.71,
+      "termo": "fiscal de Lula",
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
       "fontes_distintas": 3
+    },
+    {
+      "termo": "manifesta contra revisão",
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Motta",
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Câmara",
+      "peso_relativo": 10.8,
+      "fatia_pct": 1.94,
+      "fontes_distintas": 4
     }
   ]
 }
