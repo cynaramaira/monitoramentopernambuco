@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-15T17:04:54Z",
-  "total_analisado": 109,
+  "atualizado_em": "2026-11-15T21:45:20Z",
+  "total_analisado": 107,
   "x_recife": [
     {
-      "termo": "#FoolInLoveEP12",
+      "termo": "Inglaterra",
       "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23FoolInLoveEP12",
+      "variacao": "+11",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Inglaterra",
+      "ruido": false
+    },
+    {
+      "termo": "Simaria",
+      "posicao": 2,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Simaria",
+      "ruido": false
+    },
+    {
+      "termo": "#AcerteOuCaia",
+      "posicao": 3,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23AcerteOuCaia",
+      "ruido": false
+    },
+    {
+      "termo": "Vikings",
+      "posicao": 4,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Vikings",
+      "ruido": false
+    },
+    {
+      "termo": "Tuchel",
+      "posicao": 5,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Tuchel",
+      "ruido": false
+    },
+    {
+      "termo": "Bruno Henrique",
+      "posicao": 6,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Bruno%20Henrique",
+      "ruido": false
+    },
+    {
+      "termo": "Mahomes",
+      "posicao": 7,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Mahomes",
+      "ruido": false
+    },
+    {
+      "termo": "Packers",
+      "posicao": 8,
+      "variacao": "-6",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Packers",
+      "ruido": false
+    },
+    {
+      "termo": "Ferroviária",
+      "posicao": 9,
+      "variacao": "-5",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Ferrovi%C3%A1ria",
+      "ruido": false
+    },
+    {
+      "termo": "Claudionor Germano",
+      "posicao": 10,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Claudionor%20Germano",
+      "ruido": false
+    },
+    {
+      "termo": "Brasil Feminina",
+      "posicao": 11,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Brasil%20Feminina",
+      "ruido": false
+    },
+    {
+      "termo": "Sole Jaimes",
+      "posicao": 12,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Sole%20Jaimes",
+      "ruido": false
+    },
+    {
+      "termo": "Chiefs",
+      "posicao": 13,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Chiefs",
+      "ruido": false
+    },
+    {
+      "termo": "Cristiane",
+      "posicao": 14,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Cristiane",
+      "ruido": false
+    },
+    {
+      "termo": "#NFLnaESPN",
+      "posicao": 15,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23NFLnaESPN",
       "ruido": false
     },
     {
       "termo": "#NFLnoSportv",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 16,
+      "variacao": "-11",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23NFLnoSportv",
       "ruido": false
     },
     {
-      "termo": "Patriots",
-      "posicao": 3,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Patriots",
-      "ruido": false
-    },
-    {
-      "termo": "O AO3 VOLTOU",
-      "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=O%20AO3%20VOLTOU",
-      "ruido": false
-    },
-    {
-      "termo": "DO I EVEN MATTER",
-      "posicao": 5,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=DO%20I%20EVEN%20MATTER",
-      "ruido": false
-    },
-    {
-      "termo": "Fallen",
-      "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Fallen",
-      "ruido": false
-    },
-    {
-      "termo": "#DomingoLegal",
-      "posicao": 7,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23DomingoLegal",
-      "ruido": false
-    },
-    {
-      "termo": "Jones",
-      "posicao": 8,
-      "variacao": "-1",
+      "termo": "Virgínia",
+      "posicao": 17,
+      "variacao": "-9",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Jones",
+      "url": "https://x.com/search?q=Virg%C3%ADnia",
       "ruido": false
     },
     {
-      "termo": "Bom Enem",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Bom%20Enem",
+      "termo": "Ronaldinho",
+      "posicao": 18,
+      "variacao": "-12",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Ronaldinho",
       "ruido": false
     },
     {
       "termo": "#GoodBoySeriesEP6",
-      "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 19,
+      "variacao": "-12",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23GoodBoySeriesEP6",
       "ruido": false
     },
     {
-      "termo": "Drake Maye",
-      "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Drake%20Maye",
-      "ruido": false
-    },
-    {
-      "termo": "Proclamação da República",
-      "posicao": 12,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Proclama%C3%A7%C3%A3o%20da%20Rep%C3%BAblica",
-      "ruido": false
-    },
-    {
-      "termo": "#MilkLoveFancon",
-      "posicao": 13,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23MilkLoveFancon",
-      "ruido": false
-    },
-    {
-      "termo": "Dumbledore",
-      "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Dumbledore",
-      "ruido": false
-    },
-    {
-      "termo": "CONGRATULATIONS BTS",
-      "posicao": 15,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
-      "ruido": false
-    },
-    {
-      "termo": "RUTHJI RUNS INTO LOVE",
-      "posicao": 16,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=RUTHJI%20RUNS%20INTO%20LOVE",
-      "ruido": false
-    },
-    {
-      "termo": "Artist of the Year",
-      "posicao": 17,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Artist%20of%20the%20Year",
-      "ruido": false
-    },
-    {
-      "termo": "jisung",
-      "posicao": 18,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=jisung",
-      "ruido": false
-    },
-    {
-      "termo": "MILKLOVE MUVSICAL HOUSE",
-      "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=MILKLOVE%20MUVSICAL%20HOUSE",
-      "ruido": false
-    },
-    {
-      "termo": "Lions",
+      "termo": "Gurias Coloradas",
       "posicao": 20,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Lions",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Gurias%20Coloradas",
       "ruido": false
     }
   ],
@@ -167,50 +167,68 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Bruna Marquezine pega buquê de casamento em Fernando de Noronha",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXVUcmVsSng1dWlfU3A0Q2dvaWlERndMaVBiS0hqRGdPelFjZUkyQW9RcGpkb1lxdGEzekdYakh1QTlqeHJYNkVrMEljVmhkOEhod2NIQkQzY1c1X2FsV0llWk1QTFQzRlJhX3NuRUtVSnY5SUZoejR0b3RJTGlNbjNEVlpsT0JhZ0dIR2Iwd19UVnFpZlE4dUlmV1hSRjRjSTgxRG1hUEFPa3RHZXo3T0RDaXA5aG5PbnJtYlZ2S0hJVUtlQk5XYk5R0gHKAUFVX3lxTE5RdVRyZWxKeDV1aV9TcDRDZ29paURGd0xpUGJLSGpEZ096UWNlSTJBb1FwamRvWXF0YTN6R1hqSHVBOWp4clg2RWswSWNWaGQ4SGh3Y0hCRDNjVzVfYWxXSWVaTVBMVDNGUmFfc25FS1VKdjlJRmh6NHRvdElMaU1uM0RWWmxPQmFnR0hHYjB3X1RWcWlmUTh1SWZXWFJGNGNJODFEbWFQQU9rdEdlejdPRENpcDlobk9ucm1iVnZLSElVS2VCTldiTlE?oc=5"
+      "manchete": "G1: Claudionor Germano, uma das maiores vozes do frevo de Pernambuco, morre aos 94 anos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNU9nb1d5OFB0ejhrVUpJRGNMUlNBQWl6WTBZRVZCTVRmd05LXzlqTFlKdmc3eW5wVm8tc0VYWmkxWDZoUldiYmM5eGlVY3lULWZEaExZM0pFUE1WdHVtVFhyWklsZ01CWElsX0xYOUw2bTdXaHdVMHBwWFZCazduY0E4VkQzRFNpMFptcjJDV1cwNWx3WUdmREhzMTZvNy14bGdOSk01a0lid9IBuAFBVV95cUxPLUNzWnFjM0xSRU5JS0hxZG5lVzRoSDlPZ0hNclN0N09pNzZQRG5uLVUycU5lTmxfTHZqMGtlTkdtbG9lTmRvc0hleVdCWWdCRnp3YXhmVjZWOXBpZ2ZidFV0d3UwYjZxZm0zTHNQVEhiNzVSbWQ0M1VzR0piX09KSVNyWTFsckRpeDcwLWF3eHhROVJDbWh0WElHR1VuVmRDTWNBdV9BcjVkYm9nSGRJWFNldGJOdDRM?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Feriado de 15 de novembro: confira o tempo em Pernambuco no Dia da Proclamação da República",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUW1DMW1hN1hnWUNMY2xjV191RzhVMC1MOEJZWHBnNE5fcFZoYnJIR0lmWHZLR1YwdHhWeDVVTmNPU2xyWlVuRDJHNnRadjg2SEVzSV9CRC13SDBhMzdYMThEdlRjM3YzVGZzSDhubnJtTXgwWkpIV3JTd0JoRG5pMkdfVDRTVkRXVWNuYktaSVlYa0dLeC1keWh4YV9GdXpPbVl0T01iYmZwV3ktNEdIZGNuSFVibkVrV1dHNDRwZDBpWHE5Nk1DaVdYWjExN210Y0pJdTdBOEhhSjhQeXZXZHU2Y3k5SVBlbEJlN20yVldZdy1vbUttLVhsUUJ1UFU?oc=5"
+      "manchete": "- Blog Dellas: Claudionor Germano, voz do frevo e Patrimônio de Pernambuco,morre aos 94 anos -",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObi1Jb3RMZzA3Z2NZTkZjbzBIVjh1ckRjRUZ6MXBrOWRRc0ZnaVdXM0NZd1NCT3RUdlpJRmd6V3JodVRmTW9FRGVEZWU2dzI4ejZkWExZbjJNR2k4X25Ec0NZbzMwMGFwSmtqWWhrd1U5TWNsUTN4dV9EVWY3OWdEREgtMWxkNEF4UXYzcG1RY2s5ck5ZWnBFdXBxajNrckdFVUFmZA?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "PE Notícias: 13º salário deve injetar R$ 11,9 bilhões na economia de Pernambuco em 2026",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVnAtd2xNSXBUSnY2Q3gzOTZYWV84YWt0ck16aHVCV051aVU4MDdxM1dPLTNkeTNPeXAzWm5EdTlHNW9ZQ3RzTGRmRGxUUlhvcTJ3d1JTaktubnp2ZnV0Mlc1Rk1mN2Q1ZndlMjFtQk5SdlBVWFdHZ0VjY2Uwbmp6OE96TndZN0NNczUtNVAtLXhBekFWRlBpb0lDTGFhWjdENTdKQUdCaw?oc=5"
+      "manchete": "Folha PE: Enem 2026: 2º dia de provas mobiliza mais de 280 mil estudantes em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQl8tQlBnRUIyMjA0WW9WZmNuMFpIYWNrSUNQNlZacFZnTllaNGVmYnloRGhuUm1ZYVNCM1E3d1VCbVh1MGNNTWpoN01YeGxkeUxtbGU3ZDRHUEo4YzJ6a0hUSUtoRTRrcmVyc3NkZ1FwSFMwbkZMUktaS3RvS3pMRjBGTldkb0pnZ2N1V09qQnBQRXVCZFVDN2stb2o0ay0wY2REYUpqTDJFQThHNEHSAbIBQVVfeXFMTXgzcUh0andyblJRUVduVEdaekZIM1MxRF9PS0ROQmN6MGpGaldZT1g2U24wcXRXdE5OWmY2bkxUaWQ0aUlacHhJcWk1dS1CSEc2dGg5aEhLejlZS0ZuM0hTMEZBdDNDTDFJWVU3R3AybF9LZTMxX1hkNWVYU0lQWER2RWRsbks0SG94eURVN1FEYi1idk5jbDZiX3JfS29pa2NheWoxeVBwS2R5ZlEwOC1Xdw?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Metrópoles: Morre Claudionor Germano, voz do frevo de Pernambuco, aos 94 anos",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnJ3LW1iZnZMN0pPbjVWTXlOSFhwZG90eEVUT2J0RDUtaTJBTXdCUGpvYVFHZkgxcGZSaTFSQnFvc1dpckxEOUR0SXp2OThTdGd0U2dlQS10RFJYQ3A0Nnh3SUR2WnNhVmZlbG9fZno2SFB3am9mTWZGZ1JpdWVRVnJaLXRxdFR2OGhGLWJrVGEzUWxtcTFDOTZvU0FxT2lma20xWU9n?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "O Cafezinho: Pernambuco tem 3.905 vagas abertas em concursos da segurança pública",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1NMLW1OS2dGeEdGcEctaDFHOGtZSnJ5ZVZGalNSNmpDNmhOMWFUQlh2bG9RSTFuTTh3bzZfbW5WWlltcGdqMmNrN0Q1Nkw1N0dOVGREUjhjQlh4Nkl0V01uUHdySVU2MVozRDRmemNaYXhTRVpUcGo4QUNQY0ZWVXdFRUdrcWZqeW43TFBMN09Zb1pQUGdLeDRPcDNBdFhYdmhfNDFkRUxzMGvSAbABQVVfeXFMTUxBVW83ZWJpdkJ4cmhCWGhubENtaXJxMWxiSUd0RVBIeGs0NlFteF8wbktzNFd3UkktaHc3aHdGOHFWaFIwYkI5QzNyQUJ6TkZkVzlQaVZoSlZXeGlISWc1QkdSNlpKN05weWhxcUZqU1JlMWFsOW5UNnd1YURzaEdpWmtXcnZ6OF9BUWpLSlNrZm81OUtTdHBNb2VNYWxnaUIyWVZoajNrMXVRbUp2eUo?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Arquidiocese de Olinda e Recife reúne fiéis no Recife para celebrar seus 350 anos",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVHhqZ0ZtdVNCMnRxWENKOGMzLUlyYWUzRHFQUFNqZU5RejM0S2pickplNTNGRGJkdld4akZTSDg3bVA4NU5jRWZMaEhCUTZMeE1ISlJRRTNhQzVkUF9rOWpSSzhRcUlLbUJTT25kekFFVTJrai01d2U2dlBPZ0JWT3ZYWXdSbkRuZVZaS0tEU0hqNjB6VG5LZlhXYm9hNTJnMnI0Ums5NEQ1OWxLVy1jc9IBtAFBVV95cUxPTVNEcGt2WmgwRmt2WGRiRHRtSVpHOGFaUFRQbUt0Z3N0bGppLXlYVkx3UkJkTU82RHVOMDdsdGNlZ1FGRnJBa0hia3c2djNqZHV5cDQ1dlp5Q0g2dW9uZGxkUnZjVm41OXVwdG0xYUY2b1RnRmc3UWtZVHl0RktQVUxETG5IbGtzdVl6LWoyT3FiaVlsMXZ5QXhsRk9RaUhfd29wWjJTVzAxNk84UUZWX3JTNFA?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
       "manchete": "RioMar Recife: Artesanato de Talentos inaugura edição de Natal",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQW54cXNfT1RYSXhHQWVfNmRxNnpmQThyVWE0dDNBU1BCNlhkeEtpMHBmRkVrSkRXa040MFdpUklVOFhUX1ZXeGN0M0pBQ2NvekxEcm1zcWRPWjRZbDRrclNoa1lUWDNGWHhUQnBkdnkzdHNEb0RQOEZYRkRoNDBTVlRNM1E0UF9tOXByT2lR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaktVZFBraGlHUDVpSG1NVnNqZU5jUjZBWlRfWEV0MDhodEhvdEFiWWYyeTlVRE9TcDlSMmNqTEZSWHd2SXcyU0ZIWHVOU2xyT3R5UldUNmFrWmZzOEZYSTh0ZUg5VG1yd1NrVWlZV2ZBWFFWYlk4TUctdUNlNE1JR3JrMmtQQVhSdjZMSHJSai1XTjA?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "UOL Notícias: Recife mapeia buracos nas ruas com sensor e IA",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSm9uWTQ4cmdmWS1ncFJSVkNaUjhydnhTdldneU1DVUFjX2ZNNHRuUFdJWjh4blJRYkpMNzlmTFZrWHBLWXYxYlN1RXFYWTZhZGJVWTJfTnJBWXJMMUotdlpRT2FVY21BR2gwM0d6cTBRa19KMGpwSlhad0t3MVJXY0lrNW1nR0s4N2FmWE9JMU9Rb3ltRTZEZC1XNmhhYUY2Y3FkUFlWbjFTSlVVbVZMOS1IZ0lwemVkT3NQYmpB?oc=5"
+      "manchete": "UOL: Céu encerra turnê de 20 anos de 1º disco no Recife: 'Pela democracia'",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhSQTBySVU5elpBeGo3aFhjOGtXQTc2Z2pjVjQtNlJ0dVNQeThCOFdaaDRLNjBDX3pfLWdFRWp3SURmS2lYRGtJSFZXSHVEa0xiNF84dW9seDVZMk1jenJDNHNlWXJfUlJPNkhHVktNbUc4bUhfUVkxOUFEczB2WTF6a25Dd2gwb2ViMHMwbk03dFBFcHpTejZXX0VsNFhRM0R5UGd4WVUxTzhuTzNwNXJJRk56a1g0akE?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Partido dos Trabalhadores: 19J-Recife-BrunoAlbuquerque-1",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkQ0UVY3V3dIM2N6X29sbE5VZlNPX0syeC1EZ0h1UlhRZnVQSEM4VzV0X28tRV9EOFZDajFrR01PV3RZMXlZbHppbWRvcUhiUFFNYk5Ta1AwN0ZpWVFjWk5RVC02R09WTWxwaVRtX0hfeFJhdmdlaFFxbmRWVTM4SUM5ZWswMDBtVmZ1Q0ZkSk51bjhEbWtyVEZjTldyeWFkZmJOTmE5MnNudFBVRkgzRXQzSzRKSnM?oc=5"
+      "manchete": "CBN Recife: Morre no Recife, aos 94 anos, Claudionor Germano, ‘A Voz do Frevo’",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDdsLWZNQzlmUE9PTDNtTS0yZkJqMDdHYTV6Vnh4SHA4MHpvelBqRXNCcjZlN0tCWGtSOG16OHNfQnJfaHJnRmpqM25KOUpNcFNubzRHTXJ5bFdWVjMwdVJjSGJyVVFwdTRBTEdGQV94VXVDSmRHLTJGdWRHdmVZWmNGM0pLYi1JSzhlMEVsazJsWUZLZVZvNVVlS1N6VHY5?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Fast Company Brasil: Maior que o Titanic, navio histórico é afundado para criar recife artificial",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHFwR1BCV3ZJVGItV2dScVM0SGQwMUNkbWp2b2tSTENJeGNvN0NqTHZMdmxZbmFodzlXaVhLMTVWQzl1VGotTTVocERCVWdoSUlMdnRfOEwtWmYxbHJMdlFFS0lQTkY4dkctYTByYTJySGpzQ1VzU09nS3dWczlhYTJzQXVFdW95QzdSNG1Wcy1CallmTlYwVG1MRW54bTNxYkZObEVnbjJjSC0xSlV2RWROeEM?oc=5"
+      "manchete": "Blog do Magno: Eudes Farias promove festa para crianças na comunidade de Paratibe",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNem5wdlNYNTJ5REhEVmlGTURNMzdJbkQ4a3V5SmRNMGQ3NnRpY0V0OWZONGJlWnc5R2U4RVh1VW80WjVtbjBMZ2F3dzJub2pZcTNOck45SDVyNmJuTUFGSGxCNU1VaEkybkFQX2x1MWNBR2VhYVdJM2dHN2YtSHdRbVpCNmlkcVBBZFdyN3huMnl1VFBzbHdmd0tB?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Estadão: De sensor para buracos de rua ao ‘Tinder do emprego’, como Recife usa a tecnologia na gestão urbana",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTmdyVmlGMlZKdDIzMDl3VGFTSHN2MERQbVVPREp0SDMySkFNb055UkVDdVY5RHp4M1E3QXg2ZU1oMzlxTDB3RWFidF8zejIyM2Fvb3dRbks1eTdxYWROQ2ZnLXl5aThpSHFoRGpWUmticlN6NE11WTJQbzBnR1I4UHE1cjlHUEs0NHJfWGdaMmFWa0h2U2xsSkhOQUx6cC0wLTA5RjJYSU5iUXh6Tzd3dHI1a2VQa2pmZUVjQ25tUHhaTEFEYkctNUZUcXdpSldleThkb3lB?oc=5"
+      "manchete": "Terra: Fuga em presídio do Recife: saiba quem são os detentos procurados pela polícia",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUHRnaTYxd1k3dTNWZlFqcVhrNWwwM1lkaHlEazZydnZtWjRyZzhWTXF1eXBtNDhNWVVGRWplQnhSSFRZVzhoYWFsY0pLbzN1WXpOWjJ0bHY5N0RzZ0JVaWVUOFFuOUVrUzVScjBKdktwRHVkTVJ3cTdxQzBQUjIzVXMxVUlRcW5jVFBSVlFvU0p5MFJJT0pPNW9leEp5M1hTYnNwVDFPVnA2SEdSSUxTMzlCb1RoVTBpeWJBdWVjeUNoZkpnTnppZ1UzX0paWFZaMGpUbnd3VXhuSnJyc2VuTFdNT2V6WWlPV2Y5c1c4SGRwOU9tWXhVaEVrc2RJbGM4N1E?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -221,20 +239,32 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Fuga em presídio do Recife: saiba quem são os detentos que são procurados",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNalExdV9NUmIwcEotbW1DMEdOTVY5c1BNZHFJbVpkREY2X01mOWg3dXFVVGJWd3ZaNkhIeHRhZGVvR0JZUERCOTd4TVhyU05QOURtUlJabWtobWhRdUVybjE5N1NzR3B5YWhqcEtKM0tVT0pJaW5oUUtHX1QzTzAwUGlGWHhzVURKWE4wQ0V5TWZLMmZEdnoxdkdtN2FXN1lxMHVxcmJmSWxXeWhhQXZERlBNSXc1amtNYWxrMjVySV9wNmkzMEl3VWNOcnZGSHNDMGJSYm05dFBiSmJDanY0dFVYbVdVLVRkdlM0Yjg0QlY1NG95MlNpRDZ0VQ?oc=5"
+      "manchete": "Blog do Magno: Lula Cabral condena vandalismo contra símbolo de combate ao feminicídio no Cabo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSXFrNXgxVFJ0dDZBdU5KcmdUZjV3N0dzbUM0Vm5GZXoycG04ajRtSlI0NUMxaVZ1WjduQjFLWHlRbGRrbnUyMzBGaDVrRy1YUndUanhaN1pzUW5IX2FQUUVDWnVEQmpZendPdGpKYzV5eWNFcGdlamdTR1ljM1BxenBIWm11QWp0Y2xYOHdIV3VJaUJsQmV5SXAzRFJzbGNLU0plQW9EQXlKMGM?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Paulista também debate o pós-eleição no Brasil na próxima quinta-feira",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGlsRWw4bnV0bnhwbVc2UlpoZjN3UGxmUEV1VE5qMnE0d0JERzdmaS00eWN5OHFKaVlCWG9hekRLOVM2UUtTaS1DdElqdVA0ZnExRGk3OXIxNjhzcHdWQWJNT1lVUjVUMl9PbS0zWFRKRF9XT2ctVWNaZXNnQWktVDJZbHllSnNCa1U2S1Q3Vk9OdTY2ejVNUWMwNlQwalU?oc=5"
+      "manchete": "PE Notícias: Raquel Lyra inicia conversas no PSD para definir candidato à presidência da Alepe",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2U4TTQtLU5hMXlybXNzZGp6aDVjQkJYMDFObVN3czVKNnhqRGk4LTJ1eHU1cS1aY1JNRXJzNEZDdEVKVnd0c1dJWWZPR2FDZ05wR0NPd2NIRi1IVXFJNGlIOTFtYUhpd0lQQkxLTWZyMm1qS0NLeEVzUTJ6OU54LUhEYmpkd0ZHU09iVXg5WG8wcE5leDhNZk1wRGlSelN5bnpUbjVNSlBOU2laWnpMRHotQQ?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Fique Sabendo PE: Governo de Pernambuco inicia atividades do 17º Festival de Cinema de Triunfo com oficina de crítica cinematográfica",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMXBlN3ZFdjlvcG9iSDZQNlZJWjFnM184cGwxdy05dnNPX2x2NU8zMWY0OXgtYzdGTlpoMGZ6ZmdnRTczRVdodXptSVdaOE9iWEFURUV5TWFxcGo3OVFPZUxoUVNWVHdCNGNxZUdSME96NnN2YWhSRWRaNGpTcFJrd0c0SG80NTV2Vk82VDUwUWpfZ0tNTS1mOFBJUl9DelpsTHFKOGI1WldFbFJkLUFmU3Zzb3JWZk1Kd1RHWVQxeGk2MWxyb1k0ZEhBVVdubHAzNG9ITjc3cEpYSE0?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "CBN Recife: Opinião | Desafios internos",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUhIdkxkMjRFc1dxWUpnNi1jUHBZQWhSOF9iR0dKWUl3VzBJNlJQRHVTN0RNZGFRckJkNGFFQWRMNUlXTi1xQnB0WHAyZVBEamtfeGVCRmcwSmxZM1FKSkhsX3VKQUJIOFNTNDVqWVVVRWJ4MFhtMm1vdG52UDdWMG5mcUQ?oc=5"
     }
   ],
   "picos": [
     {
       "termo": "Lula propõe",
-      "razao_aumento": 125.0,
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Partido dos Trabalhadores",
@@ -245,32 +275,8 @@
       }
     },
     {
-      "termo": "pedido para reabrir",
-      "razao_aumento": 125.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-11-15T00:00:00Z",
-        "titulo": "Painel: Ministério Público nega pedido para reabrir caso da rachadinha contra Flávio Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWgxTjVxTzJrd3ZTcmxIRlFGX1pocVpHNUdqRC0yLV8xem1SVEE1ZWNoQ2wxMEg3Z0VPR2w4MF94enc5WFZKdjZLWEVzUUFRd0hTT21YTXFsNUhqQ0hmTl9GOUE5ZDRmWlpLT0JWbE1LMEZxaWtIaE9kVi02VkVPRmo0UkhzMnAwLUMwWVNOVnFGQ3hra25NWlJVS0pKZnBYQUI3dzBkS0hyZHhYMDlOZG5GUWJuYktxcTBobmEtWFRFUnNmMlVNeDYzWFV4b29XZm1VMHpsTWVZME5NdGc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "rachadinha contra Flávio",
-      "razao_aumento": 125.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-11-15T00:00:00Z",
-        "titulo": "Painel: Ministério Público nega pedido para reabrir caso da rachadinha contra Flávio Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWgxTjVxTzJrd3ZTcmxIRlFGX1pocVpHNUdqRC0yLV8xem1SVEE1ZWNoQ2wxMEg3Z0VPR2w4MF94enc5WFZKdjZLWEVzUUFRd0hTT21YTXFsNUhqQ0hmTl9GOUE5ZDRmWlpLT0JWbE1LMEZxaWtIaE9kVi02VkVPRmo0UkhzMnAwLUMwWVNOVnFGQ3hra25NWlJVS0pKZnBYQUI3dzBkS0hyZHhYMDlOZG5GUWJuYktxcTBobmEtWFRFUnNmMlVNeDYzWFV4b29XZm1VMHpsTWVZME5NdGc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Hamas",
-      "razao_aumento": 125.0,
+      "termo": "HAMAS",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Diário 360 Notícias",
@@ -281,8 +287,8 @@
       }
     },
     {
-      "termo": "Irã e Hamas",
-      "razao_aumento": 125.0,
+      "termo": "IRÃ E HAMAS",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Diário 360 Notícias",
@@ -293,32 +299,8 @@
       }
     },
     {
-      "termo": "Ministério Público",
-      "razao_aumento": 121.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-11-15T00:00:00Z",
-        "titulo": "Painel: Ministério Público nega pedido para reabrir caso da rachadinha contra Flávio Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWgxTjVxTzJrd3ZTcmxIRlFGX1pocVpHNUdqRC0yLV8xem1SVEE1ZWNoQ2wxMEg3Z0VPR2w4MF94enc5WFZKdjZLWEVzUUFRd0hTT21YTXFsNUhqQ0hmTl9GOUE5ZDRmWlpLT0JWbE1LMEZxaWtIaE9kVi02VkVPRmo0UkhzMnAwLUMwWVNOVnFGQ3hra25NWlJVS0pKZnBYQUI3dzBkS0hyZHhYMDlOZG5GUWJuYktxcTBobmEtWFRFUnNmMlVNeDYzWFV4b29XZm1VMHpsTWVZME5NdGc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Ministério",
-      "razao_aumento": 105.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Folha de S.Paulo",
-        "hora": "2026-11-15T00:00:00Z",
-        "titulo": "Painel: Ministério Público nega pedido para reabrir caso da rachadinha contra Flávio Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWgxTjVxTzJrd3ZTcmxIRlFGX1pocVpHNUdqRC0yLV8xem1SVEE1ZWNoQ2wxMEg3Z0VPR2w4MF94enc5WFZKdjZLWEVzUUFRd0hTT21YTXFsNUhqQ0hmTl9GOUE5ZDRmWlpLT0JWbE1LMEZxaWtIaE9kVi02VkVPRmo0UkhzMnAwLUMwWVNOVnFGQ3hra25NWlJVS0pKZnBYQUI3dzBkS0hyZHhYMDlOZG5GUWJuYktxcTBobmEtWFRFUnNmMlVNeDYzWFV4b29XZm1VMHpsTWVZME5NdGc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Bolsonaro ao plenário",
-      "razao_aumento": 90.9,
+      "termo": "Kassio",
+      "razao_aumento": 82.2,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "CNN Brasil",
@@ -327,278 +309,326 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHl6LVg0NlZUN3N3VHJGUGFxQU5VLWwtU2FBY01JV2ZiM0Y4UEZPSm43VFpncWhKSzBQWFZ4SmRTS0tUVjZCRXp4QTJ3YWFJdXhkWXNMMzdkSGtEc2NIZnhORVlENkdENUp0T3lWYnVzRC1qWC1BNWF0Zm1hblJQMnUtamFCZmpMbVFHcUdvdC1tMTVsbVNMS2xQWDVLdXk1RlhoTnhUdVRfd0hVV2c?oc=5",
         "peso": 1.0
       }
+    },
+    {
+      "termo": "levar revisão",
+      "razao_aumento": 78.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "CNN Brasil",
+        "hora": "2026-11-15T07:15:14Z",
+        "titulo": "Após parecer da PGR, Kassio deve levar revisão de Bolsonaro ao plenário",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHl6LVg0NlZUN3N3VHJGUGFxQU5VLWwtU2FBY01JV2ZiM0Y4UEZPSm43VFpncWhKSzBQWFZ4SmRTS0tUVjZCRXp4QTJ3YWFJdXhkWXNMMzdkSGtEc2NIZnhORVlENkdENUp0T3lWYnVzRC1qWC1BNWF0Zm1hblJQMnUtamFCZmpMbVFHcUdvdC1tMTVsbVNMS2xQWDVLdXk1RlhoTnhUdVRfd0hVV2c?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "mil por mês",
+      "razao_aumento": 76.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O Potiguar",
+        "hora": "2026-11-15T17:40:46Z",
+        "titulo": "Após derrota para Lula, Flávio Bolsonaro procura mansão de luxo nos EUA com aluguel de até R$ 85 mil por mês",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmFqcV9uTUM4eUoxeVJ2dEt1ZnV2Mm8ySW9PYmw4VTN2amtYaVVsdW9qZk9zSUFnUGplc1FGbGd6UVJSeTVRVTJPeFVDX3ZxZTZFZVVQNE1VZmpNWmd6MjM4bms5eldtZTZjNmJmcExUVGtvZXIzSWxKa3ozX0szUTcyR202TUdhNjEzT3h4YmI0SnhCc3pZYmZGR3dwd1lxV1FTY0tmN3hfSEVoZzlWbEk2WWh6LUVGN1dpU2E4NHNTUkNjQ1JIOURwNmNlcDNx?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "plenário do STF",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "TV Sim Brasil",
+        "hora": "2026-11-15T07:58:45Z",
+        "titulo": "Kassio leva revisão criminal de Bolsonaro ao plenário do STF",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0QzaEFyVlhXZDdTQkU0Rm91V1NCd1l5SUo1MlRacTcweF9KenZpNGtKY1NSRjZjZjZIeFZHM1JFMEZRczZQcTBWWU1fdl9kOE4yVVFsT0dBalR3Ykk4LXE2M01jWWdiX0pJWUY2aER1VHJCQVl2ZG0ybC1Cam1DOVlreXZZZ0p4cnBtbC1ScllQTEZhZFZZbFltUmN5S1dmem9Na2YzSVZfalE3UzV1TUV5cw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Nunes Marques",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Portal da Abelhinha",
+        "hora": "2026-11-15T14:43:49Z",
+        "titulo": "Nunes Marques deve levar revisão da condenação de Bolsonaro ao plenário do STF após parecer da PGR",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVk13bXpXTWRSNmVIUlBFZ1R5bW5qWU5VVXY4d0l0NWp0T1FHQlpvQWw1QnVialFrbGFsUkpEZDVHSlNwWlBORmZsRHVGbGl3ZHkwd25FVG84YlFLdWxMWGhiX3VjM042MTlOZEp6ZWd5THRZMWFoTXNNOXR6MGJqZGdXdmw0YVl5WkRNLXBxZ0JIc2d2UkdsWTNUbkJDYUpFVWdIS3Rla1RscUpyeEpKdXVjUHlYdDhNV1pLZ25JX3NEeHl6MDRyeGt2VUg?oc=5",
+        "peso": 1.0
+      }
     }
   ],
   "nuvem": [
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 22.3,
-      "fontes_distintas": 23
+      "fatia_pct": 25.33,
+      "fontes_distintas": 27
     },
     {
       "termo": "Lula",
-      "peso_relativo": 78.8,
-      "fatia_pct": 17.57,
-      "fontes_distintas": 19
+      "peso_relativo": 76.3,
+      "fatia_pct": 19.33,
+      "fontes_distintas": 20
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 66.7,
-      "fatia_pct": 14.86,
-      "fontes_distintas": 16
+      "peso_relativo": 65.8,
+      "fatia_pct": 16.67,
+      "fontes_distintas": 19
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 63.6,
-      "fatia_pct": 14.19,
-      "fontes_distintas": 16
+      "peso_relativo": 63.2,
+      "fatia_pct": 16.0,
+      "fontes_distintas": 19
     },
     {
-      "termo": "Raquel",
-      "peso_relativo": 27.3,
-      "fatia_pct": 6.08,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Filipinas",
-      "peso_relativo": 21.2,
-      "fatia_pct": 4.73,
+      "termo": "Brasil",
+      "peso_relativo": 21.1,
+      "fatia_pct": 5.33,
       "fontes_distintas": 6
     },
     {
-      "termo": "Lyra",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
-      "fontes_distintas": 5
+      "termo": "Raquel",
+      "peso_relativo": 15.8,
+      "fatia_pct": 4.0,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
+      "termo": "Filipinas",
+      "peso_relativo": 15.8,
+      "fatia_pct": 4.0,
       "fontes_distintas": 5
     },
     {
       "termo": "STF",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Bolsonaro ao plenário",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
+      "peso_relativo": 15.8,
+      "fatia_pct": 4.0,
       "fontes_distintas": 6
     },
     {
-      "termo": "Fool",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
+      "termo": "Bolsonaro ao plenário",
+      "peso_relativo": 15.8,
+      "fatia_pct": 4.0,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Inglaterra",
+      "peso_relativo": 15.8,
+      "fatia_pct": 4.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "Love",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
+      "termo": "Simaria",
+      "peso_relativo": 15.0,
+      "fatia_pct": 3.8,
       "fontes_distintas": 1
     },
     {
-      "termo": "EP12",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
+      "termo": "Acerte",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.6,
       "fontes_distintas": 1
     },
     {
-      "termo": "Fool In",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
+      "termo": "Caia",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.6,
       "fontes_distintas": 1
     },
     {
-      "termo": "In Love",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
+      "termo": "Acerte Ou Caia",
+      "peso_relativo": 14.2,
+      "fatia_pct": 3.6,
       "fontes_distintas": 1
     },
     {
-      "termo": "Love EP12",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Fool In Love",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "In Love EP12",
-      "peso_relativo": 18.2,
-      "fatia_pct": 4.05,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "NFLno",
-      "peso_relativo": 17.3,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Sportv",
-      "peso_relativo": 17.3,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "NFLno Sportv",
-      "peso_relativo": 17.3,
-      "fatia_pct": 3.85,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Patriots",
-      "peso_relativo": 16.4,
-      "fatia_pct": 3.65,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "ASEAN",
-      "peso_relativo": 15.2,
-      "fatia_pct": 3.38,
+      "termo": "Claudionor",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.53,
       "fontes_distintas": 3
     },
     {
-      "termo": "Brasil",
-      "peso_relativo": 15.2,
-      "fatia_pct": 3.38,
-      "fontes_distintas": 5
+      "termo": "Germano",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.53,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Claudionor Germano",
+      "peso_relativo": 13.9,
+      "fatia_pct": 3.53,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Vikings",
+      "peso_relativo": 13.4,
+      "fatia_pct": 3.4,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.33,
+      "fontes_distintas": 3
     },
     {
       "termo": "levar revisão",
-      "peso_relativo": 15.2,
-      "fatia_pct": 3.38,
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.33,
       "fontes_distintas": 5
     },
     {
-      "termo": "EVEN",
-      "peso_relativo": 14.5,
-      "fatia_pct": 3.24,
+      "termo": "plenário do STF",
+      "peso_relativo": 13.2,
+      "fatia_pct": 3.33,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Tuchel",
+      "peso_relativo": 12.6,
+      "fatia_pct": 3.2,
       "fontes_distintas": 1
     },
     {
-      "termo": "MATTER",
-      "peso_relativo": 14.5,
-      "fatia_pct": 3.24,
+      "termo": "Bruno",
+      "peso_relativo": 11.8,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "I EVEN",
-      "peso_relativo": 14.5,
-      "fatia_pct": 3.24,
+      "termo": "Henrique",
+      "peso_relativo": 11.8,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "EVEN MATTER",
-      "peso_relativo": 14.5,
-      "fatia_pct": 3.24,
+      "termo": "Bruno Henrique",
+      "peso_relativo": 11.8,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "I EVEN MATTER",
-      "peso_relativo": 14.5,
-      "fatia_pct": 3.24,
+      "termo": "Mahomes",
+      "peso_relativo": 11.1,
+      "fatia_pct": 2.8,
       "fontes_distintas": 1
     },
     {
-      "termo": "Enem",
-      "peso_relativo": 13.9,
-      "fatia_pct": 3.11,
+      "termo": "Lyra",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "PT",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Ajuste fiscal",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Feminina",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
       "fontes_distintas": 2
     },
     {
-      "termo": "Fallen",
-      "peso_relativo": 13.6,
-      "fatia_pct": 3.04,
-      "fontes_distintas": 1
+      "termo": "Bolsonaro procura",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Domingo",
-      "peso_relativo": 12.7,
-      "fatia_pct": 2.84,
-      "fontes_distintas": 1
+      "termo": "Flávio Bolsonaro procura",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Legal",
-      "peso_relativo": 12.7,
-      "fatia_pct": 2.84,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Domingo Legal",
-      "peso_relativo": 12.7,
-      "fatia_pct": 2.84,
-      "fontes_distintas": 1
+      "termo": "luxo nos EUA",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 4
     },
     {
       "termo": "Kassio",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.7,
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
       "fontes_distintas": 4
     },
     {
       "termo": "revisão criminal",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.7,
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
       "fontes_distintas": 4
     },
     {
       "termo": "criminal de Bolsonaro",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.7,
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.67,
       "fontes_distintas": 4
     },
     {
-      "termo": "plenário do STF",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Jones",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.64,
+      "termo": "Packers",
+      "peso_relativo": 10.3,
+      "fatia_pct": 2.6,
       "fontes_distintas": 1
     },
     {
-      "termo": "Bom Enem",
-      "peso_relativo": 10.9,
-      "fatia_pct": 2.43,
+      "termo": "Ferroviária",
+      "peso_relativo": 9.5,
+      "fatia_pct": 2.4,
       "fontes_distintas": 1
     },
     {
-      "termo": "Good",
-      "peso_relativo": 10.0,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 1
+      "termo": "PL",
+      "peso_relativo": 7.9,
+      "fatia_pct": 2.0,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Series",
-      "peso_relativo": 10.0,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 1
+      "termo": "ASEAN",
+      "peso_relativo": 7.9,
+      "fatia_pct": 2.0,
+      "fontes_distintas": 2
     },
     {
-      "termo": "Good Boy",
-      "peso_relativo": 10.0,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 1
+      "termo": "Alckmin",
+      "peso_relativo": 7.9,
+      "fatia_pct": 2.0,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Boy Series",
-      "peso_relativo": 10.0,
-      "fatia_pct": 2.23,
-      "fontes_distintas": 1
+      "termo": "presidente Lula",
+      "peso_relativo": 7.9,
+      "fatia_pct": 2.0,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Mesmo",
+      "peso_relativo": 7.9,
+      "fatia_pct": 2.0,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "derrota de Flávio",
+      "peso_relativo": 7.9,
+      "fatia_pct": 2.0,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "Nunes",
+      "peso_relativo": 7.9,
+      "fatia_pct": 2.0,
+      "fontes_distintas": 3
     }
   ]
 }
