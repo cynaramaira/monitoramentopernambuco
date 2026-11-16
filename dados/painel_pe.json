@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-16T02:00:04Z",
-  "total_analisado": 116,
+  "atualizado_em": "2026-11-16T09:35:00Z",
+  "total_analisado": 117,
   "x_recife": [
     {
-      "termo": "#NFLnoSportv",
+      "termo": "Caruaru",
       "posicao": 1,
-      "variacao": "+10",
-      "direcao": "sobe",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Caruaru",
+      "ruido": false
+    },
+    {
+      "termo": "Jones",
+      "posicao": 2,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Jones",
+      "ruido": false
+    },
+    {
+      "termo": "Bran",
+      "posicao": 3,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Bran",
+      "ruido": false
+    },
+    {
+      "termo": "#AVigilia",
+      "posicao": 4,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23AVigilia",
+      "ruido": false
+    },
+    {
+      "termo": "#ExercitoContraMentiras",
+      "posicao": 5,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23ExercitoContraMentiras",
+      "ruido": false
+    },
+    {
+      "termo": "#LulaConfiamosEmVoce",
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23LulaConfiamosEmVoce",
+      "ruido": false
+    },
+    {
+      "termo": "elise",
+      "posicao": 7,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=elise",
+      "ruido": false
+    },
+    {
+      "termo": "#NFLnoSportv",
+      "posicao": 8,
+      "variacao": "-3",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23NFLnoSportv",
       "ruido": false
     },
     {
-      "termo": "#Fantastico",
-      "posicao": 2,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23Fantastico",
-      "ruido": false
-    },
-    {
       "termo": "#ProvaDeFogo",
-      "posicao": 3,
-      "variacao": "NOVO",
-      "direcao": "novo",
+      "posicao": 9,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=%23ProvaDeFogo",
       "ruido": false
     },
     {
-      "termo": "#Enem2026",
-      "posicao": 4,
-      "variacao": "-2",
+      "termo": "The Body",
+      "posicao": 10,
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23Enem2026",
+      "url": "https://x.com/search?q=The%20Body",
+      "ruido": false
+    },
+    {
+      "termo": "anya",
+      "posicao": 11,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=anya",
+      "ruido": false
+    },
+    {
+      "termo": "PSOL",
+      "posicao": 12,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=PSOL",
+      "ruido": false
+    },
+    {
+      "termo": "Eileen",
+      "posicao": 13,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Eileen",
+      "ruido": false
+    },
+    {
+      "termo": "Janones",
+      "posicao": 14,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Janones",
+      "ruido": false
+    },
+    {
+      "termo": "lisbeth",
+      "posicao": 15,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=lisbeth",
       "ruido": false
     },
     {
       "termo": "Simaria",
-      "posicao": 5,
-      "variacao": "-2",
-      "direcao": "cai",
+      "posicao": 16,
+      "variacao": "NOVO",
+      "direcao": "novo",
       "url": "https://x.com/search?q=Simaria",
       "ruido": false
     },
     {
-      "termo": "#DançaDosFamosos",
-      "posicao": 6,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23Dan%C3%A7aDosFamosos",
-      "ruido": false
-    },
-    {
-      "termo": "49ers",
-      "posicao": 7,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=49ers",
-      "ruido": false
-    },
-    {
-      "termo": "Acertei",
-      "posicao": 8,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Acertei",
-      "ruido": false
-    },
-    {
-      "termo": "Bengals",
-      "posicao": 9,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Bengals",
-      "ruido": false
-    },
-    {
-      "termo": "José",
-      "posicao": 10,
+      "termo": "Fallen",
+      "posicao": 17,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Jos%C3%A9",
-      "ruido": false
-    },
-    {
-      "termo": "Dallas",
-      "posicao": 11,
-      "variacao": "+7",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Dallas",
-      "ruido": false
-    },
-    {
-      "termo": "Pedro Scooby",
-      "posicao": 12,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Pedro%20Scooby",
+      "url": "https://x.com/search?q=Fallen",
       "ruido": false
     },
     {
       "termo": "Inglaterra",
-      "posicao": 13,
-      "variacao": "-5",
-      "direcao": "cai",
+      "posicao": 18,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Inglaterra",
       "ruido": false
     },
     {
-      "termo": "INEP",
-      "posicao": 14,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=INEP",
-      "ruido": false
-    },
-    {
-      "termo": "Cowboys",
-      "posicao": 15,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Cowboys",
-      "ruido": false
-    },
-    {
-      "termo": "Chutei",
-      "posicao": 16,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Chutei",
-      "ruido": false
-    },
-    {
-      "termo": "Correios",
-      "posicao": 17,
-      "variacao": "+5",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Correios",
-      "ruido": false
-    },
-    {
-      "termo": "Axé Brasil",
-      "posicao": 18,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Ax%C3%A9%20Brasil",
-      "ruido": false
-    },
-    {
-      "termo": "Marquei",
+      "termo": "o ao3 voltou",
       "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Marquei",
-      "ruido": false
-    },
-    {
-      "termo": "Espanha",
-      "posicao": 20,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Espanha",
+      "url": "https://x.com/search?q=o%20ao3%20voltou",
+      "ruido": false
+    },
+    {
+      "termo": "CONGRATULATIONS BTS",
+      "posicao": 20,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
       "ruido": false
     }
   ],
@@ -167,14 +167,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Estudantes do Recife avaliam segundo dia de provas do Enem 2026",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVGNHcXhxU0VLUUdzeDBUbVFWZmJpR1ViZ0JXaTNpbUhqeWR6NFV2VjIxZm9CenByU2QtZ0VyUElnbFU1UTBHUE95VGM2dGdZRkVmVlZSR3ZVNFFaY2VMSzM5dzNCWmVfTGI3VUk2eEh6M1RnVVNYbTBkeWhTVEo5aEZZd1dTVkt1a21BdGlpeFo5YWxIT3pqMWRJT2F2cVJZYXdpb0wzbXhLZDBHMVVLa0xIbG93SDNQbWp6MnBselQtZWZ1UHZyVzhR0gHKAUFVX3lxTE5UY0dxeHFTRUtRR3N4MFRtUVZmYmlHVWJnQldpM2ltSGp5ZHo0VXZWMjFmb0J6cHJTZC1nRXJQSWdsVTVRMEdQT3lUYzZ0Z1lGRWZWVlJHdlU0UVpjZUxLMzl3M0JaZV9MYjdVSTZ4SHozVGdVU1htMGR5aFNUSjloRll3V1NWS3VrbUF0aWl4WjlhbEhPemoxZElPYXZxUllhd2lvTDNteEtkMEcxVUtrTEhsb3dIM1BtanoycGx6VC1lZnVQdnJXOFE?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Terra: Apac renova aviso de chuva para Pernambuco na noite deste domingo (15) em três regiões; veja quais",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZmQya3ptYmVfa3FDRklkVHVFeVVPdFNYZWVYNWZXT2VxdndKUmdabFdsMnFIS1l1ZXhsLUdqVjJtN1BSelRMWnBlblplR0hOZGY2TklRbU0zaFRLMFpkQkFfRXJWYWViVW8xQm82V09FMlhmUU0yUmYtNWlDOFNHR1Yxb0pRMFBET3lWSXNlM0V5Nm55LWlrOTZZUGd6YjdoSTJMVk1GYjZ4Y2xJaElyb3laWVFmN2ZjSk5EWmVwb1BHV0xVM2Vjc19ndDBJeEoyNjFIMHZxeF8taU9QTUdSZmZaQVRPbFl1Tm1BaDZ6anNUTUNGdXlidmd3TlpNS0lSNU9TS3NKd3FNenVrYi1NS2RCUGx5NVp5MEN5WHNR?oc=5"
+      "manchete": "G1: Tremor é sentido em Caruaru, e moradores relatam barulho de explosão",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUpQamxSdzlhOHluX2laZnVzck5ZTzExeVZDRWRJNjE1cWFzMWRYWlVBTmhmOEY5U1E3Q211SFpsNmRBMTc1OU5paDBCbEhOeDFheEdOdVNuUnk4dHpCTS1CUFlPVGtGUEZOX1lodENlbkI5Q0pPWWp1QTBnQzNfM3ZsQlQwem1uUHhwNk1pemdxVTRZRlHSAaQBQVVfeXFMTmRuOXRTZGRtZ1BwaHBRa2ZkVUttRDkyeC16MjZLSk9nRXFBM3U2aGlQS0JoUjRFcHhUM2ZpanNqbXVSZ2ZzMDVFbUg5MXJ6bmViaExwdHl6LTVOTnppbS1aTkdnYm9sMXQxbFhfa05Edm91aW1mS0owQThzUFJPXzdvd0RLbTF4UTNTVlNYeHAzSm1WaWoyaDE2eDZObFF3d3ZWdVA?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -185,56 +179,62 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "- Blog Dellas: Claudionor Germano, voz do frevo e Patrimônio de Pernambuco,morre aos 94 anos -",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObi1Jb3RMZzA3Z2NZTkZjbzBIVjh1ckRjRUZ6MXBrOWRRc0ZnaVdXM0NZd1NCT3RUdlpJRmd6V3JodVRmTW9FRGVEZWU2dzI4ejZkWExZbjJNR2k4X25Ec0NZbzMwMGFwSmtqWWhrd1U5TWNsUTN4dV9EVWY3OWdEREgtMWxkNEF4UXYzcG1RY2s5ck5ZWnBFdXBxajNrckdFVUFmZA?oc=5"
+      "manchete": "Movimento Econômico: Pernambuco reduz pela metade imposto sobre doações até maio de 2027",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2xyRFNEVV9RenhFeHU0dW83YXFOSTE5OGh0OWwwdm5VNlp6b0VTSnh2TWcyM1lWNkNLT1pHdVVlb3ROakkxT2JISGpIbmZJNUJmM2NhcFpsTFhIakVwQVczWl9rWUE3aldwbTZZazhENEl3N2I0T3R5ZWdGdm1jU1lOZXNCdFI1cGJma2s4Szh0QlE2TzBfdHVKT21LNDlIY284ME1PVTBMMDFDU0MxVTB6aXRGSDEwOTFyM3RsWE5ESmJhMlhxSkRxaE85cm1JUkotbFFUWGtrcjFNS1p3UXlfZkJWdw?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Folha de S.Paulo: Morre Claudionor Germano, aos 94, ídolo do frevo e patrimônio de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3NzVGVJMTV1aHNVOUlNOVFPMUZFMnhwLUppRzZzWERLUFdJWHVYMzhpN2hFR3VVY09tOFhtQWZNdEQ1bVBCb29sSnFORzVVOXlZQVd4VEtjUHRqR1FkZFZ4RkkwaGoxaHI0bTlvNXk3bFI2ZWp1RHJ5TXlkQjBKQlhEN2hHSmdNTnhmdzQ2aGh5eWxsVURWMUN0RnZwX1psM2g4LUVhandNZWtoWkF0NHVNUXdhRXd5SE9zYjFmcmg3dl9BM1E?oc=5"
+      "manchete": "Diario de Pernambuco: Pernambuco tem alta de 69,5% nas infrações de trânsito, com destaque para excesso de velocidade",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWTRRTkwtS3g4OXFyNmF6WVUxbUJUQldOQ2sxbzBmdFJwX19xYUlkSkVJVGdOOVZOc19GbWlvZTI4N1R2aXM5ZDR1eElfNjVuaXZMQ0poVUxvcmVhMUh1TWlBbnctTm84ZjFxRE9CX1dZbEV0S1JaSkVGN3U3bG4zRnptYlpsQXN2LTQ3RUU1TFR5dDd6VzFldGVUTjZpdm5ZS2VOZmJTOVlPS1RmYzZMcU5MdjVpVVc0ODRvTTlDT1diYUI2NWVQZG9YS0s1b3dHNmExMVpxT0pNVFkwVlQtRWJhTDZLZDAtN1diOW84SkM3bkNvQXhB?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Espaço do Povo: Claudionor Germano morre aos 94; título de Patrimônio Vivo dá bolsa de R$ 1.600",
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNXRyMk1renpsdDI0V09wRE1pMnhGdDR5M1hBdVJuelQ2ckEtc2pYSElZZjRZM2Q1akJxUnFTOUxodjVVR05wYVFOQWQ4TVE1OER1aVZmYTdRWmdVWmxOREhaa29feE1iZGJETWdxUjRWZVNaT1NjWHpSVE9ySDBzak5LRmdyMDJWQ3pzem01TEhHZHBpbHFOa0t1U3k2elFWeVhxdEFoVndTUmhNbXd1QUt1YTdxUllOS2F1b3hZd3QxUFFOaUhTQVZKbGpRUGprTXlnUHF5TFJZcUZCMjhuN1dXT2ZwSnVEa1NFeWhaX2J5b1NUMGVsOXRLVldsbmYzeWRwckFEakzSAZcCQVVfeXFMUDI4ajY3LUVXbnRtUE5ORzZ2OVBadjZxaEd2S3A4bWZDMnFmRVp1dkVxWlNvRTBPYnRnVGh4eUZiNXdPcmdOQUkxdnRxbmFOVUM3Rlk5d0ZEcFhCOTVjcE9LYXBUS2l0Zmx0U1A3elVlWlpjaFF3RHZtTTQ0SFFpX2dPMEJNd2F0My05V1F4czN6VDBldl95cElvUVJhWVRFX21ILVFRaTl1dm5TTDlRazVZUTRUc3B4dGdOTG1CQ3g0b1B5eWRycXNxMXgxVU1aRjYwWjF3YzU0VTNlNkF1Z05lYTA5dndKTDdSVnEtWEl5aUNBajRMNW9VcWRJZVB5aF85bEJfZDhUdC1seVNzb0trblFxTktF?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Espaço do Povo: Claudionor Germano, uma das vozes do frevo, morre aos 94 anos no Recife",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGRFQ1ZsaUUwNjUwVFM1YjlmcHRJcEpqa3l5b1lGR3NRMU1tc1JtbHFIcFJrRTcwcjVlUnNvUUotNXBlYllZNlhrcXhJZ1hwaDh0eVJJZzBSQURzNkthREtteElLX3ZMbG9CX0xhWF9pYUNuT01jVXVqSnhKMm1qSG9pTWZLek1jaGJR?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Claudionor Germano será velado no Recife e em Paulista nesta segunda-feira (16)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFpDOGs3RGRtQ2ZCSG1pMS1aVXF2ZTVCMmJ5elF1bDZXSGpPa1V0TDNfM0Y4ZFdNUUlzaGNLc3ctMmYxRUxFa3RhTXotMU9LNnhST3Y2UUtBckUzSkxmM09CWlpSZXpqcW1nMTJSMXBudGZkWUZINUVjb2habXJwQWtCUV92a0NCeThUOEh3ZXBfM0F4TXZ4bjJIR3A3eVFYMnlZREx6cGVQQVnSAasBQVVfeXFMT3BaQzhrN0RkbUNmQkhtaTEtWlVxdmU1QjJieXpRdWw2V0hqT2tVdEwzXzNGOGRXTVFJc2hjS3N3LTJmMUVMRWt0YU16LTFPSzZ4Uk92NlFLQXJFM0pMZjNPQlpaUmV6anFtZzEyUjFwbnRmZFlGSDVFY29oWm1ycEFrQlFfdmtDQnk4VDhId2VwXzNBeE12eG4ySEdwN3lRWDJ5WURMenBlUEFZ?oc=5"
+      "manchete": "Rádio Cidade 99.7 FM: Claudionor Germano será velado nesta segunda-feira (16) no Recife e em Paulista",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDAzX2NpRW1fZEdpbXZOLWRxWm54bUJJS0ZXMjBCMXZNcUJFVDdidGpXYTgtWUlKWDlabW56ZUsxcENfY0hvRGRBSzlDNWpnQXBsVXU2UHkzck1pd1I1YmdXS0pvM2x2eVdiQlVFSHlsckI0bmZ5MjdwNFltMlR1bFV3TF9WZHUwZVFqQlVWemszZjQzM2tEaEV4V29DQ20tSUdMdmlB?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Morre no Recife, aos 94 anos, Claudionor Germano, ‘A Voz do Frevo’",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDdsLWZNQzlmUE9PTDNtTS0yZkJqMDdHYTV6Vnh4SHA4MHpvelBqRXNCcjZlN0tCWGtSOG16OHNfQnJfaHJnRmpqM25KOUpNcFNubzRHTXJ5bFdWVjMwdVJjSGJyVVFwdTRBTEdGQV94VXVDSmRHLTJGdWRHdmVZWmNGM0pLYi1JSzhlMEVsazJsWUZLZVZvNVVlS1N6VHY5?oc=5"
+      "manchete": "Blog do Finfa: Prefeitura do Recife decreta luto oficial de três dias pela morte de Claudionor Germano",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmdTZEZPX0NvM3BwRm1ZQmZ3eC1tamQ1endRM0FjTGtvXzBmWWxvNU11aVBxR3Z2UFpXRS1Mb1JLTS0wNDBQZlRrTENwY011RnU5Z0t3WWhpN1RRdEtpejJCRFppTFFhc1lPeWZ5NVVrTE5kQUhBOGpkakwtOVRLS0EwWldxclZQSFBWUmppbEg0a1JpcWo2WnhBR1hSbURpV0h6bmRTcG1yYVVxMXVpSUZ5WkdlbDVVbnJmN19ja2FlZ0JpRVE?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Arquidiocese de Olinda e Recife encerra festejos dos 350 anos com procissões e missa solene",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWVJpb1RmRko5RE5xLU5TUDA4Uzd4UG5iaVJLU0JFUHh3NzFXOU1JUjlaeGNhczNvYlRtNHRZMkoyalU5OHhEc3NVU2c1N1RNVWhlN0pOdEt4SE9OQzAwaXhvM0NQTHE1UFA5UDd1M0w4WUxIMUJycDJ0Qjk2cTZKMDBVQVRpaF93SnhuUHV3ZFJUNk85aGRUS1prVmxXd0plRE1FcXNnaW96V200cm9wdzJxOHhHVHd5Z0FvTzlzbG5lcGZUQkhrNzkwM2ZxODdZck14ZldXbjVnZnRMYmJSb2RYYlh2TVdIYjJhTXR0djRjMG9FZUZkM01NMA?oc=5"
+      "manchete": "Portal de notícias de Penedo-AL e região.: Despedida a Claudinor Germano conta com velório no Paço do Frevo nesta segunda (16) - Portal de notícias de Penedo-AL e região.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlRLS3pILXM3Z19BcWkxamZUdUZXdEUtbjRZQU90eXJnQkI3eUY4aTRjeUViZlVKZkdxNnVvV3ByaGY3SW84Z1BHX2gxMlFFWmxlM3NTRjdtRERFRnhncWVPb1RXUkg1YVdkeUJSNFpLZm1PRGFlMGtrTnVfLUxHbVJsVExDSklrbHZIcV8tYVVwdmtPSURIb290MHlyRkF2b2g4b0tDTnlsT0R0SWlKcjFiZm5mS0FEZzhXY0Q0NDVYMW5OTnfSAcYBQVVfeXFMTjJUS0t6SC1zN2dfQXFpMWpmVHVGV3RFLW40WUFPdHlyZ0JCN3lGOGk0Y3lFYmZVSmZHcTZ1b1dwcmhmN0lvOGdQR19oMTJRRVpsZTNzU0Y3bURERUZ4Z3FlT29UV1JINWFXZHlCUjRaS2ZtT0RhZTBra051Xy1MR21SbFRMQ0pJa2x2SHFfLWFVcHZrT0lESG9vdDB5ckZBdm9oOG9LQ055bE9EdElpSnIxYmZuZktBRGc4V2NENDQ1WDFuTk53?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Diario de Pernambuco: Despedida a Claudinor Germano conta com velório no Paço do Frevo nesta segunda (16)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDdXS0lCUFB1QTdZQlB0cXRuRnZyNm42eGJrY1VHOUE3T3pfaW1KaXREbXRKbE1oZ0F4WVpIZTBqSnh3NllHOVZEb1NhRHRhbnZkT2lPczJ3M3pQUHZBaFFtM1d2UVFXTkUzeWdsOFBuUzZBdVMteFlCV2FVOTB0S3lmbEhJYzdwOHVVUk1nUnRqdHdRU2xFWHFjMDhCNFN0dHlVaGJhRDNLX3liUTltcm5UV0x6NGtBWXJ1anhYWHFpbHFoWVA2OG85Mzg0ekwyZmZTd09ZNmpRRkFlcmN5UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWFJYUzNSYV9kWFpUa0txRHBMdDMxQ0U5YXJnNWlWOXBHQjBxbDJFVkVtcUVhSEE3cUFDZHJsdWxhZGh4aHBvcVF5MjkwWnpKUVJ1b0dydlVoNE1uZ2R0V3VDR2gzaDRFTm92TFExUjlucVphY1dSMUVKM2U5QWNzRksyMHA5RmNYNnlTU1IxWlVUazZNbVpKV21UWE40eWVPM3cxZU1seHdMRm53cmJOMEplcmNKZGYzWENKdFQ4NkNyMkNRVW5YUHFnTWFOVE83SUVfVGtTZjNMV0d6WE4zYjRla3JmQQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Eudes Farias promove festa para crianças na comunidade de Paratibe",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNem5wdlNYNTJ5REhEVmlGTURNMzdJbkQ4a3V5SmRNMGQ3NnRpY0V0OWZONGJlWnc5R2U4RVh1VW80WjVtbjBMZ2F3dzJub2pZcTNOck45SDVyNmJuTUFGSGxCNU1VaEkybkFQX2x1MWNBR2VhYVdJM2dHN2YtSHdRbVpCNmlkcVBBZFdyN3huMnl1VFBzbHdmd0tB?oc=5"
+      "manchete": "Pernambuco Notícias: Claudionor Germano será velado nesta segunda-feira no Recife; cremação acontece em Paulista",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFJZalVFYlFSRVp1UHdFSldLZHpUUmxlZTl4b1lJVW8zanY2OVNiVWdQZng4SU5zeEljX2U3REJZNDZ1UWNrdGdlWnEyM0EtZmhZT2JLMS1MUEdvX0twMmc4VFFuQm9jMlNmWDBubEpidHZKRXVaQjdyQVp4YmFNVjVZMDNwQjlzaGFkNWVEUjNzRVRTbGo1VUY1enFBZHpXVmduU0h0SlZGZklfYlNjcEdzM1BISDluRU0wMDlOVnBHNm8?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Fuga em presídio do Recife: saiba quem são os detentos procurados pela polícia",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUHRnaTYxd1k3dTNWZlFqcVhrNWwwM1lkaHlEazZydnZtWjRyZzhWTXF1eXBtNDhNWVVGRWplQnhSSFRZVzhoYWFsY0pLbzN1WXpOWjJ0bHY5N0RzZ0JVaWVUOFFuOUVrUzVScjBKdktwRHVkTVJ3cTdxQzBQUjIzVXMxVUlRcW5jVFBSVlFvU0p5MFJJT0pPNW9leEp5M1hTYnNwVDFPVnA2SEdSSUxTMzlCb1RoVTBpeWJBdWVjeUNoZkpnTnppZ1UzX0paWFZaMGpUbnd3VXhuSnJyc2VuTFdNT2V6WWlPV2Y5c1c4SGRwOU9tWXhVaEVrc2RJbGM4N1E?oc=5"
+      "manchete": "JC: Com bom trânsito à esquerda e à direita Antonio Moraes avança na luta pela presidência da Alepe",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeDVUbHB4U1FvZXoxSHJ6NC1JbWpVV3ZYWGRfdHB1c0hSa2tMemtxbXVBYWh2eHhWUXAycHNrMTk1bWJzYnJVZWxCclQ5dW9oM01FR25jNjlYcy1yX1V1eFZSZHJSNVZZczNVaTJLeWV0RU1wc3BFd2QwaHpDYXlFWFpVNlJLYnJjeGh4UDJHc0N5NXJTWEp5SDdvamdtNTZrWFBjQ1owRmdWVkdIeGt1YktIMTdnTHdkdEx4b2ItR3hkMGZxTnZ6Nk8zYUl3LWtVWmRESEJXSFBOZWRmb196eDQ2RTRGSDVQ?oc=5"
     },
     {
       "termo": "Alepe",
@@ -245,8 +245,8 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Fique Sabendo PE: Governo de Pernambuco inicia atividades do 17º Festival de Cinema de Triunfo com oficina de crítica cinematográfica",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMXBlN3ZFdjlvcG9iSDZQNlZJWjFnM184cGwxdy05dnNPX2x2NU8zMWY0OXgtYzdGTlpoMGZ6ZmdnRTczRVdodXptSVdaOE9iWEFURUV5TWFxcGo3OVFPZUxoUVNWVHdCNGNxZUdSME96NnN2YWhSRWRaNGpTcFJrd0c0SG80NTV2Vk82VDUwUWpfZ0tNTS1mOFBJUl9DelpsTHFKOGI1WldFbFJkLUFmU3Zzb3JWZk1Kd1RHWVQxeGk2MWxyb1k0ZEhBVVdubHAzNG9ITjc3cEpYSE0?oc=5"
+      "manchete": "Diario de Pernambuco: Quem são os pernambucanos cotados para assumir ministérios no quarto governo Lula",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc1R4bnpCbWpyNlhLMEdxd1Zwd1h3SWpTSURqNEdiWVBwdkF5cnV0MGJ5bTFyRGxjZjZXQzRpWkZnRGZQbTYwU3huWGtodUdLc0gzNEduVGk2WVRjN3NGeGNlMTZJTnlnOTNiYmQzMzI4TTJ1Q2tiM2NUcWJSU05GcXNZeEwxSlU0c2o5N2tmWjlZdS04bFR4TVlUT2JGd1doeVkycmp4aTM1RFh5LUM5YkdIeU9MMzh5RWN3ZkxLa0pqallQUkk2b051VG95SlFuYll0SEJwbUFhMl9KUkVqdHYyQ08?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -257,8 +257,8 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Feira de imóveis oferece mais de 2 mil unidades habitacionais em Jaboatão nesta quinta (12); veja condições",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeFdFbEJnSkxpb1NGSHh4bEZ3YXg5Y0lPd1oybEJqR0pLWjAxeXp0b2FBTkY4N2VWVVY0b2o5UHNUMFduQzFPSmlEUG5heW9RM1VjcFlNTG1JanNVNDV3SEtzTGVwNmlNYmFfRVV3TGxmMFJBTl9uM1R6RnlRS2UwNUsxbzZWQXVxaWRSMm9tTHBFeXpmckNvcWxFV243QzBfbF82OU1DZ3BWb05lUWFZa2R5bVV1alBIdkF4XzItMUx2WmZlMjBtb0VKeGszNzM3bUh3RDhWNDVSZzdvM3NtR1ZsQ2lYS3N0aWtpREM2QkNZNkxrSU95RkZ4SmYyUGc4R19XSWRRUm9wRUU1eDEyazBaS0V6U09oQ29vT0xpbXlMNExvMmc?oc=5"
+      "manchete": "Blog do Alberes Xavier: Coluna da segunda-feira: Eleição de aliados atesta musculatura política de Lindonaldo da Farinha em Frei Miguelinho",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQzU5M3pndFdPY1VWS1FFLUctcl9qRjY4SUxnSmhFQ0s1OTA2RFRia0JMZUFxeUIzR2tNTFBpeXZtczRTSnJGRlJmdkw5cDBrLVFXYXpDekZEWWdscDVrNVphSHlJbnR6ZHRTeVEyd1Y1NndYNUgxRUpkcmlrU3pabHBPMDBXaGpPZkpjWnhxbUpMZHlGejJsQ2JLZnFCLVR3YlRKUHdKMDdhSUZuM1pOTHBtZGpQV1NlSk9IdGRUdHdZbDd2bEV1SGF0SGpFNExQV2lLWUJnXzNRZ1AxR3VnbGhLWWRLY1htLXlkWDhHVXQ2NElUMTRwVg?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -269,80 +269,8 @@
   ],
   "picos": [
     {
-      "termo": "Michelle",
-      "razao_aumento": 145.8,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-11-15T06:30:00Z",
-        "titulo": "Sem Flávio, PL se divide entre Carlos e Michelle sobre quem deve ser o porta-voz de Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFBMemtpTXRvOGs3eWhoWWxxYWkwbU9nV0lMQlI5OGhSUFBHYjBHZHFiZEFxdXBJcFlaczFEUXVqV2VzWVpXb1ZpdkR6ZXVvT2lfeDVidElrN193TmRXVjdSY1drUWRMU0hwb1g2UTIxb1hKUVFycGdRYUoybFgwalhWSUVRT1Y3R1ZpSVdsVTM2WWtpOWhyLWhvWmJGLXZveEZIYjllX0UwenRjM1dMRWd1alRiX3JFQkotR0xTaXpmWUh3cVFTTHJ3RjZra0hsTklVUVB5RXQ2QXZLbFhXTEdGUlZDd9IB9AFBVV95cUxObHoyRHZMMFNKamJfbjUwVE1rV0xpcEQ5RTR4TGZnX2JCSkdSeW5jOGhnX0pvUHJCd1pRWjdHeUE2akVZX05oMEMwUmxNX0pNaXV4VzQxa2gyd0xkSFF1QmgyZGhqODhFc01VVmdrT2hmdi1qZ1c4WjhLUzlETjJJLXFKS1JhZU9WR1ZoWlhMV3JHTk1oZ2NNOEFaWV9zWmIzMDdaRjRLSmFuV3NUTlN2OFdOV1pRLW15Sk5DeHJBWXJsVmRZQ0VBZ04tYTV4eUdyRzNORklQdWx3cklwTU82d0NYN0lzQklkeVJ4TU1HS0xBZS0z?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Claudionor",
-      "razao_aumento": 113.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-15T19:04:00Z",
-        "titulo": "Pernambuco e Recife decretam luto oficial de três dias pela morte de Claudionor Germano",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNczdtT2xlZmVNcW8ycDBaNE5hamU4UV9mT2QxRTkzRnFaWFFfYW9vYlROWUFnVmcwQXNIU2dSYUFTNFUxNE5oVnNNWlUtYVp6WmF2VE9YdjBDUWNpNlFOdGxRNWVVRVh5b05Na1pEQ09QZE5WcW9HSUp4a0RsaGFndzdTZWNzMHVqREZvRGowSC12X1l0R284SVVFT2hia2xMeEZHdlZXbll0S2dRckN4NzVWNmlyV2xFZEctc2huY25fV3IxVHhXNWRfQzZ3UQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Germano",
-      "razao_aumento": 113.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-15T19:04:00Z",
-        "titulo": "Pernambuco e Recife decretam luto oficial de três dias pela morte de Claudionor Germano",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNczdtT2xlZmVNcW8ycDBaNE5hamU4UV9mT2QxRTkzRnFaWFFfYW9vYlROWUFnVmcwQXNIU2dSYUFTNFUxNE5oVnNNWlUtYVp6WmF2VE9YdjBDUWNpNlFOdGxRNWVVRVh5b05Na1pEQ09QZE5WcW9HSUp4a0RsaGFndzdTZWNzMHVqREZvRGowSC12X1l0R284SVVFT2hia2xMeEZHdlZXbll0S2dRckN4NzVWNmlyV2xFZEctc2huY25fV3IxVHhXNWRfQzZ3UQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Claudionor Germano",
-      "razao_aumento": 113.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-15T19:04:00Z",
-        "titulo": "Pernambuco e Recife decretam luto oficial de três dias pela morte de Claudionor Germano",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNczdtT2xlZmVNcW8ycDBaNE5hamU4UV9mT2QxRTkzRnFaWFFfYW9vYlROWUFnVmcwQXNIU2dSYUFTNFUxNE5oVnNNWlUtYVp6WmF2VE9YdjBDUWNpNlFOdGxRNWVVRVh5b05Na1pEQ09QZE5WcW9HSUp4a0RsaGFndzdTZWNzMHVqREZvRGowSC12X1l0R284SVVFT2hia2xMeEZHdlZXbll0S2dRckN4NzVWNmlyV2xFZEctc2huY25fV3IxVHhXNWRfQzZ3UQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Hamas",
-      "razao_aumento": 111.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Diário 360 Notícias",
-        "hora": "2026-11-15T12:22:00Z",
-        "titulo": "FLÁVIO BOLSONARO DESTACA QUE IRÃ E HAMAS FORAM OS PRIMEIROS A RECONHECER O RESULTADO DAS ELEIÇÕES NO BRASIL",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVnhfU3ZTNVFTRmV2ZEdsQWF1d0tMUjFhbllHSXhQR2hfNlhvM2g3U3R3RDNzbVBUUW15TjdYMjdnTTUwc1FvUkdrd0t6MDdOZ1BwQmR5MjhtUldVZGJBWm5GeUJoc016eG02OVdhMmhKNUFmQkhzYm9zNDA0b1J5dHN4TTBjUFNvYmR4NmxreW5fcV9iS1piVWhabWREbG5mZG5NbzFhNjJqcVF5Z0p0NUNRLXRFXzdQLVJYN01fM0JiLW53TDJZWUM2dVdUdTVXTGdFdVZObkhNM042?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Irã e Hamas",
-      "razao_aumento": 111.1,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Diário 360 Notícias",
-        "hora": "2026-11-15T12:22:00Z",
-        "titulo": "FLÁVIO BOLSONARO DESTACA QUE IRÃ E HAMAS FORAM OS PRIMEIROS A RECONHECER O RESULTADO DAS ELEIÇÕES NO BRASIL",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVnhfU3ZTNVFTRmV2ZEdsQWF1d0tMUjFhbllHSXhQR2hfNlhvM2g3U3R3RDNzbVBUUW15TjdYMjdnTTUwc1FvUkdrd0t6MDdOZ1BwQmR5MjhtUldVZGJBWm5GeUJoc016eG02OVdhMmhKNUFmQkhzYm9zNDA0b1J5dHN4TTBjUFNvYmR4NmxreW5fcV9iS1piVWhabWREbG5mZG5NbzFhNjJqcVF5Z0p0NUNRLXRFXzdQLVJYN01fM0JiLW53TDJZWUM2dVdUdTVXTGdFdVZObkhNM042?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
       "termo": "morte de Claudionor",
-      "razao_aumento": 93.8,
+      "razao_aumento": 127.2,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -353,14 +281,86 @@
       }
     },
     {
-      "termo": "Morre",
-      "razao_aumento": 90.9,
+      "termo": "Michelle tira",
+      "razao_aumento": 111.1,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "BOL",
-        "hora": "2026-11-15T20:36:26Z",
-        "titulo": "Morre aos 94 anos uma das principais vozes do frevo pernambucano",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0YtUWhVUm5BMzhOemJrN1F6TlpwQllrUlVhM3ItRWsyWFpqRWxXbVNLeXdiTEtfRWpGdE1od0ZIS1owUmpFMjBud1NVNXFTc3NleE80Slc5dVk3dkRDNHlNbDFvQlNDNzJHS1NyTjNYWklMZzVyQW1POS1PaWNGR2RWd3I0LW1TWGY4Y092b2VFQkVKOVMzMWI3ZjNkaGk4TEZIQm9HZEdlaGtSM3U5b1ZCNzdZck11bFBVMjlzeDRvRTjSAcMBQVVfeXFMTlNGLVFoVVJuQTM4TnpiazdRek5acEJZa1JVYTNyLUVrMlhaakVsV21TS3l3YkxLX0VqRnRNaHdGSEtaMFJqRTIwbndTVTVxU3NzZXhPNEpXOXVZN3ZEQzR5TWwxb0JTQzcyR0tTck4zWFpJTGc1ckFtTzktT2ljRkdkVndyNC1tU1hmOGNPdm9lRUJFSjlTMzFiN2YzZGhpOExGSEJvR2RHZWhrUjN1OW9WQjc3WXJNdWxQVTI5c3g0b0U4?oc=5",
+        "fonte": "Valor Econômico",
+        "hora": "2026-11-15T23:55:33Z",
+        "titulo": "Michelle tira dez dias de férias e diz que sua filha cuidará de Bolsonaro | Política",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWVFyVGVjN0hmNkNnZUlqUmtUb3FQTGVGVnBpbldGUWR5ZzkyQ1lJdVdJYmQ4b0lzTmhSSHZrcHhabWVwZ1JUcUlQckxGNmtxNEhEU0lqMFRvMkRBQzd4TFM0MDFWNUtXN290MEtEenI4THU3TVZoMGstYjVYcWFibFpSaFNlYlBYQU93dzhia2NOeDlkOEQtREdCWUhVd0ZwU0k2eW9QS0lUaFhQeUw5V20xek5MT0xra19pd0tTSVk3SGtFRVA2Yw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "pela presidência",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JC",
+        "hora": "2026-11-16T06:17:41Z",
+        "titulo": "Com bom trânsito à esquerda e à direita Antonio Moraes avança na luta pela presidência da Alepe",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeDVUbHB4U1FvZXoxSHJ6NC1JbWpVV3ZYWGRfdHB1c0hSa2tMemtxbXVBYWh2eHhWUXAycHNrMTk1bWJzYnJVZWxCclQ5dW9oM01FR25jNjlYcy1yX1V1eFZSZHJSNVZZczNVaTJLeWV0RU1wc3BFd2QwaHpDYXlFWFpVNlJLYnJjeGh4UDJHc0N5NXJTWEp5SDdvamdtNTZrWFBjQ1owRmdWVkdIeGt1YktIMTdnTHdkdEx4b2ItR3hkMGZxTnZ6Nk8zYUl3LWtVWmRESEJXSFBOZWRmb196eDQ2RTRGSDVQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "mil por mês",
+      "razao_aumento": 110.4,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O Potiguar",
+        "hora": "2026-11-15T17:40:46Z",
+        "titulo": "Após derrota para Lula, Flávio Bolsonaro procura mansão de luxo nos EUA com aluguel de até R$ 85 mil por mês",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmFqcV9uTUM4eUoxeVJ2dEt1ZnV2Mm8ySW9PYmw4VTN2amtYaVVsdW9qZk9zSUFnUGplc1FGbGd6UVJSeTVRVTJPeFVDX3ZxZTZFZVVQNE1VZmpNWmd6MjM4bms5eldtZTZjNmJmcExUVGtvZXIzSWxKa3ozX0szUTcyR202TUdhNjEzT3h4YmI0SnhCc3pZYmZGR3dwd1lxV1FTY0tmN3hfSEVoZzlWbEk2WWh6LUVGN1dpU2E4NHNTUkNjQ1JIOURwNmNlcDNx?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "decreta luto",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "- Blog Dellas",
+        "hora": "2026-11-15T21:31:00Z",
+        "titulo": "Raquel Lyra decreta luto oficial de três dias pela morte de Claudionor Germano -",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkN3ZjZJeTVrYlhSay1UQjRkWnZsaWpxRnIxMVc5cnpOb1E4dDZsRDJHbUZQN0NiNVktYzY0cHJHRzUzSEhUTEZucEpjYXhGYVRMR0lFSERZdmpXekZCbDdCVWU3MmhNTWl3YjNYLUNRNUdhLVBOU1BtVGF1UGt5YVB2TWFoOVlHbE1RZUhQUDFZZzg5aDIydTV4UTdUWW1iamxhNS1aQ1U?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "pela morte",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JC",
+        "hora": "2026-11-15T19:04:00Z",
+        "titulo": "Pernambuco e Recife decretam luto oficial de três dias pela morte de Claudionor Germano",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNczdtT2xlZmVNcW8ycDBaNE5hamU4UV9mT2QxRTkzRnFaWFFfYW9vYlROWUFnVmcwQXNIU2dSYUFTNFUxNE5oVnNNWlUtYVp6WmF2VE9YdjBDUWNpNlFOdGxRNWVVRVh5b05Na1pEQ09QZE5WcW9HSUp4a0RsaGFndzdTZWNzMHVqREZvRGowSC12X1l0R284SVVFT2hia2xMeEZHdlZXbll0S2dRckN4NzVWNmlyV2xFZEctc2huY25fV3IxVHhXNWRfQzZ3UQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "oficial de três",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JC",
+        "hora": "2026-11-15T19:04:00Z",
+        "titulo": "Pernambuco e Recife decretam luto oficial de três dias pela morte de Claudionor Germano",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNczdtT2xlZmVNcW8ycDBaNE5hamU4UV9mT2QxRTkzRnFaWFFfYW9vYlROWUFnVmcwQXNIU2dSYUFTNFUxNE5oVnNNWlUtYVp6WmF2VE9YdjBDUWNpNlFOdGxRNWVVRVh5b05Na1pEQ09QZE5WcW9HSUp4a0RsaGFndzdTZWNzMHVqREZvRGowSC12X1l0R284SVVFT2hia2xMeEZHdlZXbll0S2dRckN4NzVWNmlyV2xFZEctc2huY25fV3IxVHhXNWRfQzZ3UQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "três dias pela",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JC",
+        "hora": "2026-11-15T19:04:00Z",
+        "titulo": "Pernambuco e Recife decretam luto oficial de três dias pela morte de Claudionor Germano",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNczdtT2xlZmVNcW8ycDBaNE5hamU4UV9mT2QxRTkzRnFaWFFfYW9vYlROWUFnVmcwQXNIU2dSYUFTNFUxNE5oVnNNWlUtYVp6WmF2VE9YdjBDUWNpNlFOdGxRNWVVRVh5b05Na1pEQ09QZE5WcW9HSUp4a0RsaGFndzdTZWNzMHVqREZvRGowSC12X1l0R284SVVFT2hia2xMeEZHdlZXbll0S2dRckN4NzVWNmlyV2xFZEctc2huY25fV3IxVHhXNWRfQzZ3UQ?oc=5",
         "peso": 1.0
       }
     }
@@ -369,272 +369,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 23.9,
-      "fontes_distintas": 25
+      "fatia_pct": 23.12,
+      "fontes_distintas": 24
     },
     {
       "termo": "Lula",
-      "peso_relativo": 76.3,
-      "fatia_pct": 18.24,
-      "fontes_distintas": 16
+      "peso_relativo": 79.7,
+      "fatia_pct": 18.44,
+      "fontes_distintas": 18
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 65.8,
-      "fatia_pct": 15.72,
-      "fontes_distintas": 20
+      "peso_relativo": 62.2,
+      "fatia_pct": 14.37,
+      "fontes_distintas": 18
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 60.5,
-      "fatia_pct": 14.47,
-      "fontes_distintas": 19
-    },
-    {
-      "termo": "Claudionor",
-      "peso_relativo": 28.9,
-      "fatia_pct": 6.92,
-      "fontes_distintas": 11
-    },
-    {
-      "termo": "Germano",
-      "peso_relativo": 28.9,
-      "fatia_pct": 6.92,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "Claudionor Germano",
-      "peso_relativo": 26.3,
-      "fatia_pct": 6.29,
-      "fontes_distintas": 10
+      "peso_relativo": 62.2,
+      "fatia_pct": 14.37,
+      "fontes_distintas": 18
     },
     {
       "termo": "Michelle",
-      "peso_relativo": 26.3,
-      "fatia_pct": 6.29,
-      "fontes_distintas": 8
+      "peso_relativo": 37.8,
+      "fatia_pct": 8.75,
+      "fontes_distintas": 11
+    },
+    {
+      "termo": "Claudionor",
+      "peso_relativo": 35.1,
+      "fatia_pct": 8.12,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Germano",
+      "peso_relativo": 35.1,
+      "fatia_pct": 8.12,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "Claudionor Germano",
+      "peso_relativo": 32.4,
+      "fatia_pct": 7.5,
+      "fontes_distintas": 12
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 23.7,
-      "fatia_pct": 5.66,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 21.1,
-      "fatia_pct": 5.03,
+      "peso_relativo": 21.6,
+      "fatia_pct": 5.0,
       "fontes_distintas": 7
     },
     {
-      "termo": "Lyra",
-      "peso_relativo": 18.4,
-      "fatia_pct": 4.4,
+      "termo": "Raquel Lyra",
+      "peso_relativo": 21.6,
+      "fatia_pct": 5.0,
       "fontes_distintas": 7
     },
     {
       "termo": "luto oficial",
-      "peso_relativo": 18.4,
-      "fatia_pct": 4.4,
+      "peso_relativo": 21.6,
+      "fatia_pct": 5.0,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 18.9,
+      "fatia_pct": 4.38,
       "fontes_distintas": 7
     },
     {
       "termo": "morte de Claudionor",
-      "peso_relativo": 15.8,
-      "fatia_pct": 3.77,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Bolsonaro procura",
-      "peso_relativo": 15.8,
-      "fatia_pct": 3.77,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Flávio Bolsonaro procura",
-      "peso_relativo": 15.8,
-      "fatia_pct": 3.77,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "luxo nos EUA",
-      "peso_relativo": 15.8,
-      "fatia_pct": 3.77,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "NFLno",
-      "peso_relativo": 15.8,
-      "fatia_pct": 3.77,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Sportv",
-      "peso_relativo": 15.8,
-      "fatia_pct": 3.77,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "NFLno Sportv",
-      "peso_relativo": 15.8,
-      "fatia_pct": 3.77,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Fantastico",
-      "peso_relativo": 15.0,
-      "fatia_pct": 3.58,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Prova",
-      "peso_relativo": 14.2,
-      "fatia_pct": 3.4,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Fogo",
-      "peso_relativo": 14.2,
-      "fatia_pct": 3.4,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Prova De Fogo",
-      "peso_relativo": 14.2,
-      "fatia_pct": 3.4,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Enem2026",
-      "peso_relativo": 13.4,
-      "fatia_pct": 3.21,
-      "fontes_distintas": 1
+      "peso_relativo": 18.9,
+      "fatia_pct": 4.38,
+      "fontes_distintas": 7
     },
     {
       "termo": "decreta luto",
-      "peso_relativo": 13.2,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 5
+      "peso_relativo": 16.2,
+      "fatia_pct": 3.75,
+      "fontes_distintas": 6
     },
     {
       "termo": "pela morte",
-      "peso_relativo": 13.2,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 5
+      "peso_relativo": 16.2,
+      "fatia_pct": 3.75,
+      "fontes_distintas": 6
     },
     {
       "termo": "oficial de três",
-      "peso_relativo": 13.2,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 5
+      "peso_relativo": 16.2,
+      "fatia_pct": 3.75,
+      "fontes_distintas": 6
     },
     {
-      "termo": "PT",
-      "peso_relativo": 13.2,
-      "fatia_pct": 3.14,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 12.9,
-      "fatia_pct": 3.08,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Simaria",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.02,
+      "termo": "Caruaru",
+      "peso_relativo": 16.2,
+      "fatia_pct": 3.75,
       "fontes_distintas": 1
     },
     {
-      "termo": "Dança",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.83,
+      "termo": "Jones",
+      "peso_relativo": 15.4,
+      "fatia_pct": 3.56,
       "fontes_distintas": 1
     },
     {
-      "termo": "Famosos",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.83,
+      "termo": "Bran",
+      "peso_relativo": 14.6,
+      "fatia_pct": 3.37,
       "fontes_distintas": 1
     },
     {
-      "termo": "Dança Dos Famosos",
-      "peso_relativo": 11.8,
-      "fatia_pct": 2.83,
+      "termo": "AVigilia",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.19,
       "fontes_distintas": 1
     },
     {
       "termo": "decreta luto oficial",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.52,
-      "fontes_distintas": 4
+      "peso_relativo": 13.5,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 5
     },
     {
       "termo": "três dias pela",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.52,
-      "fontes_distintas": 4
+      "peso_relativo": 13.5,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 5
     },
     {
-      "termo": "ajuste fiscal",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.52,
-      "fontes_distintas": 3
+      "termo": "Brasil",
+      "peso_relativo": 13.5,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Bolsonaro procura",
+      "peso_relativo": 13.5,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Flávio Bolsonaro procura",
+      "peso_relativo": 13.5,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "luxo nos EUA",
+      "peso_relativo": 13.5,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Exercito",
+      "peso_relativo": 13.0,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mentiras",
+      "peso_relativo": 13.0,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Exercito Contra Mentiras",
+      "peso_relativo": 13.0,
+      "fatia_pct": 3.0,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Confiamos",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lula Confiamos",
+      "peso_relativo": 12.2,
+      "fatia_pct": 2.81,
+      "fontes_distintas": 1
     },
     {
       "termo": "governo Lula",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.52,
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.5,
       "fontes_distintas": 4
     },
     {
-      "termo": "procura casa",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.52,
-      "fontes_distintas": 4
+      "termo": "Michelle Bolsonaro",
+      "peso_relativo": 10.8,
+      "fatia_pct": 2.5,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Bolsonaro procura casa",
+      "termo": "NFLno",
       "peso_relativo": 10.5,
-      "fatia_pct": 2.52,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Acertei",
-      "peso_relativo": 10.3,
-      "fatia_pct": 2.45,
+      "fatia_pct": 2.44,
       "fontes_distintas": 1
     },
     {
-      "termo": "Bengals",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.26,
+      "termo": "Sportv",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.44,
       "fontes_distintas": 1
     },
     {
-      "termo": "José",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.08,
+      "termo": "NFLno Sportv",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.44,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Prova",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fogo",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Prova De Fogo",
+      "peso_relativo": 9.7,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Body",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.06,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "The Body",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.06,
       "fontes_distintas": 1
     },
     {
       "termo": "decretam luto",
-      "peso_relativo": 7.9,
-      "fatia_pct": 1.89,
+      "peso_relativo": 8.1,
+      "fatia_pct": 1.88,
       "fontes_distintas": 3
     },
     {
       "termo": "decretam luto oficial",
-      "peso_relativo": 7.9,
-      "fatia_pct": 1.89,
+      "peso_relativo": 8.1,
+      "fatia_pct": 1.88,
       "fontes_distintas": 3
     },
     {
-      "termo": "ASEAN",
-      "peso_relativo": 7.9,
-      "fatia_pct": 1.89,
+      "termo": "PT",
+      "peso_relativo": 8.1,
+      "fatia_pct": 1.88,
       "fontes_distintas": 2
+    },
+    {
+      "termo": "nesta segunda",
+      "peso_relativo": 8.1,
+      "fatia_pct": 1.88,
+      "fontes_distintas": 3
     }
   ]
 }
