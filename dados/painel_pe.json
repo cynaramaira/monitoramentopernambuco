@@ -1,29 +1,29 @@
 {
-  "atualizado_em": "2026-11-19T01:28:54Z",
-  "total_analisado": 147,
+  "atualizado_em": "2026-11-19T09:29:25Z",
+  "total_analisado": 160,
   "x_recife": [
     {
-      "termo": "GTA VI",
+      "termo": "Corinthians",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=GTA%20VI",
-      "ruido": false
+      "url": "https://x.com/search?q=Corinthians",
+      "ruido": true
     },
     {
-      "termo": "Rossi",
+      "termo": "Botafogo",
       "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Rossi",
+      "url": "https://x.com/search?q=Botafogo",
       "ruido": false
     },
     {
-      "termo": "Cruzeiro",
+      "termo": "Haymitch",
       "posicao": 3,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Cruzeiro",
+      "url": "https://x.com/search?q=Haymitch",
       "ruido": false
     },
     {
@@ -35,67 +35,67 @@
       "ruido": true
     },
     {
-      "termo": "Botafogo",
+      "termo": "Cruzeiro",
       "posicao": 5,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Botafogo",
-      "ruido": false
-    },
-    {
-      "termo": "Coritiba",
-      "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Coritiba",
-      "ruido": false
-    },
-    {
-      "termo": "Carrascal",
-      "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Carrascal",
-      "ruido": false
-    },
-    {
-      "termo": "Matheus Pereira",
-      "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Matheus%20Pereira",
-      "ruido": false
-    },
-    {
-      "termo": "Memphis",
-      "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Memphis",
+      "url": "https://x.com/search?q=Cruzeiro",
       "ruido": false
     },
     {
       "termo": "KAIO CESAR",
-      "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 6,
+      "variacao": "NOVO",
+      "direcao": "novo",
       "url": "https://x.com/search?q=KAIO%20CESAR",
       "ruido": false
     },
     {
-      "termo": "Gabigol",
-      "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Gabigol",
+      "termo": "Jason",
+      "posicao": 7,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Jason",
       "ruido": false
     },
     {
-      "termo": "#FLAxCAP",
-      "posicao": 12,
+      "termo": "#ProvaDoFazendeiro",
+      "posicao": 8,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23ProvaDoFazendeiro",
+      "ruido": false
+    },
+    {
+      "termo": "Abel",
+      "posicao": 9,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23FLAxCAP",
+      "url": "https://x.com/search?q=Abel",
+      "ruido": false
+    },
+    {
+      "termo": "Lucia",
+      "posicao": 10,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Lucia",
+      "ruido": false
+    },
+    {
+      "termo": "#GTA6NOKABUM",
+      "posicao": 11,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=%23GTA6NOKABUM",
+      "ruido": false
+    },
+    {
+      "termo": "Bahia",
+      "posicao": 12,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Bahia",
       "ruido": false
     },
     {
@@ -107,69 +107,63 @@
       "ruido": false
     },
     {
-      "termo": "Varela",
+      "termo": "Memphis",
       "posicao": 14,
-      "variacao": "-1",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Varela",
+      "url": "https://x.com/search?q=Memphis",
       "ruido": false
     },
     {
-      "termo": "Daronco",
+      "termo": "#GTAVI",
       "posicao": 15,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Daronco",
-      "ruido": true
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23GTAVI",
+      "ruido": false
     },
     {
-      "termo": "Pulgar",
+      "termo": "Mandy",
       "posicao": 16,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Pulgar",
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Mandy",
       "ruido": false
     },
     {
-      "termo": "Vitor Roque",
+      "termo": "Coritiba",
       "posicao": 17,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Vitor%20Roque",
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Coritiba",
       "ruido": false
     },
     {
-      "termo": "Marquinhos",
+      "termo": "Seedorf",
       "posicao": 18,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Marquinhos",
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Seedorf",
       "ruido": false
     },
     {
-      "termo": "Sosa",
+      "termo": "O Grêmio",
       "posicao": 19,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Sosa",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=O%20Gr%C3%AAmio",
       "ruido": false
     },
     {
-      "termo": "Gabriel Barbosa",
+      "termo": "Enamorado",
       "posicao": 20,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Gabriel%20Barbosa",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Enamorado",
       "ruido": false
     }
   ],
   "google_trends": [
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "G1: TCU libera retomada das obras da Transnordestina em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmFFclFCNEppeEo1clZXSUFBWVJGVGtJdm1QMWhTWVgtcjBQTlJXMW5kRDR4N255RGRmUnNQc1VPaTFSenpkMzJaUWs4aU5ieWsxQXVMSW5Cd0tQd3ltSnF3RlpnTUc3ZktEbDFSVmJDaDFsakV1WVdlSllWdjJiVE9vVUF4SWJUX2pBdlVqRVVFeHVCeTV6X1Z0cDFXRWVBMG15d1FJMlZUTl83VzhIMUUzZUJXeHk4d0dSRC0zZ9IBzgFBVV95cUxNTV9ZVGNlbDlGb2dSQjEzVnpTR1ZaNk9fUDRYSGxzeFo3LTM5SlN0dm1Dbi1yS0QtNERTdXY0SzNFTkxBLWYzdFVaYXpuODlrdnhFMHJKTFNwSDNVdTY5MGJQT0kzbk9mbUUyWU9IMHhqTThoeVhHR0FPb0hROVhmUDJVcklJak1NQ1loZm5LUnBDbjZ1UjdlTFpyclNiTTVwbEdndkc4dndxOWhzRW9xY2JNY2Y2SlFHMVRMTlBPWkJVWUFSX3Z2ZUVNV0QtZw?oc=5"
-    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -179,20 +173,8 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Senado: Humberto Costa cobra do TCU decisão sobre trecho da Transnordestina no PE",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTg3dUhCZDU4dmFhZU9NVWdwdEtJa0JrVzlwY1dfdHRrOHdVYnRDRFZZOHF3d09OQXJKM1M2ckpId3N2VG9PcWl4WURTSWFhM0tQalJhMFNuazZxU1VnTDRQQlJjUlBuVWhLRFp0ay0tR24yUWpUUVFxbDZaTHVrcHlVMUZWeENOZGFzOEhGeHRVeV9mc3lHdElWY2tzdjdhbWJ2LWxqRVd2T01MU2JvallxanNFTXAwdkh1X1ZIeTBXaEllakJkZUp3?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
       "manchete": "Assembleia Legislativa do Estado de Pernambuco: Plenário aprova lei orçamentária de 2027",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcl82SUVSLWVuVkJsQzF6OHktdW5PbHotM0N1Z09YV1JUMWhsQjVJaE96el81NmMxOC1kZnNWLWMxMHMxbFh0SFhScS0wMUZHSWtmZFJCVVc1SjBpY3FNMjhYcENWZkR4QkpacUVPbHhOTG5vVms2eGRGM1ctME01ME5OVDBscUU?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog Dellas: Argentina e Grécia receberão o Prêmio Internacional País Amigo de Pernambuco 2026, concedido pela Alepe",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUF9UbWx1WjNNeUZvTUVnZWVuN2lxYjdqaFh1UkVWNkF5SU1VN3o0MUtUcXJGSEpaYmNETWVwZjJjaGpUN3hLcENCTjROdmpOaFRjb3dPdGxibTh1SC1RbG04d2c2U3c2cTNHRGNneFhMaTQycW5NWlZZSDU4MlNYM0lxeFlwaFE2YkZKMFRsN1hTXzRUMFktVy12ZVI1dlhBWGJJTnAxcWd3aVZUWXktNU96enI5eGVRNFlVVVdWSGJhWUtwNGIxMw?oc=5"
     },
     {
       "termo": "Recife",
@@ -203,8 +185,14 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "IFPE: Projeto de estudantes do IFPE Recife concorre a Prêmio Brasileiro de Design 2026 – Campus Recife",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkJzcGl0UEQybHdleEt2SndqLW5JUW5Zd2ZqY3hSMVk3X0lYekJoRmF5VmJtZjdWX1VfcE01bkUtWlhkYy1nbGZ2aDRpOUV6LUVPLTJuMHdORjdCVGtidmxoWFJfMFlNR2c3YjZOQlBwWk5lQmhCOUVkWlNRZnpMdnBwZ2tubFkzeHdXbDlNemVDVXV2TVNBeTZvRExCdTBycmxSYTFUdDFseTFpaXhFRVdrVWo0SVJHd0sxRDFYdWNwQQ?oc=5"
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcXNybVMtZE51QzFQWldzRWlVeUFVNXZPLVRCVmQxSV9FVGtlWFRKNUVmaEVqY2FtM2ZWQ3kxbzJzajJGTW5aTVBycjM1RE1kQVBXdm9NM0dNU3dfTmhfcEt0NnZzb3hBa0RtNkdrSHI1RDFHMDBvSUFwU0YyV1B3bGt0SDBGZVlGMmY1b29MdlZrbHpOc3JHa3NsV2hIOW5kWVpVc2VRcTJGOWc0RzJHNldRZFI3NkFaLTBSN0tmeXhwMEE1b1VVbkZuWk9DckRsV1J1cUNPNmc3WjJadUVxclhvbXRXWW1zTlBzd3M0NmhIeF9raEs4bzdJRGQzZUVlOE1jY1N3ZjQxZi1FdGlwMEk5MUV2aUF5Z3ZnLdIBqwJBVV95cUxQS1RjdWlQV3oyU0lBY1FWamYtX3p6aXktUWEtNHFlWmpDNG1GRmJXa2UwdW0xNThwMWZTMGFUenZBQXdwSUwzSHl4aVlOSXk1dEtXMkYzSE8tbHBTR016Vk44RmpJUlJmTU9yeDNKZFl2a2txLUZuSVB1cTNzdXQxZy1najlEN3IzZnRfeVNCVFdwQ1BodkVGbFZsdFl0YS1QSDQ0WXNnRVRaTHp5N1J2QzFYd0JpLVVJUGowWHQ3c0Q4Zk93d2U2ZGZpdnJoeGpDckZweXhHVFEtRm5VbmR3Uzh3cUo0Nk00dmNPWFZRUFdoYnRfMlVWYnFuMVpISkw0WUQzWS1WclNEZ25laldQT1M5WW1ua3hvdXBzTmNQWTRkbVNGVXBOei1Ycw?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "RioMar Recife: Black Friday na Eki: segundo item com 50% de desconto",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlc4S1g3TlZ3TnpOc0ZNOURKUFNlNjJXZ0Y1WFREOXZyM2xmX2xOWUlCcjFwQ1lSdHpYWVlEak5rRWozTnViZXhTMUhZMVdmUkh4N3NlekpWRmxJZmV1NDMxVEdXM0E0eHhlUEJaSDhOMU81SU9uQ0E5b1ZQZVFWWGdzM2NaOEU5SnhoWXNKQV9lc1E?oc=5"
     },
     {
       "termo": "Recife",
@@ -213,112 +201,34 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNUFXdkhybER0RkhhV1ZJWklqOG12R2Zpc0FySUJqeGxScGx4UDhpdUduUkxOX0NHZmVaSERkVEZlNERNay1keHozQ2dLRlFiQ1doejFWTWluMERnX2RVLWFsMDJ5UjY5X2FhV2g2Ny1jUG9DS0pDV1k1dFdBT1pqNy1xdklIc0tkaThYRVJINlc3VmFXSjV5eEtacEFMejgzTE1EeFBlaTFzNmRxOXNYNUtyd3pRYnFqYjNMWlAxZm82R2FPSFpVNDhHemRTX2g4TGNORjM4SQ?oc=5"
     },
     {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Aumigo Secreto: shopping realiza evento natalino para cães na Zona Sul do Recife",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPakkzNDBOdVVRREVpRUVCc05uOFhydUxPY2dIeHAtYldMNGlmdHVIYUxOM2tScTNwRGtxZUVRbnBNYmZhRi1yRWIzVEZacFdfbEFoMVZONno1UXROVzdoMktTa3RlanpjeURLYTc5dXJFaGxRenU5SFVtLXJOeXp0LWVCdllYd3MyV1ZpTGNaa1p4SnNGbVFIb2NTMDZlVTU4cWJTM0E3eGszZUtycEtMLVNMTXlSSGYxU1NmdVk3Q3VuQmNHRDE5M3RabFdFODg?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Vitrines de Natal reúnem sugestões de presentes",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT1I2Sy1qeTNmc01TbXZkQzB1NnliXzF5aWl3TlVsU2JuekVLMlBpOWE2MDNZbDV0UUlreW92M0NTNkNKamtnSzVYT29Ob0t6U1UxRGZLSHh4bFRscG9PN2J2d0FxSHBQLVF4ZVVwcmIyLVh4WWNXTC16UnhjVDc3QldFWHdvUDNuUEI4bmMxakt5VjQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "PSD - Partido Social Democrático: Pernambuco inicia eletrificação de sua frota de ônibus - PSD",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0dyZnVVODV1RlFzTENSZk5JaGVGN0gwQWN2MkgxNm41ZnVCd3I0SmZTOUJzTE1DSWJzNVl5bmxNWkRCZ1BHWm9YVjlPZGFsRmliZElZc2ZNeU1hb2U0NGx1WjJlS19rVmNZdlNGa25tT0tLRDl0ejBTTTBsZDVPbHhJUVpUUDVRdmcw?oc=5"
-    },
-    {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Movimento Econômico: Ônibus elétricos começam a chegar ao transporte público do Grande Recife",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMVFRRnVWYUx2WE44MlFlRG9rOWhpbVB4cEpSY1Nld1U5SkY4Y01RYWlsYTkxQTZEQ2J5aktyX2ktYTJJTy1od0ZnXzItY3dTX3owT2EtaG5zM1FtbTduSTh2SnByTTR4M1p2NTRiYUxuSVlxMEJfZmRKUllpWHFsaFlQcnVzYW85UnMwMktsMU5wRGIzSnFRd3dHaDR4OGFvMzVjbnkwTElrOC1sTlNjWTlnQmRjRU54U0dVcnZ2SFFtX2psakNxZVVYNFBDZGtOYzdhNQ?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Governo de Pernambuco assina contratos de R$ 117,6 milhões para compra de ônibus elétricos na Região Metropolitana do Recife",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPemJBajExNklibXFnVEp2M3REY0RnNTdPZGFZVEtSZUl0N2wtSk41Rm9zbHlHc1l4V3RzNWo3eGNXSTBxN0F2VjBXNmlLOXNhMUluRUNvRDBuaGFSXy1ZbzkxRlFjWElnOE53QlRMU0ZlamJTc1RtbTNjd0drZ1M0TEw4SHk3UzFUellEVEN3akJjMGdCWFBxTExwbWxMMWtXeVZwMDdxd0FlUXdjaVNQVk5FVTZlQ0hoSm52eHNxZzFPaDdRV25STEZTdm9CcVJrNzZZYkNYZlJaVmZLakl4TmZmTQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Agência Brasil: Olinda: primeira edição do Festival dos Quilombos começa nesta quarta | Radioagência Nacional",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcDE3cmhxS0s4akVfQlZYdTRWTGpsYmdRc28tbkVMVDBwZ3J1YUJzVzdKS3RzSDNUSUtnZzBDcWU1UW5UWDh2Ynp3ODFybFJ2RmxLMFdhY2s2c2RRdnhBS1Z1dGViUE8xWGpMNHZDQzF1QmdqVXBDYm9ZQ1FGOEtHNzZRMEYxTVpGX1B1OE5sTVNCWmw4U0w1a01MVmhOTWVrWFV3NHZLVGdlX09HdnZ3YnFYSkJZNG1JaGVkLVNwa0hjVWNqNEFhVlRwSWt2VUNxekMtY1p5TllZQzdSWmc?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Recife recebe Plenária Federal de Corretores de Imóveis com representantes de todo o Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWVyVnR6RDNKcnNTYUtGcEJ5TWJMdm1oOVBBd0hleVdPdlRXOXh2S3Bsa051a292UTByX1dicWZKbENJRmxzdDl2dERZeHdjS0RLaldBZ2dQSVlIbFRPOVVQTnJXakJtQmF0R2Q5X0d6eEJNa1ZsYVVXanEzQUlxZzhJbWlEbTVaNUdyYjc2MmtwVXYyZzctSUk0bnJWaXBGc3BQTzFRWVBLd9IBqgFBVV95cUxQYWVyVnR6RDNKcnNTYUtGcEJ5TWJMdm1oOVBBd0hleVdPdlRXOXh2S3Bsa051a292UTByX1dicWZKbENJRmxzdDl2dERZeHdjS0RLaldBZ2dQSVlIbFRPOVVQTnJXakJtQmF0R2Q5X0d6eEJNa1ZsYVVXanEzQUlxZzhJbWlEbTVaNUdyYjc2MmtwVXYyZzctSUk0bnJWaXBGc3BQTzFRWVBLdw?oc=5"
+      "manchete": "Blog Dellas: Giro Político: Desentendimento entre TCE e Alepe sobre julgamento das contas do Governo adia votação em plenário",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYVBHM3ptbVF1d25BX255eTRnUG0xSlBqUFhuVWh2UEhza3FnMnEwOEowZGtpb3VSd1lJdlpiZ1p5SWNfeFVGUXZsUHdWRlZRMmhreXJFa2hESTc4RTdRQUhsbVcwdldUeUdkbHdCdTMyRlVNTngtZWZqMFZ1VldJU2I1TmFYSmtUejlxa3RhQ29jdnF5WXVaOTF0UmtxN0p2X2RFZmVaX2xFcGNxQldyUElmVEVkdVZUUkFwVVF5VmlFU2N5RU9nT1RhWElvN3JPT3FCcg?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "G1: Alepe aprova orçamento de R$ 68,5 bilhões para Pernambuco em 2027; veja setores com maiores valores",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVG1aWnpXczNtYkRNMk5sVmJqSjNETkV5UjRCTkZ6czZJOGdXQnNhQWR1MVlxZ2FMZXZqUzNkanhNZVM1eGZIOFB3eVFYYjB3WFQ3UEI0TmpOcUdvQU1mQ3Y3SHZwc2dLZkY4Q3ZOd19tQk5uUlpUaUlOTkpEOUo4SzF6U05ORHpqcWJER240VXplYjNzd1k0eDlSeXNsWVhqdW1mVUdWVdIBtgFBVV95cUxPT3d1Nmt2ZmJueHhPTklVdzhrc2lkOXVZaE5PSTZkenRCZTlBa0FjaFd0amlUdUZvNnVMNXRtZkJWY0o2SFZSdWtjVEU5V1pyNjRmSHhqM3BWd0Rqblc4RUdMaGdyazFGRXJ0cExfdXhZOFJOeFlsaG4wRUFhNzhVNl9WNTRxamxYb1BZQmVCQ2pHeTVJS1E4cWdVdkU0aklBeDAtVzZKeUFCWnJOSDVaNDFHQkJvUQ?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Veja ao vivo a reunião plenária desta quarta (18)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHZZVUhnU2JyTjJNM0l4WlEwWGFadE1NM1F2OVd3UzZaX1RSbm5YWlRZOTlOcHY2VWJpQWZiOEIxMUJFOW16REt0NlNrOHdBOV92Q29jcVJBV2dwY2VEd1Z4NVRqRjlLMDVzYjdJT1F1NGRMVzg0TG9WLUxYbTJ0dWxsOUtmTHRIMjhrMEVYVmM?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Alepe aprova por unanimidade orçamento de R$ 68,55 bilhões para Pernambuco em 2027",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3hycDVaQXBia3BYQ0JDaUJ2eVdNamp4WVJaM0xTM29BdS1uMXBndWVFYVUwdDRQOXRUTTN4NkZROGdFU05fNFI2bVhZLXFfNDY1ZGdBbXpYT0JObFRXSFVkalhxbHBXdS1iaW5JRnJLaWNhaEZTV1NwdVVXejR3eElJdGkwcnhvd1BrYzVQbGoyVEROU3NpWGlNNUcxb0wwcGllbE50SWpqV3c?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Rádio Cultura do Nordeste: Governo de Pernambuco regulamenta concessão de descontos para negociação de dívidas não tributárias",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVFRalBEWlRja2VBUFFCU1hYa1lRZ3RfUEQ4WnlQWTNJdlNkUEhOVlQ5ME5EMDVZVDYwcm9pemNjcmc1S2FWNGEtZ2k3SWxaT3BTV3h3dUktUFNXYUpDTGQwM25WX1AzVnV5SFdfRWdFR3ZOWUJQWUVrYTBucTRXczU1Z1BVYmZiaVMwVmhSX1MzNFE3N2lISGtmMERJeDdEWnlJM0hTS0JNQlFHcC1ja01laVhPejlmVGJ2SzF4aXdBZ0dBOUQydDhydmgzbHNxV2dV?oc=5"
+      "manchete": "Blog Cenário: Coluna da quinta: Raquel vive novo momento com Alepe após eleição",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXBJWENLcGVlX1BHSU50c1ZCamNhVXI3U0NxQ0JJN19qUWZtemxJRFNCc2FZZ21vTmJJcjV6VXNVbEFBcllFaUNnVXo2eFZvbjluM1NVRnNKUmxqV0VKaXhsVm54YTJmdzRnMjRJZW1xT3pjbnBFYTNLM3hUSHVhQXpqNmJ6UWxteFVKd2RUdHkzTGt4dzRCeFZUSEdhUVA3V0tUdw?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
       "manchete": "Blog Edmar Lyra: Raquel Lyra critica ajuste fiscal do Governo Federal e aponta impacto de R$ 100 milhões para Pernambuco",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMUptLXJwUWF0bHdhaVNGWXR4ZVktc3BDTFhvYVpfemtJNzV0b0d0RW9vcXJMTUlENWNSWHI5M1dqd3M3U3Rldi1tMjhDQVduNnoyNmpQMU5jOExydUhvNVVELWRVejJ1U1pGUmxib3prRjVaT3JGQUtuZGJPeUE5eWRidHZRWjgycUFHYmZKSGdsUWowaDQyM0pZNE1TRXlVUC1fa3R4clNBRjVSeGNpYnQzTG9tUm9XVnJNdEl5VzhtV2VMcktxNA?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "JC: Governo de Pernambuco fecha contratos de R$ 117,6 milhões para compra de ônibus elétricos",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX21tSEhSdmRuMmI1T0RxM0tyZG5hcDFtcWNxOS1ndGozbzJhTzNWVzFpRlhpSWs2SlM5cEg1TUlQM1NMTTM4QUlBa2x2SThBVUJZTUtvcGxDZXU4LW9BaXo1R2tyYl93OUEyTlRtRjRURHFOVHg3UmxUcV9iSVdlSHluSUtQMTA0OGtha3MtVFFhUXEtNlhFSDZrQTFuOHQ0TUhjNVBoOVMxRzRjaWVKY2JFRjBlSG5xa0dsbGxPc2oyZHl4SDBTMFoxa1ZCbi1IRnVxeTFqbk5fLXNmVmc?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "PGR denuncia",
-      "razao_aumento": 171.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-11-18T22:38:11Z",
-        "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdW85UWVoeUhYNG1rbUktcVJLM0xoYUJDSGZiaUdkOFo1bko4Si1jWnMxUTBpVjdnYkZYVzBoNkdvS1FnSGlZRHRmOGtjcl8wVVJ3dHdOa2xiejZndFZ0N1Yxc1dfWllxNFVXVy05akplNm1uU2pMTlZOeUI3c2NwM2NCVWZWdENYaU45UnRLN0pQekZFUURxTF9RMkpkbFdPVUlnSDQzUDcwMUFo0gG7AUFVX3lxTFBrejdTTFFsempnLWdlU1FobzRwV0xBLUhSSGs4aVRqUlUxNWEtMUFzMHNWTHNsTUNXSXF4NjlQcE5BN25tYkowckVSLXNwdUFLZmJmT19oRUI0RGx5QUlteEVkb1RGb21uYUlISXZra215TDdXVUtZSDZFS3FTSC1YaEprT2J2YmdraUFoR2RtVTNsemNabGwxSnVXQnJybkdiSFNGRnZiVkwzaGFTenJGUm9jVk05czRzWmc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "denuncia Flávio",
-      "razao_aumento": 156.2,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-11-18T22:38:11Z",
-        "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdW85UWVoeUhYNG1rbUktcVJLM0xoYUJDSGZiaUdkOFo1bko4Si1jWnMxUTBpVjdnYkZYVzBoNkdvS1FnSGlZRHRmOGtjcl8wVVJ3dHdOa2xiejZndFZ0N1Yxc1dfWllxNFVXVy05akplNm1uU2pMTlZOeUI3c2NwM2NCVWZWdENYaU45UnRLN0pQekZFUURxTF9RMkpkbFdPVUlnSDQzUDcwMUFo0gG7AUFVX3lxTFBrejdTTFFsempnLWdlU1FobzRwV0xBLUhSSGs4aVRqUlUxNWEtMUFzMHNWTHNsTUNXSXF4NjlQcE5BN25tYkowckVSLXNwdUFLZmJmT19oRUI0RGx5QUlteEVkb1RGb21uYUlISXZra215TDdXVUtZSDZFS3FTSC1YaEprT2J2YmdraUFoR2RtVTNsemNabGwxSnVXQnJybkdiSFNGRnZiVkwzaGFTenJGUm9jVk05czRzWmc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "PGR denuncia Flávio",
-      "razao_aumento": 156.2,
+      "termo": "calúnia contra Lula",
+      "razao_aumento": 116.2,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -330,61 +240,85 @@
     },
     {
       "termo": "denuncia Flávio Bolsonaro",
-      "razao_aumento": 140.6,
+      "razao_aumento": 116.1,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-11-18T22:38:11Z",
-        "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdW85UWVoeUhYNG1rbUktcVJLM0xoYUJDSGZiaUdkOFo1bko4Si1jWnMxUTBpVjdnYkZYVzBoNkdvS1FnSGlZRHRmOGtjcl8wVVJ3dHdOa2xiejZndFZ0N1Yxc1dfWllxNFVXVy05akplNm1uU2pMTlZOeUI3c2NwM2NCVWZWdENYaU45UnRLN0pQekZFUURxTF9RMkpkbFdPVUlnSDQzUDcwMUFo0gG7AUFVX3lxTFBrejdTTFFsempnLWdlU1FobzRwV0xBLUhSSGs4aVRqUlUxNWEtMUFzMHNWTHNsTUNXSXF4NjlQcE5BN25tYkowckVSLXNwdUFLZmJmT19oRUI0RGx5QUlteEVkb1RGb21uYUlISXZra215TDdXVUtZSDZFS3FTSC1YaEprT2J2YmdraUFoR2RtVTNsemNabGwxSnVXQnJybkdiSFNGRnZiVkwzaGFTenJGUm9jVk05czRzWmc?oc=5",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-18T22:28:59Z",
+        "titulo": "PGR denuncia Flávio Bolsonaro por calúnia por associar Lula a tráfico internacional de drogas",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXIzdnVXakNUcFRxVGJFRUhxYTNjQTFwMVlkOG9STlhxbnhmRFVLYVc3QmZucVFnZXhsaThjMllpLS1mLXY5U3R0SjAzZmI2VFEzQjl5bm5SRE52cEJtcjFjS2pDclBkeVFLV3ZlNUhreDFwYVB1OGRITlZWQk5XU2VEU1JTaVNYdXpXVDVNZlFmT1lBSVIxZzJkMFVaaE5ZVmVNN0ZMUzZHTE8ydERCeXRn0gHAAUFVX3lxTE1hX19YdVBZX2duQVdPbnFLZEpMQWdBWGEzQVl0OVB1WUR1UTlLWTh0S0JhTGRfNWFxX0RLUzhuMzN5MWoyd2ZiR1pJMzlfQlp5Mnh2ZnkwbVpEUm80S3N2M29rbHBKZmlWd0hYei1VT1hiSXplMV9ib1BKbkszQVR4amdQXzVhWVVCY2IyTVBQelZ3WEo5cTFkeWR2YUFVWEJIYlBjSmhLdGZEWl9pUkxtTks1c1FNSUtUZWxzcU9fNA?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "calúnia contra Lula",
-      "razao_aumento": 93.8,
+      "termo": "denuncia Flávio",
+      "razao_aumento": 104.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "G1",
-        "hora": "2026-11-18T22:38:11Z",
-        "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdW85UWVoeUhYNG1rbUktcVJLM0xoYUJDSGZiaUdkOFo1bko4Si1jWnMxUTBpVjdnYkZYVzBoNkdvS1FnSGlZRHRmOGtjcl8wVVJ3dHdOa2xiejZndFZ0N1Yxc1dfWllxNFVXVy05akplNm1uU2pMTlZOeUI3c2NwM2NCVWZWdENYaU45UnRLN0pQekZFUURxTF9RMkpkbFdPVUlnSDQzUDcwMUFo0gG7AUFVX3lxTFBrejdTTFFsempnLWdlU1FobzRwV0xBLUhSSGs4aVRqUlUxNWEtMUFzMHNWTHNsTUNXSXF4NjlQcE5BN25tYkowckVSLXNwdUFLZmJmT19oRUI0RGx5QUlteEVkb1RGb21uYUlISXZra215TDdXVUtZSDZFS3FTSC1YaEprT2J2YmdraUFoR2RtVTNsemNabGwxSnVXQnJybkdiSFNGRnZiVkwzaGFTenJGUm9jVk05czRzWmc?oc=5",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-18T22:28:59Z",
+        "titulo": "PGR denuncia Flávio Bolsonaro por calúnia por associar Lula a tráfico internacional de drogas",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXIzdnVXakNUcFRxVGJFRUhxYTNjQTFwMVlkOG9STlhxbnhmRFVLYVc3QmZucVFnZXhsaThjMllpLS1mLXY5U3R0SjAzZmI2VFEzQjl5bm5SRE52cEJtcjFjS2pDclBkeVFLV3ZlNUhreDFwYVB1OGRITlZWQk5XU2VEU1JTaVNYdXpXVDVNZlFmT1lBSVIxZzJkMFVaaE5ZVmVNN0ZMUzZHTE8ydERCeXRn0gHAAUFVX3lxTE1hX19YdVBZX2duQVdPbnFLZEpMQWdBWGEzQVl0OVB1WUR1UTlLWTh0S0JhTGRfNWFxX0RLUzhuMzN5MWoyd2ZiR1pJMzlfQlp5Mnh2ZnkwbVpEUm80S3N2M29rbHBKZmlWd0hYei1VT1hiSXplMV9ib1BKbkszQVR4amdQXzVhWVVCY2IyTVBQelZ3WEo5cTFkeWR2YUFVWEJIYlBjSmhLdGZEWl9pUkxtTks1c1FNSUtUZWxzcU9fNA?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Ibura",
-      "razao_aumento": 76.9,
+      "termo": "PGR denuncia Flávio",
+      "razao_aumento": 104.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Jamildo",
-        "hora": "2026-11-18T12:09:00Z",
-        "titulo": "Victor Marques articula recursos com bancada pernambucana no Congresso para novo parque no Ibura",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFJ1ZU5aRGRfTi1HZDA3QndNamJBTW9kTWVDR3M2Rk5YM1dGLUFtRnhHcjM1ZnVWUVBYMXUwMVExWEFJYUJnUVAyTHBZd05wQ0RWamtJYk9hYkV0dnN1OWhkblVGWmE2MDMyaklyS2VpOG9WLXRVWjdOY1o4ejV3MExudmFDcFRYS3hGZlp1WmtfNEhwY1c1al9IZ1hkYVFZdVFUMjdHTTlUN09ETmZlSWtFNjkzWkdiZDliWDhmX0l0Q0s5MEoxU9IBzgFBVV95cUxNSU9NOUZENG1ablpKSW9pQ3BGQVpXR1pJakh2YmJPUEJaQlRScENlX2FEcVpRbjQwaFJBZllxbTk4UDBlOWJYc0Y3bFlCSlBaekRRU0xkSllsMTZwczFZVDNsV1llbWxLVGhSZGV1U2ZtVko5YWs0dG95dG9LVHBUZTM3VWo0RnMxdElrQWtxTGgyZkxkalcyLWd0M3N4VHdrU2xRWlZaQ2d0Wk44UmJ2YVk1X08zb1YtQTFHTWctWUR2eDNuVXFrYmJRVmxEUQ?oc=5",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-18T22:28:59Z",
+        "titulo": "PGR denuncia Flávio Bolsonaro por calúnia por associar Lula a tráfico internacional de drogas",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXIzdnVXakNUcFRxVGJFRUhxYTNjQTFwMVlkOG9STlhxbnhmRFVLYVc3QmZucVFnZXhsaThjMllpLS1mLXY5U3R0SjAzZmI2VFEzQjl5bm5SRE52cEJtcjFjS2pDclBkeVFLV3ZlNUhreDFwYVB1OGRITlZWQk5XU2VEU1JTaVNYdXpXVDVNZlFmT1lBSVIxZzJkMFVaaE5ZVmVNN0ZMUzZHTE8ydERCeXRn0gHAAUFVX3lxTE1hX19YdVBZX2duQVdPbnFLZEpMQWdBWGEzQVl0OVB1WUR1UTlLWTh0S0JhTGRfNWFxX0RLUzhuMzN5MWoyd2ZiR1pJMzlfQlp5Mnh2ZnkwbVpEUm80S3N2M29rbHBKZmlWd0hYei1VT1hiSXplMV9ib1BKbkszQVR4amdQXzVhWVVCY2IyTVBQelZ3WEo5cTFkeWR2YUFVWEJIYlBjSmhLdGZEWl9pUkxtTks1c1FNSUtUZWxzcU9fNA?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "articula recursos",
-      "razao_aumento": 76.9,
+      "termo": "PSB e PDT",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Jamildo",
-        "hora": "2026-11-18T12:09:00Z",
-        "titulo": "Victor Marques articula recursos com bancada pernambucana no Congresso para novo parque no Ibura",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFJ1ZU5aRGRfTi1HZDA3QndNamJBTW9kTWVDR3M2Rk5YM1dGLUFtRnhHcjM1ZnVWUVBYMXUwMVExWEFJYUJnUVAyTHBZd05wQ0RWamtJYk9hYkV0dnN1OWhkblVGWmE2MDMyaklyS2VpOG9WLXRVWjdOY1o4ejV3MExudmFDcFRYS3hGZlp1WmtfNEhwY1c1al9IZ1hkYVFZdVFUMjdHTTlUN09ETmZlSWtFNjkzWkdiZDliWDhmX0l0Q0s5MEoxU9IBzgFBVV95cUxNSU9NOUZENG1ablpKSW9pQ3BGQVpXR1pJakh2YmJPUEJaQlRScENlX2FEcVpRbjQwaFJBZllxbTk4UDBlOWJYc0Y3bFlCSlBaekRRU0xkSllsMTZwczFZVDNsV1llbWxLVGhSZGV1U2ZtVko5YWs0dG95dG9LVHBUZTM3VWo0RnMxdElrQWtxTGgyZkxkalcyLWd0M3N4VHdrU2xRWlZaQ2d0Wk44UmJ2YVk1X08zb1YtQTFHTWctWUR2eDNuVXFrYmJRVmxEUQ?oc=5",
+        "fonte": "Voz da Bahia",
+        "hora": "2026-11-19T00:22:00Z",
+        "titulo": "PSB e PDT oficializam federação partidária com 21 deputados e cinco senadores",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclBodWtrdHdKenpLZHNZVUg4TU5KYlFua1ZMSjN4eDdvd3JldE90TzJtaE1kdFF3ODNfcFd2djQwOHZuZnN6VTl4QU5NRFZjckxQX29kSHZzQVFhNkFxRm1OVF9IQ2ljbmpKZ2tLWlhZRHc2YU9PVU4xMURtVWg1WmtsdE5sR2lSY2oxMmN1Q2NkR29TTnc?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "STF por calúnia",
-      "razao_aumento": 62.5,
+      "termo": "PDT oficializam",
+      "razao_aumento": 100.0,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "UOL Notícias",
-        "hora": "2026-11-18T22:41:13Z",
-        "titulo": "PGR denuncia Flávio ao STF por calúnia por post que associa Lula ao tráfico",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPblBhMFNhdkJaM2loMWFQSFBaMzExNEFmRlhYamt4eGVkZ3lielNGLVRzX0Y4ejlpZmxVc2xYWXB5WmhPUmhBMlAyLUpHWWdZR0RmVENHRU5ZdktvVWpDemU5Q3hhSExoZVNBczU1by1xdDROVFo3QlZHVkN1QmJ3QWwtUEN0N0dBeVVqR3JKTjFGNFM0UjkxMXJha01XYWpfTVNGSExmNUpza0JtdFF4Ymd0Y2RrenIxc3FLWG44SWZjRUNMOGk4ai1GYUQ2TnNmVG84ZU42MElNai1IR0E?oc=5",
+        "fonte": "Voz da Bahia",
+        "hora": "2026-11-19T00:22:00Z",
+        "titulo": "PSB e PDT oficializam federação partidária com 21 deputados e cinco senadores",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclBodWtrdHdKenpLZHNZVUg4TU5KYlFua1ZMSjN4eDdvd3JldE90TzJtaE1kdFF3ODNfcFd2djQwOHZuZnN6VTl4QU5NRFZjckxQX29kSHZzQVFhNkFxRm1OVF9IQ2ljbmpKZ2tLWlhZRHc2YU9PVU4xMURtVWg1WmtsdE5sR2lSY2oxMmN1Q2NkR29TTnc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "oficializam federação",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Voz da Bahia",
+        "hora": "2026-11-19T00:22:00Z",
+        "titulo": "PSB e PDT oficializam federação partidária com 21 deputados e cinco senadores",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclBodWtrdHdKenpLZHNZVUg4TU5KYlFua1ZMSjN4eDdvd3JldE90TzJtaE1kdFF3ODNfcFd2djQwOHZuZnN6VTl4QU5NRFZjckxQX29kSHZzQVFhNkFxRm1OVF9IQ2ljbmpKZ2tLWlhZRHc2YU9PVU4xMURtVWg1WmtsdE5sR2lSY2oxMmN1Q2NkR29TTnc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "PDT oficializam federação",
+      "razao_aumento": 100.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Voz da Bahia",
+        "hora": "2026-11-19T00:22:00Z",
+        "titulo": "PSB e PDT oficializam federação partidária com 21 deputados e cinco senadores",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclBodWtrdHdKenpLZHNZVUg4TU5KYlFua1ZMSjN4eDdvd3JldE90TzJtaE1kdFF3ODNfcFd2djQwOHZuZnN6VTl4QU5NRFZjckxQX29kSHZzQVFhNkFxRm1OVF9IQ2ljbmpKZ2tLWlhZRHc2YU9PVU4xMURtVWg1WmtsdE5sR2lSY2oxMmN1Q2NkR29TTnc?oc=5",
         "peso": 1.0
       }
     }
@@ -393,272 +327,272 @@
     {
       "termo": "Lula",
       "peso_relativo": 100.0,
-      "fatia_pct": 15.67,
-      "fontes_distintas": 24
+      "fatia_pct": 15.99,
+      "fontes_distintas": 19
     },
     {
       "termo": "Alepe",
-      "peso_relativo": 82.8,
-      "fatia_pct": 12.97,
+      "peso_relativo": 83.9,
+      "fatia_pct": 13.41,
       "fontes_distintas": 15
-    },
-    {
-      "termo": "Bolsonaro",
-      "peso_relativo": 72.4,
-      "fatia_pct": 11.35,
-      "fontes_distintas": 16
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 69.0,
-      "fatia_pct": 10.8,
-      "fontes_distintas": 15
+      "peso_relativo": 64.5,
+      "fatia_pct": 10.31,
+      "fontes_distintas": 14
+    },
+    {
+      "termo": "Bolsonaro",
+      "peso_relativo": 64.5,
+      "fatia_pct": 10.31,
+      "fontes_distintas": 14
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 58.6,
-      "fatia_pct": 9.18,
-      "fontes_distintas": 15
+      "peso_relativo": 54.8,
+      "fatia_pct": 8.77,
+      "fontes_distintas": 14
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 51.6,
+      "fatia_pct": 8.25,
+      "fontes_distintas": 13
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 55.2,
-      "fatia_pct": 8.64,
+      "peso_relativo": 48.4,
+      "fatia_pct": 7.74,
       "fontes_distintas": 11
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 55.2,
-      "fatia_pct": 8.64,
+      "peso_relativo": 48.4,
+      "fatia_pct": 7.74,
       "fontes_distintas": 11
     },
     {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 55.2,
-      "fatia_pct": 8.64,
-      "fontes_distintas": 15
+      "termo": "Alepe aprova",
+      "peso_relativo": 41.9,
+      "fatia_pct": 6.7,
+      "fontes_distintas": 9
     },
     {
-      "termo": "Alepe aprova",
-      "peso_relativo": 41.4,
-      "fatia_pct": 6.48,
+      "termo": "João",
+      "peso_relativo": 38.7,
+      "fatia_pct": 6.19,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "Campos",
+      "peso_relativo": 35.5,
+      "fatia_pct": 5.67,
+      "fontes_distintas": 10
+    },
+    {
+      "termo": "João Campos",
+      "peso_relativo": 35.5,
+      "fatia_pct": 5.67,
       "fontes_distintas": 10
     },
     {
       "termo": "TCE",
-      "peso_relativo": 37.9,
-      "fatia_pct": 5.94,
+      "peso_relativo": 32.3,
+      "fatia_pct": 5.16,
       "fontes_distintas": 8
     },
     {
       "termo": "PGR denuncia",
-      "peso_relativo": 37.9,
-      "fatia_pct": 5.94,
-      "fontes_distintas": 10
+      "peso_relativo": 29.0,
+      "fatia_pct": 4.64,
+      "fontes_distintas": 9
     },
     {
       "termo": "denuncia Flávio",
-      "peso_relativo": 34.5,
-      "fatia_pct": 5.4,
+      "peso_relativo": 29.0,
+      "fatia_pct": 4.64,
       "fontes_distintas": 9
     },
     {
       "termo": "PGR denuncia Flávio",
-      "peso_relativo": 34.5,
-      "fatia_pct": 5.4,
+      "peso_relativo": 29.0,
+      "fatia_pct": 4.64,
       "fontes_distintas": 9
     },
     {
       "termo": "denuncia Flávio Bolsonaro",
-      "peso_relativo": 31.0,
-      "fatia_pct": 4.86,
+      "peso_relativo": 29.0,
+      "fatia_pct": 4.64,
       "fontes_distintas": 9
     },
     {
+      "termo": "governo Lula",
+      "peso_relativo": 25.8,
+      "fatia_pct": 4.13,
+      "fontes_distintas": 6
+    },
+    {
       "termo": "ajuste fiscal",
-      "peso_relativo": 27.6,
-      "fatia_pct": 4.32,
+      "peso_relativo": 25.8,
+      "fatia_pct": 4.13,
       "fontes_distintas": 7
     },
     {
-      "termo": "STF",
-      "peso_relativo": 27.6,
-      "fatia_pct": 4.32,
-      "fontes_distintas": 6
+      "termo": "PSB",
+      "peso_relativo": 25.8,
+      "fatia_pct": 4.13,
+      "fontes_distintas": 7
     },
     {
-      "termo": "governo Lula",
-      "peso_relativo": 24.1,
-      "fatia_pct": 3.78,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "contas do governo",
-      "peso_relativo": 24.1,
-      "fatia_pct": 3.78,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "TCE PE",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.24,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "contas de Raquel",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.24,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.24,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Campos",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.24,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.24,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "calúnia contra Lula",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.24,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "GTA VI",
-      "peso_relativo": 20.7,
-      "fatia_pct": 3.24,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Rossi",
-      "peso_relativo": 19.7,
-      "fatia_pct": 3.08,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Cruzeiro",
-      "peso_relativo": 18.6,
-      "fatia_pct": 2.92,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Transnordestina",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "retomada das obras",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "obras da Transnordestina",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "aprova orçamento",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Alepe aprova orçamento",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.7,
+      "termo": "contas do Governo",
+      "peso_relativo": 22.6,
+      "fatia_pct": 3.61,
       "fontes_distintas": 5
     },
     {
       "termo": "ônibus elétricos",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.7,
+      "peso_relativo": 22.6,
+      "fatia_pct": 3.61,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Transnordestina",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.09,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "retomada das obras",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.09,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "obras da Transnordestina",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.09,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "TCE PE",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.09,
       "fontes_distintas": 5
     },
     {
-      "termo": "PSB",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.7,
+      "termo": "STF",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.09,
       "fontes_distintas": 5
+    },
+    {
+      "termo": "calúnia contra Lula",
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.09,
+      "fontes_distintas": 6
     },
     {
       "termo": "orçamento de R",
-      "peso_relativo": 17.2,
-      "fatia_pct": 2.7,
-      "fontes_distintas": 5
+      "peso_relativo": 19.4,
+      "fatia_pct": 3.09,
+      "fontes_distintas": 6
     },
     {
       "termo": "Botafogo",
-      "peso_relativo": 16.6,
-      "fatia_pct": 2.59,
+      "peso_relativo": 18.4,
+      "fatia_pct": 2.94,
       "fontes_distintas": 1
     },
     {
-      "termo": "Coritiba",
+      "termo": "Haymitch",
+      "peso_relativo": 17.4,
+      "fatia_pct": 2.78,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "contas de Raquel",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "aprova orçamento",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Alepe aprova orçamento",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "PSB e PDT",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "contratos de R",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "milhões para compra",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.58,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Cruzeiro",
       "peso_relativo": 15.5,
-      "fatia_pct": 2.43,
+      "fatia_pct": 2.48,
       "fontes_distintas": 1
     },
     {
-      "termo": "Carrascal",
+      "termo": "KAIO",
       "peso_relativo": 14.5,
-      "fatia_pct": 2.27,
+      "fatia_pct": 2.32,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "CESAR",
+      "peso_relativo": 14.5,
+      "fatia_pct": 2.32,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "KAIO CESAR",
+      "peso_relativo": 14.5,
+      "fatia_pct": 2.32,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lúcia",
+      "peso_relativo": 13.9,
+      "fatia_pct": 2.22,
+      "fontes_distintas": 2
+    },
+    {
+      "termo": "Jason",
+      "peso_relativo": 13.5,
+      "fatia_pct": 2.17,
       "fontes_distintas": 1
     },
     {
       "termo": "Transnordestina em Pernambuco",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.16,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Comissão",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.16,
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.06,
       "fontes_distintas": 4
     },
     {
       "termo": "Comissão da Alepe",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.16,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "STF por calúnia",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.16,
+      "peso_relativo": 12.9,
+      "fatia_pct": 2.06,
       "fontes_distintas": 3
-    },
-    {
-      "termo": "bilhões para Pernambuco",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.16,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Pernambuco em 2027",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.16,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "mil inscrições",
-      "peso_relativo": 13.8,
-      "fatia_pct": 2.16,
-      "fontes_distintas": 4
     }
   ]
 }
