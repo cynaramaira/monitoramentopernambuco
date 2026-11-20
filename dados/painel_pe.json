@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-20T17:16:53Z",
-  "total_analisado": 146,
+  "atualizado_em": "2026-11-20T23:20:27Z",
+  "total_analisado": 141,
   "x_recife": [
     {
-      "termo": "Santa",
+      "termo": "#TheBodySeason2",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Santa",
+      "url": "https://x.com/search?q=%23TheBodySeason2",
+      "ruido": false
+    },
+    {
+      "termo": "Filipinas",
+      "posicao": 2,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Filipinas",
+      "ruido": false
+    },
+    {
+      "termo": "MILENA POR VOZES NEGRAS",
+      "posicao": 3,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=MILENA%20POR%20VOZES%20NEGRAS",
+      "ruido": false
+    },
+    {
+      "termo": "#BrasilContraORacismo",
+      "posicao": 4,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23BrasilContraORacismo",
+      "ruido": false
+    },
+    {
+      "termo": "Bayern",
+      "posicao": 5,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Bayern",
       "ruido": false
     },
     {
       "termo": "Gabriel",
-      "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 6,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Gabriel",
       "ruido": false
     },
     {
-      "termo": "Amelie",
-      "posicao": 3,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Amelie",
+      "termo": "Luke",
+      "posicao": 7,
+      "variacao": "+9",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Luke",
       "ruido": false
     },
     {
-      "termo": "#ConscienciaNegra",
-      "posicao": 4,
+      "termo": "#LulaPelaVerdade",
+      "posicao": 8,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=%23ConscienciaNegra",
+      "url": "https://x.com/search?q=%23LulaPelaVerdade",
+      "ruido": false
+    },
+    {
+      "termo": "Tupanciretã",
+      "posicao": 9,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Tupanciret%C3%A3",
+      "ruido": false
+    },
+    {
+      "termo": "Carlos Bolsonaro",
+      "posicao": 10,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Carlos%20Bolsonaro",
+      "ruido": false
+    },
+    {
+      "termo": "Trymbi",
+      "posicao": 11,
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Trymbi",
       "ruido": false
     },
     {
       "termo": "Mendonça",
-      "posicao": 5,
+      "posicao": 12,
       "variacao": "-1",
       "direcao": "cai",
       "url": "https://x.com/search?q=Mendon%C3%A7a",
       "ruido": false
     },
     {
-      "termo": "Tupanciretã",
-      "posicao": 6,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Tupanciret%C3%A3",
+      "termo": "LULA EU CONFIO",
+      "posicao": 13,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=LULA%20EU%20CONFIO",
       "ruido": false
     },
     {
-      "termo": "CONGRATULATIONS BTS",
-      "posicao": 7,
-      "variacao": "-1",
+      "termo": "Olise",
+      "posicao": 14,
+      "variacao": "-6",
       "direcao": "cai",
-      "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
-      "ruido": false
-    },
-    {
-      "termo": "percy",
-      "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=percy",
-      "ruido": false
-    },
-    {
-      "termo": "ENHYPEN",
-      "posicao": 9,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=ENHYPEN",
-      "ruido": false
-    },
-    {
-      "termo": "Isabelle",
-      "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Isabelle",
+      "url": "https://x.com/search?q=Olise",
       "ruido": false
     },
     {
       "termo": "Zumbi",
-      "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 15,
+      "variacao": "+2",
+      "direcao": "sobe",
       "url": "https://x.com/search?q=Zumbi",
       "ruido": false
     },
     {
-      "termo": "thalia",
-      "posicao": 12,
-      "variacao": "+3",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=thalia",
-      "ruido": false
-    },
-    {
-      "termo": "annabeth",
-      "posicao": 13,
-      "variacao": "+4",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=annabeth",
-      "ruido": false
-    },
-    {
       "termo": "Palmares",
-      "posicao": 14,
-      "variacao": "=",
-      "direcao": "igual",
+      "posicao": 16,
+      "variacao": "-1",
+      "direcao": "cai",
       "url": "https://x.com/search?q=Palmares",
       "ruido": false
     },
     {
-      "termo": "BTS PAVED THE WAY",
-      "posicao": 15,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=BTS%20PAVED%20THE%20WAY",
-      "ruido": false
-    },
-    {
-      "termo": "xsbel",
-      "posicao": 16,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=xsbel",
-      "ruido": false
-    },
-    {
-      "termo": "Guardiola",
+      "termo": "Kane",
       "posicao": 17,
-      "variacao": "+14",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Guardiola",
+      "variacao": "-8",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Kane",
       "ruido": false
     },
     {
-      "termo": "nayeon",
+      "termo": "Adil",
       "posicao": 18,
-      "variacao": "+8",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=nayeon",
+      "variacao": "-5",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Adil",
       "ruido": false
     },
     {
-      "termo": "Natalie",
+      "termo": "Percy",
       "posicao": 19,
-      "variacao": "-1",
+      "variacao": "-5",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Natalie",
+      "url": "https://x.com/search?q=Percy",
       "ruido": false
     },
     {
-      "termo": "Sunghoon",
+      "termo": "CEOs",
       "posicao": 20,
-      "variacao": "-4",
+      "variacao": "-8",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Sunghoon",
+      "url": "https://x.com/search?q=CEOs",
       "ruido": false
     }
   ],
@@ -173,44 +173,44 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "G1: Rastro de luz é visto no céu em cidades de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckxfWl9Rbm9fQUJYbVp1SVdNdkZOUjg4WW0tSHBsWDAxUkVZSHo3MlFzNzhrSUpJS3NSTDl6MndQN2J0NzF6My1yMDlCdUpFQmdHOWlDaHZlUGVmVWVWUnFZeVN2Z203UHlrWjNhbWMxZHJoRXFlbDZibm9SN183eHlVeWtXQ3lPNFh4QTR0aUM0UENTYmNKYVJnZlhGZlh0bWN1eVBYdkl5SG4ycU5OYzZrZlhIb3p4V1pUUdIBvAFBVV95cUxQckxfWl9Rbm9fQUJYbVp1SVdNdkZOUjg4WW0tSHBsWDAxUkVZSHo3MlFzNzhrSUpJS3NSTDl6MndQN2J0NzF6My1yMDlCdUpFQmdHOWlDaHZlUGVmVWVWUnFZeVN2Z203UHlrWjNhbWMxZHJoRXFlbDZibm9SN183eHlVeWtXQ3lPNFh4QTR0aUM0UENTYmNKYVJnZlhGZlh0bWN1eVBYdkl5SG4ycU5OYzZrZlhIb3p4V1pUUQ?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): Escolas da Rede Estadual de Pernambuco promovem ações pelo mês da Consciência Negra",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0hKY0V1SkpTV1RyVDNDQlp2c01Ib3kxRmpzYkhXQ2dNMHp1UkdpTENRWldRQWt0V1p6cmgwNGw3Zy0taDBDV2dIejVmVDlwaUx1RGFxU1RhNnJuaTM3U1JCYUdweEZEc0JublVvRGVFNGlLWUpuTklrOWRLc1phOW4yRC0yNC1RaW1pV0JtanpncmdkWDcxSUxmMnd2aXR4NkszWWdfNHk5cjBIRktxeVRDenE2QVJkQnc?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Torneio de pesca tem14 equipes em disputa em Fernando de Noronha",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWd3WWI3TkFBd2FaZ2tEYXo1VU5wUzNEU0xqUl9sNU9Cb2ItWmdHUEJNMWRRUGwtb3V5WlRaenpLUnZaR05pNEJlWDRzenl4UTZDejVfUVVkVldaMjl5RlNxSDdUZ1l2U19HSkNfaGxzcFdvNGlycFlVTy0zZlhjSTZ5cW9HTnYtVDdSWE01VHlQblhGOGRZWTMxYXVSVlF4TzByRTVGeWV2NXAwY2x1NlJSQ2lmSnFKNy1XcElVTmR1UnNEQzVnbW9HZ9IBywFBVV95cUxQYWd3WWI3TkFBd2FaZ2tEYXo1VU5wUzNEU0xqUl9sNU9Cb2ItWmdHUEJNMWRRUGwtb3V5WlRaenpLUnZaR05pNEJlWDRzenl4UTZDejVfUVVkVldaMjl5RlNxSDdUZ1l2U19HSkNfaGxzcFdvNGlycFlVTy0zZlhjSTZ5cW9HTnYtVDdSWE01VHlQblhGOGRZWTMxYXVSVlF4TzByRTVGeWV2NXAwY2x1NlJSQ2lmSnFKNy1XcElVTmR1UnNEQzVnbW9HZw?oc=5"
+      "manchete": "mst.org.br: Juventude Sem Terra de Pernambuco realiza Encontro Estadual em defesa da Reforma Agrária Popular",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOW5CbnR5UmxoOUJhVTZ2SnB0WE4wVjhMZmJFTmlnTTNITE5wZHliWVJJMkI2UC1UN3h2UFlEWjkyNVlnODYyNkxZWEhpZlc3UmV1RWJXRUtOMzkwMTRRVW4wTmVkN1RYdFYzbDVkNHh4NTJ4TTFLdzZJN1NWdFRBdHBpOWFaQTdWM1RCamlhRnVuaGhrcGpGSUEtRTNiWHA1NFF3Ump3YmZBczM2TXFGM0NuZHpXRFNfV19lNy02amJxTWVzQVE?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "O Cafezinho: Pernambuco vai cobrar ICMS sobre o Imposto Seletivo em 2027",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXhpN2I4eWVzcEpicWJKR002bElfOXpUQktKcGZHZzhPdTIxLUVvZ0dwbHZtVmdFamtMZmRmbmZyX19ZZ193MjZUNmNPVWx6Q0ZYVUpRNjVWelUzTW1Wb2hSb1h6c01QaUIyNkFXYUlRUUlaQTVhZGZjVFJKNW9fSEFCb19XcDN1RWJZNGRNMjFxbFVJaW1aRUFSLW1ZMEXSAaQBQVVfeXFMTlN0VjMxMHpBakhGNmJsaTl1R1gyWEhrM3VRdGtDRVpLR2dueWxFUjZJbHB2UmdITHJuOVVYaWtmUE0zb1Q1YmlzSWVNWGEzZTg2ZDNNTG51M1dwRHpyTG9EcHpjVlRBLWExcFl2T1JvRlhBN1hwcWhFSGg1UE9yN2ctTjBRZ3d0OFQyRC1aQ0hTSUZUdGtyMFNtcURjaVBETWpzRWQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Exposição apresenta novas perspectivas sobre terrenos baldios no Museu da Cidade do Recife",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWlzd3BwaVh1R2YxM3FMVEZ6MVBScTRsUklGZHBOZnVKSkJaaUxvZUFSMVotZkRSZkZYdHFjUUpGd0hTdjBjcHo5SjZuNDRjUmRRclhMS1NXcER0M19pb3NyLW9fTlVJWDFGdFBMVldRXzM3bzVDZzhBQ3lFRVoxcFEtTTBxS1ZHcFQtVElveWNjZVlicV9BTFpxWGJKSk1LNkxnTVZPS3pvVVpfQXRrYU1NQm83MzRyOHd3cWJKNlZiQVBDTXZxVjZDdlFSajA?oc=5"
+      "manchete": "RioMar Recife: Natal dos Brinquedos RioMar conta com mais de 15 atrações gratuitas",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVp0OXp3ZEZ5Y1dReDBJeU1IVFdlOFRXVHF0ZTQ3XzQ0WTlqakNXTlJQSnFaeFNoajV6QlgySkJZQnpvMWNVbDlONDF5OFlBVnl1WGdJR3pmVUhEWlFJRTNzZFlmek8wN2hUc2lnekxKeTEzUXY0ZHkwbllHUDFVTzJFOXdqYmR6b1JpZUpaaWFVb2Zid2VhaTUwMlQxU2pMSkw0SkJZenphejE0WVE?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Shows de Josyara e Jonas Esticado, Festival Recife do Teatro Nacional, Miçanga, mostra sobre Niemeyer e mais: veja agenda cultural",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQM2tSVmpIZFFuT1p2bHlkZzJNdl9kRm1VcTZCeVp1aEVTRkxTZU94UF9IUUZkRm5oSlZ3SXNDb3FpaEtTZ1h0NndJSjhSTWxLamt6Y0VBdE9mZ2RhR2ROc185bEloU0VRUTladkVpWUF3VHZCWG5GeV92RE0zS1U5U0xlanFUTE9taHNLNEFhMnliZjRFbk5vQV9GTVJHbWlPcmlFZWJxNFYyZ21iOXRyMDI4RnhnOW94Q3pUemdVWmRxMWk3R3RXQWNESi01U05ZeEhwWWpHVDJ0ZHg3cGlwT0hGTjlRbHpxcGlYOVRMenkzT1FMeFBTMm9lRjJQb002TmlKUlhqY1J5ZEpRbUZFdnlHcVYtTDBEVktPN1hTT1FDNUdrRWtIQ3E2UVlvNzhPUkHSAcACQVVfeXFMTnp3TDZfRGFvaHRFd05BRkpGczBmZnJydGc2c1VwMXJwM3NqSkY0WmFTUG1nYUM1dzJ5dUU4WG5jMXVMOFlpN2Q4dEwzbE9DenVMVEVmZ3pZZkdmWk9wdUZMMFpEMldkZWZrc3ZwbjZieFJVTXpVOUU5aXF3LUxWYjhNa0gxV245dE1CVFVreXZzQVI4T0hqUmFSNjZVVGIzT0JQT0VVeDdwVlpXU2lRWkRzT2hoN2FTTG4yckI4eWZhbmRaQ2pRakw3Q05BYTJuQ3doeVRFdDRtR1pJMHA1YmtFY0MwZ3RIM0hKczhaLUJFSjRlSlhNOG1DaUVkU2UwZ0Y2Y3hTVzdDT2xORUtKUld3TG9vWS1BaFlKeDMzTFltWUhlN1Q0NnNsR3N1X2N5NDNXVzJLRElFZXJybjZyVk8?oc=5"
+      "manchete": "Blog Cenário: Presidentes da Câmara e do TJPE assumem comando do Recife durante viagem internacional de Victor Marques",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd2lJRmFnWWtxYjY0RVVMaVJ3dDh2MXQzcU5TcXI0WGxHMDUzTFgtSW54X2RNT2ctbGxLU2d5N29OY1o5ZEVUY0lKb0Q0TFBYRFVqNERjLXowdTFrLTkxekhCbTc3Qm5xbTlYYWcxaW5aTFRaV0tBcTVtaE1Kcmw0RkZvcGRwNDZyekVDWWJ5bm5NX3B6RVRvczdVdWNwdU9lZmtEb1V1UFhvelZVQnFjYTVaNVhPU0F3bU4zVFhhVEZZVFVyVWxpZ0M4TzRQTTJhUExTT0FWVkQwUQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Dellas: Geraldão oferece mais de 600 vagas gratuitas para atividades esportivas no Recife",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2dWTXhERWFZVlNob0JlSWFWaEtnMV9qaXE2OGdHNUFMcHpERGFQbEptVmdqWlNabFBwdEZHU2NuSnBIWG1XM2ZtRXpBMTFVX0dTUGlCVEYyODNkSVdMbDhhaWdJUl92RTRqc1JfOC05Zm1yNUlxZnFrTU1lRGdQYmJQSmo1YjJkZTFieWx4dzRBR0g4VmZWbFgxdFp0dWdYbGFBVTczTWpQbENj?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Portal Radar: Feira Petnor 2026 movimentou mais de R$ 100 milhões em negócios no Recife novo template",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3E4LVN6UjhOYnZtN2RDdllKY3kta25xWTJVN2tpWm0tMGhKa2pQM2p3a3hDYjBSa0xZVWg5c2ZZSzEzNXUtQ2dEak9xemxLOElwYW1aYWhRRGtmZkx1TG5nY05BZ2JhS2lYZU1naWlOV25wUGtWMW01SllTMkV6Y0R3cDJXWVB5UkNpV0xVdW5UUUlVS2xoWTc4dExHVDItNVE?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "TV Guararapes: Corrida dos Morros terá edição inclusiva para autistas no Recife",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR09sc0V4aF9ucjRmdjlSZlZXeWxzS3ZHdW5lRkltU3psZTVoVUR6YU1nSjZMWDdWQnB1Umh4ZUhCU3ZFZHZlSWhrcHgtbXhtT2d5dXRuUWw3eGdjemdJczZhbEpTWDdlY0lleTJnUG5OYjg2VmQwLS1iNEplcko0UmQtc3UwZThwUDZSX1ZJZ1dFaWNzcE1aWVY5VkQxVXlwUjZjdW9pRVBHaTNlSUdwU20yajZtblBsWmNsY2hB?oc=5"
+      "manchete": "Brasil de Fato: MST convida população para conhecer o movimento dentro de assentamento no Grande Recife, neste fim de semana",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMmVudi1TQW9TWUtfUEhQckJJZm9fMGJMQ0dyLV9vdWQ0STBDQ2dUWXpraVVpTGVNR1I1TmlOTF9vQ2tBM3ZpYW42OG13UkxCN3JKa3ROUWdKTW1zdFFlMHFXeGo5T19sem1BdS1EVGNYUzBRaC1QSXNDREFOOGFoaERpTkdyY0Z3U1NCVlQ1X01Zb1E0N2xYTDFSeUJMNVl5MHp3bHZLRXJkRUJfeTRYQi1wMTBTcVFNQnVZcnN6MzBfbTJpRjNPeUVPSTBZQldVUHZvNTJrRG5NRUhrYjZWMmUtY0FaQQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -222,7 +222,7 @@
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
       "manchete": "Blog do Ricardo Antunes: Homem é flagrado sentado em bicicleta dentro de ônibus no Grande Recife",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN21SVVc3V3ZBdDlvVnBBMURnd3VIUW1fQnY1XzJTbVAzcWh3TTloMXc1RmZBd1RfQzNtbVNUUllsc09DdEE1b0dLVGlFVnFqV2EtS0d1VWFGbHFRdDZuVkNka2RXNzJ3bkQtZ2NIdjZpMjJqQloxazBjdWlMWnlQaDkyMEhQNHh2VExpV3RtN0stdWdIWG5pbF9BNG12b0U1?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmM3NG15alpnVWpjck94UXZ1STNHSVFPR1pkcmxFVDkxOTdjZUlBaklWaEF0NTB6bk9idDFsdkh1c1I3cGNkc3pZVFdYaGFXcDczSUNHOV9xc1A0al90YWlDb2RyWVJtaGxxV1FPLVBreHJUU21uQ0VqNjQwbGhPMkpLdnhScEc1Z3NMV00tS3RtYnJYY3UwTTNIUGlscDBrMUE?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -231,10 +231,34 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzBZTjc2YmgwZ3NLdEZmVlRvbHdiRmJ2Z2UydTU3UDBWUF9PT2hoSzF1S2kwVFktNmZnV2l0Sll1V2N1VFdBMEhvcmxla3hfUzVnb0xzZWUxSjVxNkxrbkZ6T2ZqajJ2X1hGU2tnTDZ2Z3p0UVlNbmdibzFOSnN0NlhhODRMOHFGX3Z3ZEZ2U0dTQThoMWNsQ1g3ZEN4cWtxbm9xRNIBpAFBVV95cUxPQzBZTjc2YmgwZ3NLdEZmVlRvbHdiRmJ2Z2UydTU3UDBWUF9PT2hoSzF1S2kwVFktNmZnV2l0Sll1V2N1VFdBMEhvcmxla3hfUzVnb0xzZWUxSjVxNkxrbkZ6T2ZqajJ2X1hGU2tnTDZ2Z3p0UVlNbmdibzFOSnN0NlhhODRMOHFGX3Z3ZEZ2U0dTQThoMWNsQ1g3ZEN4cWtxbm9xRA?oc=5"
     },
     {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Folha Vitória: Médico desce de ambulância e abre caminho no trânsito para salvar paciente; veja vídeo!",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDVLVTJoMVBpNEhLdkE1ODhELWQ5NEJabklycUJVUGdqUldQZWI4anUwNGE4b2stSExTTlRIZTZIS242QVI3ZFBuN0RlMUJMY1JzT2l6enFTVVFoMGZhaENfN0R4Rk1PSlRRTkhhSE9TVldHdjB5NEZLN1VEWHIzYmw4MWx1RG1RWVgwdlBrclg1a0dDcEhwelNUZlpaRDA4UmtBR2M3QWlpem40aTI3TU8ydlcxQWVVVndwTmdQdEF5Z1M0RWRN?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Rede Observatório: *EVENTOS COMEMORAM O DIA DA CONSCIÊNCIA NEGRA*",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEpZNUVobG9WZHJkeEZWQ2dSa3h5LUpkM0R5UkNSZ1VfWFluRnUtVC1Xc0tVQ1FmMmFmcFJERVpwR1N2aEJwLXpBc1dicFp4OGF1eU1HVWJmMlFjX2hBa0c0YTdhNnZyVmxjWWpNRFlLUWlrQS0xMGlFekRmMUY1QUItZWxEdGY2Y1QwNG1VVUNIZno3?oc=5"
+    },
+    {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Jamildo: Raquel Lyra sanciona LOA de 2027 e trecho do Plano Plurianual de 2027 em processo sem impasses com Legislativo",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeV9QWjg5V1hWU05QVUhrQkdRU1liVU5SdHhYSGRhejZ5cjZfREJaejhZQ3FWQ0VoeHVUdDFwNzZXUlI3anpMdWgxQ0QtRDBDUEx2bVNVT0hrdnFManVQTldaNVpUX0VqNWZ5V3hmY1B2SVRuX2lnbVRzOUlteENURGxjTUJJSm5XanlIQVFoLS1yN2k2MUE1QkRFT1hMa3B5OFpSLWw2TWJJM2VFYkdqQTNNVm5WZW9pNTY2UXJqR3ZjTFZ1dFBsdlkwb2VIUDJ2dDI5M0luZHh6ZEJt0gHiAUFVX3lxTFBmTHFVajN0SGxSdXpSMXI0NVJvVWZCcGZEQzBXaFZxbjQ2TTE5RDVOek04SXdFZ2xMZzdtUVBxNjl0ZHpuYUpsa2hyY1VvbEMtQWhyekdTck5YeW8yRGowdktBZWtNcF9NSnU2YVR3YnFqblMtUnU2YWRRNVE2T05GaV84eWloYm1NYUc3bm5SX1VLQjg4RGVoSG5qQURweTBuR3NoUDJROVVabzA2am5DOXFnb2hFSlpmLXZsOWFsRldUUkV4eWEyS1hGSXBHeHAzajJrZ3k2UXZnV0xCUGREZHc?oc=5"
+      "manchete": "Blog do Ricardo Antunes: Resistência a Antônio Moraes abre caminho para candidatura de Aglailson Victor na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmZZQ1VZTXpZeGNkQWJDV0xtUlBNcTFwR0gyeW42WnQ4a1VjUmZEUEhkTm9hbUVUbHFlcDFQaW5lVFc4TW1rOEIxNEY2RklnN1BoQ2x5ejdEcE1sSk9jVnBaZVY5NUdNbDRCZ0N4bll6aTA0NzdOSWJfaGI5LUFfTzFHSmJpM2FTYkVlSmxQODlRaFE2QTV0VXJhZ2M4Szg1enJuSDQxRG0tOWdvNVY1UDZXQU82aVU?oc=5"
+    },
+    {
+      "termo": "Alepe",
+      "volume": "Últimas 12h",
+      "manchete": "Cariri em Ação: Raquel Lyra sanciona lei que autoriza contratação de empréstimo de quase R$ 2 bilhões para Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRmJYUHlZeERUWXFaWHAxRnVTdTlSSnpLbzBCV0QwNUdmNnlZZFBmdktjSUM4MGlQY2p3eWUzOFFNc2VvT0JEbzh6SHRCUjE3SS1TdWF4Rm1iQmxXeWludW5ZTUVhRGgyN1JYeGdoVWxjZVZnelo1QlhkSDVWQ0dhbVh2WkhrREpiSGlyaEFyN0R6YlIyNlUxc2ttQ0ZkRkQwUFBSSnBRTVF5TlRGdkV6cVZ4eEt1UTJyWFVCNFY0VklmOTlQSnllU24wbFNhQUREeUVCVVZmN3BLR0U?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Acessa Caruaru: Raquel Lyra transmite governo a Priscila Krause para cumprir agenda internacional sobre gestão pública em Oxford e encontro de lideranças em Zurique",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOLUdKdDRMOGVYNnN1LW96a1YzdDNRdUYzZ0liOHktaUNsTkZVbzZoa2p1MTVvcFRhc3RaOWVfNEJHVmN3LWhYSHBnbXU1RE9Ld195YWpKMnZaa2tkbF9OMW83RURySUxBYVM3QXg0dm92TEtXYk13ektpajU0RXhVNnpHUUYzcTZBTWRDaDdZMjhYLThZajhRR1hFaThJSmdWblpQNEhPRXlxUHhxS0dKSXJXSmJHcUxsUTJ2VW9oanFXTVYtOWVZWmJXRmpUOF9hT2dCZFk4Z1M5RDVTR1dpaWdudHpDTlFTdkM2NGlLSF8xSHdlNkpYeWFPUThaT0syaXEwTjdpbk1scHVy?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -245,14 +269,26 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Jamildo: Raquel Lyra embarca para Suíça e Inglaterra e transmite cargo a Priscila Krause até dia 28",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzVmbU9fdGJPTEViWXA3c2U4OHI4MXpUMUNmSTU1WG04VlVNTHJEOHJKVG5qVnZvdEQwN09uRmhha3B2anN2RFhFcDNnaGhGbFlpTkNGcFVrMWRQcU5sb2xaaTYxSWhET0tKWGNCTXBuLUZ3S2xYZWVHb2poZkJPSWVhRnQ1VGxibDNhNFQ4WUhzWkpXaFI4LTFjZ3ZkaDAxbWZ0cEZWcU00eTBvM3hfb0ctTDI0cTl2WDNmTXlxUWFtd9IBxwFBVV95cUxPRWRXMkFnWE9xaTNzVC1uNGRtWGkzaEJ0VjdKanVlLWxRdWZwRkxfWHVOOFZQX2k0MEY2cE40OW0zU1NBdW1STm5BelN0aDg1TTlweDRmb0VzOHMwdnNCUXFjNmVkLUduUUkxd0J3bXpISkhmLUt6X1pEdFcxaVQxTWdqeGZHcl9QRzVKckpSSjR5d3hXRHdEMmVzc2FvNDc5RGcySk1yRUItdjczWF9mOU9RMHdGYmM1MW0xREFZUjNfZC1JTW1B?oc=5"
+      "manchete": "Diario de Pernambuco: Priscila Krause assume Governo de Pernambuco durante viagem de Raquel Lyra à Europa",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR3VIQmtpZmZIMl9uYlVMVW9uQUtFWldUOWMtNm5scUN1OS1YNDFsMWZEdFo5Z3o0bk5tekZaeTJYZ2ppQURHWk5PSGdRTkRaOVcxUldtQ2JXNGRid3hiOGN0QXY4X3RvWkVWb2VudnYxLXI4YVhnZnRTMWFNZFVZbXhxbjNQejlxbUdLQ04xM1otM2pTc1RXQzF1N1JlaTl2ZjhTQy1ZY2Y4SE4xQXJ0YmhxZlhFc2YzU3R2X1Z5T1l0cm1DR01pN2RudVBBbWhjdUl4M05NQy1XbXQya2phLVFMZkJaZGM?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Priscila",
-      "razao_aumento": 222.2,
+      "termo": "agenda internacional",
+      "razao_aumento": 128.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog Cenário",
+        "hora": "2026-11-20T12:05:00Z",
+        "titulo": "Priscila assume novamente o Governo durante agenda internacional de Raquel",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmR0WlMzUDNqZDJGMUNGSURmT09FS00zSEt1YlRFZ1Zjb29uYW02b042clJ2R0RmdzlwdEhxLVFacjV3V1V0OUJWdXZvV21Ta1gwdkIzY25oZ05xVFRpcDBvYXBOVFVzdUdHNUZ1ekJHcEppMG1PakVtdUpzbE04Q05zZUN4MFBiNjZ0Zl9NTjVmNTBpZEZQcXYxOHpaMHZmeUc3a1FoY2VEb1J4elY5cUJB?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "governo a Priscila",
+      "razao_aumento": 112.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -263,8 +299,32 @@
       }
     },
     {
+      "termo": "Priscila",
+      "razao_aumento": 106.7,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "dores abdominais",
+      "razao_aumento": 104.2,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "CNN Brasil",
+        "hora": "2026-11-20T19:59:55Z",
+        "titulo": "Bolsonaro é levado a hospital em Brasília após sentir dores abdominais",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGpHVnFPTTFjMFdtR2QxRURRbFNvbHlqekV4bXlxRzRJNFpMSVFZREpYeGRMQTNMMWxwUFRzOW9Bd25CdlZKcHVaLS1LcHVnSWJmZzBPMFFXdGxwTU9adUNLbFFXLTJ1WEdtTTA3MzdENGFzN1RmcEhTcnpaekxCYWd5bXMwc3NOSGlWMmI2dXVpampHaVQ1NG5jYmpiSm12YnpSVnpxM0pwMHhQTGRPU243S1NZR1ZodGM3eQ?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
       "termo": "Krause",
-      "razao_aumento": 166.7,
+      "razao_aumento": 99.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -276,7 +336,7 @@
     },
     {
       "termo": "Priscila Krause",
-      "razao_aumento": 166.7,
+      "razao_aumento": 99.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -288,19 +348,7 @@
     },
     {
       "termo": "transmite governo",
-      "razao_aumento": 166.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-20T09:09:35Z",
-        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "governo a Priscila",
-      "razao_aumento": 138.9,
+      "razao_aumento": 99.6,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -312,31 +360,7 @@
     },
     {
       "termo": "Lyra transmite",
-      "razao_aumento": 138.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-20T09:09:35Z",
-        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Raquel Lyra transmite",
-      "razao_aumento": 138.9,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-20T09:09:35Z",
-        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Lyra transmite governo",
-      "razao_aumento": 138.9,
+      "razao_aumento": 99.0,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
@@ -351,272 +375,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 15.22,
-      "fontes_distintas": 22
-    },
-    {
-      "termo": "Flávio",
-      "peso_relativo": 85.7,
-      "fatia_pct": 13.04,
-      "fontes_distintas": 21
-    },
-    {
-      "termo": "Moraes",
-      "peso_relativo": 85.7,
-      "fatia_pct": 13.04,
-      "fontes_distintas": 22
+      "fatia_pct": 22.69,
+      "fontes_distintas": 27
     },
     {
       "termo": "Lula",
-      "peso_relativo": 75.0,
-      "fatia_pct": 11.41,
-      "fontes_distintas": 14
+      "peso_relativo": 62.7,
+      "fatia_pct": 14.23,
+      "fontes_distintas": 20
     },
     {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 71.4,
-      "fatia_pct": 10.87,
+      "termo": "Flávio",
+      "peso_relativo": 53.3,
+      "fatia_pct": 12.09,
       "fontes_distintas": 18
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 67.9,
-      "fatia_pct": 10.33,
-      "fontes_distintas": 16
+      "peso_relativo": 48.4,
+      "fatia_pct": 10.99,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Moraes",
+      "peso_relativo": 48.4,
+      "fatia_pct": 10.99,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 46.0,
+      "fatia_pct": 10.44,
+      "fontes_distintas": 15
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 57.1,
-      "fatia_pct": 8.7,
-      "fontes_distintas": 13
+      "peso_relativo": 41.2,
+      "fatia_pct": 9.34,
+      "fontes_distintas": 15
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 57.1,
-      "fatia_pct": 8.7,
-      "fontes_distintas": 13
+      "peso_relativo": 41.2,
+      "fatia_pct": 9.34,
+      "fontes_distintas": 15
     },
     {
       "termo": "Priscila",
-      "peso_relativo": 42.9,
-      "fatia_pct": 6.52,
-      "fontes_distintas": 12
+      "peso_relativo": 33.9,
+      "fatia_pct": 7.69,
+      "fontes_distintas": 14
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 26.9,
+      "fatia_pct": 6.1,
+      "fontes_distintas": 7
     },
     {
       "termo": "Krause",
-      "peso_relativo": 32.1,
-      "fatia_pct": 4.89,
-      "fontes_distintas": 9
+      "peso_relativo": 24.2,
+      "fatia_pct": 5.49,
+      "fontes_distintas": 10
     },
     {
       "termo": "Priscila Krause",
-      "peso_relativo": 32.1,
-      "fatia_pct": 4.89,
-      "fontes_distintas": 9
+      "peso_relativo": 24.2,
+      "fatia_pct": 5.49,
+      "fontes_distintas": 10
     },
     {
       "termo": "transmite governo",
-      "peso_relativo": 32.1,
-      "fatia_pct": 4.89,
+      "peso_relativo": 21.8,
+      "fatia_pct": 4.95,
       "fontes_distintas": 9
     },
     {
-      "termo": "Consciência",
-      "peso_relativo": 28.9,
-      "fatia_pct": 4.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Negra",
-      "peso_relativo": 28.9,
-      "fatia_pct": 4.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Consciência Negra",
-      "peso_relativo": 28.9,
-      "fatia_pct": 4.4,
-      "fontes_distintas": 4
-    },
-    {
       "termo": "governo a Priscila",
-      "peso_relativo": 28.6,
-      "fatia_pct": 4.35,
+      "peso_relativo": 21.8,
+      "fatia_pct": 4.95,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "agenda internacional",
+      "peso_relativo": 19.4,
+      "fatia_pct": 4.4,
       "fontes_distintas": 8
     },
     {
+      "termo": "Jair",
+      "peso_relativo": 19.4,
+      "fatia_pct": 4.4,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Jair Bolsonaro",
+      "peso_relativo": 19.4,
+      "fatia_pct": 4.4,
+      "fontes_distintas": 7
+    },
+    {
       "termo": "Lyra transmite",
-      "peso_relativo": 25.0,
-      "fatia_pct": 3.8,
+      "peso_relativo": 16.9,
+      "fatia_pct": 3.85,
       "fontes_distintas": 7
     },
     {
       "termo": "Raquel Lyra transmite",
-      "peso_relativo": 25.0,
-      "fatia_pct": 3.8,
+      "peso_relativo": 16.9,
+      "fatia_pct": 3.85,
       "fontes_distintas": 7
     },
     {
       "termo": "Lyra transmite governo",
-      "peso_relativo": 25.0,
-      "fatia_pct": 3.8,
+      "peso_relativo": 16.9,
+      "fatia_pct": 3.85,
       "fontes_distintas": 7
     },
     {
-      "termo": "Alepe",
-      "peso_relativo": 25.0,
-      "fatia_pct": 3.8,
+      "termo": "dores abdominais",
+      "peso_relativo": 16.9,
+      "fatia_pct": 3.85,
       "fontes_distintas": 7
     },
     {
-      "termo": "agenda internacional",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.26,
+      "termo": "Bolsonaro é internado",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.3,
       "fontes_distintas": 6
     },
     {
-      "termo": "João",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.26,
+      "termo": "passaportes de Flávio",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.3,
       "fontes_distintas": 6
     },
     {
-      "termo": "Campos",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.26,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.26,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Santa",
-      "peso_relativo": 21.4,
-      "fatia_pct": 3.26,
+      "termo": "Body",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.3,
       "fontes_distintas": 1
     },
     {
-      "termo": "Gabriel",
-      "peso_relativo": 20.4,
-      "fatia_pct": 3.1,
+      "termo": "Season2",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.3,
       "fontes_distintas": 1
     },
     {
-      "termo": "Amelie",
-      "peso_relativo": 19.3,
-      "fatia_pct": 2.93,
+      "termo": "The Body",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.3,
       "fontes_distintas": 1
     },
     {
-      "termo": "cumprir agenda",
-      "peso_relativo": 17.9,
-      "fatia_pct": 2.72,
-      "fontes_distintas": 5
+      "termo": "Body Season2",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.3,
+      "fontes_distintas": 1
     },
     {
-      "termo": "STF",
-      "peso_relativo": 17.9,
-      "fatia_pct": 2.72,
-      "fontes_distintas": 4
+      "termo": "The Body Season2",
+      "peso_relativo": 14.5,
+      "fatia_pct": 3.3,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Mendonça",
-      "peso_relativo": 17.1,
-      "fatia_pct": 2.61,
+      "termo": "Filipinas",
+      "peso_relativo": 13.8,
+      "fatia_pct": 3.13,
       "fontes_distintas": 1
     },
     {
       "termo": "Tupanciretã",
-      "peso_relativo": 16.1,
-      "fatia_pct": 2.45,
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.08,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "MILENA",
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.97,
       "fontes_distintas": 1
     },
     {
-      "termo": "CONGRATULATIONS",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.28,
+      "termo": "VOZES",
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.97,
       "fontes_distintas": 1
     },
     {
-      "termo": "CONGRATULATIONS BTS",
-      "peso_relativo": 15.0,
-      "fatia_pct": 2.28,
+      "termo": "NEGRAS",
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.97,
       "fontes_distintas": 1
     },
     {
-      "termo": "Krause para cumprir",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
+      "termo": "VOZES NEGRAS",
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 1
     },
     {
-      "termo": "cumprir agenda internacional",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
+      "termo": "MILENA POR VOZES",
+      "peso_relativo": 13.1,
+      "fatia_pct": 2.97,
+      "fontes_distintas": 1
     },
     {
-      "termo": "Lyra sanciona",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
+      "termo": "Carlos",
+      "peso_relativo": 12.8,
+      "fatia_pct": 2.91,
+      "fontes_distintas": 3
     },
     {
-      "termo": "Raquel Lyra sanciona",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
+      "termo": "ORacismo",
+      "peso_relativo": 12.3,
+      "fatia_pct": 2.8,
+      "fontes_distintas": 1
     },
     {
-      "termo": "PSB",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
+      "termo": "Brasil Contra ORacismo",
+      "peso_relativo": 12.3,
+      "fatia_pct": 2.8,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "cumprir agenda",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Campos",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
     },
     {
       "termo": "Marília",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
     },
     {
       "termo": "Arraes",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "João Campos",
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
     },
     {
       "termo": "Marília Arraes",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Brasil",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "manter passaportes",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "manter restrições",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Zumbi",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 2
+      "peso_relativo": 12.1,
+      "fatia_pct": 2.75,
+      "fontes_distintas": 5
     }
   ]
 }
