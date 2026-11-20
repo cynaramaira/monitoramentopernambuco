@@ -1,192 +1,192 @@
 {
-  "atualizado_em": "2026-11-20T08:30:06Z",
-  "total_analisado": 170,
+  "atualizado_em": "2026-11-20T17:16:53Z",
+  "total_analisado": 146,
   "x_recife": [
     {
-      "termo": "GTA 6",
+      "termo": "Santa",
       "posicao": 1,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=GTA%206",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Santa",
       "ruido": false
     },
     {
-      "termo": "GTA VI",
+      "termo": "Gabriel",
       "posicao": 2,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=GTA%20VI",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Gabriel",
       "ruido": false
     },
     {
-      "termo": "Jason",
+      "termo": "Amelie",
       "posicao": 3,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Jason",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Amelie",
       "ruido": false
     },
     {
-      "termo": "#LulaDecretaOFimDa6x1",
+      "termo": "#ConscienciaNegra",
       "posicao": 4,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=%23LulaDecretaOFimDa6x1",
+      "url": "https://x.com/search?q=%23ConscienciaNegra",
       "ruido": false
     },
     {
-      "termo": "Lucia",
+      "termo": "Mendonça",
       "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Lucia",
-      "ruido": false
-    },
-    {
-      "termo": "#EliminaçãoAFazenda",
-      "posicao": 6,
-      "variacao": "-3",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
+      "url": "https://x.com/search?q=Mendon%C3%A7a",
       "ruido": false
     },
     {
-      "termo": "Haymitch",
+      "termo": "Tupanciretã",
+      "posicao": 6,
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Tupanciret%C3%A3",
+      "ruido": false
+    },
+    {
+      "termo": "CONGRATULATIONS BTS",
       "posicao": 7,
-      "variacao": "+7",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Haymitch",
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
       "ruido": false
     },
     {
-      "termo": "Corinthians",
+      "termo": "percy",
       "posicao": 8,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Corinthians",
-      "ruido": true
-    },
-    {
-      "termo": "Sanabria",
-      "posicao": 9,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Sanabria",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=percy",
       "ruido": false
     },
     {
-      "termo": "#DosimetriaNAO",
+      "termo": "ENHYPEN",
+      "posicao": 9,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=ENHYPEN",
+      "ruido": false
+    },
+    {
+      "termo": "Isabelle",
       "posicao": 10,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23DosimetriaNAO",
+      "url": "https://x.com/search?q=Isabelle",
       "ruido": false
     },
     {
-      "termo": "#5x2VaiComecar",
+      "termo": "Zumbi",
       "posicao": 11,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%235x2VaiComecar",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Zumbi",
       "ruido": false
     },
     {
-      "termo": "Botafogo",
+      "termo": "thalia",
       "posicao": 12,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Botafogo",
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=thalia",
       "ruido": false
     },
     {
-      "termo": "Flamengo",
+      "termo": "annabeth",
       "posicao": 13,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Flamengo",
-      "ruido": true
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=annabeth",
+      "ruido": false
     },
     {
-      "termo": "#LoungeDasBlogueiras",
+      "termo": "Palmares",
       "posicao": 14,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23LoungeDasBlogueiras",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Palmares",
       "ruido": false
     },
     {
-      "termo": "ZAZA",
+      "termo": "BTS PAVED THE WAY",
       "posicao": 15,
-      "variacao": "-11",
+      "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=ZAZA",
+      "url": "https://x.com/search?q=BTS%20PAVED%20THE%20WAY",
       "ruido": false
     },
     {
-      "termo": "Alan",
+      "termo": "xsbel",
       "posicao": 16,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Alan",
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=xsbel",
       "ruido": false
     },
     {
-      "termo": "Bragantino",
+      "termo": "Guardiola",
       "posicao": 17,
       "variacao": "+14",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Bragantino",
+      "url": "https://x.com/search?q=Guardiola",
       "ruido": false
     },
     {
-      "termo": "POR UM BRASIL SEM ANISTIA",
+      "termo": "nayeon",
       "posicao": 18,
-      "variacao": "-5",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=POR%20UM%20BRASIL%20SEM%20ANISTIA",
+      "variacao": "+8",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=nayeon",
       "ruido": false
     },
     {
-      "termo": "Dorival",
+      "termo": "Natalie",
       "posicao": 19,
-      "variacao": "-13",
+      "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Dorival",
+      "url": "https://x.com/search?q=Natalie",
       "ruido": false
     },
     {
-      "termo": "Cruzeiro",
+      "termo": "Sunghoon",
       "posicao": 20,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Cruzeiro",
+      "variacao": "-4",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Sunghoon",
       "ruido": false
     }
   ],
   "google_trends": [
     {
-      "termo": "hoje é feriado",
-      "volume": "▲ 200+",
-      "manchete": "Hoje, 19 de novembro, é feriado? Veja onde e quem folga nesta quinta-feira",
-      "url": "https://www.opovo.com.br/noticias/curiosidades/2026/11/19/hoje-19-de-novembro-e-feriado-veja-onde-e-quem-folga-nesta-quinta-feira.html"
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "VEJA: Eleições 2026: Apuração Estadual em tempo real - Pernambuco - 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXA5R3pTWmF6UTFjekVxTi1na2VrNTJCQi12S2dGdnBJVW9Xd0xNZjdMalNmMDRjM2hGeTZ1aFdaM2JoY1FOYmV3R1o3aFhwUzRfZnUyd2dWZjVTQ3pYdkdueVM3SFZzSV9nTlF0d1MwQXhkN1FibU5oN0x4VmNyOXV5MU0?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Prefeitura do Paulista: Governo de Pernambuco leva a 6ª Caminhada da Paz e pela Vida às ruas do Paulista",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc29iSHI0ai00OExEaU5NdE44WU9WMmhERmVobnJIS0VsampwTlJMY1JGaENMLW5NU2NQQTJablRaSjZPaURYOGVzNzlqMUp0UHotaUZ6NFlqOVczY0kyeXhkS3Juc18wTE1tRmdxYjVLVTBvZEdZUEVTYnpIWE5EYW9WWWZPZmxUdnVDSnJPcnl6QWc5S01RUkd0R2FOekdWMU5udzVlSDhBelE4?oc=5"
+      "manchete": "Secretaria de Educação e Esportes de Pernambuco (SEE): Escolas da Rede Estadual de Pernambuco promovem ações pelo mês da Consciência Negra",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0hKY0V1SkpTV1RyVDNDQlp2c01Ib3kxRmpzYkhXQ2dNMHp1UkdpTENRWldRQWt0V1p6cmgwNGw3Zy0taDBDV2dIejVmVDlwaUx1RGFxU1RhNnJuaTM3U1JCYUdweEZEc0JublVvRGVFNGlLWUpuTklrOWRLc1phOW4yRC0yNC1RaW1pV0JtanpncmdkWDcxSUxmMnd2aXR4NkszWWdfNHk5cjBIRktxeVRDenE2QVJkQnc?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "TJPE: Presidente recebe associações de notários e registradores de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMisgpBVV95cUxQMWx0cTJuR1FkTmo5M0xSSFFWeDh1UkVWOHBIWklGWXVfamlnU1hnOFNrSmE3cXdpS3REanE0S3F4YjNpdnV5WmJiYURtVGpWVTNyZlhwbzhja2VxeDZrdjktQ0JCSC1KSWFWNlJTNWYtZHpKc3l1c1ZUQ0NjVnV1NkpESExlUTllaUI5VDdnLXdSVFdkd0w2WjFOMmZ4aDZybXNCVC1OaGFhenBBU25PN3V3cDBKUE96YU5NU2JoaVB2NmthSjdTRVRvR0ZHNVpfV05OTWdXZHRiYzJfdi1tamJORUJNWFBfdzZ4amJhamFvaEx3aVpabndwbm1DdWo5RkQzN05oSXlldGRzcXI3S3ZhaFRHU2NkODZYRWU4aG9qa0VxVEp6RS1rbmJIN3FONFBlLTBvTEN1RDJCbDMya0trUTBYNnZTbVZBUUxWaF9pcm9DYkxIY0RFTVQ1VWljR3pvUUw5d1p3eVZDdGR4di0telo0T3BYS1Bad0k2ejJFRkJ1dXZ0UnZSWFM5X2gyWmpOc0lJWmNpU09COUgzSHBjSFpTMUpCZVdzdHBkWFhyWmRnTjlQeGpLTnc5YnlCRmI2YVhCY0VhSGRhRlF4M3FvcUtfbmhRLTJNaFVaVUFkNC1XXzE3SVppY0ZBUVB4U3VYaEx3S1NkV2dZZHZxOElMQmJOYk85UmVKTzVxX1JUTHppaVB6b2lDemxNWVNPWTBvbmlMYzdRaGVTU1FaX0drVmJ5bUlOcTFrdHhiaFdub3lFQTYzWHM3OXBUd0tOLVVkQlE4TWVfdi1mWEZhUXhpSWlkZXB0VnVkOEtNaVZyb1dFRkJHZjFvWll6LXM5d3hjNmtjTmdWclBwVk5wTGR6cE5XUzVZam5vTHBkN2c3c0dpZVNaejhvT2J3djZBUHY5NVNTZWZDc2Npd1RodUhneVJqcENMVUVoclpPRGU0a3lwbkotQzl3NmFjMlVINGszeDhQV3pVWU5aNF84VFRET1FXV1FPNFlMU0pZWENCcU9XZjJ4YVdpc0NWS2JKcm5WdFBIQk5ualZKNDVQZXhhM0gzSnczaHpKY1paakktR0lWU2c2c2Z3clBLV08waWlDYUg5dzZSMk5iVTIzVmhqaVBVVkhFWlEzUm56aFRPX285c1FWMF93OGJScWhPbXVTMkd6eUlZN0g5QkhkSVFUTjZnbHAxTmZhakcxNmhQdkt5MTNNQXo1em1JSnVzVms4VHFicE92aEJkMmxpbDJPekctMW84Q1Q0TE9nZW84LXdrbmN3Y3B6b2c0bXFSOHdDbEFWT015cW9VUmVLM0VsaGZuZmd1T0lQcTR0QTgtV2FYRjJ1SFdnYWs3dGR5c3RnYkhtanNqeklUUWp2SUpMdzNueU9GOVRoSzY0MmcxLWVYRFpWdFoxZGNYZEl3LTMtclNVRkZWSmV6SFFEUEYtZGNGWThNSkZ2bHNHRWtMOVNZZ2twc0hLTVRnMlFkR3dOUDlJREstNTNEUzhxUHJ5dHVfX2lPbk9vUFBCanFENlNNUDEzRHAwSlRmUGk5anVBT3IteGl1R3RUWWNfSFJlTy05XzB5Mk53MUhxNUJITFZ5TEE1cjYwano3WnJtcUtOOVB0Qm50ZmN0WnhMREZxTmtiNDJ2bVpKMW5aVE9QLTdicFVpYmFrSV9rcS05TzV5cDctUE5OWGZ2UE82eVVPUjYzek1kcGlHbEtPU01NMzZJZXVOcEZJNGFncDRFX1VNTE1hZWVLVDBDR0tCekVB?oc=5"
+      "manchete": "G1: Torneio de pesca tem14 equipes em disputa em Fernando de Noronha",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWd3WWI3TkFBd2FaZ2tEYXo1VU5wUzNEU0xqUl9sNU9Cb2ItWmdHUEJNMWRRUGwtb3V5WlRaenpLUnZaR05pNEJlWDRzenl4UTZDejVfUVVkVldaMjl5RlNxSDdUZ1l2U19HSkNfaGxzcFdvNGlycFlVTy0zZlhjSTZ5cW9HTnYtVDdSWE01VHlQblhGOGRZWTMxYXVSVlF4TzByRTVGeWV2NXAwY2x1NlJSQ2lmSnFKNy1XcElVTmR1UnNEQzVnbW9HZ9IBywFBVV95cUxQYWd3WWI3TkFBd2FaZ2tEYXo1VU5wUzNEU0xqUl9sNU9Cb2ItWmdHUEJNMWRRUGwtb3V5WlRaenpLUnZaR05pNEJlWDRzenl4UTZDejVfUVVkVldaMjl5RlNxSDdUZ1l2U19HSkNfaGxzcFdvNGlycFlVTy0zZlhjSTZ5cW9HTnYtVDdSWE01VHlQblhGOGRZWTMxYXVSVlF4TzByRTVGeWV2NXAwY2x1NlJSQ2lmSnFKNy1XcElVTmR1UnNEQzVnbW9HZw?oc=5"
     },
     {
-      "termo": "Pernambuco",
+      "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Espaço do Povo: Sebrae aponta 340 mil negócios de mulheres em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GSFo3cUF1WmpjZ1VQZWl2VnE3cEN0b0h5S2k3Mm9Oak9tYi1FdEZURXdkblRuUEVxV0d1Q3g4emU4UTRqWHlOUnVLRjByaUtkS0Z0VmJPeGthUE5EMTZFb3djMUZDVmNuRUpEaTVCLXV2RjJaR0pkVEY2bTU?oc=5"
+      "manchete": "Brasil de Fato: Exposição apresenta novas perspectivas sobre terrenos baldios no Museu da Cidade do Recife",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWlzd3BwaVh1R2YxM3FMVEZ6MVBScTRsUklGZHBOZnVKSkJaaUxvZUFSMVotZkRSZkZYdHFjUUpGd0hTdjBjcHo5SjZuNDRjUmRRclhMS1NXcER0M19pb3NyLW9fTlVJWDFGdFBMVldRXzM3bzVDZzhBQ3lFRVoxcFEtTTBxS1ZHcFQtVElveWNjZVlicV9BTFpxWGJKSk1LNkxnTVZPS3pvVVpfQXRrYU1NQm83MzRyOHd3cWJKNlZiQVBDTXZxVjZDdlFSajA?oc=5"
     },
     {
       "termo": "Recife",
@@ -197,134 +197,152 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Dellas: Em Pauta: Festival de Teatro Nacional movimenta o Recife com 32 espetáculos",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjNxa25sSVZINnIzZ1NxQ3ZWMTJ2UDVHaFN6ZTdXRnQ2a3AzRGZUVFhucWU1M3J4aDhHUWFobHhxaVg4V0VKUlo4aU44cC12SmV2cVVrUy0xM2tvY0xTRkRCRTI4d0VmSS05aURTSmdWU1IxNmZQaWRKNnNpcnRZOTNpTHN0a2lSSTlYdVkyZG5CMHVBeFRVQ3ZIcktBTnVBak5WakVIOFhNM29J?oc=5"
+      "manchete": "Blog Dellas: Geraldão oferece mais de 600 vagas gratuitas para atividades esportivas no Recife",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2dWTXhERWFZVlNob0JlSWFWaEtnMV9qaXE2OGdHNUFMcHpERGFQbEptVmdqWlNabFBwdEZHU2NuSnBIWG1XM2ZtRXpBMTFVX0dTUGlCVEYyODNkSVdMbDhhaWdJUl92RTRqc1JfOC05Zm1yNUlxZnFrTU1lRGdQYmJQSmo1YjJkZTFieWx4dzRBR0g4VmZWbFgxdFp0dWdYbGFBVTczTWpQbENj?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Festival Recife do Teatro Nacional chega à 25ª edição com 32 espetáculos e programação gratuita",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNmR1endmODUwREdoTmtZVVpDNWRmTFhlQ2lXaW91bGQ2X1Q1TTVEVnQtcDU0ZkFZRTVCbE81bVBNRUJJLUJUQ0NtcHdYa0owUVU4T1lSWjdnNjlsa3hLU2JHeE95RzVrdjJYdFdCYzQ3cmY5Vk9mTUdYMkN4NlpjLWZqZUZYQmM5cnJWb3haVEJ6SWp6RHF0a2pxLUs5Z1puaHN1SXAyVWNzaDBZaW1hVlVkWHIyWXprTHlmdFZteXZPcHJxaDNadUdnTTR5VjIxeGkyRE1n?oc=5"
+      "manchete": "Portal Radar: Feira Petnor 2026 movimentou mais de R$ 100 milhões em negócios no Recife novo template",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3E4LVN6UjhOYnZtN2RDdllKY3kta25xWTJVN2tpWm0tMGhKa2pQM2p3a3hDYjBSa0xZVWg5c2ZZSzEzNXUtQ2dEak9xemxLOElwYW1aYWhRRGtmZkx1TG5nY05BZ2JhS2lYZU1naWlOV25wUGtWMW01SllTMkV6Y0R3cDJXWVB5UkNpV0xVdW5UUUlVS2xoWTc4dExHVDItNVE?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "TV Guararapes: Corrida dos Morros terá edição inclusiva para autistas no Recife",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR09sc0V4aF9ucjRmdjlSZlZXeWxzS3ZHdW5lRkltU3psZTVoVUR6YU1nSjZMWDdWQnB1Umh4ZUhCU3ZFZHZlSWhrcHgtbXhtT2d5dXRuUWw3eGdjemdJczZhbEpTWDdlY0lleTJnUG5OYjg2VmQwLS1iNEplcko0UmQtc3UwZThwUDZSX1ZJZ1dFaWNzcE1aWVY5VkQxVXlwUjZjdW9pRVBHaTNlSUdwU20yajZtblBsWmNsY2hB?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "JC: Escolas de Aplicação da UPE recebem mais de 5,7 mil inscritos para seleção neste domingo (22)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS1UyU0gyczVEcXZJS2hqNW9Vem4yTlJOZ2ZUQ0Nzb2wwbEUtZE1KSjJhY3RRM3VPbk5Kb01tTmt3SzRJZUNrNWhNb0JyTGFlNTMySFZ5RDFYaTN4Nmd3eFJMVlVfVEUwSnpQOEpIWE1wS2ZrQjBxcHZ0b0QyMTNhNVZoT1hzTXJxVnJfX2hMa09EX1oxdjFBMW56N29wOVJhZzdEZWdoSUxUWDNTZHlIcnhyMlV0cEF3YmttckdWS001d21oZG9JSzZIN3c4ZlJBM0d4SjRGTzktMy1oc3puN0gtbXp3NG8?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Blog do Ricardo Antunes: Homem é flagrado sentado em bicicleta dentro de ônibus no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN21SVVc3V3ZBdDlvVnBBMURnd3VIUW1fQnY1XzJTbVAzcWh3TTloMXc1RmZBd1RfQzNtbVNUUllsc09DdEE1b0dLVGlFVnFqV2EtS0d1VWFGbHFRdDZuVkNka2RXNzJ3bkQtZ2NIdjZpMjJqQloxazBjdWlMWnlQaDkyMEhQNHh2VExpV3RtN0stdWdIWG5pbF9BNG12b0U1?oc=5"
+    },
+    {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Imirante.com: Sampaio Corrêa vai disputar a Copa Maria Bonita pelo segundo ano consecutivo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzBZTjc2YmgwZ3NLdEZmVlRvbHdiRmJ2Z2UydTU3UDBWUF9PT2hoSzF1S2kwVFktNmZnV2l0Sll1V2N1VFdBMEhvcmxla3hfUzVnb0xzZWUxSjVxNkxrbkZ6T2ZqajJ2X1hGU2tnTDZ2Z3p0UVlNbmdibzFOSnN0NlhhODRMOHFGX3Z3ZEZ2U0dTQThoMWNsQ1g3ZEN4cWtxbm9xRNIBpAFBVV95cUxPQzBZTjc2YmgwZ3NLdEZmVlRvbHdiRmJ2Z2UydTU3UDBWUF9PT2hoSzF1S2kwVFktNmZnV2l0Sll1V2N1VFdBMEhvcmxla3hfUzVnb0xzZWUxSjVxNkxrbkZ6T2ZqajJ2X1hGU2tnTDZ2Z3p0UVlNbmdibzFOSnN0NlhhODRMOHFGX3Z3ZEZ2U0dTQThoMWNsQ1g3ZEN4cWtxbm9xRA?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Por unanimidade, Alepe aprova orçamento estadual de R$ 68 bilhões para 2027",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2FmNHgxSEtDWEN4ZGxGekppcUo3a3oyaVNLQlF3NUtrTFN6V2FHX3cyTG5mbTJMNW1wTTJIWjBvRFZtOHZONXJ2aVRTa3NUQUFlLVI0cDUxNnphN0FUMk15RjBRODhoSzNzbENQT2VrM0tGWk9qTDZqQ0g2V21vQ09zalRoUVRsTkVZZXRzbWg4d0tRcU5mUVBTTm5YX2FLNzdn?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Ricardo Antunes: Alepe aprova concessão de título de cidadão pernambucano ao senador Renan Filho",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFtcHdSQlZLV1RHeG96OEFEMWFTbkJfZDEtZjZCTldGRU9oaF9PZFVZcUo3aEdpak13NzRkNkl2R3dFTUdSelZJTkpZU0YyQlIyUlRQcDJXeC1xY19nQUtId2Y5RzdpeHhiZmhWa3oyYnhyT3dSUlY1Ym1hUVlRd2FPT3p4VlBLel9scmNsWlBKSlFZbmYwUnhLdERPMlNKTlVOLXV4RnZ3Yi1Z?oc=5"
+      "manchete": "Jamildo: Raquel Lyra sanciona LOA de 2027 e trecho do Plano Plurianual de 2027 em processo sem impasses com Legislativo",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeV9QWjg5V1hWU05QVUhrQkdRU1liVU5SdHhYSGRhejZ5cjZfREJaejhZQ3FWQ0VoeHVUdDFwNzZXUlI3anpMdWgxQ0QtRDBDUEx2bVNVT0hrdnFManVQTldaNVpUX0VqNWZ5V3hmY1B2SVRuX2lnbVRzOUlteENURGxjTUJJSm5XanlIQVFoLS1yN2k2MUE1QkRFT1hMa3B5OFpSLWw2TWJJM2VFYkdqQTNNVm5WZW9pNTY2UXJqR3ZjTFZ1dFBsdlkwb2VIUDJ2dDI5M0luZHh6ZEJt0gHiAUFVX3lxTFBmTHFVajN0SGxSdXpSMXI0NVJvVWZCcGZEQzBXaFZxbjQ2TTE5RDVOek04SXdFZ2xMZzdtUVBxNjl0ZHpuYUpsa2hyY1VvbEMtQWhyekdTck5YeW8yRGowdktBZWtNcF9NSnU2YVR3YnFqblMtUnU2YWRRNVE2T05GaV84eWloYm1NYUc3bm5SX1VLQjg4RGVoSG5qQURweTBuR3NoUDJROVVabzA2am5DOXFnb2hFSlpmLXZsOWFsRldUUkV4eWEyS1hGSXBHeHAzajJrZ3k2UXZnV0xCUGREZHc?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "TJPE: TJPE e Governo de Pernambuco inauguram posto de documentação civil na Funase",
-      "url": "https://news.google.com/rss/articles/CBMirApBVV95cUxPVXltZEJ2VXE2WDlQVHQzbUtSakRpYmotX01XNFZiTDFtc00yZ1ZfSXdaZ2VwLVIxeFlqdGlvS3BlYmxPM0IyVE4tRkdObzY5bXFqTUVlcUtkUVZnQy1iQk1XY0R6N1lJb2JCOE5adGdfbW1CUjR3MFdaeGhJMFNfU0hic0ZXb1R6c2tjRkx0NTlrNlI4OEJpNWhaSkRDM1dqNWVLNTRsNlVwQ2t4czVWaUZ6ZEtHVmxlWU0xMmlVT1I1Skhod1pyQ3dpam5udFYzTkhiTlZPVkd0UWlVeF9veVltRVowaE45dDFWZTl2VXBpYUJwek50b25wRmNxdnpPSjZhNlRoSmFQdEZ0dWFHNUlpblV4TmVVNGJkbW5vQUl1X2hfUGZra2dWRzZ4ZURDR1JlSzJTUjBnSUZMTHg4TWZRVGVFTHU0ZW9KLVhkNVhsMmpRdVUtVXFIenBnaUZFaExscHU2QWhnZHJGU3Exb3ZNalpLV0F2UlVUX3VndFhNZXk1UHNVdWJ5a3EydXlxV3kzdmlqd3RxMkNzMGdRLU8tX0U0R25lOTZhb1N2dzI3X3kwZ2poYWRud05uUkFCQU1MVTdFcnNJWWdNMndoXzFUcVdmdjh0Q2J0QUwxbVNZUEZhbk1SczJMX05vdGIxdHFlSWQ4WXRkcUtiZ25YUTg5eUVqZUVmRVZFMVBSMkpONjQ1RThQNUpUR1dFLWZXR2JsTUI1TXBvYUFBVlE5U295UElqMHhTeUc1TTlaMV9iTEFQTTdfSVN4WmpRa1hiTnJuNktXcmlaUU05YXRHaU1iVlVRVnZ2d0thcDA5aG1KV1hWMG9fMHpOMENmelM3RWFDd2ozbVBYcUdaMlotSEpLcW0xNnhwVXNKVEtTWWtfSEk5emZ0WlZlaUxhZFBMalRqNzBUQmM0dXBVak9ReVh4ZzBycWJ1dmx6bUk3OWt4TVVHdDU3QTZIRS1fZ3dQRU9FZDNrOGsxQ0lUWEliVEF5TE5pcVByaHk5c25sZHlib05SalZZNmVCNkxmZV9TbWwyU1VMSFZhaDlfWE5McWY0bnBtdGxSYlphR2c2UXJ2VjRIQzFaRkVaRjFBMlNoYm1LVG5ualdlbXdkUFpkM0I4Uldrc2kxOHRaN1FwM1BMVEUwRlZVMlBzaHJBLXBXbUhNaTRfazVBcTYxcE0tbGQzWFR4YmJBU3BUQW93dVhDWm5JSTIyU3AwczB3WE91RHNGWHhGZGtCR0JfY0JnZzNIc1lhOF9yT1JHcFprRFc5UHZVZUdnXzBPdE9NbmhfQTl0QzVaVlE2a1dFaTZnaFlnZG0xSGJSS0E3MjVrOUJMVjQwUUZDX1JDMGJsNFhYWTJpbTM3ZDhDTXRpWkpfbGR5OFhmV0VOTEdXOHRtYVRGc0FlUi1OX3NFdDRkNjR0emM5VVZCUC1aTmFTWXluSzgycWxBdUZOamh1UnBYVHdLeVdJV0N1U2pQNmVVTkpWUDh0cXVUbEpOaS1BaTh4eFN5YXRPakRrb1VuUUVIcW1fY3MtYkdRc2g0aWRhb1BEVUNOX2N4T05lYWRFdExBeVVrSnFrYXZTUkNuRk1wb09tTW5FLXQwTWlUSExZdGtZdFI2cFdhUzhCUU5SZFZNYmFBYjg1amZMR2RLVEg4SDF0V19ZSXhCWHpUaUlpaDNHRndNRGtCZFctclFmYVlxZlVSOFBvb3VFX2hUYTU3OFhLanJlc3pMekhRTFJSVm1XNVZjRURpLWFaSjlV?oc=5"
+      "manchete": "Blog Cenário: Priscila assume novamente o Governo durante agenda internacional de Raquel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmR0WlMzUDNqZDJGMUNGSURmT09FS00zSEt1YlRFZ1Zjb29uYW02b042clJ2R0RmdzlwdEhxLVFacjV3V1V0OUJWdXZvV21Ta1gwdkIzY25oZ05xVFRpcDBvYXBOVFVzdUdHNUZ1ekJHcEppMG1PakVtdUpzbE04Q05zZUN4MFBiNjZ0Zl9NTjVmNTBpZEZQcXYxOHpaMHZmeUc3a1FoY2VEb1J4elY5cUJB?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Mário Flávio: Governo de Pernambuco prepara apoio ao Estadual de 2027 com transmissão e incentivo às categorias de base",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU0JPTlZjc1RTODFDOTdOX2prbkh4aFNJdm5hakQ3aUhDSlZmajE2Sy1MZ1pkQm4xdHpoTTlreHY5SlJ6YkY2REJOcDJBczhSUi1DejlXci1MczNVa0F3T21mNVllaVZKX2V1d3lTWXZYbzF1d2Y5VHptMUVyYmpycmFFRy1mQUVlYTZjV3lNaHN1djZ5T0hZaUpwSlo1dWZncFREUnNyazU5RTNfOVZ4b2RUS2YyQ3FRUlp5Wm5McnlKWlhmeGJscG1Dc1Vpd2ttTHNmRU1R?oc=5"
+      "manchete": "Jamildo: Raquel Lyra embarca para Suíça e Inglaterra e transmite cargo a Priscila Krause até dia 28",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzVmbU9fdGJPTEViWXA3c2U4OHI4MXpUMUNmSTU1WG04VlVNTHJEOHJKVG5qVnZvdEQwN09uRmhha3B2anN2RFhFcDNnaGhGbFlpTkNGcFVrMWRQcU5sb2xaaTYxSWhET0tKWGNCTXBuLUZ3S2xYZWVHb2poZkJPSWVhRnQ1VGxibDNhNFQ4WUhzWkpXaFI4LTFjZ3ZkaDAxbWZ0cEZWcU00eTBvM3hfb0ctTDI0cTl2WDNmTXlxUWFtd9IBxwFBVV95cUxPRWRXMkFnWE9xaTNzVC1uNGRtWGkzaEJ0VjdKanVlLWxRdWZwRkxfWHVOOFZQX2k0MEY2cE40OW0zU1NBdW1STm5BelN0aDg1TTlweDRmb0VzOHMwdnNCUXFjNmVkLUduUUkxd0J3bXpISkhmLUt6X1pEdFcxaVQxTWdqeGZHcl9QRzVKckpSSjR5d3hXRHdEMmVzc2FvNDc5RGcySk1yRUItdjczWF9mOU9RMHdGYmM1MW0xREFZUjNfZC1JTW1B?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Lei da Dosimetria",
-      "razao_aumento": 62.5,
+      "termo": "Priscila",
+      "razao_aumento": 222.2,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CartaCapital",
-        "hora": "2026-11-19T21:42:00Z",
-        "titulo": "Após pressão de Motta e Alcolumbre, STF marca julgamento da Lei da Dosimetria",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYWJnVG03UHFGRmhSNWtFa2R2V1JXa2s0eThaQUg5c0dJbWFsWkUwcVNiaDBjV0hjLXRwMC1Ub3lEWVB4a2QtYmVUQXp2Rl9iTkUtYWtTa1NjOWliVlN1dVZUTUFTUW9YV2o3Yk1QTkQyNDJob2dRY19vTTFPUlhCRTRfd0pwV1VoVzdESDluUjQ4MzlKdmszY04wLUtIekhmOVFYaHlQcjBEbGpVY0p4R1ljVzhKeEwz?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Bolsonaro recorre",
-      "razao_aumento": 57.1,
+      "termo": "Krause",
+      "razao_aumento": 166.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "JOTA Info",
-        "hora": "2026-11-19T19:21:28Z",
-        "titulo": "Bolsonaro recorre de decisão de Moraes que vetou visita de Rogério Marinho",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlI5Slpsb3Z0WF9UU2FmeVp1VF9IYXlVQkE4XzRCVzJaUkZzdGlXdEZoMEMzZkx1YlRWNmExTFlSa04ybUVGSmhVQWpJMTFZVXlYTHg2b0dLU3hma3oyS2FIblBFbjlULWZLRmdRYkhXTlBMMFVBa0x4cVJHRWdic280bGdfQ0xLT2lMeThMMDY3ZDd0bE9TaTI2OHlGR1hPeW80ZVRPeUxnU0tWYTNjdA?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Compesa",
-      "razao_aumento": 52.6,
+      "termo": "Priscila Krause",
+      "razao_aumento": 166.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Pernambuco Notícias",
-        "hora": "2026-11-19T10:55:52Z",
-        "titulo": "Compesa passa por concessão parcial nesta segunda-feira (23) e conta de água terá reajuste de 8,85% em dezembro",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2tISzN2RlhnajI5dnpIbTBlVHVuVDFmM1hVUUd6WjhSZUx5c1MxeG02UTYtTnZCMXEtMVpIODBSYnF2M0RaejJCbDFtV0tBWGtCN2lLWDhhLVVRY1czcElnUG1LRlBtUUhkOGlzVTE1eGdzTjJST3Atc0FQVG1XVzlqMTd3c2cyM3RZYmRTVzZYZ3REMEtzZkhvTGRwX0dnVlJKQ0Nxd0owOE53cHRDZ0dRWmFVdnpORm5xbk95NjVISWdXamRQWHd3M0lHMkJ6OEFia3NEazBPUQ?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Concessão parcial",
-      "razao_aumento": 52.6,
+      "termo": "transmite governo",
+      "razao_aumento": 166.7,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Pernambuco Notícias",
-        "hora": "2026-11-19T10:55:52Z",
-        "titulo": "Compesa passa por concessão parcial nesta segunda-feira (23) e conta de água terá reajuste de 8,85% em dezembro",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2tISzN2RlhnajI5dnpIbTBlVHVuVDFmM1hVUUd6WjhSZUx5c1MxeG02UTYtTnZCMXEtMVpIODBSYnF2M0RaejJCbDFtV0tBWGtCN2lLWDhhLVVRY1czcElnUG1LRlBtUUhkOGlzVTE1eGdzTjJST3Atc0FQVG1XVzlqMTd3c2cyM3RZYmRTVzZYZ3REMEtzZkhvTGRwX0dnVlJKQ0Nxd0owOE53cHRDZ0dRWmFVdnpORm5xbk95NjVISWdXamRQWHd3M0lHMkJ6OEFia3NEazBPUQ?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Federação",
-      "razao_aumento": 45.5,
+      "termo": "governo a Priscila",
+      "razao_aumento": 138.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Rádio Corredor",
-        "hora": "2026-11-19T12:11:44Z",
-        "titulo": "Federação PSB e PDT: o que muda com a união",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnY0bHc4WTd4ZDRmMkkxWF9kVU5ON0JkZXlaRDJrVmlVdmpBSDVVMDI2NW05WW4ya0hRUFZKNTQ0bS0zc2NFZ21hNUNLdm9zRFBxYmt3clN5X21IY0JKN1hXLW05U0NJckE2OHpiNGVaUnptb2l6d0cwUGoxSnZ6dS0zWjNqdVh1QkZTZ2puZnExZy1WWEVlXw?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "será o presidente",
-      "razao_aumento": 44.3,
+      "termo": "Lyra transmite",
+      "razao_aumento": 138.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Interior da Bahia",
-        "hora": "2026-11-19T11:25:16Z",
-        "titulo": "PSB e PDT batem martelo para formar nova federação, João Campos será o presidente",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnhnUkJWTVZBWV80RmtqdkN1M3duSzlxREE1QldtRk00Nk5MUVN2YUNXQjlDT0NnWnNFaUdYTFlGR0RlTHZQN2MyQWNYelRUbHVMRXlCcmdnYUlySnROS1ZZcWlrcnFwUmJZblNBMWtwc3cwWkl4eFRFTkh2T3JOY3lQWi04X3pIZ3FyMWNsbE9CQV9oNXNRaFFKc2hCdjBNZ0toYVhYdDlZMTJFOXA5WFJoM1R4VVB6OXFCWWZRQl8?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "regulamenta o fim",
-      "razao_aumento": 43.0,
+      "termo": "Raquel Lyra transmite",
+      "razao_aumento": 138.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Migalhas",
-        "hora": "2026-11-19T15:21:00Z",
-        "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONWdOZ2xNa0tPV2ZUMTF0Y1FJdHpNenNaQWhfVGU2dWVHLURQcUVWb1JFTExTd0l6QmdUcjFfZFhwVnpIa1llSlpFTXBQMVMzZ1JhSUFaa2lCZElrSzNWWHY4MjkwRnpOSVh3aUN0VXFtYzZjMTVPbEdBZU9ndlNQQ1EwR3llVVlDYlptdVExaXZoQ3c4QmU4UWlWQ2pmeE0?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "ministro do TCU",
-      "razao_aumento": 42.6,
+      "termo": "Lyra transmite governo",
+      "razao_aumento": 138.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Valor Econômico",
-        "hora": "2026-11-19T19:28:30Z",
-        "titulo": "Moraes, do STF, autoriza que ministro do TCU visite Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMUFQVEpiS0gzNGlSZWRnblJVOXVTZk1ma21ienQtRFVNNGhZNkh1MXFEOXJDSDMzOFBLM3JxM0JsTEk2ZTcxblQ0RmVzamc1bVZ0RXNTVDlaTnJ6Y2t4c0R4SGFhYTQ5WXQ0WlRVWkVERTJ4MHBsbElWRmpHWDN1SmZFcUQ5bjR1LUprVjBTRTI1VDI3UjY1eF9ZTmNISGlPZk1Uc2hyTU9uNGtMcExPZ0IyNENZLU9O0gHHAUFVX3lxTE8tS2g1eW9XZmFkRTBFZHU2WFNVQXprREZiZlB6TWh5RUhYS2ZUNGV1TU9wVzFaUGJIdEctZ3dobEdBNkNxWDdnZ1ZGSzJfSE5Vd1pSMU4ybzFPQ1h6WEJGbnFXakt2MzNNTkk3R0JKVTFzTndJaEcxeks5Um4ySE44dnA1cEJSV242ZFVoVWU3TDRSSXE2WXhhWm5BeXd1QUFDVG5WWHlyNGpsT1ZuMVJkYnczVFVKSHFSWThROFY4a3hnd0xzeUU?oc=5",
+        "fonte": "JC",
+        "hora": "2026-11-20T09:09:35Z",
+        "titulo": "Raquel Lyra transmite governo a Priscila Krause para cumprir agendas em Oxford e Zurique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeloxN1dXTk9OUlB4eTRvY0ZJanlDUUNHX1daZnEtNmZvbUNmaEN2SGZzWklQdTBudHdaN08xV2hjdFhqblRkbEdEZmF1N0VSd0ZtTEFIXzEweXVLYzU3TFNyOHdZLXVxb1NpRTN5a3QwYUo2cThQRVhYb05qUGFCOWFZa0VjeTA4MW85Vl9HTVljcmdXcU5ESzRYRTVOTWpJSXpxZXluT2c4d3ZHN18wQ2Y5R0ZENUtNdDRNRk1ZNkNacVJmZmV2R205SUpGSVVp?oc=5",
         "peso": 1.0
       }
     }
@@ -333,272 +351,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 20.12,
-      "fontes_distintas": 33
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 95.5,
-      "fatia_pct": 19.21,
-      "fontes_distintas": 25
+      "fatia_pct": 15.22,
+      "fontes_distintas": 22
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 57.1,
-      "fatia_pct": 11.5,
-      "fontes_distintas": 22
-    },
-    {
-      "termo": "Flávio Bolsonaro",
-      "peso_relativo": 57.1,
-      "fatia_pct": 11.5,
-      "fontes_distintas": 22
-    },
-    {
-      "termo": "Alepe",
-      "peso_relativo": 47.6,
-      "fatia_pct": 9.58,
-      "fontes_distintas": 16
+      "peso_relativo": 85.7,
+      "fatia_pct": 13.04,
+      "fontes_distintas": 21
     },
     {
       "termo": "Moraes",
-      "peso_relativo": 38.1,
-      "fatia_pct": 7.67,
-      "fontes_distintas": 13
+      "peso_relativo": 85.7,
+      "fatia_pct": 13.04,
+      "fontes_distintas": 22
     },
     {
-      "termo": "Campos",
-      "peso_relativo": 33.3,
-      "fatia_pct": 6.71,
-      "fontes_distintas": 12
+      "termo": "Lula",
+      "peso_relativo": 75.0,
+      "fatia_pct": 11.41,
+      "fontes_distintas": 14
     },
     {
-      "termo": "João",
-      "peso_relativo": 28.6,
-      "fatia_pct": 5.75,
-      "fontes_distintas": 11
-    },
-    {
-      "termo": "João Campos",
-      "peso_relativo": 28.6,
-      "fatia_pct": 5.75,
-      "fontes_distintas": 11
-    },
-    {
-      "termo": "STF",
-      "peso_relativo": 28.6,
-      "fatia_pct": 5.75,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "PSB",
-      "peso_relativo": 26.2,
-      "fatia_pct": 5.27,
-      "fontes_distintas": 11
+      "termo": "Flávio Bolsonaro",
+      "peso_relativo": 71.4,
+      "fatia_pct": 10.87,
+      "fontes_distintas": 18
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 23.8,
-      "fatia_pct": 4.79,
-      "fontes_distintas": 7
+      "peso_relativo": 67.9,
+      "fatia_pct": 10.33,
+      "fontes_distintas": 16
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 21.4,
-      "fatia_pct": 4.31,
-      "fontes_distintas": 7
+      "peso_relativo": 57.1,
+      "fatia_pct": 8.7,
+      "fontes_distintas": 13
     },
     {
       "termo": "Raquel Lyra",
+      "peso_relativo": 57.1,
+      "fatia_pct": 8.7,
+      "fontes_distintas": 13
+    },
+    {
+      "termo": "Priscila",
+      "peso_relativo": 42.9,
+      "fatia_pct": 6.52,
+      "fontes_distintas": 12
+    },
+    {
+      "termo": "Krause",
+      "peso_relativo": 32.1,
+      "fatia_pct": 4.89,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Priscila Krause",
+      "peso_relativo": 32.1,
+      "fatia_pct": 4.89,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "transmite governo",
+      "peso_relativo": 32.1,
+      "fatia_pct": 4.89,
+      "fontes_distintas": 9
+    },
+    {
+      "termo": "Consciência",
+      "peso_relativo": 28.9,
+      "fatia_pct": 4.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Negra",
+      "peso_relativo": 28.9,
+      "fatia_pct": 4.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Consciência Negra",
+      "peso_relativo": 28.9,
+      "fatia_pct": 4.4,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "governo a Priscila",
+      "peso_relativo": 28.6,
+      "fatia_pct": 4.35,
+      "fontes_distintas": 8
+    },
+    {
+      "termo": "Lyra transmite",
+      "peso_relativo": 25.0,
+      "fatia_pct": 3.8,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Raquel Lyra transmite",
+      "peso_relativo": 25.0,
+      "fatia_pct": 3.8,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Lyra transmite governo",
+      "peso_relativo": 25.0,
+      "fatia_pct": 3.8,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Alepe",
+      "peso_relativo": 25.0,
+      "fatia_pct": 3.8,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "agenda internacional",
       "peso_relativo": 21.4,
-      "fatia_pct": 4.31,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Alepe aprova",
-      "peso_relativo": 19.0,
-      "fatia_pct": 3.83,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "calúnia contra Lula",
-      "peso_relativo": 19.0,
-      "fatia_pct": 3.83,
-      "fontes_distintas": 8
-    },
-    {
-      "termo": "PSB e PDT",
-      "peso_relativo": 16.7,
-      "fatia_pct": 3.35,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "ajuste fiscal",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Lula assina",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "decreto que regulamenta",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.87,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Marinho",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.87,
+      "fatia_pct": 3.26,
       "fontes_distintas": 6
     },
     {
-      "termo": "denuncia Flávio",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.87,
+      "termo": "João",
+      "peso_relativo": 21.4,
+      "fatia_pct": 3.26,
       "fontes_distintas": 6
     },
     {
-      "termo": "denuncia Flávio Bolsonaro",
-      "peso_relativo": 14.3,
-      "fatia_pct": 2.87,
+      "termo": "Campos",
+      "peso_relativo": 21.4,
+      "fatia_pct": 3.26,
       "fontes_distintas": 6
     },
     {
-      "termo": "GTA VI",
-      "peso_relativo": 13.6,
-      "fatia_pct": 2.73,
+      "termo": "João Campos",
+      "peso_relativo": 21.4,
+      "fatia_pct": 3.26,
+      "fontes_distintas": 6
+    },
+    {
+      "termo": "Santa",
+      "peso_relativo": 21.4,
+      "fatia_pct": 3.26,
       "fontes_distintas": 1
     },
     {
-      "termo": "Jason",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.59,
+      "termo": "Gabriel",
+      "peso_relativo": 20.4,
+      "fatia_pct": 3.1,
       "fontes_distintas": 1
     },
     {
-      "termo": "Dosimetria",
-      "peso_relativo": 12.6,
-      "fatia_pct": 2.54,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Decreta",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.44,
+      "termo": "Amelie",
+      "peso_relativo": 19.3,
+      "fatia_pct": 2.93,
       "fontes_distintas": 1
     },
     {
-      "termo": "OFim",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Da6x1",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Decreta",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Decreta OFim",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "OFim Da6x1",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lula Decreta OFim",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Decreta OFim Da6x1",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.44,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Presidente Lula",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "assina decreto",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Lula assina decreto",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "PGR denuncia",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.4,
+      "termo": "cumprir agenda",
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.72,
       "fontes_distintas": 5
     },
     {
-      "termo": "PGR denuncia Flávio",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.4,
-      "fontes_distintas": 5
+      "termo": "STF",
+      "peso_relativo": 17.9,
+      "fatia_pct": 2.72,
+      "fontes_distintas": 4
     },
     {
-      "termo": "Lucia",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.3,
+      "termo": "Mendonça",
+      "peso_relativo": 17.1,
+      "fatia_pct": 2.61,
       "fontes_distintas": 1
     },
     {
-      "termo": "Haymitch",
-      "peso_relativo": 10.0,
-      "fatia_pct": 2.01,
+      "termo": "Tupanciretã",
+      "peso_relativo": 16.1,
+      "fatia_pct": 2.45,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "CONGRATULATIONS",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.28,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "CONGRATULATIONS BTS",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.28,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Krause para cumprir",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "cumprir agenda internacional",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
     },
     {
       "termo": "Lyra sanciona",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.92,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "sanciona lei",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.92,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
       "fontes_distintas": 4
     },
     {
       "termo": "Raquel Lyra sanciona",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.92,
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
       "fontes_distintas": 4
     },
     {
-      "termo": "bilhões para Pernambuco",
-      "peso_relativo": 9.5,
-      "fatia_pct": 1.92,
-      "fontes_distintas": 3
+      "termo": "PSB",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Marília",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Arraes",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Marília Arraes",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Brasil",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "manter passaportes",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "manter restrições",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Zumbi",
+      "peso_relativo": 14.3,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 2
     }
   ]
 }
