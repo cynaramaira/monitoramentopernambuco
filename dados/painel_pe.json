@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-22T07:26:57Z",
-  "total_analisado": 128,
+  "atualizado_em": "2026-11-22T15:40:22Z",
+  "total_analisado": 117,
   "x_recife": [
     {
-      "termo": "Flamengo",
+      "termo": "Barcelona",
       "posicao": 1,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Flamengo",
-      "ruido": true
+      "url": "https://x.com/search?q=Barcelona",
+      "ruido": false
     },
     {
-      "termo": "Leclerc",
+      "termo": "#FoolInLoveEP14",
       "posicao": 2,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Leclerc",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23FoolInLoveEP14",
       "ruido": false
     },
     {
-      "termo": "Leclerc",
+      "termo": "Barça",
       "posicao": 3,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Leclerc",
+      "variacao": "+3",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Bar%C3%A7a",
       "ruido": false
     },
     {
-      "termo": "Russell",
+      "termo": "BDAY ANA PAULA",
       "posicao": 4,
-      "variacao": "-1",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Russell",
+      "url": "https://x.com/search?q=BDAY%20ANA%20PAULA",
       "ruido": false
     },
     {
-      "termo": "Verstappen",
+      "termo": "Fermin",
       "posicao": 5,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Verstappen",
+      "url": "https://x.com/search?q=Fermin",
       "ruido": false
     },
     {
-      "termo": "Ferrari",
+      "termo": "Pedri",
       "posicao": 6,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Ferrari",
+      "variacao": "+9",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Pedri",
       "ruido": false
     },
     {
-      "termo": "Las Vegas",
+      "termo": "WHAT ELSE I OWE",
       "posicao": 7,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Las%20Vegas",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=WHAT%20ELSE%20I%20OWE",
       "ruido": false
     },
     {
-      "termo": "Antonelli",
+      "termo": "Villarreal",
       "posicao": 8,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Antonelli",
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Villarreal",
       "ruido": false
     },
     {
-      "termo": "Norris",
+      "termo": "Bernal",
       "posicao": 9,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Norris",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Bernal",
       "ruido": false
     },
     {
-      "termo": "#F1naGlobo",
+      "termo": "Yamal",
       "posicao": 10,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23F1naGlobo",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Yamal",
       "ruido": false
     },
     {
-      "termo": "Oscar",
+      "termo": "Gerard Martin",
       "posicao": 11,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Oscar",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Gerard%20Martin",
       "ruido": false
     },
     {
-      "termo": "Hadjar",
+      "termo": "Gordon",
       "posicao": 12,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Gordon",
+      "ruido": false
+    },
+    {
+      "termo": "Jong",
+      "posicao": 13,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Hadjar",
+      "url": "https://x.com/search?q=Jong",
       "ruido": false
     },
     {
-      "termo": "McLaren",
-      "posicao": 13,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=McLaren",
-      "ruido": false
-    },
-    {
-      "termo": "Perez",
+      "termo": "#LENAMIUBDParty",
       "posicao": 14,
-      "variacao": "-1",
+      "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Perez",
+      "url": "https://x.com/search?q=%23LENAMIUBDParty",
       "ruido": false
     },
     {
-      "termo": "Sainz",
+      "termo": "Flick",
       "posicao": 15,
-      "variacao": "+2",
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Sainz",
+      "url": "https://x.com/search?q=Flick",
       "ruido": false
     },
     {
-      "termo": "Ana Carolina",
+      "termo": "Marc Marquez",
       "posicao": 16,
-      "variacao": "-1",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Ana%20Carolina",
+      "url": "https://x.com/search?q=Marc%20Marquez",
       "ruido": false
     },
     {
-      "termo": "Lindblad",
+      "termo": "Adeyemi",
       "posicao": 17,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Lindblad",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Adeyemi",
       "ruido": false
     },
     {
-      "termo": "Gasly",
+      "termo": "#GoodBoySeriesEP7",
       "posicao": 18,
-      "variacao": "+1",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Gasly",
+      "url": "https://x.com/search?q=%23GoodBoySeriesEP7",
       "ruido": false
     },
     {
-      "termo": "Kimi",
+      "termo": "#MotoGPnaESPN",
       "posicao": 19,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Kimi",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23MotoGPnaESPN",
       "ruido": false
     },
     {
-      "termo": "#Formula1",
+      "termo": "Farid",
       "posicao": 20,
-      "variacao": "+2",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23Formula1",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=Farid",
       "ruido": false
     }
   ],
@@ -167,26 +167,44 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Personalidades negras que fazem parte da história do interior de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbUZGQmVMTUVvbmU0TE5vQlRZNEhMOXJFVktqenpoXzJLTXRSTnM5TVg5a1hwTkRLUEYzcWlBcTVPdmxVUmJHUmtqaEhDNEpJNlBEWERHVV84NVFPUGt2QVA1TC1zNVJEMnd3Zlh6NzNrdGdaNXB3YWEzOHRLTXVTNzEwWS1jZXZwZHBZeXE4djhHX00zdUJZdjJkQmxES3oxTDJha3RhMVM5eVdPR3hCMDQ3cENsRDhMNm03UGU1akZ5LUpERTRrajR1ODNsUHo0MUh2c3dVX19YMWhMNElhSGsxSDlaTnF2MTlRMDZKaXV4bm9ELWpSa0ZUU3jSAfwBQVVfeXFMTW1GRkJlTE1Fb25lNExOb0JUWTRITDlyRVZLanp6aF8yS010Uk5zOU1YOWtYcE5ES1BGM3FpQXE1T3ZsVVJiR1JramhIQzRKSTZQRFhER1VfODVRT1BrdkFQNUwtczVSRDJ3d2ZYejcza3RnWjVwd2FhMzh0S011UzcxMFktY2V2cGRwWXlxOHY4R19NM3VCWXYyZEJsREt6MUwyYWt0YTFTOXlXT0d4QjA0N3BDbEQ4TDZtN1BlNWpGeS1KREU0a2o0dTgzbFB6NDFIdnN3VV9fWDFoTDRJYUhrMUg5Wk5xdjE5UTA2Sml1eG5vRC1qUmtGVFN4?oc=5"
+      "manchete": "G1: Quatro pessoas morrem e uma fica ferida em acidente de carro em Ipojuca",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3JVSHd3Z1F5V0k5bG5KWmNQWmttdkt4NEtPa2FNVXhTaFJCYkRSZzVDNmlkX2gybXNUWnZBYlJhZ1lDNmRHbVY2ZHlILWdGTXAzUGotNFFkX2draGNWNllMY285cFFROXAtQnZSQ1F0cG1VbUNzUWMzNTVfQXlqQW5BcUg2MnVJS0taMmJlVDJINkg3aHV3OHEzbXpha1NNQk9ib0RMS2tuMU81Mm95M3hRQnBlSFRxVnF3VjdjbDNNVUJ1R0ZzM0Jvb9IB2gFBVV95cUxOSldDbWd4UDV2cEFzWDdROGUwSFFKOUNxZFl4Q0dtX0ZIbHcwUEVjTUdGd1VHaHVKTVRDQWh1MHU0d01YMVViaHlyQU9DTmZlbHhIbldpUWVCV1JVaFZkZG9ZQVlVaVFnYjkzVjR3QWVHTTc4Q0dydUotTllMTkhzbEx0UE9pWnktdjZ1UlFfbVdkNUpJOHVscUhob24tX01XcmFSOXV0QldpY2RxOVNfVWF4UkszVTNvR29EU1p4ZWxxRW92dXN1Z3ZmRXdoRk5WdTBVN0xhejY2dw?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Ricardo Antunes: Bola de fogo cruza o céu de Pernambuco e é vista em várias cidades do estado",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZUUwMHZJbE5fSmFvaldsSE8xZ3dNYWNyMHNyYlBnQ0RsV1VfSlVPVEhNdzFCR0cwSEdQR2p4Q0RCMXR6eVNvLVJIOFZJekRzY0toVUxBSjJCajBVd3Z6c1Qyb2pMcENrVnIwSk5UNk5jRW5qeERqVTFIaHVMLXVJbWNvSmRKNl9QN0FYOW5vQ0t2SldmWC10UE1PNDdzM28zVVJ3Umh5Zw?oc=5"
+      "manchete": "Tribuna Hoje: Acidente em Pernambuco mata quatro pessoas; vítimas podem ser de Alagoas",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRVdKdjZxcEUwN2JrSjdEOVlqWGpObjJlbmo0WXIwVlNOTmRVUnFpdXlxUGxxV2tmcFZiWmRMMkZVVkdHWTBRWXZacTdvYUZ1Tm5LZTdLMzhySlNIV29SSmlmQ2otMnFJaUpFMHRlT3BGbXlQa0NxU2tBNkZCZUxNT1BVRUlQZ2pvU0dOUWh2eUY3empUZGYzbFZGYVAzUVlDdmZNWnVYQzRLX3lBUEQ3NFZFVTc0UXNBRTVlSDZNZ1UxT0pUbHR4RWZ3?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Meteoro de brilho intenso cruza o céu de Pernambuco e chama atenção de moradores",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbWEyNHZyUlB6RDh6VEs0M0VGalpHSFlCWFNmelFHeGk3bVFwUFZucV9FM25zRFFMSFVLXzZON1lWQTZTU0wxWmZBSklyNUlYbDZQX0FaRWZScVp3YVUyZUZlakFYaGdoODVpOVpLTG5GLWZrQmVPTHRyT2NhNzAyX1ppb2pmNHZ0eUlfM25uZkRzYnFTRE9PeFJFcGtBajR1dmF3LVhSY1BGSE1mWEt5TDZNTnB6RzIxc0RTY3hqQkxackdFQWlncWE1aDJKNHQwazF6a2FfanVlOGtGMUgtNWRUMDZSdmgyRTlSWExWX2xvWjVoRkpWVTdBM1VxRC1vTnBXOUVR?oc=5"
+      "manchete": "Blog do Ricardo Antunes: Acidente mata três pessoas na manhã deste domingo (22) em Porto de Galinhas",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWxGY1d4Nnhkank5LXVTa29uYlNWT2xOYkM0VDgtc3NqeDdFQ0djNEk3azVaMFJCVnVDb2V4SGVXc0l2VGsxbnh2UHFlNHVBdVJkbjBhMDJWTURyZXI2dWRGaWt3ZUM4TTlEQk1UZEloTmNlaWRTbnE2UjdyaGluMGx5TUhHZ1NhQXlFekRXcEJ5RDJPZlM5bzBwWGpHSnhiSWIw?oc=5"
     },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Canal Rural: A vila erguida por portugueses em 1535, que se tornou a Lisboa Brasileira e ainda guarda ladeiras e casarões coloniais ao lado do Recife",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOSHNBWUZJOU10N2p0M3V0QW90NmI1TDJBendEeGRjbWRic2tBUU5FejFDb3pKcW5uUTJnM29xY05nWllOaXItcG5wMmR2Z183OGpqeGxvT09MYlctdGpNVEdfc2lpZGRmTl9lM0hvcUg0RlpNeE5uRkRFUHlJV1JidGZSNWJpVVJjOW1aVlZNY0YxTFpXUTZiWWgzdFJFeVMwR01PTU1aTzNhbDUxQ3FxOFhJQjhCdk5UQ2lReTFWaHZkV1dBNkQzbU5NVy1UME4ta1dXRldPZTN1X3hQUHdGOVFsa2RJSGxaQl95bmpyeXg2cUJqQzVZa1Rnb2ZWSXdmRFdhNGwxWHZ6LVJ3cGhZWlFhZnRfVzl5QUE?oc=5"
+      "manchete": "Jornal Minuano: Neuropsicóloga Márcia Lorena participa de encontro sobre autismo em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZmNHN2p4NGtFb29RVFpXR2pVaUFRNnJMczE5V0lJNFJDVDNOejZqNHBDZU5HUTJRZmYwVGphQ0VtUkFyVlpuQTNVM1JnbWZ4dUROTzV4cjlJOVh1SHBFNElfcmxLZ29USW1pdDd1bFFLUE5xODBja0NyekFnWEN3WjFLVGtFdmhSbVlMdEV3V20wRHhJQ0FlS0FkU0pGWUtySFRBd2kteTJwa1hjVG41V3kzNFQwejBmakwyMVdIUFA1SWxwcXBla0xn?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Prisão preventiva de Bolsonaro completa um ano após reviravoltas",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkQ1Vzl6cTNqaExkVFJ3cXFqVFdTXzdNN052cjU5aHppTVlTc2otMnUxbjFScmxKTXhkZ2lJUnNlV3JyM183MmlZTktFVTlCRk9yQ2VQQzBsWURBMWZSNnhhbzB0VHFOdThfT2dPRXotXy00U2djWm5aOEtackJuZW16cEpPTGlrRkV4cTRQNDRwUzExZjJVQnZ0em56MU9rLXl5T2YwSk14aHptRjBaeUJiZE83T0ZpaEpnTE85eEZnZGRYMlFyN0Rabm4xdw?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "RioMar Recife: É Hoje! Coral da Boa Idade traz seu canto ao Natal Musical RioMar",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2V3c3NzTk5LaXEtVjhvS2ZLaXNEXzBrMEJyMnpFZEs0STlzT0VsSTNhVDhBOGdXbGs1ZVVCLVIyZWM1Y0s5ZnFnQ1l0blNPZFFrYlA0ZERuNHQyNWx6anZoclZ1V3BaWnpNRTZyRUlVWW5iMkJQb1MyZmc1czR5akVhZGdUT1ZROWhyS3hSQndaQkR1dnFDdFQtbV9oMUc5Y2RsZw?oc=5"
+    },
+    {
+      "termo": "Recife",
+      "volume": "Últimas 12h",
+      "manchete": "A Redação: Recife adota modelo de Goiânia e inicia metronização de BRTs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzZwVU5mZ3pVaHhhTlFMYkRnOFJfaHJTLTFhblo4ZzZpRnQtVGZvU3ZBWEVqbEFNdlpCT0JMMFdzc1Jkb2NaMW9PRzcxZ0kwanRQSE5nSkhNb0xQTm91ZFFmb3JIampjbmFTa0k3RERCbU5fQUtFeGRPWmR4NldXaW12LXJOOU9kNHctcUNn?oc=5"
     },
     {
       "termo": "Recife",
@@ -197,140 +215,134 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Jacaré é capturado por bombeiros no Parque da Macaxeira, no Recife; animal foi devolvido à natureza",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemZ5S05VQ3plSy0yU25pd2xkWlRKRXYyMW5UalFMdWhtMm8ybFo5MGp1bFRndTJUNDNlUmt1RkkyOEViQmo2MXFwMDd2T1FwX1loa0lsY2RaSzlJUzNjeVVUOFpESGRfRURqSF9Sd1RCS2lqQWNkdFNvRzdqNW5FZDAwY3ZmZWxPMGVMamJTOHlzMmZNTHhweXNsWHBaVVhNLUw2Q3VPbVVlOGZWVkswdm5B0gGyAUFVX3lxTFB6ZnlLTlVDemVLLTJTbml3bGRaVEpFdjIxblRqUUx1aG0ybzJsWjkwanVsVGd1MlQ0M2VSa3VGSTI4RWJCajYxcXAwN3ZPUXBfWWhrSWxjZFpLOUlTM2N5VVQ4WkRIZF9FRGpIX1J3VEJLaWpBY2R0U29HN2o1bkVkMDBjdmZlbE8wZUxqYlM4eXMyZk1MeHB5c2xYcFpVWE0tTDZDdU9tVWU4ZlZWSzB2bkE?oc=5"
+      "manchete": "Rádio Cidade 99.7 FM: Recife promove programação gratuita em celebração ao Mês da Consciência Negra",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObXlkSUZPZEw3X2R1bEF3STBwQXdHcm50ZzZZQS1xSGxKa0ZuaHA5NUttenZpM09OOWhJaUh4NkJ1THE5Y243WGtEblRJYzNqa1JoTXVhcC1lQUlpNXA1YmF3ekdaYjZZM2FicWdUNGh5NktKaF83OXd0Vy00ZFh3U0tTb3FYUDZFUG5ET1I2eTFQa2NXcUtZeXplcENpYnhtU2x3THhB?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Recife terá três prefeitos em uma semana",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSS1ZHZHFhWE50SmZpUEs5bXZTeXRlQW1IMV9aVnJrb0ZhU2JFaEhxWlNnZ190R0NHcWR3WnJYbXJ4dkg4d0hJTjR3NHh4UWFWejJVNWRORVJIUHJ5cjNPdHVJYTBUcnh1ZlhvYVdEdGN6Qy1WTm5v?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "TV Guararapes: Vítima de espancamento é transferida de helicóptero entre Garanhuns e Recife",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQODNBcTNHNnNQbnVjMlJEcDN2ZWs0Y3EyTXFFZjlncTk0VlVicGVSeTJCNVRlb3lOcTlTOWx2dDBLckljZzZRaGZSMnJaVE9aX05IWWYxUmVncEFFRkpWcEZOeVpYd2cxR1BkUlFuXzRBX082eTI0bHVTeDFuRXNHZ2lqc1RQcXdtTGRMQUxjc2JVbEhLZWY2Y1RMOFJweHIyZG4teFVoZXcwMHZsSWYwcmZkYTQtdjUtWXFrNUQzQUsweUtkRUhsTGZWOWl1cXZY?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Adolescente de 16 anos morre afogado em açude em Igarassu",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ1JpSzZndFpaNzN0N0hCb1JmeHJzVWNFZkxJcW5VWUN2cjBWOFJjakpjVndWdXQ4SFB1ZDNjSE9nb2p4dThCV3B5TjNTZVpGLWR2dnVuTlp1Y0hvbDhicHV4aXFwd2Q1QjF0aHRPeXgtenpXVmpQRll0MUVEbGdDeVA3Q1gzcTBOSXFVX3B6MFhwNG1zSnRHdWVtckt6NWt3SjNR0gGnAUFVX3lxTE1leTl4X3g4eExRM2VXQS0tZGFiN0o1VXBqMGNVUi1pZnhSWmpuSEotXzdPR1ZLcGV4ZEJaNVFURDRpYnRnZ1Nwdl84ZHRlTG9qS3VlR24xZ1VyMXk1ZkZjU2h3T2luMkRFOFk2NmhiVzNXNUlHeUpvWW9PcEhvdkcyMkd3X215MXgzb0Y0U25rdWpSRkxrVWpqTlFUcjRTdjF2VzVkdklJ?oc=5"
+      "manchete": "Jornal Metropolitan: Inspirado em Goiânia, Recife implanta semáforos inteligentes e prioridade para BRTs",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3pVcFRxbUV5aWpWcW4wdXl5MnNRbnpGY3NUZHR1QlFucTBrNnBFMEtWbHVoMTZfM0dPc3pHaThxc1lxaVR6YVhtYVlSbENzZXZSSnJ6R3VpS1p1d1NKeDZCWFUxS2h3Y0pYZnhVUElnLVhuaVVrUnFkaXh2NmFZXzhMVzRNWHhWM1V2UTBnaDhRdm01dDgwYlZnMA?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Coluna do domingo | Novos nomes e desafios",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHFVdGxpTVgyS3Izc2lkUzcwdzQzQWtCQXpCUk5Oa05EUFhZcWRTeEtpbEpqZmZRZVZTN25UeVd1eDc5SURZSVRKVUVvY1VJOTBVVzNITnp2VWk2RHJ0SnltTllrd2VFbUlkYnZhQlF4UmFvOWtldWU4eXFPSzFsY3EtU19WcldObFhpbzZHcExuYW1tamJXNw?oc=5"
+      "manchete": "Blog do Erbi: Em passagem por São José do Egito Breno Araújo agradece votação e destaca compromisso com o povo",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJbmJtRnVUQWxOQVNmMF9Xc0Y3UGxiV3ptcm5NQTRfLWJ0N0hGNkk2ck51RG40Z2l3ekF4U3A2WV96WExuWUhLX0h3?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Nill Junior: Breno Araújo agradece quase 48 mil votos e destaca compromisso com Pernambuco e o Sertão",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUJDMDJqdkRFeGVxQ2ZfNE4wR3J3V3RhTG9rME13bW0yengwQVhYSS1yN0ZqMDI2czZjd3hOWWdIR2VXTE91QTVGbHhNaWdZd1RTS3ZfbmJTMzNMcGdzRlAwVVVsLXQzYlNJSGdndXNLM0E2Rjlib1ZLbFRfMHdHTGFlT2JPRHJ5ZGlqcXltSVVOa0VZZUxSRDZ1azNvWkxYVkdmUmYxX1pCVTlSbFFmR1NPYUJzQQ?oc=5"
+      "manchete": "Pernambuco Notícias: Idoso encontrado morto em casa no Recife caiu em cisterna, diz família",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2RqbmJpZG5fbGNMRlRQTEtoekxNQnlnSm5TOXZ2aFFZY2lOaWFuYkJtX09qRDhoa3dvSTcwVEpGcG5RVVZ2LTR2RllfamJsdVZKeVBIbVpOanBSRF9LSUFpbVh2WE11SWM5V1hoUzJEUE9iUmFWNVFFZktWNnp1eUc4SHlfTXRROW5xTmRYRGNEQW9qVzhsUEQwUDA1ZDd6TDd5a0Vpcw?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "al1.com.br: Cavalo-Marinho Boi Pintado e Museu das Tradições celebram memória e tradição com festa no terreiro",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR2NNVkNfQkU0Nkxnczg0VGN3SktVWnRNTXhjcElwdjNEQ3BFSFp4TUJ1V0hUbVBycUZtcjIyQkUxYVRLMHc1VFVWSTRrRThZci1sWFdVdXVtc2hkOTdJNWZFVnQzZDRGVEJIelM0NUxVaHk5SS0yLVpCRW1jcHNSRTJfY3FJZFNGdjdoMU9Xc0gxUm1YSE9vNmhkbGpJWGRKSGNRaFEzdDZlVU9wMGIzWVV6SnBKVGtFOENnUi1LTU9hYU9jZFVVdkx2NF9xcmFKX2tpaURiU0hydw?oc=5"
+      "manchete": "Rádio Liberdade: Inscrições para concursos da Polícia Militar e Corpo de Bombeiros serão realizadas até esta segunda-feira",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTNkX2pPUlNVX3lUTVJZTUVlSUptLUVHZ0x3aF9sY2o2N1NDeHFUYkxBcEpsU1Bicm53R2V4SlJTekhkcFg4RUtpZlpBRTh3RVdYMkg1S1ItTW0xTDllZ1p3QlZBUGhqSWd4MEFYU3ZpRlFhc29oY1h2TTdSZHBVR3ZLeERWM1VuQ3gyNHMtTFk2OHd1OUZZLUxpZWNuakMtSjBoa0VsaEo2TnFpNWN1QmUxcmdvb1NwcGtPdFpqbFRXVzNxcV8tMWNxcw?oc=5"
+    },
+    {
+      "termo": "Governo de Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Pernambuco Notícias: Concurso da PM e dos Bombeiros de Pernambuco encerra inscrições nesta segunda (23)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3NHT0lFMzFiOW5MWnFHbkU2X1ZtYmd3cTlHQ0hxS0diT2pfV1BvbklEQjBHMHlORFJZMVpra1Z1ZDNEeWhRMGpvQkRzM3laNEQzN2dKTVdLY01hOGRWQjBhQVhxUFFRREp6Q1haUWZrNDRTbXdnRjlGQjhGMTB3MWlyWFIxQ01oRHRQWmVrNm1oUHh5eVB1T2tsTzg5bzkzMDVITV9zWEtud1dqVGxEZ1JRZnpGdw?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Michelle chega",
-      "razao_aumento": 100.0,
+      "termo": "cara boa",
+      "razao_aumento": 95.2,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-11-21T21:12:05Z",
-        "titulo": "Michelle chega ao Brasil após internação de Jair Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnhkRFlRbnVDXzNvSGR6QkM1OVVtMlpkOGVfWElscDV1UzBOS1BpV1JDYi0waFRpcDZmWGNnLTRsbzBiOWZ2ZGdaU1hGalA4d0ptb3hDQURTUjNJbmJwSVUtbTZMdTVSNTlVTHVYb1NYd0xDWWktTjJ3aTREVnBvUDVIZFcydDBaV01CZ2VMbk1TaTB3OTlvYWl6ZVdWZw?oc=5",
+        "fonte": "SBT News",
+        "hora": "2026-11-22T11:14:39Z",
+        "titulo": "Michelle Bolsonaro: Jair está \"com uma cara boa\" e sem febre",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjFjc0JRdnd6MkZYd0VfRGxHMTh5TVVhVTZKVUJXTTY5clFROUZfakhKRFRtX1pSeHFMSFBoVjQyWnZIakY4Y09nZV8yOXJOc3NaendodnNneDhHSk9ELWpaaDNxYXpYaW9HOHJJOThqazBlWllpZXFrd1NLMEtVR0xhRDMxU2l3cXltNGtTQnNXNTdtY3VXejJuTGFUQjlyWEhz?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "chega a Brasília",
-      "razao_aumento": 100.0,
+      "termo": "Recife terá",
+      "razao_aumento": 90.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-11-22T00:37:31Z",
-        "titulo": "Michelle chega a Brasília e vai ao hospital encontrar Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0NqcG9mZWVmN2FvdTV5MGpxWU84czdyNDlMbjlDcWdfTm5NT3RoRmNKX3ZqMjlGVTZPX2pWcE51dm0wV2FZdWhrVVpXOTFCY1RSd0IzM2lNZjJLQjFGNEtxcDBZdzFIOUEwSGw2bEZwbkh4X3EybTRvbllMTVJTbWVSRFdZZG5UUUhEcTR3NXN0YmNSZ1ZpMjRpSVl3OWZlTnRtSw?oc=5",
+        "fonte": "Nill Junior",
+        "hora": "2026-11-21T18:15:23Z",
+        "titulo": "Recife terá três trocas no comando da Prefeitura em uma semana",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUd1RWQzeHNORFJ1cVZ5NlJJN0N0UW9mYU9qXzVJTWh1d3haMVpuWXNtZzk0NVNCRHVnV1RXZUxnNU9CRzgtTFZXQkp3RWs1b1lDTDN4cFh3TDJsOVVMaGtwemRzVEhQUWtnSlhLODJmbnowVWY4Si1xWXc3VW9yN1k3dlZLZ3JyXzZUYlE3UHQxejA?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Brasil após",
-      "razao_aumento": 100.0,
+      "termo": "terá três",
+      "razao_aumento": 90.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Vero Notícias",
-        "hora": "2026-11-21T20:40:00Z",
-        "titulo": "Michelle Bolsonaro retorna ao Brasil após internação do ex-presidente",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1FqQldJbUlaQ2pWcHJNZkdzRDk5NVowUFF6SzBmZ2NGNnJkT3ppUnN6UjZsNEg1c0I0cHlzZlRLOTZrSXd2STBNRmYwY3hQalY3MENCMTZBX3JnTllKY2lFbUMzVHRXUXFpTThudFU2WGNiZnpBcW1fLWVFNWpzMjlWd01MWUNUSlcxakFrVms2MVJ5WnFUbEJXV0dZNUNyZWJkV2xmcw?oc=5",
+        "fonte": "Nill Junior",
+        "hora": "2026-11-21T18:15:23Z",
+        "titulo": "Recife terá três trocas no comando da Prefeitura em uma semana",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUd1RWQzeHNORFJ1cVZ5NlJJN0N0UW9mYU9qXzVJTWh1d3haMVpuWXNtZzk0NVNCRHVnV1RXZUxnNU9CRzgtTFZXQkp3RWs1b1lDTDN4cFh3TDJsOVVMaGtwemRzVEhQUWtnSlhLODJmbnowVWY4Si1xWXc3VW9yN1k3dlZLZ3JyXzZUYlE3UHQxejA?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "após internação",
-      "razao_aumento": 100.0,
+      "termo": "Recife terá três",
+      "razao_aumento": 90.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Vero Notícias",
-        "hora": "2026-11-21T20:40:00Z",
-        "titulo": "Michelle Bolsonaro retorna ao Brasil após internação do ex-presidente",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1FqQldJbUlaQ2pWcHJNZkdzRDk5NVowUFF6SzBmZ2NGNnJkT3ppUnN6UjZsNEg1c0I0cHlzZlRLOTZrSXd2STBNRmYwY3hQalY3MENCMTZBX3JnTllKY2lFbUMzVHRXUXFpTThudFU2WGNiZnpBcW1fLWVFNWpzMjlWd01MWUNUSlcxakFrVms2MVJ5WnFUbEJXV0dZNUNyZWJkV2xmcw?oc=5",
+        "fonte": "Nill Junior",
+        "hora": "2026-11-21T18:15:23Z",
+        "titulo": "Recife terá três trocas no comando da Prefeitura em uma semana",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUd1RWQzeHNORFJ1cVZ5NlJJN0N0UW9mYU9qXzVJTWh1d3haMVpuWXNtZzk0NVNCRHVnV1RXZUxnNU9CRzgtTFZXQkp3RWs1b1lDTDN4cFh3TDJsOVVMaGtwemRzVEhQUWtnSlhLODJmbnowVWY4Si1xWXc3VW9yN1k3dlZLZ3JyXzZUYlE3UHQxejA?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Brasil após internação",
-      "razao_aumento": 100.0,
+      "termo": "tivesse perdido",
+      "razao_aumento": 75.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Vero Notícias",
-        "hora": "2026-11-21T20:40:00Z",
-        "titulo": "Michelle Bolsonaro retorna ao Brasil após internação do ex-presidente",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1FqQldJbUlaQ2pWcHJNZkdzRDk5NVowUFF6SzBmZ2NGNnJkT3ppUnN6UjZsNEg1c0I0cHlzZlRLOTZrSXd2STBNRmYwY3hQalY3MENCMTZBX3JnTllKY2lFbUMzVHRXUXFpTThudFU2WGNiZnpBcW1fLWVFNWpzMjlWd01MWUNUSlcxakFrVms2MVJ5WnFUbEJXV0dZNUNyZWJkV2xmcw?oc=5",
+        "fonte": "R7",
+        "hora": "2026-11-21T16:16:50Z",
+        "titulo": "Lula diz que passaria faixa a Flávio Bolsonaro se tivesse perdido a eleição",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUNqcjFWRThBN3FNQ19TRllkemZfTmY0bFRJNzlMLWQtVXA1dV9MWlljZE5UbFo5c2dFYy1zZWpZQWVoSVlKT1pHRmdieUFIYzFVeUtSN2I2UWJUQmNpRDRGOTZmb2dMal9aWEVERjRMUHIwZDdYYWlOaTRVLXp0NzVKbXFLdkxfTHlkRDlDRDFLQ1pfWHJhbGt1cHNkUFFrb1NSOHpYTTdJQllXNmF3d3NvR011Snhrc1E?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "acenos de Túlio",
-      "razao_aumento": 83.6,
+      "termo": "Bolsonaro se tivesse",
+      "razao_aumento": 75.5,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Diario de Pernambuco",
-        "hora": "2026-11-21T09:00:00Z",
-        "titulo": "Os acenos de Túlio Gadêlha e o desenho do novo secretariado de Raquel Lyra",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQmdzVTY0SmRPQUZkOXRjZXM1MURTNFJ0THk2bkdRRlF2T3UxQ0poRFRTeHp5UTA5MFlkVlVMTlR0QnQ5ei1kQjZmeGxzRlhEemVhWjgxblRIVlRRWUE3RjJ5Ym1tXzg1ODJ6Q2RkMV9kOGhLUE9rRWM5QkJRNnkweXp5ZGVhSGhORXI5Mlo2YUFsbW9mN0ZsT1BGN3pKbHZBVDBTRXppcEhDdjg5REtfN1d3cmludW9nOXpTNG1CbVF2QlZRMmtpblJJdjJNZGFBa3VWZ1NjZXk4alk?oc=5",
+        "fonte": "R7",
+        "hora": "2026-11-21T16:16:50Z",
+        "titulo": "Lula diz que passaria faixa a Flávio Bolsonaro se tivesse perdido a eleição",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUNqcjFWRThBN3FNQ19TRllkemZfTmY0bFRJNzlMLWQtVXA1dV9MWlljZE5UbFo5c2dFYy1zZWpZQWVoSVlKT1pHRmdieUFIYzFVeUtSN2I2UWJUQmNpRDRGOTZmb2dMal9aWEVERjRMUHIwZDdYYWlOaTRVLXp0NzVKbXFLdkxfTHlkRDlDRDFLQ1pfWHJhbGt1cHNkUFFrb1NSOHpYTTdJQllXNmF3d3NvR011Snhrc1E?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Após viagem",
-      "razao_aumento": 76.9,
+      "termo": "tornozeleira eletrônica",
+      "razao_aumento": 71.4,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Metrópoles",
-        "hora": "2026-11-22T01:08:00Z",
-        "titulo": "Michelle chega a Brasília após viagem e visita Jair Bolsonaro em hospital",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFVwcUhSLU5hUGhYOHA0VFA5RGpWM1pBLTNUbng2SUhtQ3U2akVqbjdLOERwVHNzTWJWTUFoOUdMTk1IYkp2SlhiMmMtWldKMUxRZ2t4SWlfSVZWc0RNdzhYWkQxeVUxVGJ3STBxb3ZxcGNGNWhfbjM0TldnTzNia2ZrY3lJd0NGclp6LXgyUjhxR1dCTjh2eUVqUUdPZ1lfZHFleVhNZjNPSlU?oc=5",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-22T12:57:33Z",
+        "titulo": "Moraes determina retirada de tornozeleira eletrônica durante internação de Jair Bolsoanro",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXNQRkZJYl9fbXRwa2dtWjhiMVFJR25WTzNfOUtyZzIzTS1nRU80aUhZT2dVMnl6V0MySmRlaEN1WXB4WktoTGpaRWNMNkhNZlJ4VVk0YUtIOTg2Rll4SnI4TVE2MUFmeXZOMXFHSXRtOGtZUUdZZUxrR1JDVHpCeFRHTG9HQ0VkQTBlMXp4TVpjWTA3SzNxQVVXNGFVSFVLSXljQVF3eTJ0cEptQlQwZ3kzM0tfbmRQMXpvMWZ3TTIxQ29ESVMxdVQyR28wVmVHbkRzS0hqWEhEd1U5ZVAzQ1VB0gHwAUFVX3lxTE03bWNPbmxTOGpSRXR4ODhFSXFNX0x1MzVwUFotZ01IaFFjMllsOHZDeXZORE9nZGZabFcycE9MU3FLNUdrS3c4Z0JDN0NVRXBVZDBkMHlyRUlCXzhZNmtNM0dMMG9fWWphVE1GOVBmdzNGNmo5Xzc2TmZfelFLa0NfVk0tOG5oTWlrWE43NVJnLXB6dG9YQmpMSHk5X1pPTWV2MFl6RGhjcVhrOTNoLXBkVmM3QmxWbkJELXgwNHBfSkVqYVBXZ3pVaWZvQlEzeElNRkVIbGoyU293S3FsTTJERG5JOVFmaU5MSG1LUkY1Mw?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "Michelle",
-      "razao_aumento": 76.3,
+      "termo": "engajamento de Flávio",
+      "razao_aumento": 67.1,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Vero Notícias",
-        "hora": "2026-11-21T20:40:00Z",
-        "titulo": "Michelle Bolsonaro retorna ao Brasil após internação do ex-presidente",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1FqQldJbUlaQ2pWcHJNZkdzRDk5NVowUFF6SzBmZ2NGNnJkT3ppUnN6UjZsNEg1c0I0cHlzZlRLOTZrSXd2STBNRmYwY3hQalY3MENCMTZBX3JnTllKY2lFbUMzVHRXUXFpTThudFU2WGNiZnpBcW1fLWVFNWpzMjlWd01MWUNUSlcxakFrVms2MVJ5WnFUbEJXV0dZNUNyZWJkV2xmcw?oc=5",
+        "fonte": "Hora do Povo",
+        "hora": "2026-11-21T19:38:51Z",
+        "titulo": "Após trair o Brasil e fugir, engajamento de Flávio Bolsonaro desaba 81% nas redes",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lNWWZmZWNvQzZVT2FzUGJoTDZxczVVakFqWm5raHNhWkNhR2hjVEZEbXoxb0haOVhrTWxiWUJ0WWdWTzA2ZGlkYS1CLWRGNWdTN2pkaGU0bU15THpTRGZOOHRpdnB6SG5ZOFE5RnI0SEVVYVMwZGp3TThJSDdKN3Y3djB0Q1R0dkZNVmpCWkh1c0xCSHcxTXVFLTlEVEVYaUJOQk01Y3NyQQ?oc=5",
         "peso": 1.0
       }
     }
@@ -339,272 +351,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 27.71,
-      "fontes_distintas": 30
+      "fatia_pct": 28.12,
+      "fontes_distintas": 37
     },
     {
       "termo": "Lula",
-      "peso_relativo": 56.5,
-      "fatia_pct": 15.66,
+      "peso_relativo": 62.2,
+      "fatia_pct": 17.5,
       "fontes_distintas": 19
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 50.0,
-      "fatia_pct": 13.86,
+      "peso_relativo": 51.1,
+      "fatia_pct": 14.37,
       "fontes_distintas": 21
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 50.0,
-      "fatia_pct": 13.86,
+      "peso_relativo": 51.1,
+      "fatia_pct": 14.37,
       "fontes_distintas": 21
     },
     {
       "termo": "Moraes",
-      "peso_relativo": 28.3,
-      "fatia_pct": 7.83,
-      "fontes_distintas": 12
+      "peso_relativo": 28.9,
+      "fatia_pct": 8.12,
+      "fontes_distintas": 13
     },
     {
-      "termo": "Raquel",
-      "peso_relativo": 26.1,
-      "fatia_pct": 7.23,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "Lyra",
-      "peso_relativo": 21.7,
-      "fatia_pct": 6.02,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 21.7,
-      "fatia_pct": 6.02,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "Jair",
-      "peso_relativo": 17.4,
-      "fatia_pct": 4.82,
+      "termo": "João",
+      "peso_relativo": 17.8,
+      "fatia_pct": 5.0,
       "fontes_distintas": 7
     },
     {
-      "termo": "Jair Bolsonaro",
-      "peso_relativo": 17.4,
-      "fatia_pct": 4.82,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Michelle",
-      "peso_relativo": 17.4,
-      "fatia_pct": 4.82,
+      "termo": "Campos",
+      "peso_relativo": 17.8,
+      "fatia_pct": 5.0,
       "fontes_distintas": 7
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 15.2,
-      "fatia_pct": 4.22,
+      "peso_relativo": 17.8,
+      "fatia_pct": 5.0,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Jair",
+      "peso_relativo": 17.8,
+      "fatia_pct": 5.0,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "PT",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.75,
       "fontes_distintas": 5
     },
     {
-      "termo": "João",
-      "peso_relativo": 13.0,
-      "fatia_pct": 3.61,
+      "termo": "Jair Bolsonaro",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.75,
       "fontes_distintas": 5
     },
     {
-      "termo": "Campos",
-      "peso_relativo": 13.0,
-      "fatia_pct": 3.61,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Leclerc",
-      "peso_relativo": 12.4,
-      "fatia_pct": 3.43,
+      "termo": "Barcelona",
+      "peso_relativo": 13.3,
+      "fatia_pct": 3.75,
       "fontes_distintas": 1
     },
     {
-      "termo": "Russell",
+      "termo": "Fool",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Love",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "EP14",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fool In",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "In Love",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Love EP14",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Fool In Love",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "In Love EP14",
+      "peso_relativo": 12.7,
+      "fatia_pct": 3.56,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Barça",
+      "peso_relativo": 12.0,
+      "fatia_pct": 3.37,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BDAY",
+      "peso_relativo": 11.3,
+      "fatia_pct": 3.19,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "PAULA",
+      "peso_relativo": 11.3,
+      "fatia_pct": 3.19,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BDAY ANA",
+      "peso_relativo": 11.3,
+      "fatia_pct": 3.19,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ANA PAULA",
+      "peso_relativo": 11.3,
+      "fatia_pct": 3.19,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "BDAY ANA PAULA",
+      "peso_relativo": 11.3,
+      "fatia_pct": 3.19,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Raquel",
       "peso_relativo": 11.1,
-      "fatia_pct": 3.07,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Lima",
-      "peso_relativo": 10.9,
-      "fatia_pct": 3.01,
+      "fatia_pct": 3.12,
       "fontes_distintas": 5
     },
     {
-      "termo": "Priscila",
-      "peso_relativo": 10.9,
-      "fatia_pct": 3.01,
+      "termo": "Lyra",
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.12,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.12,
       "fontes_distintas": 5
     },
     {
       "termo": "PSB",
-      "peso_relativo": 10.9,
-      "fatia_pct": 3.01,
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.12,
       "fontes_distintas": 4
     },
     {
-      "termo": "Brasil",
-      "peso_relativo": 10.9,
-      "fatia_pct": 3.01,
+      "termo": "Michelle",
+      "peso_relativo": 11.1,
+      "fatia_pct": 3.12,
       "fontes_distintas": 5
     },
     {
-      "termo": "Brasília",
-      "peso_relativo": 10.9,
-      "fatia_pct": 3.01,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Verstappen",
-      "peso_relativo": 10.4,
-      "fatia_pct": 2.89,
+      "termo": "Fermin",
+      "peso_relativo": 10.7,
+      "fatia_pct": 3.0,
       "fontes_distintas": 1
     },
     {
-      "termo": "Ferrari",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.71,
+      "termo": "Pedri",
+      "peso_relativo": 10.0,
+      "fatia_pct": 2.81,
       "fontes_distintas": 1
     },
     {
-      "termo": "Vegas",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.53,
+      "termo": "WHAT",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.63,
       "fontes_distintas": 1
     },
     {
-      "termo": "Las Vegas",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.53,
+      "termo": "ELSE",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.63,
       "fontes_distintas": 1
     },
     {
-      "termo": "Faria",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.41,
+      "termo": "WHAT ELSE",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ELSE I",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "I OWE",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "WHAT ELSE I",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "ELSE I OWE",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.63,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Governo Lula",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.5,
       "fontes_distintas": 4
     },
     {
-      "termo": "Faria Lima",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.41,
+      "termo": "cara boa",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.5,
       "fontes_distintas": 4
     },
     {
-      "termo": "STF",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.41,
+      "termo": "retirada de tornozeleira",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.5,
       "fontes_distintas": 4
     },
     {
-      "termo": "Bolsonaro está internado",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.41,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "previsão de alta",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.41,
+      "termo": "tornozeleira eletrônica",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.5,
       "fontes_distintas": 4
     },
     {
-      "termo": "Michelle chega",
+      "termo": "Villarreal",
       "peso_relativo": 8.7,
-      "fatia_pct": 2.41,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "obstrução intestinal",
-      "peso_relativo": 8.7,
-      "fatia_pct": 2.41,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Antonelli",
-      "peso_relativo": 8.5,
-      "fatia_pct": 2.35,
+      "fatia_pct": 2.44,
       "fontes_distintas": 1
-    },
-    {
-      "termo": "Norris",
-      "peso_relativo": 7.8,
-      "fatia_pct": 2.17,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "F1na",
-      "peso_relativo": 7.2,
-      "fatia_pct": 1.99,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Globo",
-      "peso_relativo": 7.2,
-      "fatia_pct": 1.99,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "F1na Globo",
-      "peso_relativo": 7.2,
-      "fatia_pct": 1.99,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Marília",
-      "peso_relativo": 6.5,
-      "fatia_pct": 1.81,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Arraes",
-      "peso_relativo": 6.5,
-      "fatia_pct": 1.81,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Marília Arraes",
-      "peso_relativo": 6.5,
-      "fatia_pct": 1.81,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Krause",
-      "peso_relativo": 6.5,
-      "fatia_pct": 1.81,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Priscila Krause",
-      "peso_relativo": 6.5,
-      "fatia_pct": 1.81,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Túlio",
-      "peso_relativo": 6.5,
-      "fatia_pct": 1.81,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Gadêlha",
-      "peso_relativo": 6.5,
-      "fatia_pct": 1.81,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Túlio Gadêlha",
-      "peso_relativo": 6.5,
-      "fatia_pct": 1.81,
-      "fontes_distintas": 3
     }
   ]
 }
