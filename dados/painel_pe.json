@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-22T21:16:41Z",
-  "total_analisado": 117,
+  "atualizado_em": "2026-11-23T01:58:04Z",
+  "total_analisado": 114,
   "x_recife": [
     {
       "termo": "Flamengo",
@@ -11,155 +11,155 @@
       "ruido": true
     },
     {
-      "termo": "#TheBodyWatchParty",
+      "termo": "Bruno Duarte",
       "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=%23TheBodyWatchParty",
+      "url": "https://x.com/search?q=Bruno%20Duarte",
       "ruido": false
     },
     {
-      "termo": "#AcerteOuCaia",
+      "termo": "KATE BISHOP",
       "posicao": 3,
-      "variacao": "+10",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=%23AcerteOuCaia",
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=KATE%20BISHOP",
       "ruido": false
     },
     {
-      "termo": "Criciúma",
+      "termo": "PARABÉNS ANA PAULA",
       "posicao": 4,
-      "variacao": "+12",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Crici%C3%BAma",
-      "ruido": false
-    },
-    {
-      "termo": "Barcola",
-      "posicao": 5,
       "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Barcola",
+      "url": "https://x.com/search?q=PARAB%C3%89NS%20ANA%20PAULA",
       "ruido": false
     },
     {
-      "termo": "Liverpool",
+      "termo": "Jota",
+      "posicao": 5,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Jota",
+      "ruido": false
+    },
+    {
+      "termo": "#DançaDosFamosos",
       "posicao": 6,
-      "variacao": "-3",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Liverpool",
+      "url": "https://x.com/search?q=%23Dan%C3%A7aDosFamosos",
       "ruido": false
     },
     {
-      "termo": "Alcaraz",
+      "termo": "Livinho",
       "posicao": 7,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Alcaraz",
-      "ruido": false
-    },
-    {
-      "termo": "Zverev",
-      "posicao": 8,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Zverev",
+      "url": "https://x.com/search?q=Livinho",
       "ruido": false
     },
     {
-      "termo": "Manchester United",
+      "termo": "Mirassol",
+      "posicao": 8,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Mirassol",
+      "ruido": false
+    },
+    {
+      "termo": "CLAUDIA LEITTE",
       "posicao": 9,
-      "variacao": "-4",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Manchester%20United",
+      "url": "https://x.com/search?q=CLAUDIA%20LEITTE",
       "ruido": false
     },
     {
-      "termo": "Claudinho",
+      "termo": "Andres Gomez",
       "posicao": 10,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Claudinho",
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Andres%20Gomez",
       "ruido": false
     },
     {
-      "termo": "Isak",
+      "termo": "Brenner",
       "posicao": 11,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Isak",
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Brenner",
       "ruido": false
     },
     {
-      "termo": "#DomingoLegal",
+      "termo": "Bragantino",
       "posicao": 12,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=%23DomingoLegal",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Bragantino",
       "ruido": false
     },
     {
-      "termo": "#FoolInLoveEP14",
+      "termo": "Riquelme",
       "posicao": 13,
-      "variacao": "-2",
+      "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23FoolInLoveEP14",
+      "url": "https://x.com/search?q=Riquelme",
       "ruido": false
     },
     {
-      "termo": "De Ligt",
+      "termo": "#Domingão",
       "posicao": 14,
-      "variacao": "-2",
+      "variacao": "-3",
       "direcao": "cai",
-      "url": "https://x.com/search?q=De%20Ligt",
+      "url": "https://x.com/search?q=%23Doming%C3%A3o",
       "ruido": false
     },
     {
-      "termo": "Eliana",
+      "termo": "#Fantástico",
       "posicao": 15,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Eliana",
-      "ruido": false
-    },
-    {
-      "termo": "Wirtz",
-      "posicao": 16,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Wirtz",
-      "ruido": false
-    },
-    {
-      "termo": "Josh Allen",
-      "posicao": 17,
-      "variacao": "+8",
+      "variacao": "+3",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Josh%20Allen",
+      "url": "https://x.com/search?q=%23Fant%C3%A1stico",
       "ruido": false
     },
     {
-      "termo": "João Ricardo",
-      "posicao": 18,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Jo%C3%A3o%20Ricardo",
-      "ruido": false
-    },
-    {
-      "termo": "#Menengai9",
-      "posicao": 19,
+      "termo": "Robert Renan",
+      "posicao": 16,
       "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=%23Menengai9",
+      "url": "https://x.com/search?q=Robert%20Renan",
       "ruido": false
     },
     {
-      "termo": "Remo",
-      "posicao": 20,
-      "variacao": "+20",
+      "termo": "Paulo Henrique",
+      "posicao": 17,
+      "variacao": "-2",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Paulo%20Henrique",
+      "ruido": false
+    },
+    {
+      "termo": "biluzinho",
+      "posicao": 18,
+      "variacao": "+3",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Remo",
+      "url": "https://x.com/search?q=biluzinho",
+      "ruido": false
+    },
+    {
+      "termo": "Sasha",
+      "posicao": 19,
+      "variacao": "-3",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Sasha",
+      "ruido": false
+    },
+    {
+      "termo": "Shakira",
+      "posicao": 20,
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Shakira",
       "ruido": false
     }
   ],
@@ -167,8 +167,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Saiba quem foram as vítimas de acidente que deixou quatro mortos em Ipojuca",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3QzRURvVVNHR3FxaW9MMjhkMURBdENHemp2MlNxZ1prTUg3Sl9nUlBBTGFvZE5laWkzTWZLQUZzdWJ1SThNWlVEdkpPMWRUN2R5eUFoX3NIZUlld3g4MHV2THF2MDRiVVlqU3Z5dkJZYUFSN2x0YzFVaXk5cGJrd2x3dUZyeHhlUGdlZWl4Ql81cWhFUFFweXpXY2k3LUw4TTkzVFZUN2VNSzgzbFM1TGt3aWkwX0ExRndxX3VkazZZbmEwcm5N0gHWAUFVX3lxTFBFSXhYei1mN2ZKaEVIVVVuaE1VMUJwSWUyVl9yaGhDcXF2N1g1eDBsbEFqaHRHZnBOdnhlMzlfOGFBY0JrQXR1VGdGc1didlNnTjFydm9HS2h0Z29NN1pTYWlPYUM4THZRaTZsTThIbmxIM3hSaXQxaFF4LWhWNHE3RWRBdFVmaWZXRXFENU5UdEtNbFBVNmdCY3FqbnU4ZXZxUm9JTUhnYTBvSUpyUXlEM3dYOTVuUGwxN0JxZ1Blb3k0alNTTEZvTVdGMExkT0p3TXdTVFE?oc=5"
+      "manchete": "O GLOBO: Quatro jovens morrem em acidente de carro em Ipojuca (PE)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3FJUllCV1RRbDF1QjZMdmcwWFd3MXlsV04xWTY1QnhqQVZCdGpscWZ1dnR0dnFlS0IwVkpMU05pRHRnYjU3c0o5NG9wLUZzeWdac1FWeVYwclI3YzRnT2Fqbk9Ta1h4QTRiT3BGUnR1d0N4Sk1GclNOajhqYy1Fb21rWUZEUTFjdkw1WE0yc05mOVNXdGFIWVFKWXNXbWZsbTBuWTB6bE1tcmh4endtdVd30gHAAUFVX3lxTE1mUTB5Y0wyMTMtNUE5S1R4SkV2S25leXZ2N3BsdVE4R01qdGJudnpXS1l0ZG94MEJjRm5KdkdtVmlsSjhwS0s4SnBfOHdEdUJSUzdTVnJTRUk3TnhsUWk5MzJWdHVnZnlmYzFkZmVCUklibUQycURLeDA2UG9UVlZEaVREWG5iZWIzTHpLX3Q1VHJJYXJEZUgwTzRZOEp4ckRSOWVuZVhfV1hhbEE2RFl3OWU3ZTFDNHM2dU9VamJXUA?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "TV Guararapes: Acidente em Ipojuca e deixa quatro mortos; jovem desceu minutos antes",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWTFlSVJxUFVxLWhHRlRLaHF6Qzg3a2JPQkxDNTdIRGFyYksyWkQ2d2NtdjBDSVlCYkctUXZDY2pQYUdsUjhwNFo3LV9qanAtdE0zZmVabWhrdkpVV0FwUEUzZElBeWJDNlpmZFJkOGZGbFZoaVphTkl3dGtFX1AtWWpuMEE5MUREa0FCendpRU9iSzJBY3Jmc3hvb3paWXdKdnBlR0I3b1RFOV9vWFEtM0FURmtRanNEeTBLVWYwRTZzT0gyOXc?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "Folha PE: Prima de vítima fatal desistiu de carona três minutos antes de acidente que matou quatro em Ipojuca",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTE4Z0hYdUgxY0NoVGp0eTRaTHNObHI2OUx3S1V5d2xqUk9NUGVZT05nWGd0Vy1pem1aVFUteUY4ZmNlcF9mMUJjSWNIc3ZwOVctSHRPaXZ1SW9tZFQwSlVZZkl4M0E3NnZ2bGlSYy1RX3hsMXIwNndPVTN0aWZST09URW5WMHhuamxiT19jSDVQM051VHdLSDQtZ1BQRjhQXzRGWTg2OG15Z9IBrgFBVV95cUxNY0ZtaVlBUEpySVpwZ19MeHM3VGw4eGdXcGpzaTNXV1hQRlRhbDlwNm5hTlR0T1dMcHNjWkctSzR0VmRJSS1Xa2xsVXNlR3c0MGZkd1dXR3NVcENmYzE5R3hHbW5kUkZ4Ukhld2dmdFoxU2dra2U5MlYzU0t0d2hrRzRxQlI0RlYteVRZTTMydXRtb3VlR0xIUFNaUGVSV0w2OXpiVkowd3h1ZW9LMGc?oc=5"
     },
     {
       "termo": "Pernambuco",
@@ -179,32 +191,14 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Rádio Liberdade: AQUA Pernambuco inicia operação nesta segunda-feira focada em universalizar acesso à água e esgoto",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQl9TM2E2NEZXWXY3TTFOTHhhVmc1eDNveHo2OXB1czB6cGNhV0Z4cktoNkl0WWFSTFh3WGcyLXNHQlZRVXlJWDNIajhOYlFxZ19JZ2dLZVhsS194djhURFBxY0YxWjJsal9fOWloUWJYTmxERHp4Q0wtbjV1T2tsSWE2WWhEM2t4MXRKMDYwTlpLNmNFT1Rkcl92blVhTXM5Q01hcVdPcS1LV0lHcmJGTlRBcXNCUEV1MmNVYWM1RDBKdw?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Tribuna do Sertão: Duas das quatro vítimas do acidente em Ipojuca eram de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWW9RNU1JWENUU0s1aWNkdmpTZG1vbzBCaU1DU3k1d0FyNU0zUlRhTi14WGl1UnF4cmppamxkbnkzYTYtSVhNMGs2S3ROTWRmY2VUM2tMWUlrVF94dkt5OUpkdWltaU5tRmJDRGxvZjg1OW9GNjRPczVka0RjOWxTQkF6ZFg2dlBfVHZ3YU5HZkU2UGpzdHQ5QlFpRE9IUDFNR2RIaVVPbHVCT3d3aTk2djF4VGFSWFI0bmpHZ0JjZlo0a0I4X0E?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Magno: Bancada do PT de Pernambuco defende preservação de direitos dos trabalhadores",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHVhcEhvZDgyRnRYeEV5VHBjUHowdy0weDFtelFmZTdRdnA2Z3ZRU3VYckRObU5wVXpWR2lncU5mLVNfNW4wRGhqQ1JnUkJZS2NTNURfUDQyMk9XQUROc0gzWE45RHlYNmpqaXRweGhJSHBXTEtKMG9iYzA3bkFKX1JrUkRpeWRoYXV3clRlZ2Vxd20zcGZWWXlsOGwzaU9VVlpvdDk5YlM?oc=5"
+      "manchete": "Diario de Pernambuco: Saiba quem são as quatro vítimas fatais do acidente em Ipojuca, no Litoral Sul",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONmdERGVVb013dk9GSkxJMFM3blVXNWNFMk9yQV83WVBoVjdqNGFkQ19Gc0c2OU81SzFaQWc0dkVjY1Q3c213WWxKS2gwYW5Ob2M1MnR2cHZEaXVoYi1pT0RIUVI5cHJZajlYR3lMQU05MGtOVEJ2N2pwX1dlZFpfMzFBOFppc0h1Y2tIM0d2RVBfdG1NWFAxekxKX2prMktyZXVkRlF3ZnlyQlVUT01mTGZIa25QQlREXzVHSmxwbmhrbFV4VERRS1ByejJGNWFaNjFwSjVncHRkQ3BaRDRTVFcyUQ?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: É Hoje! Coral da Boa Idade traz seu canto ao Natal Musical RioMar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2V3c3NzTk5LaXEtVjhvS2ZLaXNEXzBrMEJyMnpFZEs0STlzT0VsSTNhVDhBOGdXbGs1ZVVCLVIyZWM1Y0s5ZnFnQ1l0blNPZFFrYlA0ZERuNHQyNWx6anZoclZ1V3BaWnpNRTZyRUlVWW5iMkJQb1MyZmc1czR5akVhZGdUT1ZROWhyS3hSQndaQkR1dnFDdFQtbV9oMUc5Y2RsZw?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "A Redação: Recife adota modelo de Goiânia e inicia metronização de BRTs",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzZwVU5mZ3pVaHhhTlFMYkRnOFJfaHJTLTFhblo4ZzZpRnQtVGZvU3ZBWEVqbEFNdlpCT0JMMFdzc1Jkb2NaMW9PRzcxZ0kwanRQSE5nSkhNb0xQTm91ZFFmb3JIampjbmFTa0k3RERCbU5fQUtFeGRPWmR4NldXaW12LXJOOU9kNHctcUNn?oc=5"
+      "manchete": "Enquanto isso em Goias: Recife adota modelo de Goiânia e inicia metronização de BRTs",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXdiRVlSbUtXRmp4MXBCZDhrcEY2bVpaNmprRzlUWmh6VFIxUkpnU1pWYnpWLUJ2TTJwSFI3dnpuNUtIZWI2MEYxQ3Z1bVlZQjZiOXotS2JUZHhDZzdYR1F5eXp6dC05WUVyU21oN3JwX0lsWVAydE4wcExfekZxc0tzcE56R1JqVkxUaWx1X2dEcXVSUFNYNmdyVkJsbFAycmU4UWNOVi0tS0FQNkJsUXE4MndsMGdWNmp4OC1OVTlvV2p4OGU5aDhUSjZlUQ?oc=5"
     },
     {
       "termo": "Recife",
@@ -227,14 +221,8 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Jornal Metropolitan: Inspirado em Goiânia, Recife implanta semáforos inteligentes e prioridade para BRTs",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3pVcFRxbUV5aWpWcW4wdXl5MnNRbnpGY3NUZHR1QlFucTBrNnBFMEtWbHVoMTZfM0dPc3pHaThxc1lxaVR6YVhtYVlSbENzZXZSSnJ6R3VpS1p1d1NKeDZCWFUxS2h3Y0pYZnhVUElnLVhuaVVrUnFkaXh2NmFZXzhMVzRNWHhWM1V2UTBnaDhRdm01dDgwYlZnMA?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Pernambuco tem mais de 15,6 mil registros ativos no setor de corretagem imobiliária",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR1hNUHpWcExsVThSeE16WkxIMTBGbWpwLTlDOFI0WFVEZU02N3Y5cmVSSUVCR0piTUFpdkJBRWt6X3ZwWTkxVUp3NWlOZ0hkNWJtTnZkWE1LSXRZYXN1cnFFWXhyN2lTbGF1dksyeVY0UWJCLU5DRXZneVNpVHF5T3BqR2U0TjdyTWlfU0ZHMDc1WndoNWtiT19CLVBpcDV2em5wbmZJeDN4TDQzSEZDNmgwWlh6U0ZENmhVOXFwUGh3MTUwUWVta1p3ZVFmN0VrSWpnTlBTWFlrV1B2bHZBMFVWYjFkdw?oc=5"
+      "manchete": "UOL Notícias: Quatro morrem e 1 fica ferido em batida em PE; médica e modelo são vítimas",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRk9FWVBQR080ZXZZTmYwVEpJckxHTGJYaDZqZUNKYkZlc2FGTGVxZThkZjRJZlhxREp5TjZuQlIwVEMzclR6QUwzRHNPQmg1bUtSblVHNW5ELWEzcTZWUUZ1VWwwYXBDeU9ZcGtLQ2ZiVWtidnBwaXItNGFHNW1ZSVRMVjVDT0F1Y1g4a0syZFpJWGpTYXFsbTFWbzVhSFA3N3kwYmFIbk9wS2pSRUpocmJ3anFZUQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -243,10 +231,16 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUm9RYldRb2tHbm8yMFhmdHJyNnJ0WkxvZW1nOWRUeW1YQ0dDc3Z2UWg0Sy1HdVJ4R0JpNVNtT2FSNGV1U0JkVGNPaFRIck1jdnRNTC1mNDhocXVrbXlFU2RSWkRPcTVPWTU0My1KMjlkUk01djVnb1FBLW5pZVBhX2tXcWVtcVgtVnFibzZMc2syVk9GSVB0U2F6c01mR0xQcVpxMUFQUE1wTzZxUnhEalBBLW9JX290bDAwdXBRbjlmdW5rd1Q2VEhadmZ2dUXSAdQBQVVfeXFMT0Z1ZmItc29pNTFDX2VlOFBBc2hKeGdnczIwRkM3bnU1ZENJVDVwT0l5Z2N3eVpSS0NwdXVvRUxsWVVPWllWdFN2ZTFTODBUQkFUQmdOdHBNam5Wc0pMR0RxU1M5OGlXRXJKaV8yYjRSUUdXbXZOUTA4TDZVNXZ0ZTkzMkF2UUdoNlB0TW1vXzBHNjYyQnFlczA2b3JBc0VMeUR1T0RtTXJGQkdubjNzUGdHQWZLMmRkVkVLOG1fd0tMRldSNnBKa3NRSUlhaUFYWkhYQ1E?oc=5"
     },
     {
+      "termo": "Região Metropolitana do Recife",
+      "volume": "Últimas 12h",
+      "manchete": "Diario de Pernambuco: Pernambuco tem mais de 15,6 mil registros ativos no setor de corretagem imobiliária",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVW05OWFyOXIzOEVHR2NlMU0zWDBmZk4tQ0MyTG44S1g4b1JQNEI3MTRGVUZNMURKeGpESW9xcnBOT3F6QzlVMHkwcjdldEtTbkpKN2VlSUkxV083ekZ4WG1ZZkFVMVpPeUhQWUVPQU1kNnZxRTlvdWJLTXR1NmhlMEFXR0RtWVVSQ1hKUkxEMVN6REZ4cUxBdGV4RzVYYlJCVjFEZVY5Y2taSjNieDVZalMzV3JoNlVucEFTYVF2ZVFDZGNfQ0NVczYxNkNSak5VM2liejZCY0lHRkZvUXd2a3lPSnlwRFFoM0lJ?oc=5"
+    },
+    {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Rádio Liberdade: Inscrições para concursos da Polícia Militar e Corpo de Bombeiros serão realizadas até esta segunda-feira",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTNkX2pPUlNVX3lUTVJZTUVlSUptLUVHZ0x3aF9sY2o2N1NDeHFUYkxBcEpsU1Bicm53R2V4SlJTekhkcFg4RUtpZlpBRTh3RVdYMkg1S1ItTW0xTDllZ1p3QlZBUGhqSWd4MEFYU3ZpRlFhc29oY1h2TTdSZHBVR3ZLeERWM1VuQ3gyNHMtTFk2OHd1OUZZLUxpZWNuakMtSjBoa0VsaEo2TnFpNWN1QmUxcmdvb1NwcGtPdFpqbFRXVzNxcV8tMWNxcw?oc=5"
+      "manchete": "Blog do Alberes Xavier: EUA alertam para novas falhas tecnológicas durante atualização de sistemas",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVNuUzRtNGxiVHBSNGhRYlNRM1k1dUZ2cmR3MEZKOVdxeC1mYkNMYV91WVFiTElVaEV3bG11TTdZdHJmWUx2SFZMYUFUMzhzSk5NZ3VldnNYdkVvYkVpYUFaVE5XNlBNY0FtT1RlRmI3WTZzMzJTVEktdlJ6b2I0RWMwejl0WU15ZHlMWnN1ZzRHTU5YU2NZS2p2QmhEQzI5OVpXanJ5eVZvc1JVSFU5ZVZ3X0dzTVB0azRaSHhOblhxS0k?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -257,20 +251,86 @@
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog do Waldiney Passos: Delegacias de Salgueiro restituem 33 celulares durante ação da Operação Celular Seguro",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnh3NjJ0TXQ2dXhVY2xWc3BFZFlYR2MtVFlURDJoOTEyeTZEWjlueEdwdjhzT05ZdkVwamx4bVp6V0piVHNIdkhIMVAwejZuNW1vQ2xxMXhtRTk0SmJHOVNtMDMzQUZfS0pjOGVLV29aaHdoUWxJZnViLURYX1FYY1E5LTA2bE1ZSlVYV1VDN216X2g2S2dUVUFCeHhDY1R1eXJYejRGZ1N1UmZYbDMwVlhnR2VSQ3p4?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Roberto Gonçalves: Federação PSB-PDT pode ampliar distância de João Campos do PT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTFwNk5VMkQtX0xENkdQeDVjU04zNWpmTm9NcDNqeWRiVnBXaXkwcTduYjdPaDJyU2FHaGJYd2wzaXZwMDlwa1JPeWFIQVItVzFQNnliWGVaUGI4NG5lRzdRM1AxUXl0SWtzOE1pc3MxTENic0RHRWJ6SW1kaklNOW50RUxlTjBaRzNiQm5OdWI0NVdOcno1UmdjY21jdHVlMW4yV2xMYw?oc=5"
+      "manchete": "Blog do Waldiney Passos: Lagoa Grande recebe visita da equipe de coordenação do programa estadual Colo de Mãe",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlvOXoxSTB4LW1ubExnWlRVRzZ5bU44M0RrOTkwTTF4VEN0QnoxdEtMQlpVM2lrY3NJR1ROTHI4al9NUDBmTnFxaC1yaTVIa2pQbnlST3BGaXMyc3p1QTVUWVlVdXYxTW05bzltWTNxREp0THdMTmVQTkhrTG9vV0hFQ2NkY1Z6aE5ZaWV1bVlNVTZlQ1drUlZnalA4am1Ob2prNGhoMVd5Z0F4d2tOZ19TVlZkdw?oc=5"
     }
   ],
   "picos": [
     {
+      "termo": "provas de fraude",
+      "razao_aumento": 119.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Jornal de Brasília",
+        "hora": "2026-11-22T19:31:37Z",
+        "titulo": "Flávio Bolsonaro admite não ter provas de fraude nas eleições",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTBpSUU5SE1NU1BIYXdWSzhCU2RYUEt2Ni13NVVPMTR3Ty15NVhYUlMyOGt2VjJGWWVlWlVOSlpidWxPN25rTkZvQXBRS2VkeFcyRUxfXy1TTlNxbDRyMHp5VDRoSjRhWmRRMEMxc2l6STNPOVFVeHF4cWFLT1FWZUliMGNjMXNXcUotUmRaaDE2Q2VrT1dqTGxrUDhsRVJYa1dkZ2p2YVlmU0RWeHkyZjhlWkNqdTRaVXRIMA?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "tornozeleira eletrônica",
+      "razao_aumento": 111.1,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-22T12:57:33Z",
+        "titulo": "Moraes determina retirada de tornozeleira eletrônica durante internação de Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXNQRkZJYl9fbXRwa2dtWjhiMVFJR25WTzNfOUtyZzIzTS1nRU80aUhZT2dVMnl6V0MySmRlaEN1WXB4WktoTGpaRWNMNkhNZlJ4VVk0YUtIOTg2Rll4SnI4TVE2MUFmeXZOMXFHSXRtOGtZUUdZZUxrR1JDVHpCeFRHTG9HQ0VkQTBlMXp4TVpjWTA3SzNxQVVXNGFVSFVLSXljQVF3eTJ0cEptQlQwZ3kzM0tfbmRQMXpvMWZ3TTIxQ29ESVMxdVQyR28wVmVHbkRzS0hqWEhEd1U5ZVAzQ1VB0gHwAUFVX3lxTE03bWNPbmxTOGpSRXR4ODhFSXFNX0x1MzVwUFotZ01IaFFjMllsOHZDeXZORE9nZGZabFcycE9MU3FLNUdrS3c4Z0JDN0NVRXBVZDBkMHlyRUlCXzhZNmtNM0dMMG9fWWphVE1GOVBmdzNGNmo5Xzc2TmZfelFLa0NfVk0tOG5oTWlrWE43NVJnLXB6dG9YQmpMSHk5X1pPTWV2MFl6RGhjcVhrOTNoLXBkVmM3QmxWbkJELXgwNHBfSkVqYVBXZ3pVaWZvQlEzeElNRkVIbGoyU293S3FsTTJERG5JOVFmaU5MSG1LUkY1Mw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "retirada de tornozeleira",
+      "razao_aumento": 93.6,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "O GLOBO",
+        "hora": "2026-11-22T12:57:33Z",
+        "titulo": "Moraes determina retirada de tornozeleira eletrônica durante internação de Jair Bolsonaro",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXNQRkZJYl9fbXRwa2dtWjhiMVFJR25WTzNfOUtyZzIzTS1nRU80aUhZT2dVMnl6V0MySmRlaEN1WXB4WktoTGpaRWNMNkhNZlJ4VVk0YUtIOTg2Rll4SnI4TVE2MUFmeXZOMXFHSXRtOGtZUUdZZUxrR1JDVHpCeFRHTG9HQ0VkQTBlMXp4TVpjWTA3SzNxQVVXNGFVSFVLSXljQVF3eTJ0cEptQlQwZ3kzM0tfbmRQMXpvMWZ3TTIxQ29ESVMxdVQyR28wVmVHbkRzS0hqWEhEd1U5ZVAzQ1VB0gHwAUFVX3lxTE03bWNPbmxTOGpSRXR4ODhFSXFNX0x1MzVwUFotZ01IaFFjMllsOHZDeXZORE9nZGZabFcycE9MU3FLNUdrS3c4Z0JDN0NVRXBVZDBkMHlyRUlCXzhZNmtNM0dMMG9fWWphVE1GOVBmdzNGNmo5Xzc2TmZfelFLa0NfVk0tOG5oTWlrWE43NVJnLXB6dG9YQmpMSHk5X1pPTWV2MFl6RGhjcVhrOTNoLXBkVmM3QmxWbkJELXgwNHBfSkVqYVBXZ3pVaWZvQlEzeElNRkVIbGoyU293S3FsTTJERG5JOVFmaU5MSG1LUkY1Mw?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Bolsonaro passou",
+      "razao_aumento": 83.3,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Valor Econômico",
+        "hora": "2026-11-22T16:18:46Z",
+        "titulo": "Michelle diz que Bolsonaro passou a noite sem dores",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnRPOV9ObVRoSWMyN28tX1JuNHZLYkpmaEF5UzQyQlI5Uy1uNENaN3JBblFXejN3eUhvdTdFTVhzME5KVU5xbzA4SURLbmoxNktKVnRGazliV0RqYk9wV1hDUXlJSkkwQ3c5eGpaaHpaQVAtWm16V3RndlZfM3NLVzV2OW9ldWRyZzNqUXZPcmlHdzNKRGlpUWpHTmRyMXRuSWkwRE9CX2dKOFFBOHfSAbwBQVVfeXFMUHUxLVZQSHRNclpzYmJFbTl1Sm0xaWNSWDB3eEJKWE1DMWhuV1U3OHBHdmx1Tm44NUQxb0lwYlVncElLMTlfSTJVOUJCMGlLV3FXVXBKYld6N2F3d210TWQwTHJmZFNTR01PUk0yNWJ2TzNBbHhfOG9mRjFyZUttTnFXVEtrbGpsQXh3clIyMFJ5RDNjRnpqWUc2R2FPMW43OEFQOTRDSlBoMEx3Vy1VcENiQ3pmQW0zRHZSWEI?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Bolsonaro admite",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Brasil 247",
+        "hora": "2026-11-22T18:52:41Z",
+        "titulo": "Flávio Bolsonaro admite que não tem provas de suposta “fraude” na eleição",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWVSUnhNOXdwWkJKV0xWVjVEMjg5VjFUa0ozeDJnby04ZG9KRjZNSTRnZE1zcXEzRm9yMFJvVGh4WFpZbS1XTUIzQWlYaUlLZkloRXdYQXJxTGI5cURhQVc3UUk0ODE1ZmJTRnZ3RU44eGM1eWRLeThYZ2VWd0pXYjhPaWlpNUJDSkdTYi1Zdmstel9lRmw0b3R1ZEdNaThRaTZVMmF6Slk?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Flávio Bolsonaro admite",
+      "razao_aumento": 62.5,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Brasil 247",
+        "hora": "2026-11-22T18:52:41Z",
+        "titulo": "Flávio Bolsonaro admite que não tem provas de suposta “fraude” na eleição",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWVSUnhNOXdwWkJKV0xWVjVEMjg5VjFUa0ozeDJnby04ZG9KRjZNSTRnZE1zcXEzRm9yMFJvVGh4WFpZbS1XTUIzQWlYaUlLZkloRXdYQXJxTGI5cURhQVc3UUk0ODE1ZmJTRnZ3RU44eGM1eWRLeThYZ2VWd0pXYjhPaWlpNUJDSkdTYi1Zdmstel9lRmw0b3R1ZEdNaThRaTZVMmF6Slk?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
       "termo": "boletim médico",
-      "razao_aumento": 69.0,
+      "razao_aumento": 58.8,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "G1",
@@ -281,86 +341,14 @@
       }
     },
     {
-      "termo": "internado na UTI",
-      "razao_aumento": 57.7,
+      "termo": "clinicamente estável",
+      "razao_aumento": 55.6,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "viva.com.br",
-        "hora": "2026-11-22T17:04:00Z",
-        "titulo": "Bolsonaro segue internado na UTI e sem previsão de alta hospitalar",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGFBNHhVcVA2TTVsSTBmLXR2b3B5VXUyLXF4NmN1RWEwTU5VbWZ5Z1BpbjhGVkp2aDhHRFBSMzFlaGV2YVc4V3AxemRHay1fbTVja1FvRVJQZkRITEhfbHdCWHdJNUlYcnNkX0tJMlZFRG1Fa3VjYkd0WDFiRFRjMWxuRHRudG9jVkpwUGxsUUJ0TDNwS2FOTktUbkVNS2pIdGh2V3ltZFZQd0oxQXhGUkVWLWxnMkpOZDVJ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Bolsonaro passou",
-      "razao_aumento": 57.7,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Estadão",
-        "hora": "2026-11-22T16:16:22Z",
-        "titulo": "Bolsonaro passou noite sem dor e fez caminhada no hospital, diz Michelle; ex-presidente segue na UTI",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdTBoRFFnRk9FX2hRV2QxVjFOMEplWmZGWkJkUmxqQ3cyemZTSzdlaHlFVTlpaGc2TXl1cTFYSzJrMUZBcnRNMlh0dDBoTVpuVmxTX0hLRGlGQXF4eDFWMmlabEwtWEprNEF5aXh4c2Y3QW5GclhHTjZydkFYUnl0bVRfR3NJY0wxZkpQSG1vZHQxQ3BSZ2s3N2NPVXFKOFQ2Rmd4N3QtQVNCY0Ju0gGyAUFVX3lxTE9UNUZHY3pQQ3RpV1FmMEdfY1VmV3RMU3VKY05NQW8wZmpTSVlhQThnSzlLQXRwS0hld3d4RWNINVBTQ3l6ZE84Q29GZ1RqSkRFaXYxMGJyalZ2eDVreTVjSEROSDd3Ym52OHhXZDU0UURKZnUzbXZMTkxtd21ZQWxhTjFuWUlkM1ZnRVozc3ZPdWlkRXU5dlJoa3RxTVp5eGFJSklqZzNnc2c1WHJ4MmtEeWc?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "quadro estável",
-      "razao_aumento": 38.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "CartaCapital",
-        "hora": "2026-11-22T17:37:00Z",
-        "titulo": "Bolsonaro tem quadro estável e segue sem previsão de alta, diz boletim médico",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY29sWkZOREswNFktSXktbzZQY1ktcjc3SUYzSk9rXy1MOFpOOUU4TGZPSExNeFZpNjJzQmV6Q1MxNHlkR2lobzN1SlpIZUhGRUlEV0J0SHhwVXo4RGQ1Q2RUZXZGTmF6YmZYQmFJcnVKbk9taE1YQV9YaE5NZjdJYTVVaEdCWXJ0SXduTkhXXzBKOUFHZ1NjekxOOUltRm93ZkhqNUM4dGY1c0xCeUlDQmQ4bjlrNG5lY2c?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "saúde de Bolsonaro",
-      "razao_aumento": 38.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "VEJA",
-        "hora": "2026-11-22T17:05:39Z",
-        "titulo": "O que diz novo boletim médico sobre a saúde de Bolsonaro",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkFQX0N0NnJIeThqMFpYN0VKVXF5Vk1SQi1oakYzUVQ1aURPTi1DMS12bUpsSFZNc0RheXEyYy0zLV9JNTExNndSaDFiSVZ5UUZwMUNrVkFmWmxCYi05YUxyUDVnTC1Id3dFbVozVkZSQ09TVVJ5MjJPbTA3MHMxcmxySzVqaDFFZkZDQmxwX3UxWHZC?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "recado de Bolsonaro",
-      "razao_aumento": 38.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "O GLOBO",
-        "hora": "2026-11-22T17:34:06Z",
-        "titulo": "Mello diz que não recebeu recado de Bolsonaro e que vai 'continuar incomodando' na prefeitura de SP",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNb0ZuWUU0c1ZNRE5DcExXa0JqclEwTzlCOThWd1lkcENfMXh0dHp1bEpGYnByNDRXeXViZk04TXIxdlhPdGtFWGZRYl9aZy1ZRUwycmFpeUpRYm14Q1FXZWNDdkVnSTVjMGhGNnN1RnJMX0tqRWRiTHVsN2hRdlRrcnBjSVhuSmFUV0RGZ3dzaWtVZGhPMFFXWl9STTY0V0ViZk5GWVJfMk9CZGI4dlVlSDJwQXN1TTd1dUJleENmM0dncVNWOUFONDNTeExTR3pNenFZb0dKWXplcWJ5bkxocFFsX0ZxYXZSY29kMtIB-wFBVV95cUxNai1LSzI1anBGam5xRXFvczcybWQxR0JOUkwtS0Y5XzVGZldpUThnd0hHa3lCcWF5bzJzaTZna2h3dnRlU21ubUY0MVdBM21NbHJiX3kwanlvZmoyNDl6eUF3UFRrQS05X0lxVWNWd0taRkpQTG5JQXVpZDZ1akdWX0lBcUc3cWpCZ2hBTkIwY3E1SnAzYmxNSGhnRjduNEZHOUN3X2hEVl9HWFpZOXUxaVlLUHhEa3U4UC1WdThLMTl1SDd6alZuMFk0cENqYkVjTFlvNE5GT0xMVy1ycklWMFc2QWVvOEpEM0pVODY3NS1tTjZfbjU3OWZQQQ?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "estado de saúde",
-      "razao_aumento": 38.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "VEJA",
-        "hora": "2026-11-22T17:08:32Z",
-        "titulo": "Michelle atualiza estado de saúde de Bolsonaro, internado há dois dias",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWV5dlpKVTVPZVhhY2ktenFEdzJFTVBaVy13a1FMU29Vd29CRUVlSEpBVXVVRDAwZWVjMThSMmRseUtBWUpBSTlRaUlDVllyZTduZFBMYjE5OHBaYV82M3N5cV9fRUdiT3d5N1FZUHBOYlhvNzNLc1ZJTUVON252eFBXZkE2M2dYU3lOZkhzb3RMR1BzRzRxYkxVVTdHalJsMG5MQXFn?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "noite sem dor",
-      "razao_aumento": 38.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Estadão",
-        "hora": "2026-11-22T16:16:22Z",
-        "titulo": "Bolsonaro passou noite sem dor e fez caminhada no hospital, diz Michelle; ex-presidente segue na UTI",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdTBoRFFnRk9FX2hRV2QxVjFOMEplWmZGWkJkUmxqQ3cyemZTSzdlaHlFVTlpaGc2TXl1cTFYSzJrMUZBcnRNMlh0dDBoTVpuVmxTX0hLRGlGQXF4eDFWMmlabEwtWEprNEF5aXh4c2Y3QW5GclhHTjZydkFYUnl0bVRfR3NJY0wxZkpQSG1vZHQxQ3BSZ2s3N2NPVXFKOFQ2Rmd4N3QtQVNCY0Ju0gGyAUFVX3lxTE9UNUZHY3pQQ3RpV1FmMEdfY1VmV3RMU3VKY05NQW8wZmpTSVlhQThnSzlLQXRwS0hld3d4RWNINVBTQ3l6ZE84Q29GZ1RqSkRFaXYxMGJyalZ2eDVreTVjSEROSDd3Ym52OHhXZDU0UURKZnUzbXZMTkxtd21ZQWxhTjFuWUlkM1ZnRVozc3ZPdWlkRXU5dlJoa3RxTVp5eGFJSklqZzNnc2c1WHJ4MmtEeWc?oc=5",
+        "fonte": "CNN Brasil",
+        "hora": "2026-11-22T14:25:41Z",
+        "titulo": "Bolsonaro apresenta quadro clinicamente estável, diz médico",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEE5QWd5S0hMQjVsUU1yWThDOHMwVVFHUEgzZXNuVE82XzJESElWUVlxQTgtQ2tyWE5KUFBVTzFQTUNVdV9kNERyWGgtcnZVV1h1clR6Y1dZREIxWVQtamdPYXNWVVRMUWdBN1ZHYzF4VVJGV3BwaXJiV2VYb2NFclBYb3J0RGpxaXBPajItcmxJblBqTWN5YXNRVDFhQQ?oc=5",
         "peso": 1.0
       }
     }
@@ -369,272 +357,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 27.92,
-      "fontes_distintas": 32
+      "fatia_pct": 28.95,
+      "fontes_distintas": 30
     },
     {
       "termo": "Lula",
-      "peso_relativo": 65.1,
-      "fatia_pct": 18.18,
-      "fontes_distintas": 20
+      "peso_relativo": 61.4,
+      "fatia_pct": 17.76,
+      "fontes_distintas": 14
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 51.2,
-      "fatia_pct": 14.29,
-      "fontes_distintas": 19
+      "peso_relativo": 54.5,
+      "fatia_pct": 15.79,
+      "fontes_distintas": 20
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 51.2,
-      "fatia_pct": 14.29,
-      "fontes_distintas": 19
+      "peso_relativo": 54.5,
+      "fatia_pct": 15.79,
+      "fontes_distintas": 20
+    },
+    {
+      "termo": "provas de fraude",
+      "peso_relativo": 15.9,
+      "fatia_pct": 4.61,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "Bruno",
+      "peso_relativo": 15.2,
+      "fatia_pct": 4.41,
+      "fontes_distintas": 2
     },
     {
       "termo": "João",
-      "peso_relativo": 18.4,
-      "fatia_pct": 5.13,
-      "fontes_distintas": 7
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 5
     },
     {
       "termo": "Campos",
-      "peso_relativo": 16.3,
-      "fatia_pct": 4.55,
-      "fontes_distintas": 6
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 5
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 16.3,
-      "fatia_pct": 4.55,
-      "fontes_distintas": 6
+      "peso_relativo": 13.6,
+      "fatia_pct": 3.95,
+      "fontes_distintas": 5
     },
     {
-      "termo": "previsão de alta",
-      "peso_relativo": 16.3,
-      "fatia_pct": 4.55,
-      "fontes_distintas": 7
-    },
-    {
-      "termo": "Michelle",
-      "peso_relativo": 14.0,
-      "fatia_pct": 3.9,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Moraes",
-      "peso_relativo": 14.0,
-      "fatia_pct": 3.9,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "Body",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.7,
+      "termo": "Duarte",
+      "peso_relativo": 13.0,
+      "fatia_pct": 3.75,
       "fontes_distintas": 1
     },
     {
-      "termo": "Watch",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.7,
+      "termo": "Bruno Duarte",
+      "peso_relativo": 13.0,
+      "fatia_pct": 3.75,
       "fontes_distintas": 1
     },
     {
-      "termo": "Party",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.7,
+      "termo": "KATE",
+      "peso_relativo": 12.3,
+      "fatia_pct": 3.55,
       "fontes_distintas": 1
     },
     {
-      "termo": "The Body",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.7,
+      "termo": "BISHOP",
+      "peso_relativo": 12.3,
+      "fatia_pct": 3.55,
       "fontes_distintas": 1
     },
     {
-      "termo": "Body Watch",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.7,
+      "termo": "KATE BISHOP",
+      "peso_relativo": 12.3,
+      "fatia_pct": 3.55,
       "fontes_distintas": 1
     },
     {
-      "termo": "Watch Party",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.7,
+      "termo": "PARABÉNS",
+      "peso_relativo": 11.6,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "The Body Watch",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.7,
+      "termo": "PAULA",
+      "peso_relativo": 11.6,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "Body Watch Party",
-      "peso_relativo": 13.3,
-      "fatia_pct": 3.7,
+      "termo": "PARABÉNS ANA",
+      "peso_relativo": 11.6,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "Acerte",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.51,
+      "termo": "ANA PAULA",
+      "peso_relativo": 11.6,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
-      "termo": "Caia",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.51,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Acerte Ou Caia",
-      "peso_relativo": 12.6,
-      "fatia_pct": 3.51,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Criciúma",
-      "peso_relativo": 11.9,
-      "fatia_pct": 3.31,
+      "termo": "PARABÉNS ANA PAULA",
+      "peso_relativo": 11.6,
+      "fatia_pct": 3.36,
       "fontes_distintas": 1
     },
     {
       "termo": "STF",
-      "peso_relativo": 11.6,
-      "fatia_pct": 3.25,
+      "peso_relativo": 11.4,
+      "fatia_pct": 3.29,
       "fontes_distintas": 5
     },
     {
-      "termo": "Governo Lula",
-      "peso_relativo": 11.6,
-      "fatia_pct": 3.25,
+      "termo": "Michelle",
+      "peso_relativo": 11.4,
+      "fatia_pct": 3.29,
       "fontes_distintas": 5
     },
     {
-      "termo": "Barcola",
-      "peso_relativo": 11.2,
-      "fatia_pct": 3.12,
+      "termo": "Moraes",
+      "peso_relativo": 11.4,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Bolsonaro admite",
+      "peso_relativo": 11.4,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Flávio Bolsonaro admite",
+      "peso_relativo": 11.4,
+      "fatia_pct": 3.29,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Jota",
+      "peso_relativo": 10.9,
+      "fatia_pct": 3.16,
       "fontes_distintas": 1
     },
     {
-      "termo": "Liverpool",
-      "peso_relativo": 10.5,
-      "fatia_pct": 2.92,
+      "termo": "Dança",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.96,
       "fontes_distintas": 1
     },
     {
-      "termo": "Alcaraz",
-      "peso_relativo": 9.8,
-      "fatia_pct": 2.73,
+      "termo": "Famosos",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.96,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Dança Dos Famosos",
+      "peso_relativo": 10.2,
+      "fatia_pct": 2.96,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Livinho",
+      "peso_relativo": 9.5,
+      "fatia_pct": 2.76,
       "fontes_distintas": 1
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 9.3,
-      "fatia_pct": 2.6,
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.63,
       "fontes_distintas": 4
     },
     {
       "termo": "Lyra",
-      "peso_relativo": 9.3,
-      "fatia_pct": 2.6,
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.63,
       "fontes_distintas": 4
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 9.3,
-      "fatia_pct": 2.6,
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.63,
       "fontes_distintas": 4
     },
     {
-      "termo": "PSB",
-      "peso_relativo": 9.3,
-      "fatia_pct": 2.6,
+      "termo": "previsão de alta",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.63,
       "fontes_distintas": 4
     },
     {
       "termo": "boletim médico",
-      "peso_relativo": 9.3,
-      "fatia_pct": 2.6,
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.63,
       "fontes_distintas": 4
     },
     {
-      "termo": "Zverev",
-      "peso_relativo": 9.1,
-      "fatia_pct": 2.53,
+      "termo": "Mirassol",
+      "peso_relativo": 8.9,
+      "fatia_pct": 2.57,
       "fontes_distintas": 1
     },
     {
-      "termo": "Manchester",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.34,
+      "termo": "CLAUDIA",
+      "peso_relativo": 8.2,
+      "fatia_pct": 2.37,
       "fontes_distintas": 1
     },
     {
-      "termo": "United",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.34,
+      "termo": "LEITTE",
+      "peso_relativo": 8.2,
+      "fatia_pct": 2.37,
       "fontes_distintas": 1
     },
     {
-      "termo": "Manchester United",
-      "peso_relativo": 8.4,
-      "fatia_pct": 2.34,
+      "termo": "CLAUDIA LEITTE",
+      "peso_relativo": 8.2,
+      "fatia_pct": 2.37,
       "fontes_distintas": 1
     },
     {
-      "termo": "Claudinho",
-      "peso_relativo": 7.7,
-      "fatia_pct": 2.14,
+      "termo": "Andres",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.17,
       "fontes_distintas": 1
+    },
+    {
+      "termo": "Gomez",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Andres Gomez",
+      "peso_relativo": 7.5,
+      "fatia_pct": 2.17,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "PSB",
+      "peso_relativo": 6.8,
+      "fatia_pct": 1.97,
+      "fontes_distintas": 3
     },
     {
       "termo": "PT",
-      "peso_relativo": 7.0,
-      "fatia_pct": 1.95,
+      "peso_relativo": 6.8,
+      "fatia_pct": 1.97,
       "fontes_distintas": 3
     },
     {
       "termo": "Federação PSB",
-      "peso_relativo": 7.0,
-      "fatia_pct": 1.95,
+      "peso_relativo": 6.8,
+      "fatia_pct": 1.97,
       "fontes_distintas": 3
     },
     {
       "termo": "PSB PDT",
-      "peso_relativo": 7.0,
-      "fatia_pct": 1.95,
+      "peso_relativo": 6.8,
+      "fatia_pct": 1.97,
       "fontes_distintas": 3
-    },
-    {
-      "termo": "Federação PSB PDT",
-      "peso_relativo": 7.0,
-      "fatia_pct": 1.95,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "internado na UTI",
-      "peso_relativo": 7.0,
-      "fatia_pct": 1.95,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Bolsonaro passou",
-      "peso_relativo": 7.0,
-      "fatia_pct": 1.95,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "quadro estável",
-      "peso_relativo": 7.0,
-      "fatia_pct": 1.95,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Isak",
-      "peso_relativo": 7.0,
-      "fatia_pct": 1.95,
-      "fontes_distintas": 1
     }
   ]
 }
