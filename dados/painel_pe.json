@@ -1,165 +1,165 @@
 {
-  "atualizado_em": "2026-11-25T22:28:34Z",
-  "total_analisado": 157,
+  "atualizado_em": "2026-11-26T04:23:05Z",
+  "total_analisado": 149,
   "x_recife": [
     {
-      "termo": "Neymar",
+      "termo": "#ProvaDoFazendeiro",
       "posicao": 1,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=Neymar",
-      "ruido": true
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=%23ProvaDoFazendeiro",
+      "ruido": false
     },
     {
-      "termo": "Aaron Rodgers",
+      "termo": "Corinthians",
       "posicao": 2,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Aaron%20Rodgers",
-      "ruido": false
+      "url": "https://x.com/search?q=Corinthians",
+      "ruido": true
     },
     {
-      "termo": "Roma",
+      "termo": "KAIO CESAR",
       "posicao": 3,
-      "variacao": "+3",
+      "variacao": "+1",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Roma",
+      "url": "https://x.com/search?q=KAIO%20CESAR",
       "ruido": false
     },
     {
-      "termo": "#HowToSurviveMyCEOEP1",
+      "termo": "Mirassol",
       "posicao": 4,
-      "variacao": "=",
-      "direcao": "igual",
-      "url": "https://x.com/search?q=%23HowToSurviveMyCEOEP1",
-      "ruido": false
-    },
-    {
-      "termo": "Bruno Fernandes",
-      "posicao": 5,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Bruno%20Fernandes",
-      "ruido": false
-    },
-    {
-      "termo": "Trabuco",
-      "posicao": 6,
       "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Trabuco",
+      "url": "https://x.com/search?q=Mirassol",
       "ruido": false
     },
     {
-      "termo": "Gordon",
+      "termo": "Seedorf",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Seedorf",
+      "ruido": false
+    },
+    {
+      "termo": "#FicaFran",
+      "posicao": 6,
+      "variacao": "NOVO",
+      "direcao": "novo",
+      "url": "https://x.com/search?q=%23FicaFran",
+      "ruido": false
+    },
+    {
+      "termo": "Lingard",
       "posicao": 7,
-      "variacao": "-4",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Gordon",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Lingard",
       "ruido": false
     },
     {
-      "termo": "Filipe Martins",
+      "termo": "#AClinica",
       "posicao": 8,
-      "variacao": "+3",
+      "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Filipe%20Martins",
+      "url": "https://x.com/search?q=%23AClinica",
       "ruido": false
     },
     {
-      "termo": "Steelers",
+      "termo": "Atlético Mineiro",
       "posicao": 9,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Steelers",
+      "url": "https://x.com/search?q=Atl%C3%A9tico%20Mineiro",
       "ruido": false
     },
     {
-      "termo": "McCarthy",
+      "termo": "Vitinho",
       "posicao": 10,
-      "variacao": "-3",
+      "variacao": "-2",
       "direcao": "cai",
-      "url": "https://x.com/search?q=McCarthy",
+      "url": "https://x.com/search?q=Vitinho",
       "ruido": false
     },
     {
-      "termo": "Sporting",
+      "termo": "Borbas",
       "posicao": 11,
-      "variacao": "+8",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Sporting",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Borbas",
       "ruido": false
     },
     {
-      "termo": "#CasaDaChampions",
+      "termo": "Neto",
       "posicao": 12,
-      "variacao": "+4",
+      "variacao": "+6",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=%23CasaDaChampions",
+      "url": "https://x.com/search?q=Neto",
       "ruido": false
     },
     {
-      "termo": "Mercado Pago",
+      "termo": "MALIPE SEM CENSURA",
       "posicao": 13,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Mercado%20Pago",
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=MALIPE%20SEM%20CENSURA",
       "ruido": false
     },
     {
-      "termo": "Gabriel Jesus",
+      "termo": "GLOBOPLAY LIBERA MALIPE",
       "posicao": 14,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Gabriel%20Jesus",
-      "ruido": false
-    },
-    {
-      "termo": "Sabah",
-      "posicao": 15,
-      "variacao": "-10",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Sabah",
-      "ruido": false
-    },
-    {
-      "termo": "Adeyemi",
-      "posicao": 16,
-      "variacao": "-6",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Adeyemi",
-      "ruido": false
-    },
-    {
-      "termo": "Cano",
-      "posicao": 17,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Cano",
-      "ruido": false
-    },
-    {
-      "termo": "Cleitinho",
-      "posicao": 18,
       "variacao": "+2",
       "direcao": "sobe",
-      "url": "https://x.com/search?q=Cleitinho",
+      "url": "https://x.com/search?q=GLOBOPLAY%20LIBERA%20MALIPE",
       "ruido": false
     },
     {
-      "termo": "triz",
-      "posicao": 19,
+      "termo": "Vidya",
+      "posicao": 15,
+      "variacao": "+4",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Vidya",
+      "ruido": false
+    },
+    {
+      "termo": "Cuello",
+      "posicao": 16,
+      "variacao": "-1",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Cuello",
+      "ruido": false
+    },
+    {
+      "termo": "Brigitte",
+      "posicao": 17,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Brigitte",
+      "ruido": false
+    },
+    {
+      "termo": "André",
+      "posicao": 18,
       "variacao": "-5",
       "direcao": "cai",
-      "url": "https://x.com/search?q=triz",
+      "url": "https://x.com/search?q=Andr%C3%A9",
       "ruido": false
     },
     {
-      "termo": "Lei Rouanet",
-      "posicao": 20,
+      "termo": "#FicaSerginho",
+      "posicao": 19,
       "variacao": "NOVO",
       "direcao": "novo",
-      "url": "https://x.com/search?q=Lei%20Rouanet",
+      "url": "https://x.com/search?q=%23FicaSerginho",
+      "ruido": false
+    },
+    {
+      "termo": "Memphis",
+      "posicao": 20,
+      "variacao": "-8",
+      "direcao": "cai",
+      "url": "https://x.com/search?q=Memphis",
       "ruido": false
     }
   ],
@@ -179,20 +179,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "G1: Pernambuco decreta situação de emergência em mais 33 cidades por conta da seca e número sobe para 108; veja lista",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSlkxTGRFeHh1a2xuU3ppVmtfcmstdEk5Zk5CdXlBUzY0al9iQTZQV0pwb2xWQ2FRZTJkQXNZMGI5dTlMSFA2aTlnc3pjUm8wZWs0ZHhTRmlFSVl4SWpuUHZPcFhuVWZla2FJSjMzU3B6eGk5WUNjRFgybnJXeHFIbzVjVmtUV1k5c1l3b2MzQmpORG12ZTdNMFFFWjdCMVhncWs5dlhzaERzeDVuWkZ4dGZhVkFLWTg2MHBNbW1kZDB3bWhwVHBHR2J4NmloZWR3QVpFdzVOamlTR215NDRCVW5ZMVZzLTJvU082czdONVlxSXPSAYICQVVfeXFMTXI5UEVuajV5Q052NTVzRnJPWXBvVUZXd29pNjE2THJZN196LVVnNHowNEhuSGhXNHlrdUNjRnlWR0pfY1dZMUlxU3VsSEN1VWRaVWJDM3l4VVpKb1djWXh4ZlRvYnk4NlYzd1dzNUxsOEYzNlJhVE9iNEZfVk1IWkRHVmo2al9oazZ2Y1psUVR2dnRpWWtZZEhKcHl4RzR0RkNSeHBhNE4zaUdib2ZqTXNaQ3Y4RWttWFEwbnpPU0M5NURKem5Fd08xUUd5cm4wYlJKWloxV215SkFIbXBaWXk4MGl3WFVsbFA5aVZzc1dibDV3UW9HQWxJalBQb0NCT3lB?oc=5"
+      "manchete": "Universidade de Pernambuco - UPE: Universidade de Pernambuco celebra 61 anos de história, ensino e compromisso social em solenidade comemorativa - Universidade de Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnQzZnVFbXVCb1JONkJKTEJmR0pZZFZLV0J5STg4clhUYndUbEVVd3puT2JQYkUyaTNzZW4xQy1mcndqYUNZMXphQVhxNF9CbWVsRWhzRW1zR0JoeV92RTZYWVJMcTFVN0ZHVnkxTE4wMzhUSEJhT0xWVVc1YWcwbFk1cUhZZlNyeUxCSVBoeWw2ZFA2X3BmUWhmVjNyeGhya0VQTEJZUXU1WldhSHl3YmFIUkJlX0lkc0M5RXhxaDF6UVk?oc=5"
     },
     {
-      "termo": "Pernambuco",
+      "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Plenário: Deputados defendem demandas de trabalhadores da educação e da Compesa",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmJVc1dSRDlZbjZDa1FsWWNZeFBFcHUxNXRRRk1MaW5LOTNXamhMbDNMb3h2bXB5WDhnckMtNk4wOVhGOG1Oa1l5M0RqWVpKRzBFcFViSS1NUFJLVk1MYXBBdHYwNUdsaUJSZUdtWnJXaF85X29EZnRPUVJzb2lweGxlUGlWTzFJcHM5bXZjSHZCWUVfXzlmZ3FyVjZYVHVBSzZmNWdoR0FNR2dRdDlId2lmZk9CakE1?oc=5"
+      "manchete": "Mobile Time: Tecto inaugura seu primeiro data center em Recife",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWU16N2Q1aTdtaUthcDNsLWw4MHJKOVdJUDFMRWd3ZHplSzNQR0JNWUtaM1E2YVdtNVlMMG5MWF83ZGlKa1YxVm85T3Bhd0dzOE4taFQ3R1hKaWhkSjVHcnlCN3Y3bUhjbkRTZUFRdGE4OGJOdEp0akh1N2pxeWJYUA?oc=5"
     },
     {
-      "termo": "Pernambuco",
+      "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Tribunal Superior Eleitoral: Justiça Eleitoral pelo Brasil: eleitor recebe título \"Um Século de Cidadania\" do TRE de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcHdFajVtcGZKM1pFeTZybHR2dE51MGhNTUF4NndlMXpQb3FWdjVGTnh1SEtUMXo1bjJUNnNmZ3BRQ2FHNnFDV2haWkk3anZOcnpGX1MzYUNsZmRkTXN4XzFDQUNWZVNneFViN0w2QUFQdjA5XzQtWHlBMms2NURFOGdlcDFJRFIwZHJ4ZjM0VC12aVNWenpZOTY0SXk4alRyd2loX1hqSDNZNWdSSTNjX184WmhWc0JrUGxVTG84bGdMN1hLRjJDVWZlRk9CWVB4MmJIUjZrYVU5U195bnJvT0N1a18wckdy?oc=5"
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQa0dqaEE0NXNEWWI3bVdZb1Bzb1kzbWRRTXRwQmt5TEVZT1RFR1BGNm5KRVI5Tm4xSVdvYXhnVVo5SWtGYmxJNllOdjUwMGVPdUxjTV9fM1Jab2x2VXJaOTNMMlNoc1BJc3dhUG5UXzdxV0JSVFJpd1J3eGpVOVJmSDN6SWZjQUxnMU1DbWZVUFI1T014VThGaWxrMU1WNkVzeUx4WkIwUGRwcmZiZzB0RnU1YWdTRzdSVDNfWXNadXBwZnVJbVhudFhOZ2JGeVluWGNBTmRCcnZpYUZYWEJubGpUMkt3dno4OGhRb0Y3S2lRSENGWUxNMFdyN0MyLWU1b2VUaGgzWUFfR3YwVXZPdE5UQ256dGN1eW1ZWtIBqwJBVV95cUxNTUJoUWEwamVsMW4wYkVxMWR4R2pUMFNLWkpMSjFFWHpZVWZDeWFCck5KQkZyWnJfUER1ZGtJdGJ6VTZwYUktVlNNQUE0cjktQnJLOHBYdTJuN1c2bG5NdGdZTGs3ay1CamtBUUhfU1B6Yi1IRGxhVWQ0aUZkalBjcHJOa0x5SlE3eG1od0pqeVZBckpLcmFhY1BLODAxSC1rdl82RUZTVzJwUURLRFdDR2EwWko4OU5vNmluT2VEYXB5eE9Dd0g0TkZyTkpPSmdHSFB5T2ZHWjl4cUJ1MTNRQml1UThrZ1FlWUV4V0pqU3lzMlUzbTcyNlh4cTB3MFNrb0Q4U05GcXhWelhpQTJTSzQ0VWhPS3d6a21KcVZuNjdqaDZRV2J5OGN4RQ?oc=5"
     },
     {
       "termo": "Recife",
@@ -213,40 +213,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0tvTVh2T21Dd01FQUFjeUwwcGgzdVJuZ3pxYklEbVo1NzRmb1RRU1dFX20xUGd4Z2xMQ2w3bWlFc2lobXQ4S2JKZW52NDU5LV9scnJYVjRYY1JKQ1lhWk5zVTlxa1RnVmhISk8zemtqNmZIQTNpRTN4ZElCVWxmRVlFMk1Ua1E2Q1R6ajZFZXhjNDgyY3NmakZLMG4wb0lVWlJkRUUxUEdEemd3TUd1UnFiVDdnVTZsY2R1dmZOR1hkOEdDVHZFQ2xRRUJ3NWk4?oc=5"
     },
     {
-      "termo": "Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Undime: Colegiado Ampliado se reúne no Recife",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZRDZUX2t0RVJhOUJua2VfeXQwakVLejdDZC1pYWVGSFVMZ0N0Wm54Uzl6cU5tR3R0WnZKa3N3ZmktcGdYMW1NMUI5OGRLOHRKVVA3T2VhbUV3WTVUa3BtVmt2cEJWN0ZqYTNCQjFqM2pScTFfZS1V?oc=5"
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Plenário: Deputados defendem demandas de trabalhadores da educação e da Compesa",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tWjA3QkxhRzBwLTNDbWMwNXNpQWUtRFVhcGdxa05vODVEX2FFcjJ5QzNBQ1daMUtSUVNIY0VacGFtSDhsaWFTbUYyLURqczFrTWNoWGtRR3A2S0kyZGtXUHJR?oc=5"
     },
     {
-      "termo": "Região Metropolitana do Recife",
+      "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Black Friday altera horário de funcionamento do comércio e shoppings da Região Metropolitana do Recife",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQmRUQVo0TXQ3dVYxOFUxU3ZHQmszTDd0QkRHdnF1R3l5VGI2NFctT2JkdG5xVkNiS0RxeldseGRCcS13TlF4ZnRLWElZamN4emZrcTk3UHhZSGNfX1J2dFVXTWZFbnBlbEZBdU9laFRSNy1BLWR3cnhnZDU1c3ZaclNpTEEwUE9KcEJvVWp6dTc5WjJlU2pkNTRxRTlsMzZxbGxRYVdLc2JvRmFZd01maEUwdThXSjJPblpzVnRRZC1VTDhGNER1d2xOMTY5LWtkMllYaGN3VQ?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "JC: Ônibus em tempo real: Grande Recife começa a testar painel com previsão de chegada em três abrigos",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcG5BUGxrZkNDbUxXMk5QbTlEeFdyQy1vZVV5OXVLc0xaTVVqeUU0dmVUakludWc3cVdYZE5sZ2haejJndFhwOGdPdXhObWRLcGJUbFhLT1VVdm50RGxkYWlPZ3ptRWh6dFdHRTJoR2NsRGkxTEc2bVRZa3NTY1I2MnphdTY4aVY3ZTY0TDlzVWNISThOazdJcHFCclVfb3hmRVNMZEZMY0ZoOWNHRWthUVlJemtmaEtndDBTeGE1MC1yMVFXVTQ5WTVvWDczTUlrNVNoRzlUeWdmTU1WVFBUaTBtTEpuX3o4VVE?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Grande Recife inicia testes de painéis com previsão de chegada dos ônibus em três abrigos",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUi1WcVR1ZDQzV1REMlNZbmVfTmU4OUd2NlVrYXlsRVhydkpfRHVTdlNMWVVGWU4tckVPUGdNUzhtcDExX25DNHhCbzdNMjdQeWdvd3BxNl9GU3RPdzBNVEg3YmYtN19uTTlZZXM5M29GNmJNYzVjNTdQbllaOTRFRG1PUXFZbmhoVkJScUJaLU56U282ODRzb3JhdUtBVGFIN3JGSER5ZXFUVDJWYW5r0gGzAUFVX3lxTFBUNDBzeWw0SjQxYy1FN09UMGwwRFQ2MEdwVVl3ZV84dHY2aUlTNFNwRXgydUpXS2hfd1pUMXBZZExYT2x1bjMwMEF3ZVFLMkhIRVJ6N3pnUi1nWHBFMG9sVklZTHBncVpFb2k5Q1R6SllDSGp3a0w1TUtvSXkwZTBkTUdWYTZ0LTBvUlMtTTdvb0FrSm40cldGQnUyc2ljWkhrS3kxSHJoQzV6ZVM0a1k4Y1RB?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Diario de Pernambuco: Black Friday amplia horário de funcionamento do comércio no Recife",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWTBRT1pNUmR6akZNcDY3NVNRMkFWa2FudWtwV3U0djFqb3lCaTd5WWRBQW9VTmc3ZEpjYlBEXzk2TU1scXBZM1BsbHM2cnNMTUhLZWMwY0U2NXNWdENSTXZYNE1feVFva2pLNHRiX3Z2Q1k5SUNJZl9EdFpWSmlqeFJvT1RrbTRLWURtVUJCXzZKczJocGxRaVAwRzYxRFlFc1FpSmpaNTRtT3pxRXhIUURBOEpCaXBJSjY3dXBkZkdLTmtkS2FJellJM05ERlVZeHpz?oc=5"
-    },
-    {
-      "termo": "Região Metropolitana do Recife",
-      "volume": "Últimas 12h",
-      "manchete": "Terra: Campanha oferece transporte gratuito para grupos de doadores de sangue no Recife",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdHVPbXo1MkRGSm9WVFBqRU9MWHE0dUVCSjVqRVpHbTA1OFU5ZFZBZF9rc2lMYmhxMGYwbmw4RU9VT055UmF3cWtuYkkySkJrWF9Lem1ISGNnZ1c2dFBhcDdiVUxaTWp1empTT1FMbDdTMzhwb1pySDlrVnkyWVhHcGlJRmRDS3VicjRMZkx1V0M0aFh3eGZLOExkNzFic3FRQ18zU2FTamNLVGNqY0V0VjV5XzNlT3Zodi1pSTdaaHk0WVdLdEdVb0xlLUhmSGt4QXd0Y2pzTFVka0JGbWpZeGs5ZTkyOFM5bWF5clZyVFNOQQ?oc=5"
+      "manchete": "Blog Dellas: Giro Político: Base do Governo na Alepe espera definição sobre mesa diretora até o final do ano",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFA5RDZsOXFtaTNYT2R5SzBIUDE4eVFVUURmNEtEMmpzWUJMRmxwS2dMcmhSZzhxd181cWJrUHRsVDNZdWtwcW1BUVhYcWNET20zcUlBSkJVZjdDZnJfRGFRYnZXRWpCdmp1MDhKR1VvdXNuX0taSXpaa2JjYkRMb0dfUFZwUU1ZV1BiRWNtbldRcVo3YnRuREtKemdPakhUc01RLTJPOV9KaTNrdjc2Nk1xTFZxU2dxMWR5YjdR?oc=5"
     },
     {
       "termo": "Alepe",
@@ -257,14 +233,14 @@
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Confira ao vivo a reunião plenária desta quarta (25)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazY4OW9XNllWOUpZZzlfRE9KRGpQWUVMNk1WeWFOTmZPRXVfbUhHRnJSQmdYNXJ2czJKUThiSlNhT0F4VDFnRlJNVjk3TjJ2Y3pWaW50WEtvNEJSc3Z4cGJlWEdaZkxvOTkxQTJzTmM3M0wyamR2ODFxZ3BTU19GY2w5T09NLXhaVWx6Q0tKREY1SVBV?oc=5"
+      "manchete": "Blog Edmar Lyra: Coluna desta quinta-feira",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mYzdQYzgzanljbTdMQUdMU3hJQVZod0F3dWRRY29rejRVOC1WZUhJcVRqa0dncTVCM1lzLXdUTDlJR2Fpb29OOVB3c0tJd0RCN24ybnc1TmVQb2p0REVGWGh1bEZTaVU?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Márcio Didier: Moraes promete ser o melhor presidente da Alepe da história dos deputados",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbmJRS05CdDRqVDA3UkdoTDB3WTY4bWoyeFZESm11NTdxSzg0YXNIZVNKMXp0MkUtX3BScUJvY0hZTG5JTXNTaW41bjh2Zm4tSlRJM0xhYzRjcVZjR3lYUVdwWVpWT21VdG9tNkllaUdxTDVUVDNTbFFMZmVwWUh6Uw?oc=5"
+      "manchete": "Assembleia Legislativa do Estado de Pernambuco: Preocupação de trabalhadores da Compesa com a concessão de serviços é relatada na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVBkalBZa1lveDUxOHNTTVdUNzFPdmlQdm9nU0ZONWhYeXFxU2Vrc1dhTURxem8xdHMzV0Y3bGg2VlRHTGxkX0xYS2VhblhFNjJYR2p0S0hrTkhZSTBUTzhTcnNZa1dINWI3X1hkRHQ5QWJXYUVBWWg4QzZrMDhfZGRUaXBRd2ludUpxTUxvTlRqS250YnJCcU9sZXFORmc4MFBhSU1ZLXhUMWRMcXJUZjNQdmZ1NjVRSFRhTklyMWZ3d1ZlWVE?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
@@ -283,36 +259,36 @@
       "volume": "Últimas 12h",
       "manchete": "CBN Recife: Pernambuco decreta situação de emergência em 33 municípios e intensifica medidas para El Niño",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQajlyN0JQcUI0YnE4QTh2NmZtblQ3dmVGMHhOOFROTmI0RjVuV3FIVkpUbzluTWE2RVNrOXB6WkVNMm0tVGdEMmotc0p0bnNVcTFwLVB3VmZ1dXVVTmVud2JBaU5jTUZRTDFFSDB4RlVvaUwxQktLUXdqTG9SRG5JQ0p0a05saXR3TkxMUmJ2eUdYNnRWSWRHR2NmY3lYTmlLTzRrVWc1amFOcmtTRVB2cUpvUDFfMENuaWdLdkJjdUhCSmJPbl9fTHlRTQ?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Jamildo: Priscila Krause participa de evento em São Paulo e destaca parceria para modernização da gestão pública em...",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNlIyRHZWQno3VFBKanRxdzh6R0c2dS1jRUZ6eFZ2VXJhY0FaMS11MHhPUHFOUUh0TFZ6OEwtamcxLXJrVTVZYUItWDdHVFFpcU0wY1ZpeHhMWDFBbUFMbzFHNjNVOG5KMFBjQm1IenFUd0hpVTJaRVpDcnRuWGt0Y2hGQWRLUE05YWdZQlp6MC0wbTJJc3hMRVI0aWxTdUZ2WFJ0bEZJVjFxa1JBYmFRalRYS1EtOGQ2UGxFS1RUNjRnV25pZnRiQlpGQUlDWTI3VlowZTQ5SWIxbldOS2pmbG1DWUpHQdIB6wFBVV95cUxQQXpMM2NsY2lNb0RSWWdMNWNWQWRHY2ZWWllrLTNidWt4QWFxeTR5ZlBfYmVwcEFjQlpiSXlwYkZGdDJnVjdPWjlqSjJLMVByeV9YNGlaVlhDNnhsczNBcVFuelhZa3pJMm5pZjJRdkN2ai1FejVFWXNjSVFrOVB6MDFXemMzUXVUbWYyNjNDTDlDNGRucWt0N193dVFGV0FRX2lNZnZrbXNTcnRmRDB0c05aSWY2dWZxS1huWkNCUmk0WkJDQzZKRjBmM21GNkRaVXphUEtwaDBSMEw1RklPR01UVDNaQUNTYVB3?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Tribuna do Sertão: Pernambuco decreta emergência por estiagem em 33 municípios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXQxWXpzUmVQaU9NdWJvM2x2OGZyTS1ucTFubHpzcmZRTEswZFFfbjY4dUlVZ0paYlVNM2tTZ2htVVJ6Tnk3T05RQmVPdk1kWWNaWTlTZDlJSURHLVVVM2l3VlZsZUJBbzNhSzNXcGtUS0hMT19QbkY4Z2EwTjh1SXFXQkJ6YU8tTzVkVWFrT1VQdlU4V3FFbUN6bHhaVkdLWmQ3TjFPZU51QWZKMkJzRGFsLTF1ellYbENmQw?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "Richarlison",
-      "razao_aumento": 100.0,
+      "termo": "Senado",
+      "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Metrópoles",
-        "hora": "2026-11-25T05:01:00Z",
-        "titulo": "Entenda a briga entre Richarlison e amigo de Flávio Bolsonaro por mansão",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBlWFFCVTdFQTVZdEhrc25XTXo5cHAzcVhIbUhHX1dZNmhnSVBkSXhkbW52ZzcycUozWFBRaDNHTlJETDRiZE1GeG9Ea3kwUnVGNTlDOEZ3Ny1LNHRwbW5Mc053ajVMS19yQV9GR3p3cUx2dDMzZTBfOGlfT0ZSNUw5eVdYcUJmOG1yajdZay1VcFROSmhXNklIMmRUZWRfc2hrVm1mTzEzeDJuTUZ2QjBnYWlCMUlPSkE?oc=5",
+        "fonte": "TV Sim Brasil",
+        "hora": "2026-11-25T14:50:37Z",
+        "titulo": "Flávio Bolsonaro soma 11 faltas no Senado e arrisca o mandato",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmQ2MHJlX0NyZUxqbkNGR2FiRzNXUEs4MVFSc0VtQWRuazIxM2NuMFo3QU53aE5ZMTc3WWRlVFNUb0RIUndkRFRsR1pOa3BIZXhoeWlaTWhmdDdVQjNrUy01el9FNWZHc202S2RCRUg4Z04tNG1seUpWUm1PcW5SR1JLcVRWSDRtRUhuWTQxQ3ZFM2dTX0Z0QmhpMjNYWE04Uy1WZElUVG9GQWVmNHRza3Bnb1FvVGUzeDRwSUctQ0N3WGxuWDA5RmtXc0Y?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Tarcísio",
+      "razao_aumento": 75.0,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "JOTA Info",
+        "hora": "2026-11-25T13:56:02Z",
+        "titulo": "Rumo a 2030, Tarcísio busca construir pré-candidatura de ‘fora para dentro’",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVDN2aVVxbGV4d0pmbUVBaWMwRDZtVmNZdmQ4VE9iWHhrbThuSXhzaVlnaDNjSTZmWGprOWlkMm1VcC1NNWh1anIxblptUjYtcXhBdTVUck5lZF8zWUY5ZnUwZk1WaUtrMGppNTd1alB0aExPa2JFbzNET1U0LTM1MEFNQmJtbkotRnViWllpYm5QSDZMa2dZRkZEX3lUbkdtTmJIajllRXdnM3ZKbmVUTTFNWDNFVGpIck8zQmpURnBVMmVNZ1oyYzlrNkc5Q2NMS24w?oc=5",
         "peso": 1.0
       }
     },
     {
       "termo": "Pernambuco decreta",
-      "razao_aumento": 74.1,
+      "razao_aumento": 67.1,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Diario de Pernambuco",
@@ -323,8 +299,32 @@
       }
     },
     {
+      "termo": "decreta emergência",
+      "razao_aumento": 65.2,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Terra",
+        "hora": "2026-11-25T14:02:00Z",
+        "titulo": "Pernambuco decreta emergência em 33 municípios por causa da estiagem",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaXFGQWFtZEtGTDVDZjFGZnRNM0E0QzBGQnpwNE1CS29JZEJPbVJZRGRFWTJidjJ6M1NaVWtBaExJdFpPM1ozeDRzb3lxa3J0NzFzRFZrVnpwOWROMGp3TFhHVEdtOTJPMm1URUYxemFvUllUYnN2NkNaM01WcG1MS3pUZXhuS0NuWXhQeTZjU2VVb1FDWUk3djhoN2ppejVEcEpNTlF1TTNVMXRpd01iNzdLRVRBVWVfd0JVb1ZEOGhDY2JpbFBpMUdZcEdQQXlPakZHQVhTb1NkQkE2WFJhYlpJZFJMa25feG5uajRtN0Q1VHZhcUE?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "Pernambuco decreta emergência",
+      "razao_aumento": 65.2,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Terra",
+        "hora": "2026-11-25T14:02:00Z",
+        "titulo": "Pernambuco decreta emergência em 33 municípios por causa da estiagem",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaXFGQWFtZEtGTDVDZjFGZnRNM0E0QzBGQnpwNE1CS29JZEJPbVJZRGRFWTJidjJ6M1NaVWtBaExJdFpPM1ozeDRzb3lxa3J0NzFzRFZrVnpwOWROMGp3TFhHVEdtOTJPMm1URUYxemFvUllUYnN2NkNaM01WcG1MS3pUZXhuS0NuWXhQeTZjU2VVb1FDWUk3djhoN2ppejVEcEpNTlF1TTNVMXRpd01iNzdLRVRBVWVfd0JVb1ZEOGhDY2JpbFBpMUdZcEdQQXlPakZHQVhTb1NkQkE2WFJhYlpJZFJMa25feG5uajRtN0Q1VHZhcUE?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
       "termo": "Dona",
-      "razao_aumento": 60.0,
+      "razao_aumento": 65.2,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Jamildo",
@@ -336,7 +336,7 @@
     },
     {
       "termo": "Enedina",
-      "razao_aumento": 60.0,
+      "razao_aumento": 65.2,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Jamildo",
@@ -348,43 +348,7 @@
     },
     {
       "termo": "Dona Enedina",
-      "razao_aumento": 60.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Jamildo",
-        "hora": "2026-11-25T11:03:11Z",
-        "titulo": "Falece Dona Enedina, mãe de Humberto Costa; autoridades lamentam morte e se solidarizam com senador",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVFNaXNDNkdWNlR6UGF3dDhwQnBmX1l2YTEzZkFmcWhHSmNvS2lQVHpwYS1IRy1wY01NMUhSd0MyaXdFRXAyTkkzTWpCbEkxSnFmcHZhUnpfRGVmaVFBRDdDdnNQdXJjREpkSVNDUHVHTjk3RGNDeVNIQXNQbWN1S0x6TGNBQnBEVjhnX2RqZzVfTmY3NzhoUnBwWUU2aXM3ZGNlMkUyZS1RT0ZWZkFLb0M5b3J6S0NneHcxbVNfYmpaekR5VTdUd3QzRdIB0AFBVV95cUxOQ0pXSmNYT1VXaHV3aVpFQnpCTDA5UW5Va0Fja180NFBYelBQWk14NjhiT016WHZ1NzF0aGhkMTZ3NzBuc2YyTTBhaDJiOVNTdVpNZ3BEUEE0MTlPVXVqZDNvUkpQVWpEeXJtUV8tZjBsYUdqU2NOOEVXalVjM1N5eEFYMmdzeU9vNzJybktHTVlDVTZiV0c2TGgwVGtjQ1dKbE1hWXkxRlRfbm9QWGpKRmdzNHVUOHFNN2JPeHBISjhGZUs1ZVh5djVOdVo1ZXU0?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Humberto",
-      "razao_aumento": 60.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Jamildo",
-        "hora": "2026-11-25T11:03:11Z",
-        "titulo": "Falece Dona Enedina, mãe de Humberto Costa; autoridades lamentam morte e se solidarizam com senador",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVFNaXNDNkdWNlR6UGF3dDhwQnBmX1l2YTEzZkFmcWhHSmNvS2lQVHpwYS1IRy1wY01NMUhSd0MyaXdFRXAyTkkzTWpCbEkxSnFmcHZhUnpfRGVmaVFBRDdDdnNQdXJjREpkSVNDUHVHTjk3RGNDeVNIQXNQbWN1S0x6TGNBQnBEVjhnX2RqZzVfTmY3NzhoUnBwWUU2aXM3ZGNlMkUyZS1RT0ZWZkFLb0M5b3J6S0NneHcxbVNfYmpaekR5VTdUd3QzRdIB0AFBVV95cUxOQ0pXSmNYT1VXaHV3aVpFQnpCTDA5UW5Va0Fja180NFBYelBQWk14NjhiT016WHZ1NzF0aGhkMTZ3NzBuc2YyTTBhaDJiOVNTdVpNZ3BEUEE0MTlPVXVqZDNvUkpQVWpEeXJtUV8tZjBsYUdqU2NOOEVXalVjM1N5eEFYMmdzeU9vNzJybktHTVlDVTZiV0c2TGgwVGtjQ1dKbE1hWXkxRlRfbm9QWGpKRmdzNHVUOHFNN2JPeHBISjhGZUs1ZVh5djVOdVo1ZXU0?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Costa",
-      "razao_aumento": 60.0,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Jamildo",
-        "hora": "2026-11-25T11:03:11Z",
-        "titulo": "Falece Dona Enedina, mãe de Humberto Costa; autoridades lamentam morte e se solidarizam com senador",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVFNaXNDNkdWNlR6UGF3dDhwQnBmX1l2YTEzZkFmcWhHSmNvS2lQVHpwYS1IRy1wY01NMUhSd0MyaXdFRXAyTkkzTWpCbEkxSnFmcHZhUnpfRGVmaVFBRDdDdnNQdXJjREpkSVNDUHVHTjk3RGNDeVNIQXNQbWN1S0x6TGNBQnBEVjhnX2RqZzVfTmY3NzhoUnBwWUU2aXM3ZGNlMkUyZS1RT0ZWZkFLb0M5b3J6S0NneHcxbVNfYmpaekR5VTdUd3QzRdIB0AFBVV95cUxOQ0pXSmNYT1VXaHV3aVpFQnpCTDA5UW5Va0Fja180NFBYelBQWk14NjhiT016WHZ1NzF0aGhkMTZ3NzBuc2YyTTBhaDJiOVNTdVpNZ3BEUEE0MTlPVXVqZDNvUkpQVWpEeXJtUV8tZjBsYUdqU2NOOEVXalVjM1N5eEFYMmdzeU9vNzJybktHTVlDVTZiV0c2TGgwVGtjQ1dKbE1hWXkxRlRfbm9QWGpKRmdzNHVUOHFNN2JPeHBISjhGZUs1ZVh5djVOdVo1ZXU0?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Humberto Costa",
-      "razao_aumento": 60.0,
+      "razao_aumento": 65.2,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "Jamildo",
@@ -399,272 +363,272 @@
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 21.76,
-      "fontes_distintas": 31
-    },
-    {
-      "termo": "Lula",
-      "peso_relativo": 52.4,
-      "fatia_pct": 11.4,
-      "fontes_distintas": 14
+      "fatia_pct": 23.08,
+      "fontes_distintas": 32
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 52.4,
-      "fatia_pct": 11.4,
-      "fontes_distintas": 20
+      "peso_relativo": 53.5,
+      "fatia_pct": 12.35,
+      "fontes_distintas": 21
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 52.4,
-      "fatia_pct": 11.4,
-      "fontes_distintas": 20
+      "peso_relativo": 53.5,
+      "fatia_pct": 12.35,
+      "fontes_distintas": 21
+    },
+    {
+      "termo": "Lula",
+      "peso_relativo": 48.8,
+      "fatia_pct": 11.27,
+      "fontes_distintas": 13
     },
     {
       "termo": "Raquel",
-      "peso_relativo": 26.2,
-      "fatia_pct": 5.7,
+      "peso_relativo": 25.6,
+      "fatia_pct": 5.9,
       "fontes_distintas": 10
     },
     {
-      "termo": "Alepe",
-      "peso_relativo": 26.2,
-      "fatia_pct": 5.7,
-      "fontes_distintas": 11
-    },
-    {
       "termo": "Lyra",
-      "peso_relativo": 23.8,
-      "fatia_pct": 5.18,
+      "peso_relativo": 23.3,
+      "fatia_pct": 5.37,
       "fontes_distintas": 10
     },
     {
       "termo": "Raquel Lyra",
-      "peso_relativo": 23.8,
-      "fatia_pct": 5.18,
+      "peso_relativo": 23.3,
+      "fatia_pct": 5.37,
       "fontes_distintas": 10
     },
     {
+      "termo": "Alepe",
+      "peso_relativo": 20.9,
+      "fatia_pct": 4.83,
+      "fontes_distintas": 9
+    },
+    {
       "termo": "Moraes",
-      "peso_relativo": 19.0,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 8
+      "peso_relativo": 20.9,
+      "fatia_pct": 4.83,
+      "fontes_distintas": 9
     },
     {
       "termo": "Pernambuco decreta",
-      "peso_relativo": 19.0,
-      "fatia_pct": 4.15,
-      "fontes_distintas": 8
+      "peso_relativo": 20.9,
+      "fatia_pct": 4.83,
+      "fontes_distintas": 9
     },
     {
-      "termo": "Trabuco",
-      "peso_relativo": 17.9,
-      "fatia_pct": 3.89,
-      "fontes_distintas": 3
+      "termo": "situação de emergência",
+      "peso_relativo": 16.3,
+      "fatia_pct": 3.76,
+      "fontes_distintas": 7
     },
     {
-      "termo": "previsão de alta",
-      "peso_relativo": 16.7,
-      "fatia_pct": 3.63,
+      "termo": "decreta emergência",
+      "peso_relativo": 14.0,
+      "fatia_pct": 3.22,
       "fontes_distintas": 6
     },
     {
-      "termo": "Aaron",
-      "peso_relativo": 13.6,
-      "fatia_pct": 2.95,
+      "termo": "Prova",
+      "peso_relativo": 14.0,
+      "fatia_pct": 3.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "Rodgers",
-      "peso_relativo": 13.6,
-      "fatia_pct": 2.95,
+      "termo": "Fazendeiro",
+      "peso_relativo": 14.0,
+      "fatia_pct": 3.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "Aaron Rodgers",
-      "peso_relativo": 13.6,
-      "fatia_pct": 2.95,
+      "termo": "Prova Do Fazendeiro",
+      "peso_relativo": 14.0,
+      "fatia_pct": 3.22,
       "fontes_distintas": 1
     },
     {
-      "termo": "Roma",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.8,
+      "termo": "KAIO",
+      "peso_relativo": 12.6,
+      "fatia_pct": 2.9,
       "fontes_distintas": 1
     },
     {
-      "termo": "Survive",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
+      "termo": "CESAR",
+      "peso_relativo": 12.6,
+      "fatia_pct": 2.9,
       "fontes_distintas": 1
     },
     {
-      "termo": "CEOEP1",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
+      "termo": "KAIO CESAR",
+      "peso_relativo": 12.6,
+      "fatia_pct": 2.9,
       "fontes_distintas": 1
     },
     {
-      "termo": "How To",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "To Survive",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Survive My",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "My CEOEP1",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "How To Survive",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "To Survive My",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Survive My CEOEP1",
-      "peso_relativo": 12.1,
-      "fatia_pct": 2.64,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "boletim médico",
+      "termo": "Mirassol",
       "peso_relativo": 11.9,
-      "fatia_pct": 2.59,
+      "fatia_pct": 2.74,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Michelle",
+      "peso_relativo": 11.6,
+      "fatia_pct": 2.68,
       "fontes_distintas": 5
     },
     {
       "termo": "Jair",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Michelle",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.59,
+      "peso_relativo": 11.6,
+      "fatia_pct": 2.68,
       "fontes_distintas": 4
     },
     {
-      "termo": "situação de emergência",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.59,
+      "termo": "previsão de alta",
+      "peso_relativo": 11.6,
+      "fatia_pct": 2.68,
       "fontes_distintas": 5
     },
     {
-      "termo": "decreta emergência",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.59,
+      "termo": "Niño",
+      "peso_relativo": 11.6,
+      "fatia_pct": 2.68,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "El Niño",
+      "peso_relativo": 11.6,
+      "fatia_pct": 2.68,
       "fontes_distintas": 5
     },
     {
       "termo": "Pernambuco decreta emergência",
-      "peso_relativo": 11.9,
-      "fatia_pct": 2.59,
+      "peso_relativo": 11.6,
+      "fatia_pct": 2.68,
       "fontes_distintas": 5
     },
     {
-      "termo": "Filipe",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.54,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Martins",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.54,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Filipe Martins",
-      "peso_relativo": 11.7,
-      "fatia_pct": 2.54,
-      "fontes_distintas": 2
-    },
-    {
-      "termo": "Bruno",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.49,
+      "termo": "Seedorf",
+      "peso_relativo": 11.2,
+      "fatia_pct": 2.58,
       "fontes_distintas": 1
     },
     {
-      "termo": "Fernandes",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.49,
+      "termo": "Fica",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.42,
       "fontes_distintas": 1
     },
     {
-      "termo": "Bruno Fernandes",
-      "peso_relativo": 11.4,
-      "fatia_pct": 2.49,
+      "termo": "Fran",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.42,
       "fontes_distintas": 1
     },
     {
-      "termo": "Gordon",
-      "peso_relativo": 10.0,
-      "fatia_pct": 2.18,
+      "termo": "Fica Fran",
+      "peso_relativo": 10.5,
+      "fatia_pct": 2.42,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lingard",
+      "peso_relativo": 9.8,
+      "fatia_pct": 2.25,
       "fontes_distintas": 1
     },
     {
       "termo": "Priscila",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.07,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
     },
     {
       "termo": "Krause",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.07,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
     },
     {
       "termo": "Priscila Krause",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.07,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
     },
     {
       "termo": "Dona",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.07,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
       "fontes_distintas": 3
     },
     {
       "termo": "Campos",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.07,
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
       "fontes_distintas": 3
     },
     {
-      "termo": "Jair Bolsonaro",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.07,
+      "termo": "Brasil",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
     },
     {
-      "termo": "Richarlison",
-      "peso_relativo": 9.5,
-      "fatia_pct": 2.07,
+      "termo": "Jair Bolsonaro",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
+      "fontes_distintas": 3
+    },
+    {
+      "termo": "boletim médico",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
       "fontes_distintas": 4
+    },
+    {
+      "termo": "Tarcísio",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "decreta situação",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Pernambuco decreta situação",
+      "peso_relativo": 9.3,
+      "fatia_pct": 2.15,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "AClinica",
+      "peso_relativo": 9.1,
+      "fatia_pct": 2.09,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Atlético",
+      "peso_relativo": 8.4,
+      "fatia_pct": 1.93,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Mineiro",
+      "peso_relativo": 8.4,
+      "fatia_pct": 1.93,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Atlético Mineiro",
+      "peso_relativo": 8.4,
+      "fatia_pct": 1.93,
+      "fontes_distintas": 1
     }
   ]
 }
