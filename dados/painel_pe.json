@@ -1,169 +1,181 @@
 {
-  "atualizado_em": "2026-11-26T23:17:59Z",
-  "total_analisado": 127,
+  "atualizado_em": "2026-11-27T05:21:29Z",
+  "total_analisado": 144,
   "x_recife": [
     {
-      "termo": "Neymar",
+      "termo": "#QuemAmaCuida",
       "posicao": 1,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Neymar",
-      "ruido": true
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23QuemAmaCuida",
+      "ruido": false
     },
     {
-      "termo": "Manaus",
+      "termo": "#EliminaçãoAFazenda",
       "posicao": 2,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Manaus",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23Elimina%C3%A7%C3%A3oAFazenda",
       "ruido": false
     },
     {
       "termo": "Trabuco",
       "posicao": 3,
-      "variacao": "+3",
-      "direcao": "sobe",
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Trabuco",
       "ruido": false
     },
     {
-      "termo": "Cleitinho",
+      "termo": "Chiefs",
       "posicao": 4,
-      "variacao": "+1",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Cleitinho",
-      "ruido": false
-    },
-    {
-      "termo": "Thanksgiving",
-      "posicao": 5,
-      "variacao": "-1",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Thanksgiving",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Chiefs",
       "ruido": false
     },
     {
       "termo": "Bradesco",
-      "posicao": 6,
-      "variacao": "+18",
-      "direcao": "sobe",
+      "posicao": 5,
+      "variacao": "=",
+      "direcao": "igual",
       "url": "https://x.com/search?q=Bradesco",
       "ruido": false
     },
     {
-      "termo": "Caleb Williams",
+      "termo": "#LoungeDasBlogueiras",
+      "posicao": 6,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23LoungeDasBlogueiras",
+      "ruido": false
+    },
+    {
+      "termo": "Josh Allen",
       "posicao": 7,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Caleb%20Williams",
+      "url": "https://x.com/search?q=Josh%20Allen",
       "ruido": false
     },
     {
-      "termo": "Fazenda",
+      "termo": "#NFLnoSportv",
       "posicao": 8,
-      "variacao": "+19",
-      "direcao": "sobe",
-      "url": "https://x.com/search?q=Fazenda",
-      "ruido": true
-    },
-    {
-      "termo": "Tolok",
-      "posicao": 9,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Tolok",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=%23NFLnoSportv",
       "ruido": false
     },
     {
-      "termo": "Furia",
+      "termo": "Serginho",
+      "posicao": 9,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Serginho",
+      "ruido": false
+    },
+    {
+      "termo": "Rafinha",
       "posicao": 10,
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Rafinha",
+      "ruido": false
+    },
+    {
+      "termo": "Bills",
+      "posicao": 11,
+      "variacao": "+1",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=Bills",
+      "ruido": false
+    },
+    {
+      "termo": "Butker",
+      "posicao": 12,
       "variacao": "-1",
       "direcao": "cai",
-      "url": "https://x.com/search?q=Furia",
+      "url": "https://x.com/search?q=Butker",
       "ruido": false
     },
     {
-      "termo": "Bears",
-      "posicao": 11,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Bears",
-      "ruido": false
-    },
-    {
-      "termo": "Lions",
-      "posicao": 12,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Lions",
-      "ruido": false
-    },
-    {
-      "termo": "Gibbs",
+      "termo": "Mahomes",
       "posicao": 13,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Gibbs",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Mahomes",
       "ruido": false
     },
     {
-      "termo": "#BlackCestasAmericanas",
+      "termo": "Banqueiro",
       "posicao": 14,
-      "variacao": "-2",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=%23BlackCestasAmericanas",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Banqueiro",
       "ruido": false
     },
     {
-      "termo": "Minas Gerais",
+      "termo": "Dorival",
       "posicao": 15,
       "variacao": "=",
       "direcao": "igual",
-      "url": "https://x.com/search?q=Minas%20Gerais",
+      "url": "https://x.com/search?q=Dorival",
       "ruido": false
     },
     {
-      "termo": "Lula 1",
+      "termo": "Faria Lima",
       "posicao": 16,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Lula%201",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Faria%20Lima",
       "ruido": false
     },
     {
-      "termo": "Macron",
+      "termo": "Glauber",
       "posicao": 17,
-      "variacao": "-3",
-      "direcao": "cai",
-      "url": "https://x.com/search?q=Macron",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Glauber",
       "ruido": false
     },
     {
-      "termo": "Joaquim Levy",
+      "termo": "Thaíde",
       "posicao": 18,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Joaquim%20Levy",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Tha%C3%ADde",
       "ruido": false
     },
     {
-      "termo": "PROMOTOP",
+      "termo": "Cowboys",
       "posicao": 19,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=PROMOTOP",
+      "variacao": "=",
+      "direcao": "igual",
+      "url": "https://x.com/search?q=Cowboys",
       "ruido": false
     },
     {
-      "termo": "Eagles",
+      "termo": "MOKA",
       "posicao": 20,
-      "variacao": "NOVO",
-      "direcao": "novo",
-      "url": "https://x.com/search?q=Eagles",
+      "variacao": "+2",
+      "direcao": "sobe",
+      "url": "https://x.com/search?q=MOKA",
       "ruido": false
     }
   ],
   "google_trends": [
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "VEJA: Eleições 2026: Apuração Estadual em tempo real - Pernambuco - 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXA5R3pTWmF6UTFjekVxTi1na2VrNTJCQi12S2dGdnBJVW9Xd0xNZjdMalNmMDRjM2hGeTZ1aFdaM2JoY1FOYmV3R1o3aFhwUzRfZnUyd2dWZjVTQ3pYdkdueVM3SFZzSV9nTlF0d1MwQXhkN1FibU5oN0x4VmNyOXV5MU0?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
+      "manchete": "G1: Deputadas estaduais recebem ameaças de morte e ofensas racistas e misóginas em e-mail enviado à Alepe",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDFOSHdBMWlvaTQybThtTFByNGtZdDhNV3JPQXQybDIyWWJxblpjclh1VTdnNzNjbjFHenlreTlCeVllcUtuVDJQaXNDNURVeFdyaURxYW1GVDRveXllTVNLY1pkNjY0djczaWtEUXVldnV3TlF1VnpFYUptRGw5Xy1zX05FQndsanZ6S0tXQzBudHVycjZrRXpiN05RaHE2N21FUlhVdHBxQ29PMXRpNl9XcE1ocFRwMC1DWFMyNUN4eExudzNlblpIONIB2gFBVV95cUxNMno1ODdLd2Yyb1VyaFAtYURFUjVqcHFtSENORlgxcEJfRjlVX0JLR0pSb2FZSGkzY01wcXZmQTA1aXZEcFFTNkRvV2ZDYzBpVEZ3YmNnTjZLWkNWb1kyV05ZX2FRVHItb3VmblZQQ0RFYlRzNHN4VTdUR29xOWxzOE5CN2tjeW1rcm92TjAzQUxtUlgtQlFPVkRJZy04WUZBTTFycXBySl80SlRiSEJTOU13YkE4dmhXXy16V0RSX1hTRTVqdlVRS1hPQV9hSHRIb0Y2a2d4MmpVZw?oc=5"
+    },
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
@@ -173,26 +185,20 @@
     {
       "termo": "Pernambuco",
       "volume": "Últimas 12h",
+      "manchete": "Portal CNJ: Mais de R$ 9 milhões em acordos trabalhistas foram celebrados em Semana de Conciliação em Pernambuco",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXFDaDFYWWtuVnVrS2tKNnhfLXdhNThVS0ZsdXJXb1M5SjN5MDJjUGkzUHdOeGdvZ1ZxRlp1eElDUmh2RlRwbW5uQmlSaFJoNFJGNWNOQUxzSlFaSHNOY1dnaG9pbzhib2djZmJvcFJwMEpfbjh5bnl2dE82WllDOWJ1WFMxWnJaUG1YNGxkZ3B0VXJnREFXcFlSc1JtSWdSMURUOE5oaWNGS0R5cThCNUphZGdRc094ZDE2VTBPR2E?oc=5"
+    },
+    {
+      "termo": "Pernambuco",
+      "volume": "Últimas 12h",
       "manchete": "Tribunal de Contas do Estado de Pernambuco: TCE-PE compartilha experiências no X Encontro Nacional dos Tribunais de Contas",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMUo2RG43ZEx4aDFneXhoTUNuR1k4dk1PNkhqeFo1OFZyQ252ajdVRmE0V296aDB1SnlkWU9pU3VzZUxVeGFJN21oS3hvdWV2TFQ1OGgyTzl4S0RFajE1SG51MTkybU5iMk5iZzVtWDZmdUEwWktOczMyel9oS1g2TFozNE41YkREV3VzSW9qa2NQLVBtUW9ZQ2dlbDNFcUVnZEJmdWpDcTVZcTFUcUVZSWdXdVBKQ0NwMmxvSzF2MVlsNHJzbWZUY09KSklSa0w2WTI3YnZHTDhtV0dSMkZjVGdNLXNJVFBB?oc=5"
     },
     {
-      "termo": "Pernambuco",
+      "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Blog Edmar Lyra: Pernambuco registra crescimento econômico de 4,3% e lidera avanço no Nordeste pelo nono mês consecutivo",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLW1sT2wtM0N5UjBucmxqWjYtdWFXc014bWtHMzdYZ0JQdUphdG9EUC1hZGJkdHY1bU5nN0cxYUhBdkhETVdKWmJyUGtHaDJCQ2sxTHJSaHowckprYmV2cEFpMGVQeHRKSVFOUUN4NFdORFh4TVp4UExQZHpmcTRZaGdFODdwT0JhV3c1eUJKckU4N0dKREFmQkRzR3dldTVJalNrSXIzRnhWd213WS1vWnRRelFEbkJmal9feUtsTUV2cTYxTUVz?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "TJPE: Esmape sedia 1º Seminário de Auditoria Interna do Tribunal de Justiça de Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMiygpBVV95cUxOV2F6VlJ4cjMxVWthZUwxYVY3dXV3eUlONTl6ckhpSDlRWjdKeTZtcGs4a0ZlODZHdTJlUUhFQkxBUWdQaDIydldIOWZSdzdUMFBSOTM4U21xR29jTmZremdPWnFsMW1FZW1ZVTVJVkpvOVg3a0hLNm5rejQwdWI1ODMxX0RpcUVGazh1SllxMGQ4ZV9XdlFUa2s5OVlTbGUwR0M2ZHloX1JxLVFJbmtYM2tnSVBJUzVkQ0RLX2p6LUg5aGhNcFdNNVRTMlpoN3Z1aVVGMHp0TzVkOFlobkd1QzYyMFFGUE1wWTdQZWFPa29UYWtXTGlrYkQ2bTltajJSMkY3OHQ3TENuR3U3YTdBT3NRUDBIN01nWlh3UUYwang1Tml4VTRJQ2MxSVNtei1mQVFKTV9HcFBMZklzS1JHanZMc0tSajlmbUw3a1hGdGY1bzdmcHZJX3A3YVR3eFpvekVxMEtjNFVFM1RZUzJxNnJLWHVzQVUwLXlzb3gxU1h5RmRzbmxlU3FlcmFOdi0yZFVrLUNBQU1NUmo2VTdaU1doNWVwbEpvYkw0dWhrNHY3UkVHdWZZYm5ubHdFalh2Q0l5TDlhY0VoWXpLcERsUzhQbnBpdTZYZTVnREJBdjJDNlN3MGZTcnNENFA3Tmg0VWFiTVRoNXdlUzNSTy0wbDVuM3c4YUdVczNXc3R6SWxBMDhTV2FxejNic05PYU1pU253blB5VWJsMmhZNlBQMUsxYUxadWtEamYwVk5RSkFYR2FtZlFZZjFGZkNUTHFhTGFiODRLdUdzVFgxT05fWEtvNFFySk43N0VqZy1IY2UyVHhtY2NibURuUzB5NVJqVlBmZDFBZzh6QllzT1dkdkJhSjhzbklJOU1Ha2M4UjlGM1VLQ0tOOS1nTTZucjVRNHZSUDEtQS1lM2xsMkxycGVFNjdCY0k3dXppSkpaVllTcU9GYzBHNHI3anNBSWZYS0Q0WWwwU0xOOVpkd2JWWlRLenRtOUpXdHhIT25FY3dPcWo5bVBnRTYwWjI3UUZBemJaazV0bWFTOF9zdjBYV244RkxZRDNIeE9nckNSeEwwRmtha255LXJEOVNteXpOVU8yX1dYUmlsUUF3WkV6MVF1R2tudEZjR1MyTWh4c0wyUHhlenRKM3M5YzQ1ZkxxLWRWbzVrVGdNSVAtUHJ3SC1iY29QVHBzZmlxdzhEX0N6eUM5T2NzNTRNejhQaTl4SWt2aTZJd05yVEx5Z0EtS3BTRzZoV0JzWEpuYWRfWkxidVNZaVpNaHhWaGZyaU1ET2pYQXhRNFI5TUhUdllfTF9hd0lmUVhoekhxaF9jRHdVXzIxWjJQWEc2aGt1R0d5dXc5UW9FUVdkcEFqajFUVk55eU8xYk0yd3k5LU9GVmI5UzZtWWU4VEhZUlExSVBmOVBjZ0JkdGRhWWVZUGRtQVhuWEUwb0VPNDNfdEZnMnZ3dFhuNEJ2WEpwVUxPc3ViWlBFek53LTA0Q1ZZcjFCNEZiZFRmVkxYNjByR2xHQUJSQk9UZW5vYTI1UE11SVFJQzlJR0R2YVdSaWtkY0dRM1JEZUJHZjNXVl95MHVLam94S0w1SWgtSmV1dFJXYUNCendpa0owVXh6VV8xd2pyaVVMLW9lcG1lYm1vM1d3TnlKLW5YNFR4ZDVSNzBlZ1ZUOHlyT2dBT003V2pPUFpqaFpzUUFQY2RXUkdtRldha2FvM1F0M05tVFktdjNtTTlMbUo4NHJwb0oyZnpVaTlWeFRPLUhSOEo3WHdRLURtRUE5dzloeGU4UTJB?oc=5"
-    },
-    {
-      "termo": "Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Portal CNJ: Mais de R$ 9 milhões em acordos trabalhistas foram celebrados em Semana de Conciliação em Pernambuco",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXFDaDFYWWtuVnVrS2tKNnhfLXdhNThVS0ZsdXJXb1M5SjN5MDJjUGkzUHdOeGdvZ1ZxRlp1eElDUmh2RlRwbW5uQmlSaFJoNFJGNWNOQUxzSlFaSHNOY1dnaG9pbzhib2djZmJvcFJwMEpfbjh5bnl2dE82WllDOWJ1WFMxWnJaUG1YNGxkZ3B0VXJnREFXcFlSc1JtSWdSMURUOE5oaWNGS0R5cThCNUphZGdRc094ZDE2VTBPR2E?oc=5"
+      "manchete": "TV Brasil |: Quintas do Galo aquecem o Recife para o Carnaval 2027",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUN5eGowTzRNNnJpbHktODR6ZWpVMWZ4VERZV1A5aHF6cllFbXhKbnJJZmRuUTEzSE84YW56MTUyeThwbEJaTVZBN0Z4ZTg1elhKeERGQWJvSlFnY2RTb3BFT3A3bDFCRmY3N19VRHlsMUdBS183NXFsZm1DX1lBSENSX0l5Y2ZkUklVQmFSWVZmbVhxNFY1TjJhVlJCRW9mV0ZMWnBnWGc?oc=5"
     },
     {
       "termo": "Recife",
@@ -203,26 +209,20 @@
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "G1: Tiroteio próximo ao Parque das Graças assusta moradores no Recife; VÍDEO",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWjRBYm5VU05FWXczRlBwZjl2ZThudG8ydXR0MENxZTBlcnI3UE91UTRHdEpUWjIwV1RyazRudHZJaEU2R2xpeXdqWGYzZkh1ZGR4aXMzOVNwOTd4akdVbk9OTjd2Y0NQYmhlMlRMQmxBSU1pLTF1VnB6WUlKUHg5bVJtcWxYTVBzWTRJRml5OFFkUXdNQzgxZEYwRmVXZjdkak1VUnoyb3lCckplY2ZobmJmNS1nNW9vOFlnTDdEcXF5aEJYUUhIR095RdIB2gFBVV95cUxOQlVFdkNSZ0NtTzZyb1RtYm9GVDhzSGFaZEhheXJ3dUU0QUdjTThVZFU2TktvQmI2S3hxUjBIT3B3ZmRzRllpekl2c1BPSG01NnJ4QlkwVjZKMmV5enI5VjV1UVpxMkdHR2VpaDhWTkVFc3huSUhrNURDT1lsc1hJVmZWcFN3RkZqb0NZV2JYUXZCZnJudkpmd3Y5Q0Z5UFREc1h0SEVKbE9XeDVRZ1RwTGVXdUFFbUhoWDRQRF96WXp3Yml2ZURidk1jRlNPUF9pbWJtbWZsYjJYQQ?oc=5"
+      "manchete": "CRECI-PB: Em Recife: Creci-PB participa da última Sessão Plenária do Cofeci em 2026 - CRECI-PB",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWdZMWVmRnBYRjMwWWlBaEJlbU44VUZJVzNONDZrdnYzQ0VnVlFJNEFoVmdmY3JzSVdCSlBwYkRBZ1pqWWxIS3QzYTlXczlETTRKQ0FkVUQ4cV94bUJKMEpLNU5pQTUyaUdocW95VEFpTzRuTFZRSDJQT2c3ZllsOHc2dmtVYWM0bi1ULXVfRV8yclEwYkd6c3ptWHdodw?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "UVB Brasil: Encontro Nordestino de Gestores e Legislativos Municipais reúne lideranças em Recife",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQME5RVlBFTVlDNzRtRDd1UUZNLXBHOXRfWERSWjJ1X0UzUG00aXlDSVo1T2ZGdDFFWkc4UmxuZkswYVJFWE1ZYktvNVBOUTd1NHdFUnRzOWpzNmdUR0RyakR5YmF6dFQxZlZDRkVXVnhOMGZlZHY5NlUxVk9fV1ZkZHIweFBJTGZTNjlLWkpjOEhhZkcxdHFrT2VheVE4eTdsdHBZcDJQMDBBei1zZkFR?oc=5"
+      "manchete": "G1: Previsão do tempo hoje para o Recife (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNN2p3Ulgzb2h6ZmF0MW5YWXNlRmhpZzVoWmxHbmJwTFJCVHBvMl80eklfMXM3clJoOHIzVlBvNnFkTGlEVHpBMTZJUVFBM1JLZmk2OWVPaWFfWS1mcEFfdDRjR3dzNU9nMFd1TThRd0dnMDZLZWFUUlB5NFUyUGJBWlZ1ckhRWEhXUWppT20zdTJSR1NuSDhzVWxqcVRLTGc3VDRxb0pKU3ZvSllWOWxsV3NxckVTakFUdDl5MWszUDN3Z3VIVXhpdkVHTm80T2tvc25MMGtyR0pSd2c5QXRCVE5qWmE1TGRnNXNzdFlYaXh1MkpWU2xwODRYV1lZVDRMYktvRkNBUnpXdmFsWDNJV2psQ1ZYbDBRMERHcXRDODFqSGx6VVZj0gG2AkFVX3lxTE1nYU1RZDJUVG53S2pseWxtQXlZSWRZSzRPU01jVWc0Wmo0YUxJQVdJRVB0eW94cm95c0h5MVcyNUdxNmlXQzZsTUJFaHppQVhYclJLdU1hWHVOWnY5RDV5bzBzeDlDdGZmeXBwTUJodlRrWGZ3LUExX3Jfdm96VS1kTHRMa2o0VUwyQkRua1JPX0J3R2dycVFaTk13RUw2OFlJVVpaS1F4RFdCZkVQa0lkNGNXRVhscmJmRkVzbTdlOHl3OVluNjhKeDB2YUd6UzdIMTVCLTRuenh2UW5JWkJlY2FpRjNOUGQ2WS1iVmZUX0pzRWVTOUFvdk5pOWxfS2dsUDQ5RldZYzZlV3U0V0F4WXk1cmEyMVl5YXJCYmd5WEFlRzdiSGpITVF3TFdwd0YwOGNHdUE?oc=5"
     },
     {
       "termo": "Recife",
       "volume": "Últimas 12h",
-      "manchete": "Brasil de Fato: Recife recebe fórum sobre mobilidade urbana e violência racial e de gênero nesta sexta-feira (27)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVk5WUZBVDYwRWM0MURuXzZGXzBidk4xSGFTYnFOSGRFN01adGNRUEI0allBNTFPMXVLZDVPYU1WRFdWTzhTR2o4dklTc0pTc2d2OWVOTlQ5bDZPWVJhT0FGcXNuQ2pXUWNiR1dzUUtNU2l5dXFkeU1JbVozZzNPcGpwWGVWNzBON3IwemIxczYyamhYRlpXZ2dtM21SV3o4c1I5VVdhdmhZMmlYZGJoY0daUk5lU05OOVBjb2VZcjhqbm5HSVQyWVpmQWFHTmRFY3pGRWpB?oc=5"
-    },
-    {
-      "termo": "Recife",
-      "volume": "Últimas 12h",
-      "manchete": "RioMar Recife: Happy Friday Fitness",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2tJMmxhNnA1WHd3b0d3MV84N2VRMUdOOW1VYjBKYnFUbGZJYkxkTGszNWxfdG1yZ2xNa241ZEg4c1lHT09oczFHMG4zYTFKQkJMRVAySGNzdVNqb3l6QzFKN3RsQUlxdW1ycVdFZzRxcDQzS0RzRi1ac2VQS3Nya055b2hMblRMbWl3WmpiUjB0aFNSVWJVUEVYRS0?oc=5"
+      "manchete": "TRF5: Imprensa - TRF5 realiza roteiro de visita a monumentos do Recife ligados à história do povo negro",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jS2ZYM0k3TEVCUDdEWm9VTTQzcFJqM0h2MHJOX2RsVGNtSkdjZkRWcENwb1lrOTFJZENIUHlRdm8zTnNGV3dDOExQejU0bEhTbkR4Z3NYT1pmbG14ZWZ2TVp3OTRaaHRWT2d2ZU03NTgyTTdadV9KdEJmNTBQUQ?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
@@ -233,26 +233,20 @@
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "CBN Recife: Inflação na Região Metropolitana do Recife apresenta alta moderada em novembro, aponta IBGE",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYXh2ZWRXcFE5X3pRTHcwM0xGbTlDWUF1MWVub2dFYWl2TjRBRTY3a3VaVVRPeWFjNWJJNEYySndBZUVXdVpoRzhMdUJEQk4wSnpLUUhyRVBTdjNVbDFSRW15RmFJY1E3NDNVTUxYck14b1J0bTM1NFBab0s5RUtCTk85Z1dBempBa3M0ZzF4M2dybzJXR21GaDB2aEc4TDlxdl90eHNmTnpuQmdsSEN1dkZtQ1dOVU1DaDZGMUpEck5Gd2xOZ3M0?oc=5"
+      "manchete": "Brasil de Fato: Recife recebe fórum sobre mobilidade urbana e violência racial e de gênero nesta sexta-feira (27)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVk5WUZBVDYwRWM0MURuXzZGXzBidk4xSGFTYnFOSGRFN01adGNRUEI0allBNTFPMXVLZDVPYU1WRFdWTzhTR2o4dklTc0pTc2d2OWVOTlQ5bDZPWVJhT0FGcXNuQ2pXUWNiR1dzUUtNU2l5dXFkeU1JbVozZzNPcGpwWGVWNzBON3IwemIxczYyamhYRlpXZ2dtM21SV3o4c1I5VVdhdmhZMmlYZGJoY0daUk5lU05OOVBjb2VZcjhqbm5HSVQyWVpmQWFHTmRFY3pGRWpB?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Prévia da inflação mostra avanço de 0,16% na RMR em novembro",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdG5ySTdteklxS2RPTU1tUFlHTDVld19weTZhVHFSVDIycVlwNlkyVk5xNUJaZUJ3SGlUVnF3VEYtcnB2c0VfWFRBLWtRb0FIUGVteEhlUkFLVDRtb3JULU9sUXpXYUJEeW41MnpUQXV1NTFYOUR1dUpVcWVjZWpKTnRITWYxcV9MZndQaXBXeVFwd3BBX2x1OFozajV0U1ExNmwtNnlrSVJVMDDSAasBQVVfeXFMUHRuckk3bXpJcUtkT01NbVBZR0w1ZXdfcHk2YVRxUlQyMnFZcDZZMlZOcTVCWmVCd0hpVFZxd1RGLXJwdnNFX1hUQS1rUW9BSFBlbXhIZVJBS1Q0bW9yVC1PbFF6V2FCRHluNTJ6VEF1dTUxWDlEdXVKVXFlY2VqSk50SE1mMXFfTGZ3UGlwV3lRcHdwQV9sdThaM2o1dFNRMTZsLTZ5a0lSVTAw?oc=5"
+      "manchete": "Folha PE: Baile do Menino Deus realizará espetáculo em Goiana durante o mês de dezembro",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNekp4QVZMTUVlWE41WVhoV0lVUzRpell5MXNvWlRZZzAzQmhfMlozWkI3ZXl6a1FYaXU5RllvYlVVX2xFYVp4Rl9LWl9hNVNLYnJ4akVKTmNJQUdRNjBIemZ0TlVwWlI1ZzFvam44VXFmRW1IYXNuQjd1TVVOQVJXcmIzRk5Db3RIX3NCN2h4VHc4VzNacUt5TmRIR1Zta2JZcy1NTlJGTDFwXzF1RUZyajdWOFJRd9IBtgFBVV95cUxNekp4QVZMTUVlWE41WVhoV0lVUzRpell5MXNvWlRZZzAzQmhfMlozWkI3ZXl6a1FYaXU5RllvYlVVX2xFYVp4Rl9LWl9hNVNLYnJ4akVKTmNJQUdRNjBIemZ0TlVwWlI1ZzFvam44VXFmRW1IYXNuQjd1TVVOQVJXcmIzRk5Db3RIX3NCN2h4VHc4VzNacUt5TmRIR1Zta2JZcy1NTlJGTDFwXzF1RUZyajdWOFJRdw?oc=5"
     },
     {
       "termo": "Região Metropolitana do Recife",
       "volume": "Últimas 12h",
-      "manchete": "Terra: Black Friday 2026: linhas de ônibus do Grande Recife terão viagens extras e horários ampliados; confira quais",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNYnVkY1ZfR2Vhc3hUTXlJeTh0QlFWdHV2WThhcThRSm5JT3VDNV9GLWwxR0FMd09iaDQ5MlZGdk5Wd2tWb21LZFFZeFhuNmQzbjMzUWhzRkZ3RERIajBJekRXZDdGMEJ1LWYzTHZPSENzRnRKVG9fcDJIY1BRUndNSUc1cTB4dE1ETVB5UThoV2hYUkMyRTBCVzdsZ2NGalltcUtGWERnQlFQd24xSVNpSHA3YWZodldzSXg1bHZzdHpSZGlVUFhhWDVSTE4zWlQwWFVjODZCTy1oWFpUTC1IZURaV0NIU3FMc3FCcldEN205R2hnSC1LNU9UVDNtdmJLSTN4SXdKeHdtaHU4blc5TmNHY2RGQQ?oc=5"
-    },
-    {
-      "termo": "Alepe",
-      "volume": "Últimas 12h",
-      "manchete": "G1: Deputadas estaduais recebem ameaças de morte e ofensas racistas e misóginas em e-mail enviado à Alepe",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDFOSHdBMWlvaTQybThtTFByNGtZdDhNV3JPQXQybDIyWWJxblpjclh1VTdnNzNjbjFHenlreTlCeVllcUtuVDJQaXNDNURVeFdyaURxYW1GVDRveXllTVNLY1pkNjY0djczaWtEUXVldnV3TlF1VnpFYUptRGw5Xy1zX05FQndsanZ6S0tXQzBudHVycjZrRXpiN05RaHE2N21FUlhVdHBxQ29PMXRpNl9XcE1ocFRwMC1DWFMyNUN4eExudzNlblpIONIB2gFBVV95cUxNMno1ODdLd2Yyb1VyaFAtYURFUjVqcHFtSENORlgxcEJfRjlVX0JLR0pSb2FZSGkzY01wcXZmQTA1aXZEcFFTNkRvV2ZDYzBpVEZ3YmNnTjZLWkNWb1kyV05ZX2FRVHItb3VmblZQQ0RFYlRzNHN4VTdUR29xOWxzOE5CN2tjeW1rcm92TjAzQUxtUlgtQlFPVkRJZy04WUZBTTFycXBySl80SlRiSEJTOU13YkE4dmhXXy16V0RSX1hTRTVqdlVRS1hPQV9hSHRIb0Y2a2d4MmpVZw?oc=5"
+      "manchete": "Diario de Pernambuco: Arcebispo batiza detentas em Abreu e Lima, no Grande Recife",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanB5TC1BaTRLNlV1bjVxdTNETzVMcmM4WFd0NS1iby1IZXhHWU51UXd3NmN0SG1fSXd3Tm1RdG1UTnB6WFAzXzZnVlVPZVJOZ29QNWRsYi1oczF3NHZYdW5Ud3ctb1NhMkpaQmhiN09ZYU5BRVZsQmFzblZLRHhKLUNHZDZQbUs4RnQzM2pDaHVEb1ZDT0kyQjMtN3dJaTBIYWctQXV4Y1M5VnJpWktNbHBDNXhOUnRMb0pmOVFtYmtKUldZNDFrMg?oc=5"
     },
     {
       "termo": "Alepe",
@@ -263,98 +257,110 @@
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Folha PE: Deputadas da Alepe recebem ameaças de morte: \"tenho revólver e dinamite\" e \"invadeirei Alepe\"",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTmJvRC1OOWstRDJrSGpWQ211cnNVTFB3VFJ1Nk1valFKeFpxeWQ3TFNXMUt6elpvNWRYVmtTWmpybG00NFRlQlJoLXlzUURxVkZ2dm41VkJrS0RUT1lSSy1iSnBMT1dkWExOMWhOVzhlVlp3c1VEdFdhRjdWTFlVWXhjYTduTUxpcGxNNGRMLXBqNmVpVFA0bEdwUEk3X2VKTkN0NVRScFNjalctVHdVYVdSOUthbmdBdXNORk5jb0FTM05BUWZFaG8wVWpKQVF5WElrZkI0Qkh5SERwNkE?oc=5"
+      "manchete": "CBN Recife: Após ameaças, Alepe solicita urgência em investigação e garante proteção a deputadas",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUTRQbEJoaWNMeFkxOUR6ajFYXzJYUHpOZDVhTGxibGZBeVdQMXBuWE50WHFwLVpqcFNUS2p0cVFDa2tvODRQOXdEX2xpVmpzNTNMQUtRa1RSVGRqaDBKQUNHcklZOEpvSWFEajloN0hQR2ltWWpXQTJCWThLZ2NsYkdkNWkzbWdVdV9CZy1xYUVKSzZFeE5OeGVOZXE3cmtpVkFtWmFEWlZPWkYxQm5QOUJDWi1qS3hRRWs4XzNscTV1QXNHSzI5S1dsUEVfZjVLQlE?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: Jessier Quirino participa de encontro das Escolas do Legislativo promovido pela Alepe",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVY1U3p5dVVUUG1wSEM5VUNLSUtPRWx1OW1kZWxoSnNCZHF6YURtNVJBQUxOS1hMMzNxdlBKSlMtNGMycHFlTXpnRzcxYmhWX1hCTU5MSzdYelhINGZwNDJTM0ZqT1ZIWnVvWUJWN3NkWEp3czBLWGhKR0tVbTVBY3M2NWg2X2ItclRJLW5zZFExWnM3c0NWaGFjczFsTlA2RzJoZmN4R3pzcE1Fdm1LTTA2b3ZYVWlmemJMcXNDZzM?oc=5"
+      "manchete": "Blog da Renata Gondim: Alepe repudia ameaças, exige investigação e garante segurança de deputadas",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjhLRzBTbG9rVkViLTNEQnVSeWJpUTFnbi0zYjhDTEJUbjRrUWFmTmZ5VHdiTDJ0bmtBT0ZzVW04NUVGS2hQcHhnUTQ5cXdUUlJtd3pGcWNDVzNldy1PUm1qX29IS1FndC1Ga0t2STc1T0hGc0U5UEVJTUNMOGJzSXpPOUV1QXVWZktCanJyUDdrTTdfOGtuTHZVQTg2SXhnSU83bQ?oc=5"
     },
     {
       "termo": "Alepe",
       "volume": "Últimas 12h",
-      "manchete": "LeiaJá: Deputadas da Alepe recebem ameaças de sequestro; Dani Portela cobra rigor contra violência",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSjBfWWtrLWJyYjVOOFozT3RpZHpEMFBESm9PSUwyVFlVd3F1dEE4Y0w1bkpHSkV3TGhIZGwxUEs4ZGNNc1pjVHZyeEFydjZPbUh0RmZfMGFybHNsZTA1Z0FMSXRUU2NJQ09ZMF9scFZBT0hvNTJSc1czeGlaNzhvSTJrWFAzeDIyTXZxUjRROWVJU3l5eHBQQ0lRd0tBRVpIbFlkeUM5dDFjU0U2azUwOXVQUlZhMlhhOXJsN0lIS21mcFk0cnF1ZDUtTmJYdw?oc=5"
+      "manchete": "Márcio Didier: Raquel determina investigação de ameaças contra deputadas; Álvaro reforça segurança na Alepe",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wUTVqTFd1X0ZuN0xsZy0yQUROaDV5YXBxYUtsZHVpS0hzTk16ZWY3dk9mQ1I5OWtuVC1fbm56WElra24yNy1nR1BTUnI5bnE2MF9zRXZ2UGJxazNWbkhhaWhlSmVwaEhTcHRMUG03UGxOMERYaEdydA?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Acessa Caruaru: Pernambuco conquista cinco prêmios e se consolida como referência nacional em habitação de interesse social",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdk5yQkJ4aUFLa3dnejRhN3hGWTNxQTFpNm9VclpjaEVYVzQ0MnRLd1lTNlFCYVlLc2pHRjF2VXhkNXdGOFNuaW9ZRndlUHFoV1FiTkgyYXJGc3J4YnlLNXRDY3BGYWFfdHBqS3FlRTlPX2J2V3hhc3BIQnRWYzFTUXAxX2FZbklpcW5wMWV3cEVTUlliVlFySlRFeFFxVnJRRVdYMW8zSmJqNFEyWXF1cFo0eWZrNVNaZDBhbmFjR0JxOWgyald0VkFQWHFBb2owdzFPWFNR?oc=5"
+      "manchete": "CBN Recife: Parceria entre Paulista e Governo de Pernambuco avança com drenagem na Rua Médico César Cals de Oliveira",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV0NjLVcyd25rTF9KcHREc1Zib2JOd3cwWGxZTGFFeG94OTdTNlRLYzlveDhoV19rbkVtWGxhbFk4Nkx6dk8tWW9lSFJSeGx5RjlnS2VPRlItMmkxZUlsNVFUMHFtTURjZi14NlFYTkhHazVxZWxuSUZ0Y3gwODVGLVFTM1ZzaGdlNzU1WHpnMEZHSW42X3h0VTNUc2lZejdUZmxlRHh4VWwtMXEwWlBsOUpVTVlRS2N5aGRxZzA2SVR4LW5DNnplSXN5TFhQNGEzcUt4WWxQUXJ3eDVFVGVmVzJ0ZmtuVnVkSFhlbXN3?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
-      "manchete": "Blog Cenário: João Paulo propõe que Governo de Pernambuco aplique reajuste do magistério em janeiro",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2J5Vml2cTJBOVdWR004b0QtY0pwXzNkNU5keG5SdUFtN2hRWVhDbGFkS3VBWks1dlM2UzNQbzM3Z1U5VHdWSVBYWDM2QVg4R3h5a1lrNGwzQUZ3eHYydzJWdXp4a0R1QUlHa3lrM3RjMFc0dHZVd0hPbGdKOUtScDh1N000THpQd1BzOWc2c01MMWd2WG5PQS1wRktjSHdmVTF6cGwyWTFPT3UtZThILWNKOG5QYXVJRmhUS0RHU1o?oc=5"
+      "manchete": "Márcio Didier: Pernambuco conquista 5 prêmios nacionais por projetos de habitação social",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WVkhWOFNVa0tnX0ZNNGp1NDdLa0ZMN1BVd3dmU3dsbEFqc3M1MW11V2xEaU1xSS1BT19idHJLUzluMEdiby1HeF9sdlJfVHBHU294bjlmaE5iTVhzVHUwME50blBnWk9ScFVEWHBEZ1VoUF8zMDZ3?oc=5"
     },
     {
       "termo": "Governo de Pernambuco",
       "volume": "Últimas 12h",
       "manchete": "Blog Edmar Lyra: No Reino Unido, governadora Raquel Lyra destaca políticas de Pernambuco no combate à violência",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHZuTG56bXJRT1hyeGtSWXlyRC1FME1VNlFwYlRIVXFiTVRxVlB5X3FiY3ZtVjRjdWZmOWdHd0NzN2VCYmdJSjJCbVU0QXM4dWtrNXo4RVpQeVVLQllSV2VRZ0NwYWJRYTB1REstS25HZGpqT3RwaVBtNk5Fc2daSDJYNnBnRm5paUN1MGVPR2tEa2xkbVFPNXhQY1pfRGZHZkZKRkZLdUpsUkZvdkhPQmsxNUs5cWpZWHNTcg?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Folha PE: Terceira edição do Seminário de Gestão Governamental de Pernambuco ocorre nesta sexta (27)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzQ5QTlVRUViUVpHUXZiRFlGTWlUbEd3ZVlVZ2dWc05mTGhBRjVZcE5HRXFsdGZKSWowa19Ldmd5ekNSZHJwTWozX291czZRbENiUUNfY0JrZ3hMNUZ3TmNGWWdPcldBRzdrOVQ0RHMyTy1DUTRIWDVKLW1rQlhxRGl5ZmYzeXlVODE1bkQ0MmVEVlU4cEs5bC1nbHljOVNxR1hZdlItTEo4ZDZvdjdRTHo5a9IBswFBVV95cUxONzQ5QTlVRUViUVpHUXZiRFlGTWlUbEd3ZVlVZ2dWc05mTGhBRjVZcE5HRXFsdGZKSWowa19Ldmd5ekNSZHJwTWozX291czZRbENiUUNfY0JrZ3hMNUZ3TmNGWWdPcldBRzdrOVQ0RHMyTy1DUTRIWDVKLW1rQlhxRGl5ZmYzeXlVODE1bkQ0MmVEVlU4cEs5bC1nbHljOVNxR1hZdlItTEo4ZDZvdjdRTHo5aw?oc=5"
-    },
-    {
-      "termo": "Governo de Pernambuco",
-      "volume": "Últimas 12h",
-      "manchete": "Blog do Alberes Xavier: Waldemar Oliveira destaca crescimento de Pernambuco sob a liderança da governadora Raquel Lyra",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLXY2cVJULUxjbHF6U1FqeUVwdFhkUjB3cElqUUhuSmJiSGxoR3ZobC1oNzlVak9ZTVZxUDJqMEVRYnlLZFFjYmpnUWszcjB3amFSR0dGODhISDhUaEVBRU5IZmdQSXc4Y2dlUC1HaGJBNGVmdERIZzRrVlN6YVdUWmlNYXdoYlpVS25ZREVXVWlNeVo0NHpaRkhpSmZTMTBhUUJYVmRrengxR1M4cW5Ta1NrVnRCU052UzQtWlhyR2Q1amFwU1JGOF93Und4cjRQNkFNUURkY0dYT2RDWlE?oc=5"
     }
   ],
   "picos": [
     {
-      "termo": "mesa diretora",
-      "razao_aumento": 83.8,
+      "termo": "deputadas estaduais",
+      "razao_aumento": 96.8,
       "gatilho": {
         "rede": "Imprensa",
         "fonte": "JC",
-        "hora": "2026-11-26T06:39:31Z",
-        "titulo": "Base do Governo na Alepe espera definição sobre mesa diretora até o final do ano",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWGVGSVI5YlZXcjN3ZjZISThETlpIbWU0bFJ6bVJRVTB4ai1oZ2tFc3FoQmJkZjZ3aFFudGVSM1duZGhLRjdtQkJfUzV6ZlZMRnAzWmluLUVMNHJOZHNJNUp1aW1id25UbUdSa08tQW1PNU1lallhOGtHNjlNcUJxaTFDdnFnNjItdGVzQXR0ajdwTW4tTC1HWUh5WVRodGpmNmwtSXA5alJBUXZwTllRWFhVUG1oSFRxUUJLZENqY1RIUGlsM29EVnA5ZFM3T0NWMjc3TA?oc=5",
+        "hora": "2026-11-26T21:22:16Z",
+        "titulo": "Raquel Lyra determina apuração da Polícia Civil sobre ameaças a deputadas estaduais da Alepe",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWk0aG5zYy1kd0ZmU19fV0pvUHZwOE83UW1mdjFVRUdVenBUV1RaQ2ZKNjFKUE5iSnZaNVZYemMtLUlCRVRoLXBackdWZjNROU14TWZEUFlIYVFEQUZaQVdNN21PVjV1QnNLZzYydHcwakh2QjZRX21yTDdOTWlxbXV0eFY3NXdHcXZMbGs2UUloRTNEalFjampxNHpwc3FmMlExdmROU21ibkdEX1lZRWVlVUdfU1lpOTlXbUVfTzRmZndRdGd5V0JvWlZDOXBfdWROWlVR?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "milhões em emendas",
-      "razao_aumento": 77.0,
+      "termo": "ameaças contra deputadas",
+      "razao_aumento": 96.2,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-11-26T03:37:44Z",
-        "titulo": "Dos EUA, Flávio Bolsonaro indica R$ 79 milhões em emendas para 2027",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkY5MjdadDhlZmRsblBfYWhOeF9rZHlRNlhyWVZybXl4bXFKRW5RLXV1WXBGaEM0amMzekE5WGZkVm42c3FVdjFxQ2VDQnQ0U1NNRk9VRWhpLUJMd0xPbTZPS1BIamEyUU15S3lTM1FCWGJkMnowQmpWeXJ5Znk0dWZFZ3ZoS0NCYU1TS1hHM0VrNnBpUkg5aUlBSjBGZW1uTFJBNG9GMA?oc=5",
+        "fonte": "Blog do Alberto Alves",
+        "hora": "2026-11-26T23:27:40Z",
+        "titulo": "Raquel Lyra reage a ameaças contra deputadas estaduais e determina investigação imediata em Pernambuco",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVJuRm9ndGJHWU5nNC1wazh0Q1RMNk8zakN1Rk9YM3Jidi1mZEpfdmFnSWZQUFY2dzlLTHBUV3BvYi1oYUFjWW5Kem1xaHhBcWNLV1B6RElvUzY0WU9NU2RNZzRDUkgyVVpCUGI0R0dWbk03alVhRnpzUlZ4cTNpQ2FhTnVYTTFBcHdHcnFHYTk2cDhQYU85NjM4U0YxRC1GWnVyM1ZKTUdvX18tS0QwUnBqRlhqTjhnZGlUVThoLWMwZ3didWZnTGd5NjdBbVdISEZIZk93?oc=5",
         "peso": 1.0
       }
     },
     {
-      "termo": "orçamento de 2027",
+      "termo": "após ameaças",
+      "razao_aumento": 90.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Didi Galvão",
+        "hora": "2026-11-26T23:55:18Z",
+        "titulo": "Governadora Raquel Lyra determina investigação imediata após ameaças contra deputadas estaduais em Pernambuco",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWm1nS09ONWRGQVczNkZ3U1pHZlZtMWo3Y01acHY0dldHLXY4Qk9pS2VHTUw3bzM4b0o4QVFielRBZTl0elFaTjNrOERLM1NtVjVaWEt3ZDgyRkp4NWZYUnlXUTNwdmROcFQzS1BiTmJQcnpnSHd3NERpWXRobEVRNnR4eDZPSGxZdWpwcTAwbTNzMmk3LXpJZWg0QUJWb0Vvb09PcHV4SWZuZU1pRzJlYTJ0SzBUN3Z3YXFoUTlEZk5ZZkxfZjl0UnQ1WEZ6RmhiOGc?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "investigação e garante",
+      "razao_aumento": 90.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "CBN Recife",
+        "hora": "2026-11-27T01:32:29Z",
+        "titulo": "Após ameaças, Alepe solicita urgência em investigação e garante proteção a deputadas",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUTRQbEJoaWNMeFkxOUR6ajFYXzJYUHpOZDVhTGxibGZBeVdQMXBuWE50WHFwLVpqcFNUS2p0cVFDa2tvODRQOXdEX2xpVmpzNTNMQUtRa1RSVGRqaDBKQUNHcklZOEpvSWFEajloN0hQR2ltWWpXQTJCWThLZ2NsYkdkNWkzbWdVdV9CZy1xYUVKSzZFeE5OeGVOZXE3cmtpVkFtWmFEWlZPWkYxQm5QOUJDWi1qS3hRRWs4XzNscTV1QXNHSzI5S1dsUEVfZjVLQlE?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "exige investigação",
+      "razao_aumento": 90.9,
+      "gatilho": {
+        "rede": "Imprensa",
+        "fonte": "Blog do Magno",
+        "hora": "2026-11-27T01:01:59Z",
+        "titulo": "Após ameaças a deputadas, Alepe reforça segurança e exige investigação para identificar autor",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS280TlNsbHRIaHJ0cWlraWtMQkEwdHQwT0thTkRLcjFNZHhFOXNrWXROLUhmOG5RVjJWTHhXZGhVV2NKanVjcVl5SU9keEdQOUtwM1pyem9OMmlPbHRJTElJS1JpcTM3SmZwUmxlcnN4cG9VMkpwN3lsOE92Qm4zNUJKWUtJNHFxa0ZVNTZHaVQ3R2xGWlpOemRtWW5qelNteWtxUTI2NGJDOWFleGUzYW5RemhSQjhRemc3aA?oc=5",
+        "peso": 1.0
+      }
+    },
+    {
+      "termo": "determina investigação",
       "razao_aumento": 76.9,
       "gatilho": {
         "rede": "Imprensa",
-        "fonte": "Blog Cenário",
-        "hora": "2026-11-26T15:00:00Z",
-        "titulo": "Dos EUA, Flávio Bolsonaro indica R$ 79,4 milhões em emendas para o Orçamento de 2027",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd2tONnhlT0dlWUhRY2FldzFzRFpLZVBOWV9KQm9maTR0dGRfTjBzV3lEWkFIbEg3MXVySFkxVnNqa3BMYUFCZFJhS0tQdDBiVmVpRnpyZE5TYUJJZmZYSGI1b00xSUNPdHVxY3puWkJuUnJ1MFFaNkZoeE1RSDRPOEZKRXVNLUNFa08tY2c5SGMtYW1xZ3JqMjhjbW4zdm5NMW5WRE00Vk9fblV4c1NGTTFoVmJNeW02V1c4?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Base",
-      "razao_aumento": 71.4,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "JC",
-        "hora": "2026-11-26T06:39:31Z",
-        "titulo": "Base do Governo na Alepe espera definição sobre mesa diretora até o final do ano",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWGVGSVI5YlZXcjN3ZjZISThETlpIbWU0bFJ6bVJRVTB4ai1oZ2tFc3FoQmJkZjZ3aFFudGVSM1duZGhLRjdtQkJfUzV6ZlZMRnAzWmluLUVMNHJOZHNJNUp1aW1id25UbUdSa08tQW1PNU1lallhOGtHNjlNcUJxaTFDdnFnNjItdGVzQXR0ajdwTW4tTC1HWUh5WVRodGpmNmwtSXA5alJBUXZwTllRWFhVUG1oSFRxUUJLZENqY1RIUGlsM29EVnA5ZFM3T0NWMjc3TA?oc=5",
+        "fonte": "Blog do Alberto Alves",
+        "hora": "2026-11-26T23:27:40Z",
+        "titulo": "Raquel Lyra reage a ameaças contra deputadas estaduais e determina investigação imediata em Pernambuco",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVJuRm9ndGJHWU5nNC1wazh0Q1RMNk8zakN1Rk9YM3Jidi1mZEpfdmFnSWZQUFY2dzlLTHBUV3BvYi1oYUFjWW5Kem1xaHhBcWNLV1B6RElvUzY0WU9NU2RNZzRDUkgyVVpCUGI0R0dWbk03alVhRnpzUlZ4cTNpQ2FhTnVYTTFBcHdHcnFHYTk2cDhQYU85NjM4U0YxRC1GWnVyM1ZKTUdvX18tS0QwUnBqRlhqTjhnZGlUVThoLWMwZ3didWZnTGd5NjdBbVdISEZIZk93?oc=5",
         "peso": 1.0
       }
     },
@@ -381,302 +387,278 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnBva2xuWDJSOHdPZlA4NUtTd0FaTWtWRDF5ZTJfS25iUEtEbWd5VGpqODlPSHdOSmdoQ2ROWFhiWTN2OVpGb1pZbkZFZm5yekdrbXVRSU9OakJISmRPWVZWY0V4SS0zdHYwZXZxSk1veUNuRGl6em5vYzFqV2pXcTJFbVZiUjhvX3FkWW5HTzJwSUFTT3llb0dLeHVOMGNZUkduN0RVc2h5ZlloM0E?oc=5",
         "peso": 1.0
       }
-    },
-    {
-      "termo": "Diretora da Alepe",
-      "razao_aumento": 65.5,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "Nill Junior",
-        "hora": "2026-11-26T10:32:38Z",
-        "titulo": "Base de Raquel Lyra quer definir composição da Mesa Diretora da Alepe até dezembro",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnBva2xuWDJSOHdPZlA4NUtTd0FaTWtWRDF5ZTJfS25iUEtEbWd5VGpqODlPSHdOSmdoQ2ROWFhiWTN2OVpGb1pZbkZFZm5yekdrbXVRSU9OakJISmRPWVZWY0V4SS0zdHYwZXZxSk1veUNuRGl6em5vYzFqV2pXcTJFbVZiUjhvX3FkWW5HTzJwSUFTT3llb0dLeHVOMGNZUkduN0RVc2h5ZlloM0E?oc=5",
-        "peso": 1.0
-      }
-    },
-    {
-      "termo": "Bolsonaro indica",
-      "razao_aumento": 58.6,
-      "gatilho": {
-        "rede": "Imprensa",
-        "fonte": "CNN Brasil",
-        "hora": "2026-11-26T03:37:44Z",
-        "titulo": "Dos EUA, Flávio Bolsonaro indica R$ 79 milhões em emendas para 2027",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkY5MjdadDhlZmRsblBfYWhOeF9rZHlRNlhyWVZybXl4bXFKRW5RLXV1WXBGaEM0amMzekE5WGZkVm42c3FVdjFxQ2VDQnQ0U1NNRk9VRWhpLUJMd0xPbTZPS1BIamEyUU15S3lTM1FCWGJkMnowQmpWeXJ5Znk0dWZFZ3ZoS0NCYU1TS1hHM0VrNnBpUkg5aUlBSjBGZW1uTFJBNG9GMA?oc=5",
-        "peso": 1.0
-      }
     }
   ],
   "nuvem": [
     {
       "termo": "Bolsonaro",
       "peso_relativo": 100.0,
-      "fatia_pct": 19.12,
-      "fontes_distintas": 20
+      "fatia_pct": 16.04,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Raquel",
+      "peso_relativo": 73.3,
+      "fatia_pct": 11.76,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Alepe",
+      "peso_relativo": 73.3,
+      "fatia_pct": 11.76,
+      "fontes_distintas": 18
+    },
+    {
+      "termo": "Lyra",
+      "peso_relativo": 60.0,
+      "fatia_pct": 9.63,
+      "fontes_distintas": 15
+    },
+    {
+      "termo": "Raquel Lyra",
+      "peso_relativo": 60.0,
+      "fatia_pct": 9.63,
+      "fontes_distintas": 15
     },
     {
       "termo": "Flávio",
-      "peso_relativo": 58.1,
-      "fatia_pct": 11.1,
+      "peso_relativo": 56.7,
+      "fatia_pct": 9.09,
       "fontes_distintas": 13
     },
     {
       "termo": "Flávio Bolsonaro",
-      "peso_relativo": 58.1,
-      "fatia_pct": 11.1,
+      "peso_relativo": 56.7,
+      "fatia_pct": 9.09,
       "fontes_distintas": 13
     },
     {
       "termo": "Lula",
-      "peso_relativo": 43.5,
-      "fatia_pct": 8.33,
+      "peso_relativo": 33.3,
+      "fatia_pct": 5.35,
       "fontes_distintas": 9
-    },
-    {
-      "termo": "Raquel",
-      "peso_relativo": 41.9,
-      "fatia_pct": 8.02,
-      "fontes_distintas": 11
-    },
-    {
-      "termo": "Alepe",
-      "peso_relativo": 41.9,
-      "fatia_pct": 8.02,
-      "fontes_distintas": 12
-    },
-    {
-      "termo": "Lyra",
-      "peso_relativo": 38.7,
-      "fatia_pct": 7.4,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "Raquel Lyra",
-      "peso_relativo": 38.7,
-      "fatia_pct": 7.4,
-      "fontes_distintas": 10
-    },
-    {
-      "termo": "Cleitinho",
-      "peso_relativo": 32.6,
-      "fatia_pct": 6.23,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Michelle",
-      "peso_relativo": 32.3,
-      "fatia_pct": 6.17,
-      "fontes_distintas": 9
-    },
-    {
-      "termo": "João",
-      "peso_relativo": 29.0,
-      "fatia_pct": 5.55,
-      "fontes_distintas": 7
     },
     {
       "termo": "Trabuco",
-      "peso_relativo": 23.9,
-      "fatia_pct": 4.57,
-      "fontes_distintas": 3
+      "peso_relativo": 31.3,
+      "fatia_pct": 5.03,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "João",
+      "peso_relativo": 30.0,
+      "fatia_pct": 4.81,
+      "fontes_distintas": 7
+    },
+    {
+      "termo": "deputadas estaduais",
+      "peso_relativo": 23.3,
+      "fatia_pct": 3.74,
+      "fontes_distintas": 7
     },
     {
       "termo": "Campos",
-      "peso_relativo": 22.6,
-      "fatia_pct": 4.32,
-      "fontes_distintas": 6
-    },
-    {
-      "termo": "milhões em emendas",
-      "peso_relativo": 22.6,
-      "fatia_pct": 4.32,
+      "peso_relativo": 23.3,
+      "fatia_pct": 3.74,
       "fontes_distintas": 6
     },
     {
       "termo": "João Campos",
-      "peso_relativo": 19.4,
-      "fatia_pct": 3.7,
+      "peso_relativo": 20.0,
+      "fatia_pct": 3.21,
       "fontes_distintas": 6
     },
     {
-      "termo": "Manaus",
-      "peso_relativo": 18.4,
-      "fatia_pct": 3.52,
+      "termo": "Cuida",
+      "peso_relativo": 20.0,
+      "fatia_pct": 3.21,
       "fontes_distintas": 1
     },
     {
-      "termo": "mesa diretora",
-      "peso_relativo": 16.1,
-      "fatia_pct": 3.08,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Deputadas",
-      "peso_relativo": 16.1,
-      "fatia_pct": 3.08,
-      "fontes_distintas": 5
-    },
-    {
-      "termo": "Thanksgiving",
-      "peso_relativo": 15.5,
-      "fatia_pct": 2.96,
+      "termo": "Ama Cuida",
+      "peso_relativo": 20.0,
+      "fatia_pct": 3.21,
       "fontes_distintas": 1
     },
     {
       "termo": "Bradesco",
-      "peso_relativo": 14.5,
-      "fatia_pct": 2.78,
-      "fontes_distintas": 1
+      "peso_relativo": 19.3,
+      "fatia_pct": 3.1,
+      "fontes_distintas": 2
     },
     {
-      "termo": "Caleb",
-      "peso_relativo": 13.5,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Williams",
-      "peso_relativo": 13.5,
-      "fatia_pct": 2.59,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Caleb Williams",
-      "peso_relativo": 13.5,
-      "fatia_pct": 2.59,
+      "termo": "Chiefs",
+      "peso_relativo": 17.0,
+      "fatia_pct": 2.73,
       "fontes_distintas": 1
     },
     {
       "termo": "Londres",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "governadora Raquel",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
       "fontes_distintas": 4
     },
     {
+      "termo": "governadora Raquel Lyra",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "ameaças contra deputadas",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "ameaças de morte",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "mesa diretora",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Michelle",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "milhões em emendas",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Deputadas",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Dani",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Portela",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Dani Portela",
+      "peso_relativo": 16.7,
+      "fatia_pct": 2.67,
+      "fontes_distintas": 5
+    },
+    {
+      "termo": "Lounge",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Blogueiras",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Lounge Das Blogueiras",
+      "peso_relativo": 15.0,
+      "fatia_pct": 2.41,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Josh",
+      "peso_relativo": 14.0,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Allen",
+      "peso_relativo": 14.0,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "Josh Allen",
+      "peso_relativo": 14.0,
+      "fatia_pct": 2.25,
+      "fontes_distintas": 1
+    },
+    {
+      "termo": "após ameaças",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "Cinco deputadas",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 3
+    },
+    {
       "termo": "combate à violência",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
+    },
+    {
+      "termo": "determina investigação",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
       "fontes_distintas": 4
     },
     {
       "termo": "Base",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
       "fontes_distintas": 4
     },
     {
-      "termo": "Bolsonaro indica",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "indica R",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Flávio Bolsonaro indica",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Bolsonaro indica R",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Senado",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "salário e verbas",
-      "peso_relativo": 12.9,
-      "fatia_pct": 2.47,
-      "fontes_distintas": 4
-    },
-    {
-      "termo": "Tolok",
-      "peso_relativo": 11.6,
-      "fatia_pct": 2.22,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "Furia",
-      "peso_relativo": 10.6,
-      "fatia_pct": 2.04,
-      "fontes_distintas": 1
-    },
-    {
-      "termo": "polícia de Londres",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
+      "termo": "melhora clínica",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
       "fontes_distintas": 3
     },
     {
-      "termo": "governadora Raquel",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "governadora Raquel Lyra",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "TCE",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "Base do Governo",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "dieta de Bolsonaro",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
+      "termo": "previsão de alta",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
       "fontes_distintas": 3
     },
     {
       "termo": "Deputada",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "manter salário",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
-    },
-    {
-      "termo": "verbas de Flávio",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
     },
     {
       "termo": "recebem ameaças",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
     },
     {
-      "termo": "ameaças de morte",
-      "peso_relativo": 9.7,
-      "fatia_pct": 1.85,
-      "fontes_distintas": 3
+      "termo": "ameaça de morte",
+      "peso_relativo": 13.3,
+      "fatia_pct": 2.14,
+      "fontes_distintas": 4
     }
   ]
 }
